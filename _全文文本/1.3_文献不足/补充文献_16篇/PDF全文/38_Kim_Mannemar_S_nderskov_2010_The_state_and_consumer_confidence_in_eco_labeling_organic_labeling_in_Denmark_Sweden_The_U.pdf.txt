@@ -1,0 +1,722 @@
+SOURCE_PDF: 1.3_文献不足/补充文献_16篇/PDF全文/38_Kim_Mannemar_S_nderskov_2010_The_state_and_consumer_confidence_in_eco_labeling_organic_labeling_in_Denmark_Sweden_The_U.pdf
+EXTRACTION_STATUS: ok
+PAGES: 11
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+Agric Hum Values (2011) 28:507–517
+DOI 10.1007/s10460-010-9295-5
+
+
+
+
+The state and consumer confidence in eco-labeling:
+organic labeling in Denmark, Sweden, The United Kingdom
+and The United States
+Kim Mannemar Sønderskov • Carsten Daugbjerg
+
+
+
+
+Accepted: 16 September 2010 / Published online: 11 November 2010
+Ó Springer Science+Business Media B.V. 2010
+
+
+Abstract Trustworthy eco-labels provide consumers with             and environmentally friendly products (Mol and Spaarga-
+valuable information on environmentally friendly products          ren 2000; Seyfang 2005). However, at least three condi-
+and thus promote green consumerism. But what makes an              tions must be met before green consumerism will become
+eco-label trustworthy and what can government do to                widespread. First, consumers must have a fairly high level
+increase consumer confidence? The scant existing literature        of environmental awareness before they consciously start
+indicates that low governmental involvement increases              buying green products. Second, they must be willing to act
+confidence. This suggests that government should just              pro-environmentally when making individual purchasing
+provide the basic legal framework for eco-labeling and             decisions, because green products are often more expensive
+leave the rest to non-governmental organizations. How-             than conventional products. Third, because of this price
+ever, the empirical underpinning of this conclusion is             premium, consumers must also possess sufficient infor-
+insufficient. This paper analyses consumer confidence in           mation to ensure them that a good claiming to be envi-
+different organic food labeling regimes with varying               ronmentally friendly actually fulfils this promise (Carter
+degrees of governmental involvement. Using unique and              2007, p. 232; Jordan et al. 2004, p. 163; Gertz 2005).
+detailed survey data from the US, United Kingdom, Den-                 While the institutional and attitudinal requisites for
+mark, and Sweden, the analysis shows that confidence is            increasing environmental awareness and motivating
+highest in countries with substantial state involvement.           pro-environmental behavior have already been estab-
+This suggests that governments can increase green con-             lished in the literature (e.g., Inglehart 1997; Lubell 2002;
+sumerism through active and substantial involvement in             Sønderskov 2008b), the question of credible information
+eco-labeling.                                                      about products claiming to be produced in an environ-
+                                                                   mentally friendly way is under-researched. This paper
+Keywords Eco-labeling  Consumer confidence                       addresses this issue, focusing on what governments can do
+Organic food  Ordered logistic regression                         to advance the supply of credible information on green
+                                                                   products and consequently advance green consumerism.
+                                                                   Eco-labeling, the labeling of environmentally friendly
+Introduction                                                       products, has been recognized as an effective way to
+                                                                   provide easily accessible information (Lohr 1998), but the
+The vision of a green economy, as articulated by political         extent to which eco-labels increase green consumption is
+leaders on both sides of the Atlantic Ocean as well as in the      highly dependent on their trustworthiness. Thus, a central
+literature on ecological modernization, relies on the              question is how to ensure trustworthy labels, and in this
+assumption that consumers will actually demand climate             study we explore to what extent government engagement
+                                                                   in eco-labeling impacts on consumers’ confidence in such
+                                                                   schemes.
+K. M. Sønderskov (&)  C. Daugbjerg
+                                                                       The issue of trustworthiness figures prominently in the
+Department of Political Science, Aarhus University, Bartholins
+Allé 7, 8000 Aarhus C, Denmark                                    literature on eco-labeling (e.g., Boström 2006a; Boström
+e-mail: ks@ps.au.dk                                                and Klintman 2008; Nilsson et al. 2004; Thøgersen 2000),
+
+
+                                                                                                                     123
+
+===== PAGE 2 =====
+508                                                                                                K. M. Sønderskov, C. Daugbjerg
+
+
+but very little attention has been paid to actual consumer      organic labeling schemes in the four countries. The balance
+confidence in the labeling schemes. Existing studies are        of the paper compares the level of consumer confidence,
+more concerned with analyzing the way labeling and              accounts for the research methods applied to establish the
+standard setting processes, in particular inclusiveness,        impact of government involvement on consumer confi-
+affect trust in the labeling scheme. Rather than establishing   dence and undertakes a regression analysis to explain the
+consumer confidence directly, these studies use stakeholder     observed cross-national pattern, considering a number of
+organizations’ inclusiveness as an indicator for trust in the   alternative explanations. The last section concludes and
+labeling scheme (e.g., Nilsson et al. 2004; Boström 2006b;     attempts to distil the lessons learned for policy makers.
+Boström and Klintman 2008). Clearly, the involvement of
+stakeholder organizations is important in generating con-
+sumer confidence in labeling schemes, but consumers may         Theoretical considerations on third party verification
+also be affected by the labeling scheme itself and a number     and consumer confidence
+of other factors. Therefore there is a need to establish
+directly how consumer confidence is affected by various         Green consumption is often associated with higher con-
+types of eco-labeling schemes. In relation to the discussion    sumer prices and information asymmetry between pro-
+of the role of the state in the green economy a question of     ducers, retailers, and consumers. In most cases, it is
+particular interest is how different degrees of governmental    impossible to tell by appearance if a product has been
+involvement in eco-labeling actually affect consumer            produced in an environmentally friendly way, even after
+confidence. A few studies have addressed consumer con-          purchase. Producers and/or retailers who exploit the
+fidence and the role of government, but not in any detail       information asymmetry and provide false information
+(e.g., Boström and Klintman 2006). In studies by Gertz         about their products can increase profit and/or sell their
+(2005) and by Ward et al. (2004) consumers were asked           products at a lower price than honest competitors. Without
+which type of certification and labeling body (govern-          an institutional set-up that can guarantee to consumers that
+mental or private) they would trust most in handling an         producers are complying with certain environmental pro-
+eco-labeling scheme. These analyses found that consumers        duction standards, prospective green consumers face a
+preferred environmental or consumer organizations over          problem of adverse selection. Without credible and easily
+governmental organizations. However, respondents were           accessible information, supply of true environmentally
+asked to choose between hypothetical alternatives that they     friendly goods will be at lower levels than otherwise, which
+had not necessarily experienced.                                hampers green consumerism—as in Akerlof’s classic
+   Thus, very little thorough research exists on how the        example from the used car market (Akerlof 1970; Caswell
+design of eco-labeling schemes affects consumer confi-          and Mojduszka 1996).
+dence. This issue is crucial in designing schemes that have         Eco-labeling is a way to provide consumers with cred-
+the potential to contribute to the emergence of a green         ible and easily accessible information on the environmental
+economy. Hence, this study compares the level of con-           attributes of a product. Eco-labeling is based upon ‘‘stan-
+sumer confidence in different existing schemes rather than      dardization of principles and prescriptive criteria’’ (Bos-
+hypothetical ones to generate insights into the factors that    tröm and Klintman 2008, p. 28) for environmentally
+affect consumer confidence in eco-labeling. As our case,        friendly products and serves the purpose of differentiating
+we compare confidence in organic food labels in Sweden,         the product from other products and of ensuring consumers
+Denmark, the UK, and the US. These countries were               that a product is produced in accordance with the stan-
+chosen because they operate certification and labeling          dards. Under eco-labeling schemes producers are usually,
+systems with varying degrees of governmental involve-           but not always, licensed by an independent third party that
+ment. Based on a cross-national survey designed for this        also audits whether producers comply with the standards
+purpose, we explore how varying degrees of governmental         laid down by the labeling scheme (Jordan et al. 2005,
+involvement affect confidence, while controlling for sev-       p. 482; Boström and Klintman 2008, p. 28).1 This third
+eral alternate explanations. In contrast to the few previous    party can be a private organization or in some instances a
+studies, our analysis shows that schemes relying on heavy       state agency. State engagement in eco-labeling is most
+governmental involvement attract more confidence than           intensive where the state sets the standards, certifies
+schemes with less state involvement.                            products and producers, and very marginal when these
+   The paper proceeds as follows: the following section
+reviews the sparse literature on the role of government in      1
+                                                                  However, there are also eco-labelling schemes with second and first
+eco-labeling and discusses two alternate views on the
+                                                                party certification. The labelling scheme is organized by an industry
+effects of governmental involvement on consumer confi-          association in the former and by the producer in the latter (Boström
+dence. The subsequent empirical section outlines the            2006a, p. 141).
+
+
+123
+
+===== PAGE 3 =====
+The state and consumer confidence in eco-labeling                                                                         509
+
+
+functions are left to private organizations. In the latter       Boström and Klintman (2006) compare the American state-
+situation, the minimal role of the state is to recognize the     centred scheme with the Swedish scheme and conclude that
+label, or at least not reject it (see Hysing 2009). This rec-    the Swedish scheme attracts more consumer confidence
+ognition can, for instance, be demonstrated in the govern-       because of substantial involvement of non-governmental
+ment’s purchasing decisions. The state may also play a           organizations in Sweden. However, they do not consider
+more indirect role as standard setter and authorizer of          alternate explanations for the varying levels of consumer
+private certification and inspection bodies.                     confidence. Gertz (2005) reports lower consumer confi-
+   Some degree of state support is important for the             dence in government labels in Europe, while Ward et al.
+broader legitimacy of labeling schemes and the trust of          (2004) cannot find lower confidence in government labels
+consumers, but it is not evident in the eco-labeling litera-     among Americans (in Utah). Despite limited research on
+ture to what extent the state should become involved to          this matter, the sparse evidence seems to suggest that
+optimize legitimacy and trust. This question links up with a     labeling should be handled by independent organizations
+broader discussion in the literature on environmental gov-       rather than the state.
+ernance about the extent to which state involvement is              In sum, to establish the optimal role of the state in eco-
+required in the successful application of new environ-           labeling more research is needed and therefore this article
+mental policy instruments (NEPIs), of which eco-labeling         explores the issue. Taking organic food labeling as an
+is one example. For instance Jordan et al. (2005) find that      example, we analyze whether substantial state engagement
+NEPIs are rarely applied without some sort of state              in eco-labeling affects consumer confidence. At first sight,
+involvement. Focusing on eco-labeling Boström (2006a,           consumption of organic food may not be the most obvious
+p. 153) shares this view, arguing that:                          example of green consumerism, because the environmental
+                                                                 impact of organic farming is still debated (particularly
+   Any type of regulation and governance relies on
+                                                                 outside Europe) and because consumers also buy organic
+   legitimacy, but new regulatory arrangements that are
+                                                                 produce for other reasons than environmental (health,
+   built on non-state horizontal relationships have
+                                                                 quality, etc.). Nevertheless organic consumers face the
+   structural drawback. They cannot rely on traditional
+                                                                 same dilemma as other green consumers. Usually, organic
+   enforcement capacities and they have, by definition,
+                                                                 foods are significantly more expensive than conventional
+   cut themselves off from the political system of rep-
+                                                                 foods and it is difficult for individual consumers to verify
+   resentative democracy which have long been
+                                                                 whether products claiming to be organic actually are
+   assumed to be the ultimate source of policy- and rule-
+                                                                 organically grown; they cannot easily be distinguished
+   making legitimacy and authority.
+                                                                 from conventional foods by appearance and it is difficult
+   As for a fairly complicated issue like green production,      for consumers to monitor the production process.
+people may be more inclined to trust information provided           Governments have engaged differently in organic
+by government institutions than by private organizations.        labeling systems are organized in various ways across
+They may believe that the former possess higher expertise        countries. This makes organic labeling particularly well
+on the issue than the latter because information about           suited for exploring how the extent of government
+environmental and public health issues is usually provided       engagement impacts on consumer confidence. Hence,
+by government institutions. Further, a government labeling       labeling of organic foods is an excellent case when
+scheme is likely to have access to government financial          exploring the impact of state involvement, and there are
+resources to promote the label because failure is likely to      good reasons to believe that our finding would be relevant
+affect the more general reputation of the agency adminis-        to other eco-labeling schemes.
+tering the scheme. Though government can subsidize pri-
+vate labeling schemes, it is unlikely that they be financially
+privileged to the same extent. Accordingly, it has been          Organic labeling systems in four countries
+suggested that the state’s takeover of organic labeling in
+Denmark successfully increased consumer confidence               The United States, United Kingdom, Sweden, and Denmark
+(e.g., Hofer 2000).                                              apply different certification and labeling systems. We can
+   However, there are factors pulling in the contrary            distinguish among four different eco-labeling systems that
+direction, suggesting a minimal role for the state in eco-       vary significantly on three dimensions: the degree of state
+labeling. For instance, Boström and Klintman (2006) and         engagement, the number of certifiers, and the number of
+Lilliston and Cummins (1998) argue that the involvement          labels. In all four countries, governments have set baseline
+of the United States Department of Agriculture (USDA)            standards for organic, but private organic certifiers are
+may have watered down the US state organic standards and         allowed to apply higher standards as long as they comply
+triggered skepticism within the organic movement.                with all baseline standards. In the three European countries,
+
+
+                                                                                                                   123
+
+===== PAGE 4 =====
+510                                                                                                      K. M. Sønderskov, C. Daugbjerg
+
+
+national standards must comply with EU standards. Though            where it has a monopoly on certification and, in practice,
+not similar, EU and US organic standards are not markedly           on labeling. The labeling schemes are summarized in
+different, which is indicated by the fact that approximately        Table 1.
+18 EU based certification bodies are accredited by the US              If heavy state involvement increases consumer confi-
+Department of Agriculture. Since 2002, the US certification         dence we would expect much higher consumer confidence
+and labeling system has relied on a number of private cer-          in Denmark compared to the other countries. If, on the
+tifiers, but they must be accredited by the US Department of        other hand, private certification attracts confidence, the
+Agriculture. Certifiers license producers and their certifi-        opposite pattern should be observed. Besides the level of
+cation warrants the use of the USDA organic label, but other        involvement, some scholars argue that the number of labels
+labels may also be used (Agricultural Marketing Service             affects consumer confidence. Several labels create confu-
+2003: Subpart D). In the UK, the state is also the ‘‘certifier of   sion and uncertainty, which erodes credibility (Hamm and
+the certifiers’’ and thus leaves certification and labeling to      Michelsen 1996; Environmental Protection Agency 1998,
+private bodies. But in contrast to the US scheme, no gov-           p. 55). If this is the case, the British scheme should attract
+ernment label exists; each certifier has its own label. The         the lowest level of confidence, while the other should be at
+Soil Association is the dominant certification body in the          par.
+UK, certifying and labeling over 80% of all organic food
+being sold in the UK, but there are other labels as well (e.g.,
+Organic Growers’ Association and Organic Food Federa-               Research design
+tion). In most cases, the private certifiers have stricter and/or
+additional requirements compared to government regulation           Obviously, other factors besides labeling scheme can affect
+(Department for Environment, Food, and Rural Affairs                confidence across countries. Cross-national differences
+2010). In Sweden the non-governmental KRAV label is                 may not be due to the labeling scheme at all, but instead to
+very dominant, labeling approximate 95% of all food sold in         country-level variation in beliefs, attitudes, etc. For
+Sweden (personal correspondence KRAV, August 2009).                 instance, the Danes and Swedes are among the most
+KRAV certification and inspection of producers, processors,         trusting people in the world (Delhey and Newton 2005;
+and retailers is undertaken by four private certification           Hudson 2006; Sønderskov 2008a) and they have relatively
+bodies (KRAV 2010). KRAV is a state accredited label that           high levels of environmental concern (Inglehart 1995).
+complies with EU organic rules, but some KRAV’s                     Thus to establish the extent to which state involvement
+requirements are stricter than the EU rules. Organic farmers        affects consumer confidence, we need to control for other
+are not required to be KRAV certified to receive govern-            relevant factors. We analyze the level of label confidence
+ment subsidies for organic farming as long as they comply           in the four countries while holding a range of relevant
+with the EU’s rules for organic farming, but KRAV certi-            alternative explanations constant using survey data from
+fication is needed to market produce as organic through             the COP-survey, a self-administered web survey with
+commercial sales channels. In Denmark, the state operates           participants recruited from standing panels. It consists of
+the certification and labeling system. Imported foods can be        representative samples (on various demographic parame-
+labeled with other labels, but the state label is practically the   ters) of approximately 1,000 respondents from the UK, the
+sole national organic label and only state-certified farms are      US, Denmark, and Sweden and contains measures on
+allowed to market organically labeled products and receive          confidence in organic labels as well as several possible
+state support. Imported food labeled with foreign labels            control variables.2
+must comply with the EU’s rules for organic farming                    Using these survey data, we regress label confidence on
+(Fødevarestyrelsen 2010).                                           country of residence, while controlling for variations in
+    In sum, the Swedish scheme is run by a government-              beliefs, attitudes, etc. By controlling for these alternate
+authorized private certifier, who has obtained near-                explanations, the remaining partial effect of country of
+monopoly status with its own label and requirements. In the         residence denotes the differences in confidence that can be
+UK the situation is fairly similar. The Soil Association has        ascribed to country-level differences in labeling schemes.
+been licensed to certify but has not obtained dominance on
+labeling to the same as extent as KRAV in Sweden.                   2
+                                                                      Only respondents not living with their parents (or grandparents) are
+Though the Swedish and UK governments control who is                sampled to ensure that the respondents occasionally shop food. The
+authorized to certify, their role in certification is not           response rate varies between 39 and 57% across countries. Although
+directly visible to consumers. In the US government                 this is rather low, there is no particular reason to expect sampling bias
+                                                                    as non-responders did not know the topic before refusing to
+involvement in organic certification is more visible because
+                                                                    participate. The fieldwork was conducted by AC Nielsen and Survey
+a state label as been established which private certifiers can      Sampling International in April/May 2008. The codebook is available
+use. However, the state plays the largest role in Denmark,          upon request.
+
+
+123
+
+===== PAGE 5 =====
+The state and consumer confidence in eco-labeling                                                                                                511
+
+
+Table 1 Organic labeling schemes in Sweden, UK, US and Denmark
+                The role of the state                           Number of certifiers                Effective number                 Level of state
+                in certification                                                                    of labels                        involvement
+
+Sweden          Certifies the private certifiers, but private   4 (certify for KRAV and EU)         1 (KRAV)                         Low
+                 body has additional rules
+United          Certifies the private certifiers, but private   Approx. 10 (but Soil                Approx 10 (but SA’s label        Low
+ Kingdom         bodies have additional rules                    association dominates)              dominates)
+USA             Certifies the private certifiers                Approx. 50                          State label dominates            Low-medium
+Denmark         Certifies producers directly                    1 (state)                           1 (state)                        Very high
+
+
+   In order to estimate the partial level of confidence, all                 much at the country level (see Table 2). This implies that
+relevant explanations need to be included in the analysis.                   they probably do not explain cross-national variation in
+This is not straightforward, as, to our knowledge, no pre-                   confidence, but for the sake of comprehensiveness we
+vious studies identify the individual level determinants of                  include them in the analysis.
+labeling confidence. This implies that a complete list of                        The second type of variables, measures of trust as a
+relevant explanations does not exist. Instead we will draw                   generalized phenomenon, certainly varies between coun-
+on the literature that deals with the determinants of trust in               tries. Several studies have shown that Danes and Swedes
+general and we will include other obvious explanations as                    are among the most trusting people in the world, having
+well. Four types of explanations are included: social                        high levels of trust in other people and, more importantly,
+background variables, two forms of generalized trust,                        in institutions like courts and the government (cf. above).
+environmental values, and finally level of organic food                      This is also the case in our data (see Table 2). This gen-
+consumption.                                                                 eralized confidence may very well spill over into confi-
+   Gender, age, educational level, residential characteris-                  dence in labels. We include two measures of such
+tics (rural vs. urban), country of origin (immigrant vs.                     generalized confidence: generalized social trust and gen-
+native), and children in household are included as social                    eralized institutional trust. Generalized social trust is the
+background variables. Gender and age are standard con-                       belief that most people are trustworthy. While we do not
+trols and we have no expectations about their effect.3 We                    expect trust in other people to affect trust in labels per se,
+expect that the lower educated and the rural population in                   we include it to capture people’s basic propensity to trust
+general are more skeptical about public or private policy                    and their general level of optimism (Uslaner 2002), which
+schemes which can be denoted centralist or elitist in nature.                very well may affect label confidence. Furthermore, social
+Education has also been found to affect trust in other                       trust is also related to beliefs about safetyness of food in
+people (but not always in governmental institutions), which
+also suggests a positive effect of education on confidence
+                                                                             Table 2 Descriptive statistics for independent variables, total and by
+(Uslaner 2002: Chaps. 4–5; Hudson 2006). Likewise, we                        country
+expect immigrants to have less trust in labels because of
+unfamiliarity with organic food and/or the specific labeling                                                    Share/mean
+system. Immigrants (and other minorities) have also pre-                                                        Total Denmark Sweden UK       US
+viously been found to have less trust in other people and
+                                                                             Gender (female)                    0.52   0.52   0.52      0.51 0.52
+institutions (Uslaner 2002, Chaps. 4–5). In regard to chil-
+                                                                             Age                                45     45     43        46    46
+dren in the household, families with children can be
+                                                                             Educational level                  0.63   0.63   0.69      0.62 0.75
+expected to be more concerned about pesticides and health
+                                                                             Residential area (town/city)       0.68   0.69   0.76      0.63 0.65
+issues than the average consumer, implying that they
+                                                                             Native to country (yes)            0.94   0.96   0.94      0.91 0.93
+probably are more likely not only to consume more organic
+                                                                             Children living at home (yes) 0.39        0.37   0.42      0.37 0.39
+food but also to have more confidence in organic labeling.
+Note, however, that these background variables do not vary                   Generalized institutional trust 0.53      0.68   0.51      0.42 0.47
+                                                                             Generalized social trust           0.58   0.68   0.59      0.51 0.52
+                                                                             Environmental values
+3
+  Income is also a standard social background explanation. However,
+                                                                              Materialist                       0.32   0.18   0.16      0.47 0.51
+quite a few respondents did not reveal their income, which implies
+that including income will reduce the sample size. We have estimated          Mixed                             0.57   0.69   0.68      0.47 0.43
+models that include income and its effect is insignificant and does not       Postmaterialist                   0.11   0.13   0.16      0.06 0.06
+change the effect of country of residence. Moreover, it is not obvious       Organic consumption                0.29   0.35   0.27      0.26 0.26
+that income should affect confidence. On that basis we do not include
+income in the models reported below.                                         Source COP survey
+
+
+                                                                                                                                       123
+
+===== PAGE 6 =====
+512                                                                                                              K. M. Sønderskov, C. Daugbjerg
+
+
+general (Kjærnes et al. 2007, p. 84). Generalized institu-                  except for age, are scaled from 0 to 1 to make it (somewhat)
+tional trust, on the other hand, is expected to affect labeling             easier to compare effects.
+trust directly. It reflects people’s trust in the formal insti-                To measure the dependent variable, labeling confidence,
+tutions and rules that regulate their lives. Moreover, gen-                 the respondents were given the following statement: ‘‘You
+eralized institutional trust is strongly affected by corruption             can trust that products marketed as organic actually are
+(Uslaner 2008). Both corruption and low trust in institu-                   organic in the majority of cases’’ and asked to evaluate it
+tions in general are very likely to affect trust in eco-                    on a 5-point Likert scale from ‘‘completely disagree’’ to
+labeling schemes.                                                           ‘‘completely agree.
+   The third type of variables included is environmental
+awareness, measured with postmaterial value orientation
+(cf. Inglehart 1997). People who hold green attitudes are                   Explaining variation in consumer confidence
+probably more likely to have positive opinions about eco-
+labels.                                                                     The first evidence on the effect of state involvement in
+   The final variable is a measure of organic food con-                     organic labeling system is found in Table 4, which shows
+sumption. While the causality most likely solely goes from                  consumer confidence in products claiming to be organic.
+trust to consumption, it could be that heavy consumers of                       Before going into the cross-country differences, it is
+organic food in part choose to trust labels to legitimize their             worth noticing that the level of confidence in organic labels
+decisions (Sønderskov 2009). Previous studies show that                     is quite high. More than 50% of the respondents agree or
+Danes on average consume far more organic foods than                        completely agree that organic labels are trustworthy in each
+residents in the other countries (Daugbjerg and Sønderskov,                 country. Apparently, a majority of consumers possess at
+forthcoming; Sønderskov 2009; see also Table 2). To rule                    least one of the prerequisites for green consumerism, but
+out the possibility that cross-national differences are caused              there are noteworthy cross-country differences. This indi-
+by differences in consumption, we estimate a model that                     cates that some labeling schemes appear more trustworthy
+includes level of consumption as predictor. Descriptive                     than others and that there is room for improvements in
+statistics for all variables are reported in Table 2, and                   some countries. Far more people in Denmark agree com-
+details on wording and/or coding for each independent                       pletely with the statement than people in the other coun-
+variable are found in Table 3. All independent variables,                   tries. In fact, Danes express a significantly higher degree of
+
+
+
+Table 3 Measurement of the independent variables
+Variable                  Details
+
+Country of residence      Denmark, Sweden, UK, US
+Gender                    Dummy variable; 1 = female
+Age                       Age in years
+Education                 Originally 9–12 ordered categories depending on country*; Rescaled 0–1; 1 = Highly educated
+Residential area          Dummy; 1 = respondent is living in a city of more than 50,000 inhabitants
+Country of origin         Dummy; 1 = Native
+Children in household     Dummy; 1 = one or more children (under age 20) living in household
+Generalized institutional Scale based on five items: ‘‘How much do you personally trust each of the following institutions?: the legal system,
+ trust                     Congress**, the police, the civil services, the government.’’ All answers on 11-point scales; the final scale is rescaled
+                           from 0 to 1; 1 = high trust. Cronbach’s alpha = 0.90
+Generalized social trust Scale based on three items: ‘‘Generally speaking, would you say that most people can be trusted, or that you can’t be
+                          too careful in dealing with people?’’; ‘‘Do you think that most people would try to take advantage of you if they got
+                          the chance, or would they try to be fair?’’; ‘‘Would you say that most of the time people try to be helpful or that they
+                          are mostly looking out for themselves?’’ All answers on 11-point scales. The final scale is rescaled from 0 to 1;
+                          1 = high trust. Cronbach’s alpha = 0.84
+Environmental values      Three categories: Materialist, mixed, postmaterialist. Based on the four item postmaterialism battery (Inglehart 1997,
+                           Ch. 4); Postmaterialist = strong environmental values
+Organic consumption       Index based on three items: ‘‘Think about your shopping in the past 6 months: How large a share of your consumption
+                            has been organic within the following food groups? Dairy products; Fruit and vegetables; Meat.’’ All answers on 5-
+                            point scales. The final index is rescaled from 0 to 1; 1 = high consumption.
+* The categories are the same as in the General Social Survey (US), European Social Survey (DK?SE), and European Values Study (UK)
+** The wording varies between countries but is equivalent; the codebook is available on request
+
+
+123
+
+===== PAGE 7 =====
+The state and consumer confidence in eco-labeling                                                                                  513
+
+
+Table 4 Trust in organic food labeling in Denmark, Sweden, UK, and US
+You can trust that products marketed as organic actually are   Denmark (%)        Sweden (%)      UK (%)       US (%)      Total (%)
+organic in the majority of cases
+
+Completely disagree                                            2.0                3.7             4.5          5.0         3.8
+Disagree                                                       7.9                17.9            15.9         17.4        14.8
+Neither agree nor disagree                                     8.5                20.0            25.2         23.3        19.2
+Agree                                                          45.9               43.7            43.2         45.1        44.5
+Completely agree                                               35.7               14.7            11.2         9.3         17.8
+Total                                                          100.0              100.0           100.0        100.0       100.0
+N                                                              973                971             985          929         3,858
+Source COP survey
+
+
+
+confidence compared to residents in all the other countries,           unknown, the interpretation of the size of the coefficient is
+while Swedes express slightly more confidence than the                 not straightforward. To ease interpretation, the predicted
+Americans and the British (cf. Model I in Table 5 below).              probability of answering ‘‘agree’’ or ‘‘completely agree’’ on
+Apparently, the Danish system attracts confidence, which               the observed ordered dependent variable is reported for
+supports a state-centred approach to eco-labeling; Denmark             each country in addition to the coefficient. Obviously, the
+has by far the largest level of state involvement and also             predicted probability is affected by the level of the other
+the highest level of confidence.                                       variables in the model. The calculation of the predicted
+   However, before jumping to conclusions and advising                 probability is performed by setting the control variables to
+policymakers to impose state controlled eco-labeling                   either their mean or to the most prevailing category.
+around the world, two issues must be addressed. First, the                The results of the analysis are shown in Tables 5 and 6.
+picture is not crystal clear. The Swedish system comes in              Model I in Table 5 corresponds to Table 4 above as it only
+second in regard to confidence, and the Swedish labeling               includes country of residence. Danish consumers are cho-
+scheme, together with the British, is the least state con-             sen as reference since the Danish labeling system is by far
+trolled system in our analysis. Thus, the superiority of the           the most state-centric. The coefficients and their t values
+state labeling system is not clear cut. Second, the cross-             show that Swedish, British, and US consumers express
+national differences might not be due to the labeling                  significantly lower levels of confidence than Danes. The
+scheme at all, but rather to country-level variation in                predicted probabilities in the second column tell the same
+beliefs, attitudes, etc. Perhaps, the higher confidence                story; Danes are much more likely to express confidence.
+among Nordic residents is simply a result of for example of            Since Danish consumers are the reference category, the
+higher environmental awareness or generalized trust, while             results do not show if differences exist between consumers
+the level of state involvement may not affect confidence.              of the other countries. Calculations show that Swedes have
+We address these concerns through further analysis of                  significantly more confidence than both the British
+alternate explanations.                                                (P \ 0.1) and the Americans (P \ 0.05). There is no sig-
+   The analysis is conducted using an ordered logistic                 nificant difference between British and American citizens
+regression because our measure of labeling confidence only             (cf. notes to Table 5).
+has five ordered categories and therefore cannot be                       The following models include the four types of indi-
+assumed to be metric. The ordered logistic regression is               vidual level explanations in sequence (according to their
+superior to OLS in such situations. It treats the observed             presumed causal order) to disclose which, if any, types of
+ordinal variable as a manifestation of a continuous, but               explanations explain the pattern in Model I. Although it is
+unobserved, underlying variable. Labeling confidence is                not the main focus of the analysis, this procedure also
+most likely continuous. Thus, a person’s true level of                 provides information on the determinants of labeling con-
+confidence is unobserved, but it is assumed that this level            fidence. The social background variables are included in
+affects her value on the observed ordinal variable.                    Model II. The overall picture does not change much when
+Although superior, interpretation is a bit more cumbersome             controlling for social background. This was expected
+in the ordered model. Sign, t, and P values have the same              because the social background variables do not vary much
+meaning as in OLS, and the obtained coefficients also                  across countries. Danish consumers still have far more
+signify the effect of a 1-unit increase in the independent             confidence than consumers in the other countries. How-
+variables on the dependent variable. However, since the                ever, Swedes are no longer more confident than the British,
+scale of the dependent variable is unobserved and hence                and the Americans have only slightly less confidence than
+
+
+                                                                                                                         123
+
+===== PAGE 8 =====
+514                                                                                                              K. M. Sønderskov, C. Daugbjerg
+
+
+Table 5 Predicting label confidence (ordered logit model)
+                                  Model I                                Model II                               Model III
+                                  Coefficient           P agree/         Coefficient (b)        P agree/        Coefficient           P agree/
+                                  (b)                   compl. agree                            compl. agree    (b)                   compl. agree
+
+Country of residence
+ Denmark                          Reference             0.83             Reference              0.85            Reference             0.80
+ Sweden                           -1.20*** (-13.68)     0.59             -1.28*** (-14.29)      0.62            -0.88*** (-9.44)      0.63
+ UK                               -1.35*** (-15.43)     0.55             -1.27*** (-14.04)      0.62            -0.65*** (-6.53)      0.68
+ US                               -1.41*** (-15.96)     0.54             -1.43*** (-15.70)      0.58            -0.85*** (-8.62)      0.63
+Gender (female)                                                          0.29*** (4.71)         (female)        0.27*** (4.42)        (female)
+Age                                                                      -0.02*** (-7.48)       (45)            -0.02*** (9.46)       (45)
+Education                                                                0.29** (2.50)          (0.66)          0.00 (0.17)           (0.66)
+Residential area (town/city)                                             0.15* (2.25)           (town/city)     0.11* (1.66)          (town/city)
+Country of origin (Native)                                               0.09 (0.72)            (yes)           0.14 (1.04)           (yes)
+Children in household (yes)                                              0.04 (0.63)            (no)            0.01 (0.17)           (no)
+Generalized institutional trust                                                                                 1.79*** (9.75)        (0.53)
+Generalized social trust                                                                                        1.28*** (7.12)        (0.58)
+N                                                       3,858                                   3,701                                 3,677
+McKelvey and Zavoina’s R2                               0.09                                    0.12                                  0.18
+The coefficient for Sweden is significantly higher than UK (P \ 0.1) and US (P \ 0.05) in Model I; the coefficient is significantly lower for US
+than Sweden and UK (P \ 0.1) in Model II; the coefficient for UK is significantly higher than US (P \ 0.05) and Sweden (P \ 0.01) in Model
+III
+b = logit coefficient (t values in parentheses); P agree/compl. agree is the predicted probability of answering ‘‘agree’’ or ‘‘completely agree’’ in
+each country holding other variables at the value specified in parentheses
+* P \ 0.1; ** P \ 0.05; *** P \ 0.01 (two-sided)
+
+
+British and Swedes. Apparently, the higher level of confi-                  people with postmaterial values have more confidence in
+dence among Swedes is not caused by the labeling scheme,                    labels, as expected, the cross-national pattern does not
+but rather by differences in social background. The pre-                    change. The final model includes self-reported level of
+dicted probabilities change somewhat in this model, but                     organic food consumption. As noted above, the direction of
+mainly because they are now calculated for a middle-aged                    causality is most likely or predominantly from confidence
+native female, etc. (cf. values in parentheses).                            to consumption, and not the other way as assumed in
+   Model III includes the measures of generalized trust.                    Model V. Thus, we should not put too much confidence in
+Both institutional and social trust have a large impact on                  the exact coefficients from this model. Nevertheless, it
+confidence. Such generalized trust apparently spills over                   shows that even if consumption affects confidence, then
+into trust in specific phenomena like eco-labels. The                       Danish consumers—all else being equal—still have sig-
+inclusion of the trust measures reduces the differences in                  nificantly higher confidence. Hence, the higher confidence
+confidence between Danes and residents of the other                         in the Danish label is not just an effect of higher
+countries, as indicated by the smaller coefficients. Never-                 consumption.
+theless, Danish consumers still exhibit significantly more                     In sum, the five models substantiate the pattern already
+confidence than those of the other countries. Interestingly,                found in Table 4, but it also reveals interesting new
+after taking differences in generalized forms of trust into                 knowledge. Like in Table 4, Danish consumers exhibit a
+account, the order of the remaining countries changes. UK                   great deal more confidence in organic food labels than
+consumers have significantly more confidence in organic                     consumers in the other countries in all models. Although
+labels than Swedes and Americans when trust is held                         the difference decreases a bit when controlling for indi-
+constant. Again, this tells us that the relative success of the             vidual level explanations, the difference is highly signifi-
+Swedish system has nothing to do with the labeling system                   cant and non-trivial. The predicted probability of
+itself, but instead is caused by high levels of trust within                expressing confidence is no less than 0.1 higher for Danish
+the Swedish population. We will return to this issue below.                 consumers in any model—and it is higher in most cases.
+   The inclusion of environmental values in Model IV does                   This tells us that the higher level of confidence in Denmark
+not change the picture that emerged in Model III. Although                  is not solely caused by the fact that Danes are more trusting
+
+
+123
+
+===== PAGE 9 =====
+The state and consumer confidence in eco-labeling                                                                                               515
+
+
+Table 6 Predicting label confidence (ordered logit model)
+                                       Model IV                                                   Model V
+                                       Coefficient (b)             P agree/compl. agree           Coefficient (b)             P agree/compl. agree
+
+Country of residence
+ Denmark                               Reference                   0.80                           Reference                   0.77
+ Sweden                                -0.88*** (-9.24)            0.62                           -0.78*** (-8.01)            0.61
+ UK                                    -0.68*** (-5.69)            0.68                           -0.49*** (-4.60)            0.67
+ US                                    -0.79*** (-7.73)            0.64                           -0.66*** (-6.09)            0.64
+Gender (female)                        0.29*** (4.56)              (female)                       0.28*** (4.42)              (female)
+Age                                    -0.02*** (-9.58)            (45)                           -0.03*** (9.84)             (45)
+Educational level                      -0.24 (0,34)                (0.66)                         -0.12 (-0.82)               (0.66)
+Residential area (town/city)           0.11* (1.68)                (town/city)                    0.07 (1.05)                 (town/city)
+Native to country (yes)                0.16 (1.20)                 (yes)                          0.28** (2.04)               (yes)
+Children living at home (yes)          0.00 (0.04)                 (no)                           0.01 (0.16)                 (no)
+Generalized institutional trust        1.85*** (9.91)              (0.53)                         1.89*** (9.66)              (0.53)
+Generalized social trust               1.21*** (6.61)              (0.58)                         1.16*** (6.09)              (0.58)
+Environmental values                                               (Mixed)                                                    (Mixed)
+ Materialist                           Reference                                                  Reference
+ Mixed                                 0.09 (1.28)                                                0.05 (0.70)
+ Postmaterialist                       0.46*** (3.96)                                             0.32*** (2.64)
+Organic consumption                                                                               1.28*** (10.92)             (0.29)
+N                                                                  3,604                                                      3,353
+                               2
+McKelvey and Zavoina’s R                                           0.18                                                       0.21
+The coefficient for UK is significantly higher than Sweden and US (P \ 0.01) in Model IV; The coefficient is significantly higher for UK than
+US (P \ 0.1) and Sweden (P \ 0.01) in Model V
+b = logit coefficient (t values in parentheses); P agree/compl. agree is the predicted probability of answering ‘‘agree’’ or ‘‘completely agree’’ in
+each country holding other variables at the value specified in parentheses
+* P \ 0.1; ** P \ 0.05; *** P \ 0.01 (two-sided)
+
+
+
+in general, nor is it a result of higher levels of environ-                   least in the short term—is that the political process in
+mental awareness, but a consequence of the state labeling                     which the US organic standards were agreed was contested
+system. This finding clearly supports the position that                       (Boström and Klintman 2006; Lilliston and Cummins
+significant state engagement in eco-labeling has an inde-                     1998). We do not have the data to verify this speculation,
+pendent positive effect on confidence.                                        but if true it can very well explain the unexpected differ-
+   Nevertheless, the evidence in support of a state labeling                  ence between the British and the American scheme. In
+scheme is not clear-cut in our analysis. With its state label,                sum, despite of the unexpected difference between the
+the US scheme is slightly more state centred than the                         British and the American citizens, our analysis suggests
+British and Swedish labeling schemes but Americans do                         that substantial state involvement increases confidence.
+not significantly surpass the Swedes and actually have less                      In addition to this finding, other interesting findings pop
+confidence than the British. We can dismiss that this has                     out of the models. By far, the two most important addi-
+anything to do with the number of labels. According to this                   tional predictors of label confidence are generalized social
+explanation, we should expect to find the lowest level of                     trust and especially generalized institutional trust. To
+confidence in the UK, but this is clearly not the case.                       explore the role of institutional trust further, we have re-
+Another explanation could be that state labeling does not                     estimated Model IV in each country (omitting the country
+affect confidence and that the results are caused by an                       variables; estimates not shown, available on request). It
+unobserved variable. A more plausible explanation is that                     could be that institutional trust only affects labeling con-
+the US labeling scheme was introduced recently, and that it                   fidence in countries relying on heavy state involvement.
+takes a while before consumers get accustomed to a new                        This is not the case, however; the effect of institutional
+scheme. An important factor that potentially may have                         trust is highly influential, significant, and about the same in
+impacted negatively on the confidence of consumers—at                         all countries. Hence, people’s perceptions of the formal
+
+
+                                                                                                                                         123
+
+===== PAGE 10 =====
+516                                                                                                K. M. Sønderskov, C. Daugbjerg
+
+
+institutions also affect their perception of non-state insti-     confidence in eco-labeling goes through education and
+tutions like labeling systems provided by private parties.        increased environmental awareness. Nor is this an easy fix,
+   Before moving on to discuss the implications of these          but perhaps a more achievable strategy than attempting to
+findings, we will dwell briefly on the effects of the other       increase trust in state institutions.
+variables. Since this study is the first to explore the indi-        Our results rest on data from four countries in one field
+vidual level determinants of labeling confidence, the results     of eco-labeling. Whether or not these findings can be
+deserve a few comments. Females and younger people                generalized to other countries and products, is obviously an
+express more confidence. Education also has some effect,          empirical question. Moreover, the study cannot predict the
+although it disappears in Model III and onwards. Most             consequences of abandoning one type of scheme and
+likely, the effect of education is mediated by both types of      switching to a state centred scheme. It could take several
+generalized trust and environmental values. The urban             years before confidence passes its pre-existing level. The
+population is slightly more confident, while immigrants do        unexpected underperformance of the American scheme,
+not hold lower confidence (except for in the final, but less      which rests on moderate state involvement, may indicate
+valid model). People with high levels of environmental            that it takes a while before state labeling takes effect, in
+awareness hold more confidence, as signified by the posi-         particularly if the process in which the standards were
+tive effect of postmaterial values. The same thing goes for       agreed was contested. Therefore, not only the design of the
+people with large consumption of organic foods, although          eco-labeling matters, but presumably also the way in which
+the latter result is uncertain due to simultaneity bias.          the design was brought about. Research by Boström and
+                                                                  Klintman (2006) suggests that stakeholder inclusiveness
+                                                                  and genuine consensus building are also important factors
+Conclusions                                                       in generating trust in eco-labeling schemes.
+                                                                     Our findings also suggest the state has a role to play in
+Green consumerism requires that the consumers can iden-           eco-labeling. This questions a key aspect of the literature
+tify true environmentally friendly goods, which can be            on ecological modernization which suggests that assigning
+obtained through reliable eco-labeling. This article has          responsibility for environmental governance to industry
+investigated the optimal role for governments who wish to         would lead to better environmental performance because it
+enhance green consumerism.                                        results in cooperative behavior and trust within industry.
+    Taking labeling of organic foods as our empirical case,       Our analysis demonstrates that even where a high degree
+the analyses compared the level of consumer confidence in         of trust exists among stakeholders, as in the Swedish
+existing organic labeling schemes. The analyses showed            organic sector, consumer confidence is not markedly
+that substantial state involvement increases consumer             higher than where mistrust exists, as in the US organic
+confidence. The results suggest that governments who wish         sector (Boström and Klintman 2006) and does not even
+to promote green consumerism should engage heavily in             come close to the high level in Denmark where the state is
+eco-labeling. Apparently, consumers are more likely to            sole organic certifier. Thus, there is ground for reconsid-
+trust labeling schemes where the state plays an active and        ering the role of government in greening the economy. As
+visible role. Although this finding is at odds with extant        suggested by MacKendrick (2005, p. 41) state leadership
+results, our conclusion rests on fairly solid empirical evi-      may be may be needed in all forms of environmental
+dence. Our study is the first of its kind to use cross-national   improvement.
+data that contains measures of confidence in existing
+schemes and the first to control for alternate explanations.      Acknowledgments The authors are grateful to Andrew Jordan, two
+                                                                  anonymous reviewers of this journal, and participants at the 60th
+    Other factors were also found to affect consumer con-         Annual Conference of the Political Studies Association for con-
+fidence. Citizens who have confidence in governmental             structive suggestions. The financial support of ICROFS (DARCOF
+institutions also have confidence in the labeling scheme.         III) is appreciated.
+Importantly, this finding also applies to citizens in coun-
+tries that do not rely on state labeling. This implies that
+                                                                  References
+countries, where citizens do not trust state institutions,
+cannot increase labeling confidence by relying on non-state       Agricultural Marketing Service. 2003. National organic program.
+labels. Most likely, the low level of institutional trust will        Washington, DC: US Department of agriculture. http://www.
+affect the perception of private labels as well. This suggests        ams.usda.gov/AMSv1.0/ams.fetchTemplateData.do?template=
+that delegation of eco-labeling to private bodies is no easy          TemplateF&navID=RegulationsNOPNationalOrganicProgram
+                                                                      Home&rightNav1=RegulationsNOPNationalOrganicProgram
+fix to problems of low institutional trust, only the formi-           Home&topNav=&leftNav=NationalOrganicProgram&page=
+dable task of improving citizens’ trust in state institutions         NOPRegulations&resultType=&acct=noprulemaking. Accessed
+will do the job. Another pathway to increasing consumer               26 Jan 2010.
+
+
+123
+
+===== PAGE 11 =====
+The state and consumer confidence in eco-labeling                                                                                             517
+
+Akerlof, G.A. 1970. The market for ‘‘lemons’’: Quality uncertainty      Kjærnes, U., M. Harvey, and A. Warde. 2007. Trust in food. New
+     and the market mechanism. Quarterly Journal of Economics                 York: Palgrave.
+     84(3): 488–500.                                                    KRAV. 2010. Certificeringer. http://www.krav.se/Foretag/Certifieringar/.
+Boström, M. 2006a. Establishing credibility: Practising standard-            Accessed 2 Feb 2010.
+     setting ideals in a Swedish seafood-labelling case. Journal of     Lilliston, B., and R. Cummins. 1998. Organic versus ‘‘organic’’: The
+     Environmental Policy and Planning 8(2): 135–158.                         corruption of a label. The Ecologist 28(4): 195–201.
+Boström, M. 2006b. Regulatory credibility and authority through        Lohr, L. 1998. Implications of organic certification for market
+     inclusiveness: Standardization organizations in cases of eco-            structure and trade. American Journal of Agricultural Economics
+     labelling. Organization 13(3): 345–367.                                  80(5): 1125–1129. Proceedings Issue.
+Boström, M., and M. Klintman. 2006. State-centered versus nonstate-    Lubell, M. 2002. Environmental activism as collective action.
+     driven organic food standardization: A comparison of the US and          Environment and Behavior 34(4): 431–454.
+     Sweden. Agriculture and Human Values 23(2): 163–180.               Mackendrick, N.A. 2005. The role of the state in voluntary environ-
+Boström, M., and M. Klintman. 2008. Eco-standards, product                   mental reform: A case study of public land. Policy Sciences
+     labeling, and green consumerism. New York, NY: Palgrave                  38(1): 21–44.
+     Macmillan.                                                         Mol, A.J., and G. Spaargaren. 2000. Ecological modernization theory
+Carter, N. 2007. The politics of the environment: Ideas, activism,            in debate: A review. Environmental Politics 9(1): 17–49.
+     policy, 2nd ed. Cambridge, UK: Cambridge University Press.         Nilsson, H., B. Tunçer, and Å. Thidell. 2004. The use of eco-labeling
+Caswell J.A., and E.M. Mojduszka. 1996. Using informational                   like initiatives on food products to promote quality assurance—
+     labeling to influence the market for quality in food products.           is there enough credibility? Journal of Cleaner Production
+     American Journal of Agricultural Economics 78(Proceedings):              12(5): 517–526.
+     1248–1253.                                                         Seyfang, G. 2005. Shopping for sustainability: Can sustainable
+Daugbjerg, C., and K.M. Sønderskov. Forthcoming. Environmental                consumption promote ecological citizenship? Environmental
+     policy performance revisited: Designing effective policies for           Politics 14(2): 290–306.
+     green markets. Political Studies.                                  Sønderskov, K.M. 2008a. Environmental group membership, collec-
+Delhey, J., and K. Newton. 2005. Predicting cross-national levels of          tive action, and generalized trust. Environmental Politics 17(1):
+     social trust: Global pattern or Nordic exceptionalism? European          78–94.
+     Sociological Review 21(4): 311–327.                                Sønderskov, K.M. 2008b. Making cooperation work: Generalized
+Department for Environment Food and Rural Affairs. 2010. Farming:             social trust and large-n collective action. Aarhus: Politica.
+     Organic farming. http://www.defra.gov.uk/foodfarm/growing/         Sønderskov, K.M. 2009. Different goods, different effects: Exploring
+     organic/index.htm. Accessed 26 Jan 2010.                                 the effects of generalized social trust in large-N collective action.
+Environmental Protection Agency. 1998. Environmental labeling                 Public Choice 140(1): 145–160.
+     issues, policies, and practices worldwide. Washington, DC:         Thøgersen, J. 2000. Psychological determinants of paying attention to
+     Environmental Protection Agency.                                         eco-labels in purchase decisions: Model development and
+Fødevarestyrelsen. 2010. Økologiske Fødevarer. http://www.                    multinational validation. Journal of Consumer Policy 23(3):
+     foedevarestyrelsen.dk/fdir/Pub/2006213/rapport.pdf. Accessed 2           285–313.
+     Feb 2010.                                                          Uslaner, E.M. 2002. The moral foundations of trust. Cambridge:
+Gertz, R. 2005. Eco-labelling: A case for deregulation? Law,                  Cambridge University Press.
+     Probability and Risk 4(3): 127–141.                                Uslaner, E.M. 2008. Corruption, inequality, and the rule of law: The
+Hamm, U., and J. Michelsen. 1996. Organic agriculture in a market             bulging pocket makes the easy life. New York: Cambridge
+     economy: Perspectives from Germany and Denmark. In Funda-                University Press.
+     mentals of organic farming, proceedings of the 11th IFOM           Ward, R., L. Hunnicutt, and J. Keith. 2004. If you can’t trust the
+     conference, ed. T. Østergaard, 208–222. Tholey Theley: Öko-             farmer, who can you trust? The effect of certification types on
+     zentrum Innsbach.                                                        purchases of organic produce. International Food and Agribusi-
+Hofer, K. 2000. Labelling of organic food products. In The voluntary          ness Management Review 7(1): 60–77.
+     approach to environmental policy: Joint environmental policy-
+     making in Europe, ed. A. Mol, V. Lauber, and D. Liefferink,
+     156–191. Oxford, UK: Oxford University Press.
+Hudson, J. 2006. Institutional trust and subjective well-being across   Author Biographies
+     the EU. Kyklos 59(1): 43–62.
+Hysing, E. 2009. Governing without government? The private              Kim Mannemar Sønderskov is an assistant professor in Political
+     governance of forest certification in Sweden. Public Adminis-      Science at Aarhus University. His research focuses on environmental
+     tration 87(2): 312–326.                                            policy as well as causes and effects of social trust.
+Inglehart, R. 1995. Public support for environmental protection:
+     Objective problems and subjective values in 43 societies. PS:      Carsten Daugbjerg is a professor at the Department of Political
+     Political Science and Politics 28(1): 57–72.                       Science, Aarhus University, and currently Visiting Fellow at the
+Inglehart, R. 1997. Modernization and postmodernization. Princeton,     Political Science Program, Research School of Social Sciences, The
+     N.J: Princeton University Press.                                   Australian National University. His fields of research are agricultural
+Jordan, A., R.K.W. Wurzel, and L. Brückner. 2004. Consumer             policy reform, the farm trade negotiations in the WTO, private food
+     responsibility-taking and eco-labelling schemes in Europe. In      standard regulation in global trade, government interest group
+     Politics, products, and markets: Exploring political consumer-     relations, and environmental policy. Currently, he directs a research
+     ism past and present, ed. M. Micheletti, A. Follesdal, and D.      project on comparative organic farming policy. He has published
+     Stolle, 161–180. New Brunswick: Transaction Publishers.            widely on these issues in international journals and has had four
+Jordan, A., R.K.W. Wurzel, and A. Zito. 2005. The rise of ‘‘new’’       books published.
+     policy instruments in comparative perspective: Has governance
+     eclipsed government? Political Studies 53(3): 477–496.
+
+
+
+
+                                                                                                                                      123

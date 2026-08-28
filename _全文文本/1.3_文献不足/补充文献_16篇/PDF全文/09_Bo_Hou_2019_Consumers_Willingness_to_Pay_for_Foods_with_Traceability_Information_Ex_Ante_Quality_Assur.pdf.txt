@@ -1,0 +1,961 @@
+SOURCE_PDF: 1.3_文献不足/补充文献_16篇/PDF全文/09_Bo_Hou_2019_Consumers_Willingness_to_Pay_for_Foods_with_Traceability_Information_Ex_Ante_Quality_Assur.pdf
+EXTRACTION_STATUS: ok
+PAGES: 14
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+sustainability
+
+Article
+Consumers’ Willingness to Pay for Foods with
+Traceability Information: Ex-Ante Quality Assurance
+or Ex-Post Traceability?
+Bo Hou 1 , Linhai Wu 2, *, Xiujuan Chen 2 , Dian Zhu 3 , Ruiyao Ying 4 and Fu-Sheng Tsai 5,6,7
+ 1    School of Philosophy and Public Administration, Jiangsu Normal University, Xuzhou 221116, China;
+      houbo0451@126.com
+ 2    Food Safety Research Base of Jiangsu Province (School of Business), Jiangnan University, Synergetic
+      Innovation Center of Food Safety and Nutrition, Wuxi 214122, China; xjchen@jiangnan.edu.cn
+ 3    School of Dongwu Business, Soochow University, Suzhou 215021, China; 15150157673@139.com
+ 4    College of Economic and Management, Nanjing Agricultural University, Nanjing 210095, China;
+      yry@njau.edu.cn
+ 5    Department of Business Administration, Cheng Shiu University, Kaohsiung 83347, Taiwan;
+      tsaifs@gcloud.csu.edu.tw
+ 6    Center for Environmental Toxin and Emerging-Contaminant Research, Cheng Shiu University,
+      Kaohsiung 83347, Taiwan
+ 7    Super Micro Mass Research and Technology Center, Cheng Shiu University, Kaohsiung 83347, Taiwan
+ *    Correspondence: wlh6799@jiangnan.edu.cn
+                                                                                                      
+ Received: 21 January 2019; Accepted: 4 March 2019; Published: 9 March 2019                           
+
+
+ Abstract: In this study, traceability in pork profile information with ex-ante quality assurance and
+ ex-post traceability are constructed. Consumers’ willingness to pay (WTP) for traceability information is
+ investigated in Wuxi, China, by combining the Multiple Price Lists method and the Becker–DeGroot–
+ Marschak (BDM) experimental auction. The main factors affecting consumers’ WTP are also analyzed
+ using a Tobit model. The results demonstrate that consumers have higher WTP for ex-ante quality
+ assurance than for ex-post traceability. The highest WTP is for the ex-ante quality assurance
+ attribute of pork quality inspection. Consumers’ WTP for traceability information is influenced
+ by their individual characteristics, including age, education and income, as well as their concern and
+ satisfaction about food safety and confidence in food safety labeling. The contribution of this paper is
+ that it improves the meaning of traceable food information attributes and measures the significance
+ of attributes to consumers. Furthermore, this paper introduces a Becker–DeGroot–Marschak
+ experimental auction method which amends the measurement deviation of hypothetical experiments.
+
+ Keywords: willingness to pay; traceability in pork information; ex-ante quality assurance; ex-post
+ traceability; Becker–DeGroot–Marschak experimental auction; multiple price list
+
+
+
+
+1. Introduction
+     Consumers today must pay close attention to food safety, with an urgent need for high-quality
+food with information transparency and safety assurances [1]. Food traceability systems can reduce
+information asymmetry, implement safety governance across geographical boundaries and help
+increase consumer faith in food safety to achieve sustainable agricultural development [2,3]. Food
+traceability systems have been widely implemented in developed countries and have played an
+increasingly important role in food safety insurance [4].
+     However, less is known about consumers’ detailed reactions to differentiated information
+provided by such traceability systems generated at different stages of food production/supply.
+
+
+Sustainability 2019, 11, 1464; doi:10.3390/su11051464                      www.mdpi.com/journal/sustainability
+
+===== PAGE 2 =====
+Sustainability 2019, 11, 1464                                                                      2 of 14
+
+
+
+Regulation (EC) No. 178/2002 implemented by the European Union suggestively defines the content
+of food traceability information, requiring that food traceability information should cover as many
+as possible the processes in a food supply chain and defines the information attributes that should
+be included for each process. Hobbs et al. [5] indicated that a complete food traceability system
+should possess the basic functions of both ex-ante quality assurance and ex-post traceability (Ex-ante
+quality assurance enables consumers to confirm food safety and quality prior to purchase via credence
+attribute labels. Ex-post traceability allows for timely recall with complete traceability information
+along the food supply chain in the event of food safety problems and establishes accountability
+for such problems.). In such cases, complete food traceability systems do not only contain simple
+information [5]. Although the development of modern information technology has provided effective
+improvement for the breadth, depth and accuracy of food traceability systems, Cadillac-type traceable
+food (This term comes from the reference [5] Cadillac-type traceable food refers to all kinds of foods
+containing detailed traceable information with advanced technology.) does not have the largest market
+demand due to limited consumer income [5,6]. This implies that the effectiveness of a traceable food
+system relies not only on adopting technology but also on the support and recognition of consumers.
+Hence, research on consumer willingness to pay (WTP) should be more delicate by looking into
+consumers’ perception and reaction towards different information (i.e., here, ex-ante quality assurance
+and ex-post traceability) benefits provided by traceability systems.
+     We chose China to conduct a study that might fill the above mentioned gap in the literature.
+The reason for choosing China as an interesting context is based on the fact that its existing traceable
+food pilot systems only provide incomplete ex-post traceability [7]. Precisely because of the lack of
+ex-ante quality assurance, current traceability in pork in the Chinese food markets cannot effectively
+solve market failure resulting from information asymmetry [8], which has led to a lack of market
+demand [7]. In such a context, the utility of information from food traceability systems is even less
+clear, thus demanding a scientific study.
+
+2. Literature Review
+      The theory of Lancaster [9] suggests that consumer utility is given by attributes of the product
+rather than the product itself. Consumer utility is derived from an information attribute [10]. Studies
+have shown that traceability in food information can provide ex-ante quality assurance if traceability
+information attributes are incorporated into the food traceability systems with other attributes, such as
+animal welfare, origin certification, quality inspection and environmental impact [11]. Wu et al. [12]
+indicated that ex-ante quality assurance was more effective in eliminating information asymmetry than
+ex-post traceability. Note that, however, food quality is not equal to food safety in concept. As food
+safety incidents continue to occur on a global scale, consumers expect that they will be able to confirm
+food quality and safety when making purchasing decisions, thus preferring food with information
+traceability, quality assurance and certification information [13–16]. However, other studies have
+indicated that simple information, such as appearance, is an important factor that influences consumer
+choice [17,18]. Therefore, consumers have varying degrees of preference for traceability information,
+information certification, quality and safety assurance, appearance and color. These information
+attributes are distributed in different processes of the supply chain system of traceable food profiles,
+reflecting the quality and safety of food from different perspectives and together constituting a food
+traceability system with ex-ante quality assurance and ex-post traceability. This could especially be
+true in countries where traceability is not mandatory.
+      Numerous studies have investigated consumer preferences and WTP for traceability information
+in different countries using hypothetical experiments. Despite some differences, the overall conclusion
+has been that consumers are willing to pay a premium for food with traceability information [19–22].
+At the same time, non-hypothetical experiments have also shown that Chinese consumers have a
+WTP for traceability in pork with different levels of information attributes. These previous studies
+
+===== PAGE 3 =====
+Sustainability 2019, 11, 1464                                                                         3 of 14
+
+
+
+demonstrate a consistent preference ranking for the information attributes of traceable food profiles,
+despite differences in consumers’ WTP under different experimental mechanisms [23,24].
+      Existing literature provides a useful reference for this study. However, there are still some
+remaining deficiencies. First, there are rich meanings for the information attributes of traceable food
+profiles, however the literature rarely distinguishes the significance of different meanings on the
+participants of food with information traceability. As mentioned above, the food traceability system
+should have both ex-ante quality assurance function and ex-post traceability function, however the
+majority of earlier research made no strict distinction between the two kinds of attributes of food
+with information traceability. In fact, the ex-ante quality assurance function and ex-post traceability
+function of food with information traceability are different in the way of preventing food safety
+risks [11,24] and there are also differences in consumer preferences between the two kinds of attributes.
+Therefore, the information attributes of the two functions cannot be completely replaced with each
+other. Second, due to differences in development stages and consumer culture, the information
+attributes of traceable food profiles established in earlier studies are not suitable for China. For example,
+consumers in developed countries are generally concerned about animal welfare, which, at least for
+now, is not a widespread concern among Chinese consumers. Third, most earlier research involved
+hypothetical experiments. However, the validity and reliability of such experiments have been
+questioned due to their very hypothetical nature and the fact that they lack incentive and restraint
+mechanisms, which often leads to strategic errors because participants in experiments exaggerate their
+willingness to pay [25]. Therefore, this study attempted to establish a relatively complete system of
+pork attributes traceability with basic functions of ex-ante quality assurance and ex-post traceability
+based on the major safety risks in China’s pork supply chain system and to investigate consumers’
+WTP for information attributes of pork information traceability using multiple price list (MPL) and
+Becker–DeGroot–Marschak (BDM) experimental auction to identify a traceable pork profile system
+that better meets actual market demand in China.
+
+3. Methodology
+
+3.1. Selection of Food Type
+     China has a large economy of pork consumption and production; in 2015, China’s pork production
+and consumption amounted to 54.87 million tons and 55.47 million tons, respectively, accounting for
+49% and 52% of world pork production and consumption, respectively. Pork is one of the earliest
+traceable foods to appear on the Chinese market. Therefore, we investigated pork information
+traceability in this study. Taking into account the different consumer preferences for different parts of
+traceable pork profiles of the same variety, pork hindquarters were selected to exclude interference
+from non-essential elements when investigating consumers’ WTP.
+
+3.2. Information Attributes
+     Chain-and-internal information is the primary tool used to identify, preserve and deliver product
+quality and difference. For traceable food profiles, information also has the fundamental function
+of delivering traceability and security status [26]. The use of information enables companies to
+pass product quality signals and other property signals with added value potential to consumers.
+For consumers, information allows them to identify specific quality characteristics or product attributes
+that they prefer and are willing to pay for.
+     Hobbs [5] summarized the necessary information for establishing a food traceability system into
+ex-ante quality assurance and ex-post traceability. Information attributes with ex-post traceability
+capabilities facilitate the recall of risky food and the identification of sources of problems and
+responsible parties after a food safety incident. The degree of such tracing-back effect is closely
+related to whether the setting of traceable food information attributes completely covers key risk points
+in the food supply chain system. At present, China’s pork quality and safety risks exist in all aspects of
+
+===== PAGE 4 =====
+Sustainability 2019, 11, 1464                                                                             4 of 14
+
+
+
+the breeding, slaughtering, transportation and sales of the entire supply chain system [27], as shown in
+Figure 1. The traceability system that only contains the attributes of a certain part in the whole supply
+Sustainability
+chain  cannot  2019, 11, x FOR PEER
+                 implement           REVIEW of ex-post traceability. To respond to such insufficiency, we4 tried
+                                the function                                                                of 15
+
+to set up information attributes that could cover the major processes of the entire pork supply chain.
+entire pork supply chain. Among these information attributes, Type III includes basic information
+Among these information attributes, Type III includes basic information about enterprise in the pork
+about enterprise in the pork supply chain. Type IV information includes the same contents as type III
+supply chain. Type IV information includes the same contents as type III and also critical internal
+and also critical internal safety records such as the source of feed, veterinary drug use and inspection.
+safety records such as the source of feed, veterinary drug use and inspection.
+
+
+
+
+               Figure 1. Major
+               Figure 1. Major processes
+                               processes of
+                                         of the
+                                            the pork
+                                                pork supply
+                                                     supply chain
+                                                            chain and
+                                                                  and the
+                                                                      the corresponding
+                                                                          corresponding safety
+                                                                                        safety risks.
+                                                                                               risks.
+
+     Information attributes with ex-ante quality assurance capabilities provide consumers with trust
+     Information attributes with ex-ante quality assurance capabilities provide consumers with trust
+in pork quality safety and are mainly translated into search attributes that are easy for consumers to
+in pork quality safety and are mainly translated into search attributes that are easy for consumers to
+identify; this not only reduces the cost to the consumer of searching for quality information but also
+identify; this not only reduces the cost to the consumer of searching for quality information but also
+has an early warning effect on food safety consumption. At present, China’s routine pork inspection
+has an early warning effect on food safety consumption. At present, China’s routine pork inspection
+and quarantine measures do not require the measurement of physical, chemical or microbiological
+and quarantine measures do not require the measurement of physical, chemical or microbiological
+indicators. Therefore, pork quality inspection was included as an attribute, represented by a label
+indicators. Therefore, pork quality inspection was included as an attribute, represented by a label
+issued by a third party, to provide consumers with the pork information shown in Table 1. According to
+issued by a third party, to provide consumers with the pork information shown in Table 1. According
+to the research findings of Reid, O’Donnell and Downey [28] and Sterling et al. [3], quality
+management system certification was also included as an attribute, represented by a certification
+mark issued by a third party. This attribute provides consumers with information about pork quality
+assurance measures and production process controllability of the pork slaughter and processing
+enterprises.
+
+===== PAGE 5 =====
+Sustainability 2019, 11, 1464                                                                                                      5 of 14
+
+
+
+the research findings of Reid, O’Donnell and Downey [28] and Sterling et al. [3], quality management
+system certification was also included as an attribute, represented by a certification mark issued
+by a third party. This attribute provides consumers with information about pork quality assurance
+measures and production process controllability of the pork slaughter and processing enterprises.
+     Therefore, in this study, four different types of traceable pork profiles with different information
+attributes were investigated. Compared with regular pork, the respective information attributes
+included in the four types of traceable pork information were: (1) pork quality inspection (type I);
+(2) quality management system certification (type II); (3) supply chain traceability (type III); and (4)
+supply chain-and-internal traceability (type IV). Such categorization is based on practical knowledge
+from the government and industry practitioners, which might fit to the researched context best.
+
+                                         Table 1. Settings of information attributes.
+
+              Function                 Attribute                      Type               Explanation Given to Participants
+                                                                                     Labeling products as acceptable after
+                                                                                     testing of physical and chemical indicators,
+                                                            Type I                   such as pesticide and veterinary drug
+                                Pork quality inspection
+                                                            Labeling as acceptable   residues and microbial indicators, such as
+                                                                                     number of Escherichia coli, by a qualified
+      Ex-ante quality
+                                                                                     testing agency.
+      assurance
+                                                                                     Labeling slaughtering and processing
+                                                                                     enterprises with a mark of quality
+                                Quality management
+                                                            Type II                  management system certification after
+                                system
+                                                            Labeling as certified    review of quality and safety management
+                                certification
+                                                                                     capability by a qualified certification
+                                                                                     agency.
+                                                                                     Scanning Type III barcode through a public
+                                                            Type III
+                                                                                     inquiry platform, consumers can obtain the
+                                Supply chain traceability   Labeling with a
+                                                                                     basic information about enterprise in the
+                                                            traceability barcode
+                                                                                     pork supply chain
+      Ex-post traceability                                                           Scanning Type IV barcode through a public
+                                                                                     inquiry platform, consumers can obtain
+                                Supply                      Type IV
+                                                                                     information about what type III has, as well
+                                chain-and-internal          Labeling with a
+                                                                                     as critical internal safety records such as the
+                                traceability                traceability barcode
+                                                                                     source of feed, veterinary drug use and
+                                                                                     inspection
+
+
+3.3. Selection of Experimental Method
+      As compared to non-hypothetical experiments (e.g., the random Nth price auctions, rear choice
+experiment, the BDM and MPL used here), hypothetical experiments (including choice experiment,
+conjoint analysis, contingent valuation methods, etc.) do not provide economic incentives to reveal true
+values and participants tend to falsely express their WTP [25,29–33]. Non-hypothetical experiments,
+such as experimental auctions, can achieve incentive compatibility by simulating the real market
+environment via actual payment, thereby overcoming hypothetical experimental bias [34].
+      The MPL is a one-on-one inductive method for experiment. In the MPL mechanism, participants
+are given a payment card with prices ordered from low to high and asked to indicate whether they are
+willing to buy a product at each price level. Then one price and one product was randomly drawn as
+binding and participants who had indicated that they would buy the drawn product at the drawn price
+did so. Therefore, their dominant strategy is to say ‘yes’ at all prices up to their WTP and thereafter
+‘no.’ Thereby, revealing the interval containing their true WTP [22]. Each participant in the MPL
+experiment could start immediately on their arrival to the experiment site. As they do not need to
+wait, their willingness to participate would be higher and the selection bias could be controlled to
+a minimum level. Such a method is also beneficial for the randomization of participant selection.
+Besides, the MPL allows disclosure for true WTP ranges of consumers and could reach the real upper
+limit of such WTP [31]. However, the MPL requires the researchers to set the price ranges prior to
+the implementation of the experiment, which could cause the bias that consumers’ WTP would be
+
+===== PAGE 6 =====
+Sustainability 2019, 11, 1464                                                                   6 of 14
+
+
+
+affected by the price range set in the preliminary stage. Furthermore, the MPL lacks market bidding
+procedures, which limits the motivation effect of an experiment [35,36].
+      On the other hand, the BDM auction experiment is a one-on-one valuation technique which
+inherently has the random merits for the MPL. However, unlike MPL, subjects in BDM are asked
+to directly indicate the highest price they would be WTP for food with a particular safety attribute
+which is then compared to a randomly drawn selling price [37]. Furthermore, BDM has a randomized
+price generator allowing opportunities for bidders to win at higher or lower prices (i.e., not only
+higher prices have higher winning opportunity). Additionally, BDM also ensures fairness in the
+opportunity of being chosen for different types of products, thus ensuring the non-hypothetical
+nature of experimental auction [7,38]. However, the implemented procedures in BDM lack an extra
+mechanism of price induction and cannot disclose true WTP ranges of consumers [39]. In summary, it
+is reasonable and advantageous to combine these two experimental approaches for an important topic
+such as is presented here in our study. For more details about application of the MPL and the BDM
+mechanism, please refer to Reference [22,31,33]
+
+3.4. Preparation and Procedure of Experimental Auction
+       Before the start of the experiment, each participant was given an ID number, 0.5 kg of regular
+pork and 5.0 yuan in cash as an incentive to participate in the experiment. Participants were told
+that the price of regular pork was 14.0 yuan/0.5 kg in the city where the experiment was carried
+out. Next, four types of traceable pork information for auction were shown to the participants
+(Participants were told that the four types of traceable pork were no different from regular pork in
+packaging, appearance, weight or any other visible features, except quality and safety risks.) and
+the experiment conductors explained the inspection and certification marks. Then, participants were
+shown how to obtain traceability information by the computer-based traceability code search system.
+This was to ensure that participants had full confidence in the authenticity of the items for auction,
+so as to minimize measurement error resulting from non-confidence. Subsequently, the experiment
+and questionnaire were explained to participants and then it was tested whether the participants
+understood the experimental rules. Only the participants who passed the test were allowed to enter
+the experimental session. To prevent sequence effects between items, the sequence of items for auction
+was randomized.
+       In the MPL format, participants are given a payment card with prices recorded from low to
+high and asked to indicate whether they are willing to buy a product at each price level [22]. First,
+we (the experiment conductors) asked the bidders to submit a bid, representing the maximum amount
+they were willing to pay for each type of pork with information attributes, which is recorded as the
+initial WTP price and named as “WTP0 .” We then gradually added 0.3 yuan onto the initial price and
+asked the participants if they were still willing to accept the added price, until they expressed that
+they could not accept the price anymore. Thus, we gained the final WTP price from the participants
+(i.e., maximum WTP named as “WTPn ”).
+       Then, according to the BDM rules, we gained a random price generated from the computer’s
+generator program (randomly extracted binding value was unknown by the bidders). We compared
+the bidder’s maximum WTP and the randomly generated price from our computer. The bidders won
+the bid if his/her maximum WTP was larger than the computer-generated one; otherwise, their bids
+failed. After four rounds of bidding, the computer program randomly picked up one set of scores
+from the four rounds of bidding results. For that randomly chosen set of scores, if the bidder won
+the bidding, then we exchanged the corresponding type of safe pork and payed at a price that was
+randomly generated by the computer; otherwise, the bidder could not exchange for pork that had
+higher safety attributes and could only keep the previously given ordinary pork. See Figure 2 for a
+comprehensive overview.
+
+===== PAGE 7 =====
+Sustainability 2019, 11, 1464                                                                                         7 of 14
+Sustainability 2019, 11, x FOR PEER REVIEW                                                                            7 of 15
+
+
+
+
+                                 0
+
+
+                                          n
+
+
+
+
+      Figure 2. Experimental procedure combining multiple price list (MPL) and Becker–DeGroot–Marschak
+       Figure 2. Experimental procedure combining multiple price list (MPL) and Becker–DeGroot–
+      (BDM) auction method.
+       Marschak (BDM) auction method.
+3.5. Implementation of Experiment Auction
+ 3.5. Implementation of Experiment Auction
+       The experiment was carried out in Wuxi City, Jiangsu Province, China. This site was selected as it
+       Theprofile
+is a pork    experiment    was carried
+                    traceability           outappointed
+                                  pilot city    in Wuxi City,
+                                                            by theJiangsu
+                                                                    ChineseProvince,
+                                                                              MinistryChina.   This siteThe
+                                                                                        of Commerce.       wasexperiment
+                                                                                                                selected as
+ it is  a  pork  profile  traceability     pilot  city appointed      by  the Chinese
+was carried out in farmer’s markets, supermarkets and pork shops where the Wuxi residentsMinistry   of  Commerce.         The
+ experiment
+purchase         wasBased
+             pork.     carried
+                             onout    in farmer’s experiment,
+                                  a preliminary       markets, supermarkets       and pork
+                                                                     the third consumer        shops
+                                                                                             that camewhere       the Wuxi
+                                                                                                           into view    was
+ residents   purchase    pork.  Based    on  a preliminary     experiment,   the third  consumer
+recruited to ensure sample randomness [40]. To ensure experiment quality, the rules of the MPL      that   came   into  view
+ was BDM
+and    recruited   to ensure
+              auction          sample
+                        were fully       randomness
+                                     explained     to the [40]. To ensurebefore
+                                                            participants    experiment   quality, theAt
+                                                                                  the experiment.       rules
+                                                                                                            the of
+                                                                                                                endtheofMPL
+                                                                                                                          the
+ and   BDM     auction  were   fully  explained     to the  participants   before  the  experiment.
+experiment, participants were instructed to complete a questionnaire regarding individual and family   At   the  end   of  the
+ experiment,      participants    were    instructed    to  complete    a  questionnaire
+characteristics, knowledge about traceable pork information and purchase habits.            regarding     individual     and
+ family characteristics, knowledge about traceable pork information and purchase habits.
+3.6. Statistical Analysis of Participants
+ 3.6. Statistical Analysis of Participants
+       A total of 270 pork consumers (hereinafter referred to as the participants) were recruited.
+       A total
+Of these,     259ofgenerated
+                     270 pork valid
+                                consumers       (hereinafter
+                                        information      for ourreferred
+                                                                   furthertoanalysis.
+                                                                             as the participants)    were recruited.
+                                                                                        Women accounted          for 53.3%  Of
+ these,
+of        259 generated35.5%
+    the participants;      validofinformation
+                                     participants  forwere
+                                                        our aged
+                                                             further   analysis.
+                                                                    30–45  years;Women
+                                                                                  55.6% hadaccounted     for 53.3%
+                                                                                                a high school          of the
+                                                                                                                   or lower
+ participants;
+education         35.5%
+              level;     of participants
+                     57.2%   had a monthly  were   aged 30–45
+                                                 income           years; 55.6%
+                                                           of 3000–8000    yuan;had  a high
+                                                                                 62.6%   hadschool   or lower
+                                                                                              a family    size ofeducation
+                                                                                                                   3–4; and
+ level; 57.2%
+married          had a monthly
+            participants   accountedincome     of 3000–8000
+                                         for 84.2%              yuan; 62.6%
+                                                      of the sample.           had a family
+                                                                        On average,           size ofof3–4;
+                                                                                      the families       the and    married
+                                                                                                              participants
+ participants    accounted    for 84.2%    of the sample.    On  average,
+purchased pork 2.5 times a week, consuming 1.8 kg of pork per week.        the families  of the participants    purchased
+ pork 2.5 times a week, consuming 1.8 kg of pork per week.
+3.7. Consumer Bids in the Experiment Auction
+3.7. Consumer Bids in the
+     The participants’    Experiment
+                        bids          Auction
+                             for the four traceable pork information attributes are shown in Table 2.
+The results   showed that
+       The participants’      thefor
+                            bids  average   level
+                                      the four      of maximum
+                                                 traceable          premium paid
+                                                              pork information         by the participants
+                                                                                   attributes    are shown inbasedTableon  2.
+the
+ TheBDM     experiment
+      results  showed thatauction   methodlevel
+                               the average   is higher    than the average
+                                                    of maximum       premiumofpaidthe initial
+                                                                                        by thequotes.    Therefore,
+                                                                                                 participants    baseditonis
+effective
+ the BDMtoexperiment
+              use the experimental      auction
+                           auction method         method
+                                              is higher      of the
+                                                           than  theBDM    mechanism
+                                                                     average               to measure
+                                                                               of the initial   quotes. the    maximum
+                                                                                                          Therefore,    it is
+willingness
+ effective to of thethe
+               use    participants
+                        experimentalto pay for pork
+                                        auction        with different
+                                                   method              types
+                                                              of the BDM      of information
+                                                                            mechanism             attributes.
+                                                                                            to measure     the Compared
+                                                                                                                maximum
+with  regular pork,
+ willingness    of thetheparticipants
+                           participantstowere
+                                            paywilling    to pay
+                                                   for pork       a premium
+                                                               with   differentoftypes
+                                                                                   3.9 andof3.2  yuan for pork
+                                                                                               information         quality
+                                                                                                                attributes.
+inspection
+ Compared with regular pork, the participants were willing to pay a premium of 3.9 and 3.2 yuanwas
+              and  quality   management     system     certification, respectively.    A  premium       of  2.9 yuan     for
+offered   for traceability
+ pork quality   inspection toandthe  majormanagement
+                                  quality   processes of system
+                                                             the entire  pork supply
+                                                                     certification,       chain. A A
+                                                                                     respectively.     higher
+                                                                                                         premiumpremium
+                                                                                                                      of 2.9
+of  3.4 was
+ yuan   yuanoffered
+               was paid     for traceability
+                       for traceability       to major
+                                         to the   the major     processes
+                                                           processes  of theof entire
+                                                                               the entire
+                                                                                       porkpork
+                                                                                              supply supply
+                                                                                                        chain. chain  plus
+                                                                                                                 A higher
+critical
+ premium internal
+             of 3.4 safety information.
+                    yuan was               Based on the
+                                paid for traceability        average
+                                                         to the  majorpremiums
+                                                                        processespaid,
+                                                                                     of theparticipants
+                                                                                             entire pork had     a higher
+                                                                                                             supply  chain
+plus critical internal safety information. Based on the average premiums paid, participants had a
+higher WTP for information attributes of ex-ante quality assurance. This coincides with the
+
+===== PAGE 8 =====
+Sustainability 2019, 11, 1464                                                                                                                    8 of 14
+
+
+
+WTP for information attributes of ex-ante quality assurance. This coincides with the conclusions
+of Hobbs et al. [5], Verbeke and Ward [14] and Loureiro and Umberger [15]. As seen in Table 2,
+Mann-Whitney U-test analysis revealed significant differences in participants’ bids for different types
+of information attributes.
+
+      Table 2. Participants’ willingness to pay (WTP) for different information attributes ant the
+      Mann-Whitney U test results.
+
+                                         Initial Quotations (Yuan)                                 Final Quotations (Yuan)
+               Type                                                Standard                                                        Standard
+                                 Max        Min         Mean                         Max              Min            Mean
+                                                                   Deviation                                                       Deviation
+              Type I              9.0        0.0           3.2         1.8           11.0              0.0             3.9              2.1
+             Type II              8.0        0.0           2.5         1.7           9.0               0.0             3.2              1.9
+             Type III             7.0        0.0           2.5         1.4           10.0              0.0             2.9              1.6
+             Type IV              8.5        0.0           2.9         1.6           10.0              0.0             3.4              1.8
+                                                   Group              Mann-Whitney U             Wilcoxon W             Z         Significance
+        Mann-Whitney U          Pair 1      Type I–Type II                26,635.500              60,305.500         −4.064           0.000
+       test results between     Pair 2      Type I–Type III               24,791.000              58,461.000         −5.150           0.000
+          mean bids for         Pair 3      Type I–Type IV                28,961.500              62,631.500         −2.693           0.007
+              different         Pair 4     Type II–Type III               30,726.000              64,396.000         −1.656           0. 098
+            information         Pair 5     Type II–Type IV                29,768.000              63,438.000         −2.217           0.027
+             attributes         Pair 6     Type III–Type IV               29,020.500              62,690.500         −2.661           0.008
+
+
+4. Research Framework, Econometric Model and Analysis Results
+
+4.1. Model Selection and Variable Setting
+     According to Lancaster’s theoretical framework of consumer utility, Uni is the attribute utility
+obtained by the participant n choosing type i traceable pork information. Consumer utility Uni includes
+two parts, the deterministic term Vni and stochastic term ε ni as follows:
+
+                                                                 Uni = Vni + ε ni                                                                   (1)
+
+      If the attribute utility obtained by the participant n from traceable pork information of type i is
+greater than that of ordinary pork, that is, if Uni > 0, consumers will pay a premium for the information
+attributes of traceable pork information for this type i. Participant’s maximum willingness to pay
+for traceable pork information of type i is denoted by WTPni . But if Uni ≤ 0, consumers will not pay
+premiums and WTPni = 0.
+      Because the participant’s WTP is a continuous variable of finite interval, this paper uses the Tobit
+model to study the influencing factors of consumers’ willingness to pay for traceable pork information
+attributes. According to Xue, Mainville, You and Nayga Jr [18], WTPni is affected by the individual
+characteristics of the participants, family characteristics, cognitive attitudes and other factors. Thus,
+we constructed our Tobit model as:
+                                                 WTPni = αXn + ε n                                        (2)
+                                        (
+                                                 WTPni ,     i f WTPni > 0
+                                   yi =                                                                   (3)
+                                             No Value , i f WTPni = 0
+                                                                              
+                     Xn11 . . . Xn1k
+                                     Xn21 . . . Xn2k                          
+where Xn =                                                                     is a i × (i × k)-dimensional
+                                                                              
+                                                     ......                   
+                                                               Xni1 . . . Xnik
+quasi-diagonal matrix and Xnik is the independent variable k that affects the bid of participant n
+in the experimental auction of type i traceable pork information. In Equation (5), α is a parameter
+matrix to be estimated and ε n is a residual term, that is,
+
+             α = (α11 , α12 , . . . α1k , α21 , α22 , . . . α2k , . . . . . . αn1 , αn2 , . . . αnk ,)0 ε n = (ε n1 , ε n2 , . . . ε nk )0
+
+===== PAGE 9 =====
+Sustainability 2019, 11, 1464                                                                                               9 of 14
+
+
+
+     As shown in Table 3, the final WTP price in the MPL offered by the participants for the four
+information attributes was defined as dependent variables Y1 , Y2 , Y3 and Y4 , respectively. Age,
+education and income and so forth were independent variables. Factors that affect participant bids for
+information attributes were analyzed with a Tobit model.
+
+                                           Table 3. Variable definition and assignment.
+
+                        Variable                                        Definition                         Expected Direction
+                                                     Continuous variable; the final WTP price (that is
+    Bid for type I safety information (Y1 )                                                                      ——
+                                                     maximum WTP) gained from the MPL.
+                                                     Continuous variable; the final WTP price (that is
+    Bid for type II safety information (Y2 )                                                                     ——
+                                                     maximum WTP) gained from the MPL.
+                                                     Continuous variable; the final WTP price (that is
+    Bid for type III safety information (Y3 )                                                                    ——
+                                                     maximum WTP) gained from the MPL.
+                                                     Continuous variable; the final WTP price (that is
+    Bid for type IV safety information (Y4 )                                                                     ——
+                                                     maximum WTP) gained from the MPL.
+                                                     Dummy variable; 40 years of age or younger = 1,
+    Low age (X1 )                                                                                                  +
+                                                     otherwise = 0
+                                                     Dummy variable; 60 years of age or older = 1,
+    High age (X2 )                                                                                                 −
+                                                     otherwise = 0
+                                                     Dummy variable; junior high school and lower
+    Low education (X3 )                                                                                            −
+                                                     education = 1, otherwise = 0
+                                                     Dummy variable; university and higher
+    High education (X4 )                                                                                           +
+                                                     education = 1, otherwise = 0
+                                                     Dummy variable; monthly income of 2000 yuan
+    Low income (X5 )                                                                                               −
+                                                     and less = 1, otherwise = 0
+                                                     Dummy variable; monthly income of 8000 yuan
+    High income (X6 )                                                                                              +
+                                                     and more = 1, otherwise = 0
+    History of foodborne disease due to
+                                                     Dummy variable; yes = 1, no = 0                               +
+    consumption of unsafe pork (X7 )
+                                                     Very great = 1; great = 2; moderate = 3; small = 4;
+    Perceived harm caused by unsafe pork (X8 )                                                                     +
+                                                     no harm = 5
+                                                     Very concerned = 1; somewhat concerned = 2;
+    Concern about food safety (X9 )                  moderately concerned = 3; not very concerned =                +
+                                                     4; not concerned at all = 5
+                                                     A score of 0 to 10 was assigned according to the
+    Satisfaction with food safety (X10 )                                                                           −
+                                                     level of satisfaction
+                                                     Highly confident = 1; fairly confident = 2;
+    Confidence in food safety labeling (X11 )        moderately confident = 3; not very confident = 4;             +
+                                                     not confident at all = 5
+
+
+4.2. Results and Discussion
+     As shown in Table 4, Prob > chi2 = 0.0000, significances indicate that the overall fit of the
+Tobit model is good. Further findings are presented below. Participants’ WTP for attributes of
+pork quality inspection, supply chain and supply chain-and-internal traceability was significantly
+affected by age. Participants over 60 years of age reported a significantly lower WTP for attribute of
+pork quality inspection compared with those under 60 years of age. Participants under 30 years of
+age reported a significantly higher WTP for attributes of supply chain and supply chain-and-internal
+traceability compared with those over 30 years of age. This coincides with the findings of Lim et al. [16],
+Wu et al. [7] and Lu et al. [30].
+
+===== PAGE 10 =====
+Sustainability 2019, 11, 1464                                                                                              10 of 14
+
+
+
+                        Table 4. Tobit regression results for the different information attributes.
+
+                                                                            Dependent Variable
+              Independent Variable
+                                                  Type I 1            Type II 2           Type III 3           Type IV 4
+                      Low age                   0.019 (0.259)       0.175 (0.255)       0.442 ** (0.207)     0.465 ** (0.234)
+                      High age               −0.786 *** (0.299)    −0.355 (0.296)       −0.210 (0.240)        0.069 (0.271)
+                  Low education              −0.523 ** (0.260)    −0.593 ** (0.256)    −0.894 *** (0.207)   −0.892 *** (0.234)
+                  High education             2.169 *** (0.262)    1.637 *** (0.258)    0.774 *** (0.209)    0.966 *** (0.237)
+                    Low income               −1.170 *** (0.380)   −1.159 *** (0.377)   −0.943 *** (0.305)   −1.083 *** (0.344)
+                   High income                0. 499 ** (0.228)    0.566 ** (0.225)    0.540 *** (0.182)    0.744 *** (0.206)
+       History of foodborne disease due to
+                                                0.046 (0.218)     −0.404 * (0.214)      −0.213 (0.174)       −0.217 (0.196)
+           consumption of unsafe pork
+      Perceived harm caused by unsafe pork     −0.267 (0.167)      −0.167 (0.165)       −0.185 (0.134)       −0.230 (0.151)
+            Concern about food safety          −0.023 (0.126)     0.390 *** (0.124)      0.164 (0.101)        0.123 (0.114)
+           Satisfaction with food safety        0.074 (0.047)     0.092 ** (0.046)     0.113 *** (0.038)    0.094 ** (0.043)
+        Confidence in food safety labeling     −0.063 (0.126)      −0.190 (0.124)      0.306 *** (0.101)      0.113 (0.114)
+                  Constant term               3.675 *** (0.722)   1.408 ** (0.710)     1.497 ** (0.577)     2.370 *** (0.652)
+      *, ** and *** denote significance at the 10%, 5% and 1% levels, respectively. 1: LR chi2(11) = 156.48; Log likelihood
+      = −480.1514; Prob > chi2 = 0.0000. 2: LR chi2(11) = 129.08; Log likelihood = −471.37197; Prob > chi2 = 0.0000. 3:
+      LR chi2(11) = 137.19; Log likelihood = −420.13868; Prob > chi2 = 0.0000. 4: LR chi2(11) = 127.64; Log likelihood =
+      −452.72614; Prob > chi2 = 0.0000.
+
+      Education and individual monthly income had a significant influence on the participants’ WTP for
+the four attributes. A negative impact was noticed in low-income and low-education participants and a
+positive one was noticed in high-income and high-education participants. This is because participants
+with higher education levels may have more correct cognition of pork safety [16,23] and therefore may
+be more willing to pay a premium price for safety information. The result that income influenced the
+participants’ WTP is consistent with the conclusions of Angulo and Gil [41], Sánchez et al. [42] and
+Liu et al. [43].
+      A history of foodborne disease due to the consumption of unsafe pork and participant concern
+about food safety had a significant impact on their WTP for quality management system certification.
+Participants having experience of foodborne disease and those who are more concerned about food safety
+are relatively less willing to pay premium for pork quality inspection attributes. This is contradictory
+to the findings of Lijenstolpe [44] and Schnettler et al. [45]. The main reason for this may be that
+those enterprises being disclosed in the series of pork safety events are mostly certified ones, thus
+leading consumers to directly question the trustworthiness of certification system. Participants’
+satisfaction with food safety had a significant positive impact on their WTP for quality management
+system certification, supply chain traceability and supply chain-and-internal traceability. However,
+it did not affect their WTP for pork quality inspection, which is inconsistent with the findings of
+Ubilava et al. [46]. A possible reason for this is that participants who were more satisfied with food
+safety had higher confidence in the government and enterprises [47] and thus were more willing
+to pay a premium for traceable pork information produced by enterprises certified for the quality
+management system. Additionally, such participants were more satisfied with routinely inspected
+pork and did not need additional pork quality inspection.
+      Participants’ WTP for supply chain traceability was significantly positively affected by their
+confidence in food safety labeling. Reasonably, those who trust more in food safety labels would also
+recognize and trust traceability labels, especially when the labels contain key enterprise information.
+     Viewing the abovementioned statistics (Table 5), we found that the influencing factors for Participants’
+WTP for attributes of pork quality inspection are age, education and income. That is, participants
+over 60 years of age are 0.705 times less likely to pay than participants in the 60s and below (95% CI:
+−1.229~−0.180). The willingness to pay for high-educational participants above the university is
+1.943 times higher than the willingness of participants below the university (95% CI: 1.495 to 2.392).
+The willingness to pay for participants with low monthly income of 2000 yuan or less is 1.049 times
+lower than that of participants above 2000 yuan (95% CI: −1.713~−0.384).
+      Those factors that affect Participants’ WTP for attributes of quality management system
+certification most are education, income and food safety satisfaction. That is, the willingness to
+pay for junior high school and below is 0.503 times lower than that of participants above junior high
+
+===== PAGE 11 =====
+Sustainability 2019, 11, 1464                                                                                      11 of 14
+
+
+
+school (95% CI: −0.927~−0.078). The willingness of higher education participants above the university
+to pay is lower than the willingness of the participants below the university. Increase by 1.390 times
+(95% CI: 0.968~1.810). The willingness to pay for participants with low monthly income of 2000 yuan
+or less is 0.983 times lower than the willingness to pay for participants above 2000 yuan (95% CI:
+−1.609~−0.357). Participants with high food safety satisfaction were 0.780 times more likely to pay
+than those with lower food safety satisfaction (95% CI: 0.001~−0.155).
+     Those that affect the Participants’ WTP for attributes of supply chain traceability most are education
+and income. That is, the factors affecting the participants’ willingness to pay for the traceability of the
+supply chain are education and income, that is, the willingness to pay for the junior high school and
+below is 0.798 times lower than the willingness of the participants above the junior high school (95%
+CI: −1.157~−0.439), the willingness to pay for high-educational participants above the university is
+0.691 times higher than the willingness of participants below the university (95% CI: 0.326~1.056).
+The willingness to pay for participants with low monthly income of 2000 yuan or less is 0.842 times
+lower than that of participants above 2000 yuan (95% CI: −1.375~−0.310).
+     Those that affect the Participants’ WTP for attributes of supply chain-and-internal traceability
+most are education and income. That is, The factors affecting the supply chain-and-internal traceability
+attribute will be higher than the education and income, that is, the willingness to pay for the junior
+high school and below is 0.803 times lower than the willingness of the participants above the junior
+high school (95% CI: −1.213~−0.394). The willingness to pay for high-educational participants above
+the university is 0.870 times higher than the willingness of participants below the university (95%
+CI: 0.454~1.286). The willingness to pay for participants with low monthly income of 2000 yuan or
+less was 0.975 times lower than the willingness to pay for participants above 2000 yuan (95% CI:
+−1.581~−0.369). Participants in the high-month income of more than 8000 yuan will pay 0.670 times
+more than the willingness to pay for participants below 8000 yuan (95% CI: 0.309~1.031).
+
+      Table 5. Marginal utility of the factors affecting consumers’ WTP for the different information attributes.
+
+                                                                      Dependent Variable
+             Independent Variable
+                                             dy/dx (Type I)   dy/dx (Type II)   dy/dx (Type III)   dy/dx (Type IV)
+                     Low age                      0.017           0.149             0.395 **           0.419 **
+                     High age                  −0.705 ***        −0.302             −0.187              0.062
+                 Low education                 −0.469 **        −0.503 **          −0.798 ***         −0.803 ***
+                 High education                1.943 ***        1.390 ***          0.691 ***          0.870 ***
+                   Low income                  −1.049 ***       −0.983 ***         −0.842 ***         −0.975 ***
+                  High income                   0. 448 **        0.480 **          0.482 ***          0.670 ***
+      History of foodborne disease due to
+                                                 0.041           −0.343 *           −0.190             −0.195
+          consumption of unsafe pork
+     Perceived harm caused by unsafe pork        −0.239           −0.142             −0.165             −0.207
+           Concern about food safety             −0.021          0.331 ***            0.147              0.111
+          Satisfaction with food safety           0.066          0.780 **           0.101 ***          0.085 **
+       Confidence in food safety labeling        −0.056           −0.161            0.273 ***            0.102
+                 Constant term                  3.891 ***        3.144 **           2.937 **           3.363 ***
+
+
+5. Main Conclusions and Policy Implications
+      Based on the major risks in the Chinese pork supply chain system, this paper sets up four
+types of safety information attributes, namely: pork quality inspection, quality management system
+certification, supply chain traceability and supply chain-and-internal traceability for traceable pork
+hindquarters information. The major conclusions follow. Firstly, consumers are willing to pay a
+premium for food safety information attributes. Consumers had a higher WTP for information
+attributes with ex-ante quality assurance than for those with ex-post traceability. Thereinto, consumers
+were most willing to pay for the information attributes of pork quality inspection.
+      Secondly, heterogeneity was observed in consumer preferences for the different attributes of
+traceable pork information. High-income and well educated participants were willing to pay a
+premium for attributes with pork safety information, while young consumers and consumers with
+
+===== PAGE 12 =====
+Sustainability 2019, 11, 1464                                                                                12 of 14
+
+
+
+higher confidence in food safety labeling paid more attention to information attributes with ex-post
+traceability. However, consumers who were less concerned about food safety and had a history of
+foodborne disease were unwilling to pay a premium for quality management system certification.
+     This paper has reference value for governments to improve the consumption policy of the market
+of foods with profile information traceability. Firstly, it is workable to incorporate pork quality
+inspection information attributes at the initial stage of market development of pork with information
+traceability. There has not been any ex-ante quality information attributes in current pork markets in
+China. Therefore, the government should encourage pork producers (with rewarding mechanisms
+such as tax deduction or technological subsidy) to offer profile-traceable pork with ex-ante quality
+information attributes to the market. Secondly, based on the finding that consumers’ preferences
+for profile-traceable pork are differentiated, the government should encourage producers to offer
+profile-traceable pork with different information attribute portfolios to meet the demands of different
+groups of consumers. This could also help expand the profile-traceable pork markets and increase the
+markets’ quality level and thus lead to pork market sustainability.
+     This study has limitations that may imply future research directions. Our sample size was
+small in comparison to other kinds of experiment-based study. The BDM experimental method
+is complex and difficult to organize and it is difficult to recruit participants. Related to this, our
+experiments were conducted in just one (though representative) city in China. Future research
+should consider expanding to investigated areas to improve generalizability. This current study’s
+pioneering efforts have implications for future studies that are interested in such consumer-related
+topics. Moreover, animal welfare information and place-of-origin certification are two more important
+forms of ex-ante quality information which could be considered by future studies to expand the types
+of information investigated.
+
+Author Contributions: B.H. is the major writer for the first draft. L.W. led the project, conceptualized the paper
+and designed the tests; X.C. and R.Y. were major co-writers for the first draft. D.Z. sorted and logically analyzed
+the data; F.-S.T. reviewed and validated the manuscript and was in charge of the revision and resubmission.
+Funding: We acknowledge the partial supports from the National Social Science Foundation of China under
+Grant [17CGL044].
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+1.    Aung, M.M.; Chang, Y.S. Traceability in a food supply chain: Safety and quality perspectives. Food Control
+      2014, 39, 172–184. [CrossRef]
+2.    Kher, S.V.; Frewer, L.J.; Jonge, J.D.; Wentholt, M.; Davies, O.H.; Luijckx, N.B.L. Experts’ perspectives on the
+      implementation of traceability in Europe. Br. Food J. 2010, 112, 261–274. [CrossRef]
+3.    Sterling, B.; Gooch, M.; Dent, B.; Marenick, N.; Miller, A.; Sylvia, G. Assessing the Value and Role of Seafood
+      Traceability from an Entire Value-Chain Perspective. Compr. Rev. Food Sci. Food Saf. 2015, 3, 205–243.
+      [CrossRef]
+4.    Pizzuti, T.; Mirabelli, G. The Global Track &Trace System for food: General framework and functioning
+      principle. J. Food Eng. 2015, 159, 16–35.
+5.    Hobbs, J.E.; Bailey, D.V.; Dickinson, D.L. Traceability in the Canadian Red Meat Sector: Do Consumers Care.
+      Can. J. Agric. Econ. 2005, 1, 47–65. [CrossRef]
+6.    Wu, L.H.; Wang, S.X.; Xu, L.L. Consumer demand for traceable food: The case of traceable pork. J. Public
+      Manag. 2013, 3, 119–128. (In Chinese)
+7.    Wu, L.H.; Wang, S.X.; Zhu, D.; Hu, W.Y.; Wang, H.S. Chinese consumers’ preferences and willingness to
+      pay for traceable food quality and safety attributes: The case of pork. China Econ. Rev. 2015, 35, 121–136.
+      [CrossRef]
+8.    Ortega, D.L.; Wang, H.H.; Widmar, N.J.O. Welfare and Market Impacts of Food Safety Measures in China:
+      Results from Urban Consumers’ Valuation of Product Attributes. J. Integr. Agric. 2014, 6, 1404–1411.
+      [CrossRef]
+
+===== PAGE 13 =====
+Sustainability 2019, 11, 1464                                                                                    13 of 14
+
+
+
+9.    Lancaster, K.J. A New Approach to Consumer Theory. J. Political Econ. 1966, 6, 132–157. [CrossRef]
+10.   Nelson, P. Advertising as Information. J. Political Econ. 1974, 3, 311–329. [CrossRef]
+11.   Hobbs, J.E. Information asymmetry and the role of traceability systems. Agribusiness 2004, 4, 397–415.
+      [CrossRef]
+12.   Wu, L.H.; Wang, H.S.; Zhu, D. Analysis of consumer demand for traceable pork in China based on a real
+      choice experiment. China Agric. Econ. Rev. 2015, 2, 303–321. [CrossRef]
+13.   Hobbs, J.E.; Sanderson, K.; Haghiri, M. Evaluating willingness-to-pay for bison attributes: An experimental
+      auction approach. Can. J. Agric. Econ. 2006, 2, 269–287. [CrossRef]
+14.   Verbeke, W.; Ward, R.W. Consumer interest in information cues denoting quality, traceability and origin:
+      An application of ordered probit models to beef labels. Food Qual. Prefer. 2006, 6, 453–467. [CrossRef]
+15.   Loureiro, M.L.; Umberger, W.J. A choice experiment model for beef: What US consumer responses tell us
+      about relative preferences for food safety, country-of-origin labeling and traceability. Food Policy 2007, 4,
+      496–514. [CrossRef]
+16.   Lim, K.H.; Hu, W.Y.; Maynard, L.J.; Goddard, E.U.S. Consumers’ Preference and Willingness to Pay for
+      Country-of-Origin-Labeled Beef Steak and Food Safety Enhancements. Can. J. Agric. Econ. 2013, 61, 93–118.
+      [CrossRef]
+17.   Lusk, J.L.; Feldkamp, T.; Schroeder, T.C. Experimental auction procedure: Impact on valuation of quality
+      differentiated goods. Am. J. Agric. Econ. 2004, 2, 389–405. [CrossRef]
+18.   Xue, H.; Mainville, D.; You, W.; Nayga, R.M., Jr. Consumer preferences and willingness to pay for grass-fed
+      beef: Empirical evidence from in-store experiments. Food Qual. Prefer. 2010, 7, 857–866. [CrossRef]
+19.   Zhang, C.; Bai, J.; Wahl, T.I. Consumers’ willingness to pay for traceable pork, milk, and cooking oil in
+      Nanjing, China. Food Control 2012, 1, 21–28. [CrossRef]
+20.   Bai, J.; Zhang, C.; Jiang, J. The role of certificate issuer on consumers’ willingness to pay for milk traceability
+      in China. Agric. Econ. 2013, 4–5, 537–544. [CrossRef]
+21.   Haghiri, M. An evaluation of consumers’ preferences for certified farmed Atlantic salmon. Br. Food J. 2014, 7,
+      1092–1105. [CrossRef]
+22.   Lombardi, A.; Vecchio, R.; Borrello, M.; Caracciolo, F.; Cembalo, L. Willingness to pay for insect-based food:
+      The role of information and carrier. Food Qual. Prefer. 2019, 72, 177–187. [CrossRef]
+23.   Jin, S.S.; Zhou, L. Consumer interest in information provided by food traceability systems in Japan. Food
+      Qual. Prefer. 2014, 36, 144–152. [CrossRef]
+24.   Wu, L.H.; Wang, H.S.; Liu, X.L. Traceable pork: Information combination and consumers’ wiliness to pay.
+      China Popul. Resour. Environ. 2014, 4, 35–45. (In Chinese)
+25.   De-Magistris, T.; Gracia, A.; Nayga, R.M., Jr. On the use of honesty priming tasks to mitigate hypothetical
+      bias in choice experiments. Am. J. Agric. Econ. 2013, 5, 1136–1154. [CrossRef]
+26.   Unnevehr, L.; Eales, J.; Jensen, H. Food and Consumer Economic. Am. J. Agric. Econ. 2009, 2, 506–521.
+      [CrossRef]
+27.   Wu, L.H.; Qin, S.S.; Zhu, D.; Li, Q.G.; Hu, W.Y. Consumer preferences for origin and traceability information
+      of traceable pork. Chin. Rural Econ. 2016, 6, 47–62. (In Chinese)
+28.   Reid, L.M.; O’Donnell, C.P.; Downey, G. Recent technological advances for the determination of food
+      authenticity. Trends Food Sci. Technol. 2006, 17, 344–353. [CrossRef]
+29.   Akaichi, F.; Gil, G.M.; Nayga, R.M. Assessing the market potential for a local food product Evidence from a
+      non-hypothetical economic experiment. Br. Food J. 2012, 1, 19–39. [CrossRef]
+30.   Lu, J.; Wu, L.H.; Wang, S.X. Consumer preference and demand for traceable food attributes. Br. Food J. 2016,
+      9, 2140–2156. [CrossRef]
+31.   Alphonce, R.; Alfnes, F. Eliciting Consumer WTP for Food Characteristics in a Developing Context:
+      Application of Four Valuation Methods in an African Market. J. Agric. Econ. 2017, 1, 123–142. [CrossRef]
+32.   Akaichi, F.; Nayga, R.M., Jr.; Gil, G.M. Assessing Consumers’ Willingness to Pay for Different Units of
+      Organic Milk: Evidence from Multiunit Auctions. Can. J. Agric. Sci. 2012, 4, 469–494. [CrossRef]
+33.   Hamukwala, P.; Oparinde, A.; Binswanger-Mkhize, H.P. Design Factors Influencing Willingness-to-Pay
+      Estimates in the Becker-DeGroot-Marschak (BDM) Mechanism and the Non-hypothetical Choice Experiment:
+      A Case of Biofortified Maize in Zambia. J. Agric. Resour. Econ. 2019, 1, 81–100. [CrossRef]
+
+===== PAGE 14 =====
+Sustainability 2019, 11, 1464                                                                                    14 of 14
+
+
+
+34.   Ginon, E.C.; Chabanet, P.; Combris, S.I. Are decisions in a real choice experiment consistent with reservation
+      prices elicited with BDM ‘auction’? The case of French baguettes. Food Qual. Pref. 2014, 31, 173–180.
+      [CrossRef]
+35.   Drichoutis, A.C.; Lusk, J.L. What can multiple price lists really tell us about risk preferences? J. Risk Uncertain
+      2016, 53, 89–106. [CrossRef]
+36.   Tamas Csermely, T.; Rabas, A. How to reveal people’s preferences: Comparing time consistency and
+      predictive power of multiple price list risk elicitation methods. J. Risk Uncertain 2016, 53, 107–136. [CrossRef]
+      [PubMed]
+37.   Becker, G.M.; Degrooot, M.H.; Marschak, J. Measuring utility by a single response sequential method. Behav.
+      Sci. 1964, 3, 226–232. [CrossRef]
+38.   Ginon, E.P.; Combris, Y.; Lohéac, G.; Enderli, S.I. What do we learn from comparing hedonic scores and
+      willingness-to-pay data? Food Qual. Prefer. 2014, 33, 54–63. [CrossRef]
+39.   Gao, Z. Research on Retailer Dynamic Pricing and Procurement Strategy Based on Customer’s Willingness
+      to Pay. Master’s Thesis, Tsinghua University, Beijing, China, 2011.
+40.   Wu, L.H.; Xu, L.L.; Zhu, D.; Wang, X.L. Factors affecting consumer willingness to pay for certified traceable
+      food in jiangsu province of china. Can. J. Agric. Econ. 2012, 3, 317–333. [CrossRef]
+41.   Angulo, A.M.; Gil, J.M. Risk perception and consumer willingness to pay for certified beef in Spain. Food
+      Qual. Prefer. 2007, 8, 1106–1117. [CrossRef]
+42.   Sánchez, M.; Beriain, M.J.; Carr, T.R. Socio-economic factors affecting consumer behaviour for United States
+      and Spanish beef under different information scenarios. Food Qual. Prefer. 2012, 24, 30–39. [CrossRef]
+43.   Liu, X.L.; Xu, L.L.; Zhu, D.; Wu, L.H. Consumers’ WTP for certified traceable tea in China. Br. Food J. 2015, 5,
+      1440–1452. [CrossRef]
+44.   Lijenstolpe, C. Evaluating animal welfare with choice experiments: An application to Swedish pig production.
+      Agribusiness 2008, 1, 67–84. [CrossRef]
+45.   Schnettler, B.; Vidal, R.; Silva, R.; Vallejos, L.; Sepulveda, N. Consumer willingness to pay for beef meat in a
+      developing country: The effect of information regarding country of origin, price and animal handling prior
+      to slaughter. Food Qual. Prefer. 2009, 20, 156–165. [CrossRef]
+46.   Ubilava, D.; Foster, K.A.; Lusk, J.L.; Nilsson, T. Effects of income and social awareness on consumer WTP for
+      social product attributes. Technol. Forecast. Soc. Chang. 2010, 4, 587–593. [CrossRef]
+47.   Wang, L.; Huo, X. Willingness-to-pay price premiums for certified fruits—A case of fresh apples in China.
+      Food Control 2016, 64, 240–246. [CrossRef]
+
+                           © 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+                           article distributed under the terms and conditions of the Creative Commons Attribution
+                           (CC BY) license (http://creativecommons.org/licenses/by/4.0/).

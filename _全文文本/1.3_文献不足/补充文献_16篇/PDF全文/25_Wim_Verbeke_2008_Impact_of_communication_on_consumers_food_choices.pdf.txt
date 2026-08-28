@@ -1,0 +1,686 @@
+SOURCE_PDF: 1.3_文献不足/补充文献_16篇/PDF全文/25_Wim_Verbeke_2008_Impact_of_communication_on_consumers_food_choices.pdf
+EXTRACTION_STATUS: ok
+PAGES: 8
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+Proceedings of the Nutrition Society (2008), 67, 281–288                                                doi:10.1017/S0029665108007179
+                                        g The Author 2008 First published online 23 May 2008
+
+                                         The Third Congress of Société Français de Nutrition with the Nutrition Society was held at Faculté de Médecine Henri Warembourg,
+                                                                                Pôle Recherche, Lille, France on 6 and 7 December 2007
+
+
+                                                                                               Plenary Lecture
+
+                                                         Impact of communication on consumers’ food choices
+
+                                                                                                   Wim Verbeke
+                                                   Ghent University, Department of Agricultural Economics, Coupure Links 653, B-9000 Gent, Belgium
+
+
+
+
+                                                             Consumers’ food choices and dietary behaviour can be markedly affected by communication
+ Proceedings of the Nutrition Society
+
+
+
+
+                                                             and information. Whether the provided information is processed by the receiver, and thus
+                                                             becomes likely to be effective, depends on numerous factors. The role of selected determinants
+                                                             such as uncertainty, knowledge, involvement, health-related motives and trust, as well as
+                                                             message content variables, are discussed in the present paper based on previous empirical
+                                                             studies. The different studies indicate that: uncertainty about meat quality and safety does not
+                                                             automatically result in more active information search; subjective knowledge about fish is a
+                                                             better predictor of fish consumption than objective knowledge; high subjective knowledge
+                                                             about functional foods as a result of a low trusted information source such as mass media
+                                                             advertising leads to a lower probability of adopting these foods in the diet. Also, evidence of
+                                                             the stronger impact of negative news as compared with messages promoting positive outcomes
+                                                             of food choices is discussed. Finally, three audience-segmentation studies based on consumers’
+                                                             involvement with fresh meat, individuals’ health-related-motive orientations and their use of
+                                                             and trust in fish information sources are presented. A clear message from these studies is that
+                                                             communication and information provision strategies targeted to a specific audience’s needs,
+                                                             interests or motives stand a higher likelihood of being attended to and processed by the
+                                                             receiving audience, and therefore also stand a higher chance of yielding their envisaged impact
+                                                             in terms of food choice and dietary behaviour.
+
+                                                                                      Communication: Consumer: Food choice
+
+
+
+
+                                        Behaviour change is determined by a complex set of                      products have gained considerable attention recently. From
+                                        interlinked personal and environmental factors. Personal                the demand side of information, consumers as well as
+                                        determinants relate to motivational, cognitive and affective            retailers increasingly seek guarantees concerning food
+                                        processes in which psychosocial variables such as atti-                 quality and safety, which has been fuelled at least partly
+                                        tudes, norms, self-efficacy, skills and their underlying                by several consecutive food-safety incidents in Europe.
+                                        beliefs play a crucial role. Numerous factors associated                Consumers seem to want information to help them derive
+                                        with a person’s physical, social and economic environment               more pleasure from food, to achieve a better diet, to avoid
+                                        can further encourage or inhibit behaviour change.                      certain allergens or to know the origin and environmental,
+                                        Although initiating and maintaining behaviour change is a               ethical and technological conditions under which the food
+                                        difficult and complex process in which many different                   has been produced and processed. Information about health
+                                        determinants are involved, there is little doubt that con-              and nutritional composition can be used by consumers in
+                                        sumers’ choices can be markedly affected by information.                their evaluation of product alternatives and formation of
+                                        Communication and information provision efforts can have                quality expectations. As such, health and nutritional value
+                                        an impact in terms of changing consumers’ knowledge,                    are product attributes that contribute to determining pur-
+                                        shaping their attitudes and redirecting their decision                  chase intentions and choice, but they are weighed heavily
+                                        making, including food choices and dietary behaviour. The               against other motives such as taste, price and con-
+                                        role and potential impact of communication related to food              venience(1).
+
+
+
+                                        Corresponding author: Professor Wim Verbeke, fax + 329 264 6246, email wim.verbeke@ugent.be
+
+
+
+
+https://doi.org/10.1017/S0029665108007179 Published online by Cambridge University Press
+
+===== PAGE 2 =====
+282                                                         W. Verbeke
+
+                                             From the supply side of information, the food industry                      Selected        Communication               Communication
+                                          as well as other commercial stakeholders in the food chain                   determinants            process                  effects
+                                          face increasing competition and decreasing margins, in                                                          Feedback
+                                                                                                                                                         Feedback
+                                          particular in the European food market, which has become
+                                          subject to lower levels of protection, higher prices of raw              Trust in and
+                                                                                                                                           Source
+                                                                                                                                           Source                      Behavioural
+                                                                                                                                                                      Behavioural
+                                                                                                                     use of
+                                          materials and increasing international trade and globalisa-                                                                   change
+                                                                                                                                                                         change
+                                          tion. As a consequence, profitability through strategies that                                                                 Attitude
+                                                                                                                                                                        Attitude
+                                          focus on product differentiation and market orientation, in              Type and                                             change
+                                                                                                                                                                         change
+                                          which information and communication are key attributes                    content           Medium
+                                                                                                                                      Medium       Message
+                                                                                                                                                   Message
+                                                                                                                                                                       Cognitive
+                                                                                                                                                                       Cognitive
+                                          and activities respectively, are more than before deter-                                                                     reaction
+                                          mining the industry’s success. At the same time, govern-                                                                      reaction
+                                                                                                                  Uncertainty,
+                                          ment and public institutions involved with food and health              knowledge,               Target
+                                                                                                                                            Target
+                                                                                                                                                                      Information
+                                                                                                                                                                       Information
+                                          policy have also become important players on the supply                involvement,                                         processing
+                                                                                                                                                                        processing
+                                                                                                                                          audience
+                                                                                                                                           audience
+                                                                                                              information needs
+                                          side of food-related information. Providing consumers with              and motives                             Exposure
+                                                                                                                                                         Exposure
+                                          free, transparent, informed and safe food choices, as well
+                                          as promoting a healthier diet and lifestyle, have been key
+                                          commitments in European food and public health policies,           Fig. 1. Framework for the present paper: selected determinants of
+                                          most specifically within strategies against overweight,            the communication process and its effects.
+   Proceedings of the Nutrition Society
+
+
+
+
+                                          obesity and other lifestyle-related disease risks.
+                                             There has been a growing interest, not only in the role
+                                          and mechanisms of information, but also in the evaluation          second component results from basic consumer psychology
+                                          of the various techniques and vehicles for spreading               and behaviour models, which hold that information moves
+                                          information. Much effort has been devoted to evaluating            individuals through a sequence of stages, often referred
+                                          the effects of advertising and media coverage of food              to as a hierarchy of effects(10). This concept indicates the
+                                          quality and safety issues, investigating the role of trust and     different mental stages that consumers go through after
+                                          credibility of information sources and analysing consumer          being exposed to information and when responding to
+                                          interest in and use of available information cues. Despite a       information and making buying decisions. While it is
+                                          number of attempts to map the impact of communication,             generally accepted that a structure including a cognitive
+                                          many issues relating to its exact working and effectiveness,       response (learning, knowing), an affective reaction relating
+                                          as well as to information processing by the receiving              to attitude formation (thinking, feeling) and a behavioural
+                                          audience, remain unresolved. For example, it has been              reaction (intending, doing) is valid, the sequence and
+                                          shown that communication through providing simple diet-            separation of these hierarchical steps depends on indi-
+                                          ary advice is not equally acceptable among a wide diver-           vidual-related, product-related and situational factors(11).
+                                          sity of consumers, therefore hampering compliance with                The present discussion will concentrate on selected
+                                          the communicated dietary advice(2). Furthermore, nutrition         determinants of the likelihood of information processing.
+                                          interventions or promotion campaigns aimed at stimulating          First, it will be illustrated that it cannot be assumed that
+                                          fruit and vegetable intake(3,4) or fish consumption(5,6) have      consumers will actively search for and process information
+                                          had hardly any or only a modest success at best in terms of        or that they will pay attention to information and infor-
+                                          convincing consumers to effectively adapt their dietary            mation cues, even if the objective is to reduce their
+                                          pattern. Also, in the case of nutrition information on food        uncertainty or improving their personal knowledge base
+                                          labels, there is still little insight into how labelling infor-    when making food-consumption decisions. Second, parti-
+                                          mation is or will be used by consumers in a real-world             cular attention will be paid to the impact of message type
+                                          shopping situation(7).                                             and content, as well as of different vehicles for information
+                                             The aims of the present paper are to describe a selection       provision, such as negative press v. advertising. Third, it
+                                          of relevant determinants for the effective working of the          will be argued that consumers do not form a homogeneous
+                                          communication process and the establishment of desired             market. Instead, audience segments with clearly different
+                                          communication effects. It concerns factors that act as             needs and interests can be identified, which calls for
+                                          catalysts to information processing, which is a precondition       targeted information provision efforts. The arguments will
+                                          to a campaign’s effectiveness, and therefore also to be            be supported by empirical evidence from recent consumer
+                                          accounted for when designing communication and infor-              studies dealing with meat, fish, fruit and vegetables and
+                                          mation campaigns. Fig. 1 presents the framework for the            functional foods.
+                                          present paper, which is inspired by two streams of research
+                                          with relevance to communication and consumer behaviour.
+                                          The first component is based on classical transmission               Information processing, uncertainty and knowledge
+                                          models of communication or information theory(8,9). Such
+                                                                                                                         Different modes of information processing
+                                          models basically propose that the communication process
+                                          includes a sender, source or communicator who sends a              Information processing is commonly depicted as a step-
+                                          message through a particular channel to a potential recei-         wise process, including several stages ranging from expo-
+                                          ver or audience. The reaction or feedback by the receiver          sure, attention, comprehension and acceptance to retention
+                                          depends on the processing of information within the indi-          of the message(12). An important assumption in relation to
+                                          vidual after being exposed to the information message. The         information effectiveness is that consumers should be able
+
+
+
+https://doi.org/10.1017/S0029665108007179 Published online by Cambridge University Press
+
+===== PAGE 3 =====
+Plenary Lecture                                                         283
+
+                                        and willing to process information, ideally in a rational                   Uncertainty arousing information processing?
+                                        way, i.e. work systematically through the different pro-
+                                                                                                          Uncertainty, risk, stress or threats to health and well-being
+                                        cessing stages before reaching a final judgement. In prin-
+                                                                                                          make it profitable to spend more time and resources on
+                                        ciple, rational consumers would not knowingly consume
+                                                                                                          acquiring information before decision making, and hence
+                                        unhealthy or unsafe food. However, insights from cogni-
+                                                                                                          act as potential catalysts for information-need arousal and
+                                        tive psychology and behavioural economics have shown
+                                                                                                          more active information search and processing(19). In cases
+                                        that the idea of the rational consumer who engages in
+                                                                                                          where consumers face uncertainty, an obvious solution
+                                        active reasoning once he possesses all necessary inputs,
+                                                                                                          seems to be the provision of more information. However,
+                                        capabilities and willpower is not true in many cases.
+                                                                                                          more information does not necessarily mean better-
+                                            Different approaches to information processing have
+                                                                                                          informed consumers, simply because information is likely
+                                        been presented. Two relevant ones in relation to food
+                                                                                                          to be effective only when it addresses specific information
+                                        quality and nutrition information are the heuristic–
+                                                                                                          needs and can be adequately processed and used by its
+                                        systematic model(13) and the elaboration likelihood model
+                                                                                                          target audience(20).
+                                        of persuasion(14). The heuristic–systematic model proposes
+                                                                                                             This point is illustrated by the experience from a cam-
+                                        two modes that individuals use to process information. The
+                                                                                                          paign aimed at informing beef consumers about beef-
+                                        systematic mode is based on an analytical orientation
+                                                                                                          quality labelling and traceability in Belgium(21,22). On the
+                                        in which individuals assess, investigate and integrate all
+                                                                                                          assumption that consumers who face uncertainty as a result
+                                        useful information to reach their judgement. Systematic
+ Proceedings of the Nutrition Society
+
+
+
+
+                                                                                                          of consecutive meat and other food-safety crises(23,24) will
+                                        processing takes place when an individual encounters
+                                                                                                          be more prepared to engage in active information search
+                                        information of major personal importance or relevance.
+                                                                                                          and processing, the government and the food industry
+                                        Conversely, the heuristic mode involves the use of simple
+                                                                                                          made information freely available for those consumers
+                                        decision rules or rules of thumb to reach judgements.
+                                                                                                          who felt a strong need for it. Consumer information
+                                        Heuristics allow consumers to make fast decisions in
+                                                                                                          campaigns were initiated together with the introduction of
+                                        complex situations, in situations of uncertainty or when
+                                                                                                          the mandatory beef-labelling regulation. A one-quarter-
+                                        their motivation to process information and think of
+                                                                                                          page coloured advertisement was inserted in twenty
+                                        potential consequences is low(15,16). This type of proces-
+                                                                                                          national newspapers and in four women’s magazines. The
+                                        sing is more likely to occur with low issue involvement.
+                                                                                                          advertisement included a free telephone number to call for
+                                        Also, limited cognitive capacity, low willpower or
+                                                                                                          an information leaflet about the traceability and labelling
+                                        low self-interest explain why consumers prefer routine
+                                                                                                          system. The impact of the campaign on consumer interest
+                                        or habitual purchasing or the use of heuristics for active
+                                                                                                          in information cues was measured by a pre- and post-
+                                        reasoning and extended problem solving.
+                                                                                                          campaign survey. Whereas the advertisement was found to
+                                            The elaboration likelihood model holds that individuals
+                                                                                                          succeed in terms of attracting consumers’ attention to
+                                        process persuasive messages in one of two ways of infor-
+                                                                                                          specific information cues, such as the quality label and
+                                        mation processing, the central route or the peripheral route.
+                                                                                                          indications of origin, the direct response component largely
+                                        The central route is active information processing or high
+                                                                                                          failed, with only 304 calls for the free information leaflet
+                                        elaboration and involves in-depth processing of infor-
+                                                                                                          received as opposed to a target of 15 000. The failure of
+                                        mation. The peripheral route relates to low involvement and
+                                                                                                          the direct-response component was explained by consumer
+                                        utilises external cues surrounding the information (e.g. the
+                                                                                                          involvement being too low and by reduced uncertainty
+                                        trustworthiness of the information source) to permit simple
+                                                                                                          between the period of campaign planning, shortly after the
+                                        inferences about the merits of the message content without
+                                                                                                          occurrence of the dioxin crisis in 1999 in Belgium, and the
+                                        recourse to complex cognitive processing. The elaboration
+                                                                                                          execution of the campaign >1 year later.
+                                        likelihood model conceptualisation has many parallels with
+                                                                                                             This case illustrates that it may be utopian to expect high
+                                        the heuristic–systematic model, with systematic processing
+                                                                                                          direct-response rates, even in cases where consumers are
+                                        fitting with the central route and the use of heuristics
+                                                                                                          supposed to be uncertain. Instead of engaging in active
+                                        corroborating with peripheral information processing.
+                                                                                                          information search and information processing, an alter-
+                                            Particularly in today’s food environment, with con-
+                                                                                                          native and much easier solution was to stop beef con-
+                                        sumers having relatively low levels of involvement with
+                                                                                                          sumption and substitute it with another protein source. This
+                                        food and facing some time constraints as well as products
+                                                                                                          notion fits with the rationally-ignorant consumer hypo-
+                                        with relatively low extents of differentiation, it is
+                                                                                                          thesis(25), which states that even when information is free,
+                                        acknowledged that food-related decisions are often based
+                                                                                                          it may be the most rational decision for consumers to
+                                        on heuristics or follow peripheral routes of information
+                                                                                                          remain ignorant. The reason is that the opportunity costs of
+                                        processing(17,18). In this context, brand image and corpo-
+                                                                                                          information processing (i.e. costs related to the allocation
+                                        rate identity that are, for example, linked positively with
+                                                                                                          of time, cognitive capacity and effort) are larger than
+                                        health and nutrition are important assets because of their
+                                                                                                          the expected marginal benefit of the information, thus
+                                        potential role as heuristics in consumers’ information pro-
+                                                                                                          not providing any incentive for engaging actively in the
+                                        cessing and decision making. This factor may explain why
+                                                                                                          processing of information.
+                                        food products from a brand or company with a healthy
+                                        corporate image have a higher probability of being
+                                                                                                                  Selectivity in paying attention to information cues
+                                        perceived as healthy and nutritious relative to similar, or
+                                        perhaps even healthier, products from brands or companies         The risk of information overload and potential
+                                        with a less-favourable health image.                              adverse effects resulting from consumer indifference or
+
+
+
+https://doi.org/10.1017/S0029665108007179 Published online by Cambridge University Press
+
+===== PAGE 4 =====
+284                                                         W. Verbeke
+
+                                          misunderstanding when confronted with too many infor-              Poland) and 40% (in Denmark) of the consumers wrongly
+                                          mation cues on the package or label has been clearly               believed that ‘Fish is a source of dietary fibre’. Similar
+                                          recognised(17,20). Consumers are selective in paying atten-        gaps in consumers’ objective knowledge about fish have
+                                          tion to information in general and to information cues on          previously been reported based on a Belgian consumer
+                                          food labels in particular. This selectivity has been demon-        sample(36). Most importantly, subjective knowledge was
+                                          strated, for example, in the cases of meat(22,26) and fish(27),    found to be a better predictor of fish consumption as
+                                          for which information cues such as expiry date, species            compared with objective knowledge. Furthermore, non-
+                                          name, weight and price receive much higher levels                  significant correlations between objective knowledge and
+                                          of attention than health and nutrition information, and            fish consumption level were found in the two countries
+                                          has been confirmed in a review of European consumers’              with the highest subjective knowledge, i.e. Poland and
+                                          response to nutrition information on food labels(7).               Spain. These findings suggest that the more consumers are
+                                          Although consumers generally indicate an interest in               convinced of being (subjectively) knowledgeable, the less
+                                          nutrition information, this particular interest is seldom          their factual knowledge matters as a determinant of food
+                                          among their top priorities in relation to food. Nevertheless,      choice and behaviour.
+                                          the review has indicated that interest in nutrition infor-
+                                          mation is higher for processed products than for fresh
+                                          products such as meat, fish or fruits and vegetables, and           Subjective knowledge and acceptance of functional foods
+                                          that this interest is higher if the time constraint is low(7),
+   Proceedings of the Nutrition Society
+
+
+
+
+                                                                                                             In addition, the case of functional foods illustrates the
+                                          which is one of the conditions necessary to arouse active          potential impact of consumers’ subjective knowledge.
+                                          reasoning. Taken together, the available evidence suggests         Based on consumer research in Belgium during 2001, it
+                                          that the processing of nutrition information requires more         has been found that consumers’ belief in the health benefits
+                                          active reasoning, thus more systematic information pro-            of using functional foods is the strongest determinant of
+                                          cessing, relative to other information that is apparently          accepting the concept of functional foods(37), which is in
+                                          more straightforward in its interpretation, or more prone to       line with the findings of other studies, e.g. in Finland(38).
+                                          the use of heuristics.                                             Together with the belief in their health benefit, subjective
+                                                                                                             knowledge about functional foods has emerged as an
+                                                               Role of knowledge                             important determinant of functional food acceptance.
+                                                                                                             However, in contrast with expectations, consumers with a
+                                          In addition, consumer knowledge is a relevant and impor-           high subjective knowledge have a markedly lower prob-
+                                          tant construct that influences how consumers gather and            ability of adopting functional foods in their dietary pattern.
+                                          organise information and, ultimately, what products they              Further analysis has revealed that consumers’ know-
+                                          buy and how they use them(28). Although empirical studies          ledge base about functional foods mainly results from
+                                          investigating the impact of nutrition knowledge on dietary         mass-media coverage in the form of advertising, which is
+                                          behaviour have produced mixed results, there is con-               also their least trusted information source. It should also
+                                          sensus that nutrition knowledge is a necessary, but usually        be noted that functional foods were still a relatively un-
+                                          insufficient, condition for adopting healthier eating pat-         familiar food category in the sense that consumer experi-
+                                          terns(7,29–31). It is important to distinguish between two         ence of these products was rather low in 2001, which may
+                                          knowledge constructs: perceived self-estimated or sub-             attenuate the negative impact of subjective knowledge in
+                                          jective knowledge v. factual or objective knowledge(32,33).        this case. This study illustrates the potential adverse impact
+                                          Although findings about whether or not subjective know-            of subjective consumer knowledge when this knowledge
+                                          ledge is a better predictor than objective knowledge are           results from a source with a low perceived trustworthiness.
+                                          contradictory(34), there is a consensus that knowledge
+                                          is a key construct in information processing. The potential
+                                          impact of consumer knowledge, most specifically sub-
+                                                                                                                             Message type and content
+                                          jective knowledge, will be illustrated through two cases.
+                                          The first is dealing with fish, the second with functional         Specific message content dimensions, such as the mes-
+                                          foods.                                                             sage’s tonality (e.g. transformational v. information) and
+                                                                                                             directionality (e.g. self-directed v. other-directed)(39) (for
+                                                                                                             discussion on health-motive orientations, see later), as
+                                                 Objective v. subjective knowledge about fish
+                                                                                                             well as the message’s overall appeal to positive (benefits)
+                                          Consumers’ subjective and objective knowledge about                v. negative (risks) outcomes determines its processing and
+                                          fish, as assessed in a pan-European fish consumer study,           effectiveness. A similar quantity of unfavourable news or
+                                          have been shown to differ markedly across consumers                negative news dealing, for example, with food safety risks
+                                          from different countries(35). Danish consumers followed by         weighs more heavily in consumer decision making than
+                                          Spanish consumers were found to have the highest objec-            favourable news(21,40–42), e.g. information concentrating on
+                                          tive knowledge about fish, with Polish consumers followed          nutritional and health benefits. Consumers’ expected value
+                                          by Spanish consumers having the highest subjective                 of additional information is higher when it concerns an
+                                          knowledge. The percentage of correct responses to the              issue with potential negative welfare effects than with
+                                          statement ‘Fish is a source of n-3 fatty acids’ was found to       positive welfare effects. This outcome links with prospect
+                                          vary from 68 in Poland to 91 in Denmark. On the other              theory(43), and more specifically the endowment effect(44),
+                                          hand, it was found that between 67% (in Belgium and                which explains why economic agents attach a higher value
+
+
+
+https://doi.org/10.1017/S0029665108007179 Published online by Cambridge University Press
+
+===== PAGE 5 =====
+Plenary Lecture                                                  285
+
+                                        to potential losses than potential gains. Consumers evaluate       likely to be efficient and effective when it meets specific
+                                        the consequences of negative information about potential           needs of the target audience(47). The finding that much of
+                                        health risks at higher prices than could be expected from          today’s information about food is ignored and irrelevant to
+                                        risk neutral or health benefit information.                        consumers is attributed to the fact that this information
+                                           In an initial study using time series analyses following        does not address the audience’s needs and expectations(20).
+                                        the BSE crisis it was shown that beef TV advertising               Apart from its proven usefulness in commercial marketing
+                                        expenditures would need to be increased to about five              areas, the importance of audience segmentation is increas-
+                                        times their mean level in order to maintain the beef               ingly acknowledged in social marketing as well, especially
+                                        expenditure share in the presence of a mean level of               for designing tailored health marketing campaigns that are
+                                        negative press(42). A similar ratio between the impact of          more responsive (and therefore more likely to be effective)
+                                        negative and positive news was also reported in previous           to the individual needs and motives of well-defined
+                                        studies(40). The ratio of 5: 1 is quite dramatic for those who     target audiences(48,49). Distinguishing between different
+                                        are involved in bringing positive messages to consumers            types of consumers, in particular through segmentation
+                                        (e.g. messages appealing to health benefits), particularly as      studies on consumer interest in nutrition information, has
+                                        positive news is more expensive, working more slowly and           previously been suggested as a crucial issue on future
+                                        fading away more rapidly as compared with negative news.           research agendas(7,17). In line with this suggestion, the
+                                           Also, an experimental communication testing study has           findings of three segmentation studies with relevance to
+                                        investigated the potential impact of risk v. benefit com-          communication and its potential impact on food choices
+ Proceedings of the Nutrition Society
+
+
+
+
+                                        munications, more specifically in relation to fish attribute       will be discussed.
+                                        perceptions and Belgian consumers’ intentions to eat
+                                        fish(45). Fish consumers were exposed to either a benefit
+                                                                                                                      Consumer involvement in fresh meat
+                                        only, a risk only or a balanced message about fish con-
+                                        sumption. The benefit only message, which stressed the             First, using different components of consumers’ involve-
+                                        nutritional benefits of eating fish because of its n-3 PUFA        ment in fresh meat as segmentation variables, differences
+                                        and vitamin D content, was found to increase consumers’            in information needs have been identified for four distinct
+                                        intention to eat fish by 21 % as compared with their current       consumer segments(50). Higher levels of involvement, i.e.
+                                        fish consumption level, while attribute perceptions were           personal importance attached to meat as a product category
+                                        found to only marginally improve. The finding that fish            because of higher perceived pleasure value and/or higher
+                                        attribute perception scores in terms of healthiness and            perceived risks to human health, were expected to result
+                                        nutritional value do not increase significantly, was attri-        in a greater depth of information processing and more
+                                        buted to a ceiling effect; the perception of fish as being         extended decision making.
+                                        healthy and nutritious is already so positive that it can only        The first segment, typified as ‘straightforward meat
+                                        show a minimal further increase.                                   lovers’, was found to include more men and daily fresh
+                                           The risk only message, which stressed potential toxico-         meat consumers who displayed a very low interest in
+                                        logical risks related to dioxin and methyl mercury con-            external information. The primary focus of this segment
+                                        tamination, was found to result in a very strong negative          was on taste and hedonic benefits of eating meat. Another
+                                        perceptual change, most notably in terms of health and             segment was identified as ‘indifferent meat consumers’, for
+                                        safety perception, and to translate into an 8% lower beha-         whom price was a major interest factor. These consumers
+                                        vioural intention. Finally, a balanced message referring to        were found to show the lowest involvement in fresh meat
+                                        both risks and benefits, was found to yield no significant         as compared with the other segments, which translated into
+                                        change in behavioural intention, despite a worsening of            the least-extensive decision-making process and a very low
+                                        fish attribute perception.                                         willingness to engage actively in information search and
+                                           These findings indicate that communication impacts              processing. The other two segments, both including more
+                                        differ markedly depending on the type of message and its           families with children, were found to be much more
+                                        content in terms of its appeal to risk v. benefit, as well as      interested in information. The segment of ‘cautious meat
+                                        on the level at which this impact is assessed, notably             lovers’ were involved in fresh meat both because of its
+                                        attribute perceptions (i.e. changes relating to beliefs and        pleasure value and high perceived risk. Their interest in
+                                        attitudes) v. behavioural intention (i.e. changes relating to      information was mainly related to health and nutritional
+                                        behavioural variables).                                            issues. Finally, the fourth segment was typified as ‘con-
+                                                                                                           cerned meat consumers’. This segment mainly included
+                                                                                                           consumers who had strongly reduced their meat consump-
+                                                     Segmenting the target audience                        tion because of safety concerns. Their reactions to infor-
+                                                                                                           mation were characterised by a strong belief in negative
+                                                   The need for audience segmentation
+                                                                                                           press and mass-media reporting, as well as a considerable
+                                        As consumers are not all alike they do not react                   need to receive reassurance from personal information
+                                        equally, systematically and predictably to information(46).        sources concerning meat safety and wholesomeness, e.g.
+                                        Apart from situational and product-related determinants,           from medical sources or trusted commercial sources such
+                                        numerous individual characteristics such as involvement            as their local butcher.
+                                        and knowledge, as well as attitudes, lifestyles and socio-            The findings from this involvement-based segmentation
+                                        demographics account for differences in information needs          corroborate other studies that have concluded that all con-
+                                        and reactions to communications. Information is most               sumers irrespective of their involvement are interested in
+
+
+
+https://doi.org/10.1017/S0029665108007179 Published online by Cambridge University Press
+
+===== PAGE 6 =====
+286                                                         W. Verbeke
+
+                                          tangible quality attributes like taste, while only the more-              Use of and trust in fish information sources
+                                          or highly-involved consumers may additionally demand
+                                          intangible quality attributes, e.g. information related to         The third segmentation case deals with consumers’ use of
+                                          credence qualities such as health or safety(51). This case of      and trust in information sources about fish(53). An earlier
+                                          involvement-based segmentation stresses the role and               application of the idea of segmenting consumers based
+                                          importance of involvement as a motivational force that             on their use of information sources has identified five
+                                          stimulates information-seeking behaviour and information           segments that differ in terms of reported use of food-
+                                          processing, and therefore also the potential effectiveness of      safety-related information sources, personality character-
+                                          communication. The fact that involvement-based segments            istics and socio-demographics(54). In the study dealing
+                                          with clear differences in information needs could be               with fish perceived trust together with source usage were
+                                          identified is an initial argument in favour of adequate            added as segmentation variables(53). Trust plays a crucial
+                                          segmentation and targeting in information provision.               role in the utilisation of provided information. The value
+                                                                                                             of information becomes zero, or even negative, if the
+                                                                                                             information source itself is not trusted(55). Thus, trust is
+                                                   Health-motive orientations and fruit and                  an important antecedent to information processing and
+                                                           vegetable consumption                             effectiveness in general. Trust can also act as a catalyst
+                                          The second segmentation case relates to health motives in          to the peripheral information processing route or as a
+                                          the context of fruit and vegetable consumption(39,52). The         heuristic for reaching judgements and making decisions
+   Proceedings of the Nutrition Society
+
+
+
+
+                                          proposition for study was that the only modest success of          more easily.
+                                          public health campaigns aimed at increasing fruit and                 Three consumer groups, based on their use and trust in
+                                          vegetable consumption may be the result of a disregard             fifteen potential information sources about fish, were
+                                          of the possibility that the total population consists of a         identified(53). These three clusters were found to differ in
+                                          number of smaller subgroups with distinct need patterns.           their use of potential and existing information cues, beha-
+                                          Based on this proposition that several subgroups may               viour toward fish consumption, knowledge about fish and
+                                          exist within a population for which health has another             socio-demographic composition, which yields opportu-
+                                          distinct meaning, a segmentation scheme using partici-             nities for targeted information provision efforts.
+                                          pants’ health-related-motive orientations, i.e. psychological         The first segment, termed ‘sceptics’, includes consumers
+                                          meanings that individuals attribute to health and that             who are very passive toward trusting and using any infor-
+                                          motivate health-related behaviour, has led to the identifi-        mation relating to fish. This segment was found to include
+                                          cation of five consumer segments. These five segments              more older and male consumers who had the lowest fish
+                                          could be organised along two bipolar dimensions, which             consumption level. From a public health perspective this
+                                          represent an intrapersonal (emotional v. functional) and           segment represents a very relevant target for stimulating
+                                          interpersonal (individualistic v. altruistic) health perception    fish intake. However, this group is also the most difficult
+                                          respectively.                                                      group to reach for communicators and marketers because
+                                             Although it was found that the segments do not differ a         of their genuine disinterest in any information about fish.
+                                          priori in terms of fruit and vegetable consumption, they do        ‘Enthusiasts’ were found to constitute the biggest con-
+                                          react differently to targeted fruit and vegetable advertise-       sumer segment. They use and trust all information sources
+                                          ment. In particular, all segments were found to respond            about fish. In general, they are the most interested in
+                                          more positively toward the health advertisement that was           information about fish and they use information cues on
+                                          designed and expected to be most responsive to their               fish labels quite intensively, including available nutrition
+                                          underlying health-related-motive orientations, i.e. a trans-       information. This segment was found to consist of rela-
+                                          formational and self-directed message for the ‘energetic           tively more women than men. Finally, the third segment,
+                                          experimenters’ (who have a predominantly emotional and             ‘confident fish consumers’, was found to be the smallest
+                                          individualistic health orientation), a transformational and        segment, consisting of relatively more younger consumers
+                                          other-directed message for the ‘harmonious enjoyers’ (who          who do not really use any information sources but have
+                                          have a predominantly emotional and altruistic health               high trust in independent information sources such as
+                                          orientation), an informational and other-directed message          government, scientists and consumer organisations. They
+                                          for the ‘normative carers’ (given this segment’s functional        simply ‘trust the system’. This consumer group, together
+                                          and altruistic health orientation) and an informational and        with the ‘sceptics’, was found to report a low fish con-
+                                          self-directed advertisement for the ‘conscious experts’            sumption level. However, this group is the easiest group to
+                                          and ‘rationalists’ (given these segments’ functional and           reach for communicators and marketers because of their
+                                          individualistic health orientation). Thus, apart from demon-       high level of trust in information sources.
+                                          strating the practical usefulness of this segmentation based          Interestingly, this study has also revealed that there is no
+                                          on health-related-motive orientations in a food choice             group of consumers who report very low trust levels,
+                                          context, the study also shows that a segment’s reactions to        combined with high levels of use of information sources
+                                          targeted communications (in terms of attitude toward the           related to fish. This finding indicates that a minimum level
+                                          advertisement and behavioural intention in relation to fruit       of trust may be required before information sources are
+                                          and vegetable consumption) are more positive to well-              critically examined and used(55). In the extreme situation of
+                                          designed messages targeted to appeal to particular health          very low trust consumers are unlikely to examine infor-
+                                          motives as pursued by the individuals belonging to the             mation sources in any way, i.e. neither critically nor
+                                          specific segment.                                                  uncritically.
+
+
+
+https://doi.org/10.1017/S0029665108007179 Published online by Cambridge University Press
+
+===== PAGE 7 =====
+Plenary Lecture                                                        287
+
+                                                                Conclusions                                Research Project SEAFOODplus project, contract No
+                                                                                                           FOOD-CT-2004-506359. The financing of this work by the
+                                        Although consumers’ food choices and behaviour change
+                                                                                                           EU is gratefully acknowledged.
+                                        can be influenced by information and its processing by the
+                                        target audience, the working and effectiveness of communi-
+                                        cation efforts cannot be taken for granted. In particular,                                   References
+                                        messages promoting positive outcomes, such as health and
+                                        nutritional benefits, face difficulties in effectively achiev-      1. Grunert KG (2005) Food quality and safety: consumer
+                                        ing their objective of establishing healthier food choices.            perception and demand. Eur Rev Agric Econ 32, 369–391.
+                                        Health and nutrition are weighed against other motives              2. Burr ML (2007) Secondary prevention of CHD in UK men:
+                                        for food choice such as taste, price and convenience, and              the Diet and Reinfarction Trial and its sequel. Proc Nutr Soc
+                                                                                                               66, 9–15.
+                                        related information is spread in an environment charac-             3. Glanz K & Yaroch AL (2004) Strategies for increasing
+                                        terised by increasingly fierce competition to gain con-                fruit and vegetable intake in grocery stores and communities:
+                                        sumers’ attention, processing capacity and willpower.                  policy, pricing and environmental change. Prev Med 39,
+                                        Numerous personal and environmental factors determine                  S75–S80.
+                                        whether behaviour change is initiated and maintained.               4. Mangunkusumo RT, Brug J, de Koning HJ, van der Lei J &
+                                        Likewise, many of these factors determine whether                      Raat H (2007) School-based internet-tailored fruit and vege-
+                                        consumers are able and willing to spend time and effort on             table education combined with brief counselling increases
+ Proceedings of the Nutrition Society
+
+
+
+
+                                        the processing of food-related information, which is a                 children’s awareness of intake levels. Public Health Nutr 10,
+                                        precondition for a campaign’s effectiveness in terms of                273–279.
+                                        improving consumer knowledge, changing their attitudes              5. Deckelbaum RJ & Akabas SR (2006) n-3 Fatty acids and
+                                                                                                               cardiovascular disease: navigating toward recommendations.
+                                        and ultimately redirecting their behaviour. The present                Am J Clin Nutr 84, 1–2.
+                                        paper has discussed a selection of these determinants.              6. Sioen I, De Henauw S, Verbeke W, Verdonck F, Willems JL
+                                        Information processing is largely conditional on whether               & Van Camp J (2008) Fish is a safe solution to increase
+                                        consumers perceive a real need for information, as well as             the intake of omega-3 fatty acids. Public Health Nutr (In the
+                                        a clear benefit from engaging in active reasoning and using            Press).
+                                        the information provided. Such benefits may pertain                 7. Grunert KG & Wills JM (2007) A review of European
+                                        to reducing consumers’ uncertainty and improving their                 research on consumer response to nutrition information on
+                                        objective and subjective knowledge base, or to assisting               food labels. J Public Health 15, 384–399.
+                                        consumers in making choices that better align with their            8. Shannon CE (1948) A mathematical theory of communica-
+                                        actual preferences. Much of today’s food-related informa-              tion. AT&T Tech J (Bell System Tech J) 27, 379–423, 623–
+                                                                                                               656.
+                                        tion may be either irrelevant to or simply overloading              9. Berlo D (1960) The Process Of Communication. New York:
+                                        consumers, and therefore risks resulting in ignorance,                 Holt, Rinehart and Winston Inc.
+                                        indifference, boredom or misunderstanding. Such infor-             10. Lavidge RJ & Steiner GA (1961) A model for predictive
+                                        mation clearly fails to appeal to the needs, expectations              measurements of advertising effectiveness. J Marketing 25,
+                                        and interests of well-defined target segments within the               59–62.
+                                        population. Invariably, the three segmentation studies that        11. Vakratsan D & Ambler T (1999) How advertising works:
+                                        have been discussed, which were based on involvement,                  What do we really know? J Marketing 63, 26–43.
+                                        health-related-motive orientations and use and trust in            12. Engel J, Blackwell R & Miniard P (1995) Consumer Beha-
+                                        information sources respectively, illustrate that consumers            vior. Fort Worth, TX: The Dryden Press.
+                                        form a heterogeneous market composed of different seg-             13. Chaiken S (1980) Heuristic versus systematic information
+                                                                                                               processing and the use of source versus message cues in
+                                        ments with distinct information needs and information                  persuasion. J Pers Soc Psychol 39, 752–766.
+                                        acquisition and usage patterns. These findings, supported          14. Petty RE & Cacioppo JT (1986) Communication and
+                                        by other segmentation studies(48,54), as well as being re-             Persuasion: Central and Peripheral Routes to Attitude
+                                        inforced by a strong call for further research efforts to              Change. New York: Springer-Verlag.
+                                        distinguish between different types of consumers in rela-          15. Tversky A & Kahneman D (1974) Judgment under uncer-
+                                        tion to their needs and interests in nutrition information(7),         tainty: Heuristics and biases. Science 185, 1124–1131.
+                                        support the need for communication strategies that include         16. Chen S & Chaiken S (1999) The heuristic-systematic model
+                                        the development of targeted information provision. Such                in its broader context. In Dual Process Theories in Social
+                                        efforts are expected to stand a higher chance of being                 Psychology, pp. 73–96 [S Chaiken and Y Trope, editors].
+                                        attended to and processed by the receiving audience,                   New York: Guilford Press.
+                                                                                                           17. Verbeke W (2005) Agriculture and the food industry in the
+                                        and therefore also a higher possibility of yielding their              information age. Eur Rev Agric Econ 32, 347–368.
+                                        envisaged impact in terms of food choice and dietary               18. Frewer LJ, Fischer A, Scholderer J & Verbeke W
+                                        behaviour.                                                             (2003) Food safety and consumer behaviour. In Innovation
+                                                                                                               of Food Production Systems: Product Quality and
+                                                                                                               Consumer Acceptance, pp. 125–146 [WMF Jongen and
+                                                            Acknowledgements                                   MTG Meulenberg, editors]. Wageningen, The Netherlands:
+                                                                                                               Wageningen Academic Publishers.
+                                        The author declares no conflicts of interest or any financial      19. Aaker DA, Batra R & Myers JG (1992) Advertising
+                                        interests in a product, company or institution that is                 Management. Englewood Cliffs, NJ: Prentice Hall.
+                                        relevant to this article. The author’s own studies relating to     20. Salaün Y & Flores K (2001) Information quality: meeting
+                                        fish were mainly performed within the EC FP6 Integrated                the needs of the consumer. Int J Inform Manage 21, 21–37.
+
+
+
+
+https://doi.org/10.1017/S0029665108007179 Published online by Cambridge University Press
+
+===== PAGE 8 =====
+288                                                             W. Verbeke
+
+                                          21. Verbeke W, Ward RW & Avermaete T (2002) Evaluation of              38. Urala N & Lähteenmäki L (2004) Attitudes behind con-
+                                              publicity measures relating to the EU beef labelling system in         sumers’ willingness to use functional foods. Food Qual
+                                              Belgium. Food Policy 27, 339–353.                                      Prefer 15, 793–803.
+                                          22. Verbeke W & Ward RW (2006) Consumer interest in infor-             39. Geeroms N, Verbeke W & Van Kenhove P (2008) Health
+                                              mation cues denoting quality, traceability and origin: An              advertising to promote fruit and vegetable intake: Applica-
+                                              application of ordered probit models to beef labels. Food              tion of health-relate motive orientation. Food Qual Prefer 19,
+                                              Qual Prefer 17, 453–467.                                               481–497.
+                                          23. Verbeke W (2001) Beliefs, attitude and behaviour towards           40. Mizerski R (1982) An attribution explanation of the dis-
+                                              fresh meat revisited after the dioxin crisis. Food Qual Prefer         proportionate influence of unfavorable information. J Con-
+                                              12, 489–498.                                                           sum Res 9, 301–310.
+                                          24. Verbeke W & Van Kenhove P (2002) Impact of emotional               41. Kinnucan H, Myrland O & Paudel L (2003) Relative impacts
+                                              stability and attitude on consumption decisions under                  of health information and advertising on commodity markets:
+                                              risk: The Coca-Cola case in Belgium. J Health Comm 7,                  US meats. In Health, Nutrition and Food Demand, pp. 187–
+                                              455–472.                                                               202 [WS Chern and K Rickertsen, editors]. Wallingford,
+                                          25. McCluskey JJ & Swinnen JFM (2004) Political economy of                 Oxon: CABI Publishing.
+                                              the media and consumer perceptions of biotechnology. Am J          42. Verbeke W & Ward RW (2001) A fresh meat almost ideal
+                                              Agric Econ 86, 1230–1237.                                              demand system incorporating negative TV press and adver-
+                                          26. Bernues A, Olaizola A & Corcoran K (2003) Labelling                    tising impact. Agric Econ 25, 359–374.
+                                              information demanded by European consumers and relation-           43. Kahneman D & Tversky A (1979) Prospect theory: An
+   Proceedings of the Nutrition Society
+
+
+
+
+                                              ships with purchasing motives, quality and safety of meat.             analysis of decision under risk. Econometrica 47, 263–292.
+                                              Meat Sci 65, 1095–1106.                                            44. Kahneman D, Knetsch JL & Thaler RH (1990) Experimental
+                                          27. Verbeke W, Pieniak Z, Brunsø K, Scholderer J & Olsen SO                tests of the endowment effect and the Coase theorem. J Polit
+                                              (2008) Evaluating consumer information needs in the                    Econ 98, 1325–1348.
+                                              purchase of seafood products. In Improving Seafood Products        45. Verbeke W, Vanhonacker F, Frewer LJ, Sioen I, De Henauw
+                                              for the Consumer [T Børresen, editor]. Cambridge: Wood-                S & Van Camp J (2008) Communicating risks and benefits
+                                              head Publishing (In the Press).                                        from seafood consumption: Impact on Belgian consumers’
+                                          28. Alba JW & Hutchinson JW (1987) Dimensions of consumer                  perception and intention to eat fish. Risk Anal (In the Press).
+                                              expertise. J Consum Res 13, 411–454.                               46. Golan E, Kuchler F, Mitchell L, Greene C & Jessup A (2001)
+                                          29. Shepherd R & Towler G (2007) Nutrition knowledge,                      Economics of food labelling. J Consum Policy 24, 117–184.
+                                              attitudes and fat intake: Application of the theory of reasoned    47. Wilson TD (1981) On user studies and information needs.
+                                              action. J Hum Nutr Diet 20, 159–169.                                   J Doc 37, 3–15.
+                                          30. Wardle J, Parmenter K & Weller J (2000) Nutrition know-            48. Forthofer MS & Bryant CA (2000) Using audience-
+                                              ledge and food intake. Appetite 34, 269–275.                           segmentation techniques to tailor health behavior change
+                                          31. Worsley A (2002) Nutrition knowledge and food consump-                 strategies. Am J Health Behav 24, 36–43.
+                                              tion: Can nutrition knowledge change food behaviour. Asia          49. Freimuth V, Cole G & Kirby S (2001) Issues in evaluating
+                                              Pac J Clin Nutr 11, S579–S585.                                         mass media health communication campaigns. In Evaluation
+                                          32. Brucks M (1985) The effects of product class know-                     in Health Promotion: Principles and Perspectives, pp. 475–
+                                              ledge on information search behavior. J Consum Res 12,                 492 [I Rootman, M Goodstadt, B Hyndman, DV McQueen, L
+                                              1–16.                                                                  Potvin, J Springett and E Ziglio, editors]. Copenhagen,
+                                          33. Park CW, Mothersbaugh DL & Feick L (1994) Consumer                     Denmark: WHO Regional Office for Europe.
+                                              knowledge assessment. J Consum Res 21, 71–82.                      50. Verbeke W & Vackier I (2004) Profile and effect of con-
+                                          34. Radecki CM & Jackard J (1995) Perceptions of knowledge,                sumer involvement in fresh meat. Meat Sci 67, 159–168.
+                                              actual knowledge, and information search behaviour. J Exp          51. McEachern MG & Schröder MJA (2002) The role of live-
+                                              Soc Psychol 31, 107–138.                                               stock production ethics in consumer values towards meat.
+                                          35. Pieniak Z, Verbeke W, Brunsø K & Olsen SO (2006) Con-                  J Agric Environ Ethics 15, 221–237.
+                                              sumer knowledge and interest in information about fish. In         52. Geeroms N (2007) Towards a better understanding of
+                                              Seafood Research from Fish to Dish, pp. 229–239 [JB Luten,             motivational consumer research: Cross-validation, construct
+                                              C Jacobsen, K Bekaert, A Sæbø and J Oehlenschlaeger,                   validation and application of a psychological taxonomy of
+                                              editors]. Wageningen, The Netherlands: Wageningen Aca-                 consumer motives. PhD Thesis, Ghent University, Belgium.
+                                              demic Publishers.                                                  53. Pieniak Z, Verbeke W, Scholderer J, Brunsø K & Olsen SO
+                                          36. Verbeke W, Sioen I, Pieniak Z, Van Camp J & De Henauw S                (2007) European consumers’ use of and trust in information
+                                              (2005) Consumer perception versus scientific evidence about            sources about fish. Food Qual Prefer 18, 1050–1063.
+                                              health benefits and safety risks from fish consumption. Public     54. Kornelis M, de Jonge J, Frewer LJ & Dagevos H (2007)
+                                              Health Nutr 8, 422–429.                                                Consumer selection of food safety information sources. Risk
+                                          37. Verbeke W (2005) Consumer acceptance of functional foods:              Anal 27, 327–335.
+                                              socio-demographic, cognitive and attitudinal determinants.         55. Thiede M (2005) Information and access to health care: is
+                                              Food Qual Prefer 16, 45–57.                                            there a role for trust? Soc Sci Med 61, 1452–1462.
+
+
+
+
+https://doi.org/10.1017/S0029665108007179 Published online by Cambridge University Press

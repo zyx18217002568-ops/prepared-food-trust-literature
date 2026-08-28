@@ -1,0 +1,445 @@
+SOURCE_PDF: 1.3_文献不足/补充文献_16篇/PDF全文/49_杰_蔡_2013_The_Willingness_to_Pay_for_the_Pork_with_Different_Information_of_Traceability_Based_on_BD.pdf
+EXTRACTION_STATUS: ok
+PAGES: 6
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+Hans Journal of Food and Nutrition Science 食品与营养科学, 2013, 2, 6-11
+http://dx.doi.org/10.12677/hjfns.2013.21002 Published Online February 2013 (http://www.hanspub.org/journal/hjfns.html)
+
+
+
+The Willingness to Pay for the Pork with Different
+Information of Traceability Based on BDM Experimental
+Auction: The Case of Wuxi City, Jiangsu Province*
+
+Jie Cai1, Hongsha Wang2, Dian Zhu1, Linhai Wu2
+1
+ School of Business, Suzhou University, Suzhou
+2
+ Jiangsu Province Research Base of Food Safety, Jiangnan University, Wuxi
+Email: wlh6799@vip.163.com, 15950078503@139.com
+
+Received: Nov. 12th, 2012; revised: Nov. 23rd, 2012; accepted: Dec. 10th, 2012
+
+Abstract: By using the BDM experimental auction, this paper researches consumers’ willingness to pay for the pork
+with different information of traceability. The data was collected from 131 consumers of Wuxi, Jiangsu Province. The
+conclusion indicates that: female, young, well-educated and better familiarities with the traceability food, the WTP to
+the high level of the traceability food are higher. To produce different kinds of the traceability pork in order to meet
+market demand is not only the objective requirements for the producers, but also the demand of the food industry struc-
+tural transformation.
+
+Keywords: Traceability Pork; Different Levels of the Information; Willingness to Pay; Experimental Auction; Wuxi
+          City Jiangsu Province
+
+
+
+基于 BDM 实验拍卖法的消费者对不同信息层次可追溯猪肉的
+支付意愿：江苏无锡市的案例*
+
+蔡     杰 1，王红纱 2，朱                  淀 1，吴林海 2
+1
+ 苏州大学商学院，苏州
+2
+ 江南大学江苏省食品安全研究基地，无锡
+Email: wlh6799@vip.163.com, 15950078503@139.com
+
+收稿日期：2012 年 11 月 12 日；修回日期：2012 年 11 月 23 日；录用日期：2012 年 12 月 10 日
+
+
+摘     要：本文以江苏省无锡市 131 名消费者为对象，采用 BDM 实验拍卖法研究消费者对不同信息层次可追溯
+猪肉的支付意愿。研究结论表明：女性、年轻、高学历、对可追溯食品的认知程度越高则对高层次的可追溯猪
+肉具有更高的偏好。生产不同类型的可追溯猪肉以满足市场需求，既是对生产者提出的客观要求，也是食品工
+业结构转型的需要，更能保障食品安全。
+
+关键词：可追溯猪肉；不同信息层次；支付意愿；实验拍卖法；江苏无锡市
+
+
+1. 引言                                                                            每年均有大量的消费者面临着不同的食品安全风险
+                                                                                 问题(Sarig et al., 2003)[1]。而近年来在我国三鹿奶粉、
+      食品安全是世界性难题。事实上，在世界范围内
+                                                                                 双汇瘦肉精、上海超市染色馒头等食品安全事故的持
+*
+ 基金项目：国家自然科学基金项目(批准号：71273117)、教育部人                                              续爆发，凸显了食品安全在处于深度转型期的中国更
+文社会科学一般项目(12YJC630326)、江苏省高校社科重大项目
+(2011ZDAXM018)。                                                                  具复杂性(吴林海等，2010)[2]。
+
+
+6                                                                                                     Copyright © 2013 Hanspub
+
+===== PAGE 2 =====
+基于 BDM 实验拍卖法的消费者对不同信息层次可追溯猪肉的支付意愿：江苏无锡市的案例
+
+
+       在我国层出不穷的食品安全问题，最根本的原因                                支付意愿。本研究尝试使用实验拍卖法展开研究。
+是由于消费者与生产者之间的信息不对称。食品可追                                        食品种类繁多。猪肉是中国消费最普通的食品，
+溯体系通过在供应链上记录保存原产地、屠宰加工、                                     而且可追溯猪肉也是国内市场出现最早的食品之一。
+运输销售等信息(Sarig, 2003; Regattieri et al., 2007)       [3,4]
+                                                        ，   故本文以可追溯猪肉作为案例研究消费者对不同层
+使得食品供应链各个环节对于消费者更加透明(Opara,                                 次可追溯食品的偏好。
+2003)[5]，因此食品可追溯体系可有效解决消费者与生
+                                                            3. 实验地点与实验设计
+产者之间的信息不对称问题(Hobbs, 2004)[6]，目前已
+被认为是从根本上预防食品安全风险的主要工具之                                      3.1. 实验地点
+一(Verbeke, 2001; Van Rijswijk et al., 2008)[7,8]。
+                                                               2010 年 8 月无锡市被国家商务部、财政部确定为
+       与普通食品相比较，生产具有安全信息属性
+                                                            我国第一批肉类流通追溯体系建设试点城市，并于
+(attributes)的可追溯食品需要增加生产成本(Glynn et
+                                                            2011 年底前基本完成追溯体系建设。目前无锡市区已
+al., 2006)[9]，成本高低取决于所包含安全信息是否完
+                                                            在 2 家定点屠宰场、1 家猪肉批发市场、30 家农贸市
+整，即取决于安全信息属性的层次(levels)的高低，并
+                                                            场、51 家连锁门店与部分超市大卖场等 80 多个流通
+最终体现在可追溯食品的市场价格上。虽然可追溯食
+                                                            节点建成肉类流通追溯项目并投入运行，市区已有
+品 有 助 于 消 费 者 识 别 食 品 安 全 风 险 (Golan et al.,                15,463 户猪肉经营户纳入肉类流通追溯体系，已向中
+2004)[10]，但基于价格属性与个体特征的影响(Angulo                            央平台上传数据 1800 多万条。目前，无锡市区基本
+and Gil, 2007)[11]，消费者对具有不同层次安全信息属                          形成了肉类流通从批发到零售终端全过程、全方位较
+性的可追溯食品的偏好并不相同，并不是安全信息越                                     完整的肉类追溯体系和食品监管信息网络，初步实现
+完整的可追溯食品的市场需求就越大。如何从实际出                                     了对肉类流通的闭环监管和来源可追溯、去向可查
+发，研究社会对具有不同层次安全信息属性的可追溯                                     证、责任可追究，基本实现了“流通千万里，追溯零
+食品的偏好，由此寻求消费者、生产者与政府共同分                                     距离”。本研究将实验地点设在无锡市滨湖区周新农
+担额外生产成本的机制，逐步推广和普及可追溯食                                      贸市场。原因在于周新农贸市场 2011 年 9 月开始试
+品，以防范食品安全风险就显得尤为重要。                                         点肉类追溯体系，位于大型商品房小区与安置房集聚
+
+2. 研究方法与食品品种选择                                              区的中心地带，且毗邻多个高校，不仅可获得多样性
+                                                            的样本，而且消费者相对了解可追溯肉类制品。
+       研究消费者消费偏好最常用的方法是条件价值
+评估法(contingent valuation method, CVM)，主要研究                  3.2. 实验标的物
+消费者的陈述性偏好(Stated Preference)。但国内外学                             实验拍卖的重要准则之一是标的物必须相同。由
+者们对 CVM 的准确性也有质疑，且认为假设性和策                                   于猪后腿肉是消费者经常购买的猪肉品种(王怀明等，
+略性偏误是影响准确性的主要原因(Tsai et al., 2004)                          2011)[17]，因此选取猪后腿肉作为本次实验的标的物。
+[12]
+   。由于消费者对假想市场的消费意愿的回答与真实                                   完整的可追溯猪肉所包含的信息不仅包括原产地、动
+市场的反映并不一致，通常会出现消费者夸大实际消                                     物福利、质量安全担保等信息，还应涵盖生产、加工、
+费意愿的策略性偏误，产生假设性偏误是必然的(Lusk,                                 流通等主要环节信息(Hobbs, 1996; Sparling et al.,
+2003; 张志强等，2003)[13,14]。由于实验拍卖法(Experi-                     2006; 马从国等，2008)[18-20]。为了体现可追溯猪肉的
+mental Auction Methods)能较好地观察和识别消费者                         不同安全信息层次，本研究设定了三种类型的可追溯
+实际的购买行为，业已成为国外学者们研究消费者消                                     猪肉，如表 1 所示。
+费偏好的重要工具。Dickinson and Bailey(2002)[15] 、
+                                                            3.3. 实验拍卖机制的选择
+Hobbs(2005)[16] 等运用这一方法分别研究了消费者对
+可追溯食品的消费偏好，并发现消费者对融合可追溯                                        基于标准拍卖机制如英式拍卖存在信息关联、获
+和其他食品安全保证信息的可追溯食品具有更高的                                      胜者效应等缺陷，而 BDM(Becker-DeGroot-Marschak,
+
+
+Copyright © 2013 Hanspub                                                                          7
+
+===== PAGE 3 =====
+基于 BDM 实验拍卖法的消费者对不同信息层次可追溯猪肉的支付意愿：江苏无锡市的案例
+
+
+    Table 1. Set different safety information of the traceability pork
+                 表 1. 不同安全信息的可追溯猪肉设定
+                                                                         查数据存在一定的差异性。原因是本研究采样对象主
+                                                                         要是进入农贸市场的食品消费者，女性是家庭成员中
+              三种包含不同安全信息层次的可追溯猪后腿肉
+                                                                         食品的主要购买者，女性比例略高符合客观实际。从
+               类型一                            仅包含养殖信息
+                                                                         表 2 还可以看出猪肉购买者的其他特征：以“26~40
+               类型二                         包含养殖与屠宰信息
+                                                                         岁”年龄段为主，占比 40.46%；76.33%的人受教育程
+               类型三                    包含养殖、屠宰、运输销售信息
+                                                                         度在高中及以下，学历较低；个人月收入水平在“2000
+                                                                         元以下”、“2000~5999 元”占比分别为 46.56%、
+1964)[21]机制并不需要竞买人群体参与，适合作个体实
+                                                                         43.51%。同时有 52.67%的家庭有 18 岁以下小孩。
+验，从而可以克服在群体拍卖时竞买人之间产生信息
+关联的缺陷(朱淀、蔡杰，2012)[22]。正由于 BDM 机                                          4.2. 参与者对食品安全的关注度
+制具有这一优点，目前已被国外学者广泛应用于引导                                                     消费者理性偏好以完备性假设为基础，即以对商
+消费者对物品的支付意愿(Noussair et al., 2004)[23]。因                                 品充分认知为基础。对可追溯食品偏好改变的具体过
+此从科学性出发，本研究的实验方法采用 BDM 机制                                                程为：食品安全事故的发生–对食品安全的关注–可
+1
+    ，参与者需要在该机制下依次对三种不同信息层次的                                              追溯食品的认知–可追溯食品的偏好。图 1 显示了在
+可追溯猪肉进行出价，在每次出价结束后，研究人员                                                  参与者中是否因食用过不健康食品引发疾病以及是
+会从随机价格发生器中抽出一个价格，比较出价与随                                                  否知道“瘦肉精”事件的占比。由图可见 10.69%的参
+机价的大小来判断输赢。三次出价结束后，由参与者                                                  与者曾因食用不健康食品引发疾病；74.05%的参与者
+随机抽取一轮作为最后的结算轮数 2。                                                       知道“瘦肉精”事件。
+4. 样本统计性特征                                                                  图 2 表示参与者对食品安全的关注度。
+                                                                                              图 2 显示，
+                                                                         67.18%的参与者表示非常关注，仅有 3.05%的参与者
+        实验拍卖结束后，每位参与者需要填写一份调查
+                                                                         表示从不关注。
+问卷。问卷主要包括参与者基本的人口统计特征(具体
+包括性别、年龄、学历、收入、家中是否有 18 岁以                                                4.3. 参与者对可追溯食品的认知
+下小孩等)、对食品安全的关注度(包括是否曾因食用                                                    在所有参与者中，了解可追溯食品的参与者占
+不健康食品引发疾病，是否了解“瘦肉精”事件等)、
+                                                                           Table 2. Basic statistical characteristics of the participants
+对可追溯猪肉的认知等三个部分。由研究人员一对一                                                                    表 2. 参与者基本统计特征
+地当场指导参与者填写，以确保真实、有效。
+                                                                           统计特征               分类指标               人数(人)         有效比例(%)
+4.1. 参与者个体统计特征                                                                                    男                 59             45.04
+                                                                             性别
+                                                                                                  女                 72             54.96
+        本次实验共招募到 133 位参与者，
+                         有效样本为 131
+                                                                                             25岁及以下                 22             16.79
+份，占 98.5%。表 2 描述了本研究接受实验的 131 位
+                                                                                               26~40岁               53             40.46
+猪肉购买者的个体特征。表 2 显示，本次实验所有参                                                    年龄
+                                                                                               41~55岁               36             27.48
+与者中，女性比例高于男性，分别为 54.96%和 45.04%。                                                             56岁及以上                 20             15.27
+然而，根据第六次全国人口普查数据，无锡市男女比                                                                      高中及以下                  100            76.33
+例占比为 51.87%和 48.13%，显然实验样本与人口普                                               学历              大专及本科                  25             19.08
+
+                                                                                            研究生及以上                   6             4.58
+1
+  在 BDM 机制下，参与者对物品递交一个报价，然后研究者在一
+                                                                                              2000以下                61             46.56
+个价格区间段[a,b]随机选取该物品的价格。如果参与者的出价高于
+卖价，则得到该物品并支付这个卖价。如果出价低于这个卖价，那                                             个人月收入               2000~5999             57             43.51
+么参与者不能获得该物品，当然也无需支付。
+2                                                                                            6000及以上                13             9.92
+  比如，参与者抽取的是第一轮，那么以第一轮的结果进行结算。例
+如，在该轮中出价为 3 元，而随机抽取的价格为 2.5 元，那么参与                                       家中是否有18岁                 是                 69             52.67
+者获胜，将普通猪肉换取第一种类型的可追溯猪肉，并支付给研究                                             以下小孩                    否                 62             47.33
+人员 2.5 元。
+
+
+8                                                                                                             Copyright © 2013 Hanspub
+
+===== PAGE 4 =====
+基于 BDM 实验拍卖法的消费者对不同信息层次可追溯猪肉的支付意愿：江苏无锡市的案例
+
+           100.00%
+            90.00%                                                        参与者的安全意识仍然普遍较低。
+            80.00%
+            70.00%
+            60.00%
+                                                                          5. 消费者对可追溯猪肉支付意愿(WTP)
+                                                是否因食用不健康食品
+            50.00%
+            40.00%
+                                                引发疾病                         影响因素分析
+                                                是否知道“瘦肉精”事
+            30.00%                              件
+            20.00%                                                              表 3 表示每轮出价 WTP(Willingness-To-Pay)均
+            10.00%
+             0.00%                                                        值。由表 3 可知，三次出价的均值分别为 1.8634 元、
+                       是            否
+                                                                          2.8084 元、3.9939 元。总体而言，对于每增加一类可
+  Figure 1. Participants’ perception on the ractopamine and the
+                         safety of the diet                               追溯信息，消费者的平均 WTP 增加 1 元左右。在每
+          图 1. 参与者对瘦肉精的认知及饮食安全状况
+                                                                          一轮实验中，如果参与者的出价高于该轮的平均价，
+           80.00%                                                         则认为其对该轮的可追溯猪肉支付意愿高。在三轮实
+           70.00%                                                         验中，出价高于平均价的参与者所占的比例分别为
+           60.00%
+           50.00%                                                         49.62%、45.80%、48.10%。
+           40.00%
+           30.00%                                                         5.1. 参与者基本特征对 WTP 的影响
+           20.00%
+           10.00%
+                                                                                表 4 表示参与者基本特征对 WTP 的影响。从性
+            0.00%
+                      非常关注          偶尔关注           从不关注
+                                                                                       Table 3. The average of WTP in every bid
+  Figure 2. The degree of concern of participants for food safety                             表 3. 每轮出价 WTP 均值
+                图 2. 参与者对食品安全的关注度
+                                                                                        样本                           出价高于均
+                                                                                                 均值       标准差                        占比
+                                                                                        总数                            值样本数
+                                                                              第一次
+53.44%，不了解的则占 46.46%，差异并不大。可见目                                                             131   1.8634   1.20615         65       49.62%
+                                                                              出价
+前公众对于可追溯食品还处在一个逐渐熟悉了解的                                                        第二次
+                                                                                           131   2.8084   1.60380         60       45.80%
+                                                                              出价
+阶段。此外，统计结果表明 70.99%的参与者表示从不                                                   第三次
+                                                                                           131   3.9939   2.19607         63       48.10%
+关注猪肉是否具有可追溯标签，这说明在购买猪肉时                                                       出价
+
+
+                                   Table 4. The influence of the participants’ basic characteristics to WTP
+                                                     表 4. 参与者基本特征对 WTP 影响
+
+    统计                     分类             样本       第一轮出价高于该轮平均价                   第二轮出价高于该轮平均价                      第三轮出价高于该轮平均价
+    特征                     指标             总数         样本数              占比            样本数              占比             样本数            占比
+
+                           男               59           26           44.07%            22           37.29%           23           38.98%
+    性别
+                           女               72           39           54.17%            38           52.78%           40           55.56%
+
+                      25 岁及以下              22           11           50.00%            11           50.00%           13           59.09%
+
+                       26~40 岁             53           22           41.51%            19           35.85%           21           39.62%
+    年龄
+                       41~55 岁             36           23           63.89%            21           58.33%           19           52.78%
+
+                      56 岁及以上              20           9            45.00%            9            45.00%           10           50.00%
+
+                      高中及以下                100          54           54.00%            48           48.00%           48           48.00%
+
+    学历                大专及本科                25           10           40.00%            11           44.00%           13           52.00%
+
+                      研究生及以上                6           1            16.67%            1            16.67%            2           33.33%
+
+                       2000 以下             61           30           49.18%            27           44.26%           29           47.54%
+
+ 个人月收入                2000~5999            57          29            50.88%            27           47.37%           28           49.12%
+
+                      6000 及以上             13           6            46.15%            6            46.15%            6           46.15%
+
+ 是否有 18 岁                  有               69           34           49.28%            32           46.38%           33           47.83%
+  以下小孩                     没有              62           31           50.00%            28           45.16%           30           48.39%
+
+
+
+Copyright © 2013 Hanspub                                                                                                                    9
+
+===== PAGE 5 =====
+基于 BDM 实验拍卖法的消费者对不同信息层次可追溯猪肉的支付意愿：江苏无锡市的案例
+
+
+别角度看，女性参与者在三轮实验中出价高于平均价                                    5.3. 参与者对可追溯食品的认知对 WTP 影响
+的占比分别为 54.17%、52.78%、55.56%，而对应的
+                                                                 表 6 表示参与者对可追溯食品的认知对 WTP 影
+男性占比分别为 44.07%、37.29%、38.98%，可见女
+                                                           响。由表 6 可知，在前两轮实验出价中，不了解可追
+性对三种信息层次的可追溯猪肉均有更高的支付意
+                                                           溯食品的参与者出价高于平均价的占比都高于了解
+愿。41~55 岁年龄段和学历为高中及以下的参与者对
+                                                           的参与者，而在第三轮的出价中，不了解与了解可追
+第一、二种类型的可追溯猪肉支付意愿更高，25 岁及
+                                                           溯食品的参与者的相关情形基本相同。同时三轮实验
+以下年龄段和学历为大专及本科的参与者对第三种
+类型的可追溯猪肉支付意愿更高。从个人月收入水平                                    出价中，是否关注猪肉具有可追溯标签对参与者出价
+
+来看，不同收入水平区间的参与者出价高于平均价的                                    的影响不大。
+
+占比基本相同。家中是否有 18 以下小孩的参与者在                                  6. 主要结论
+三轮实验中出价高于平均价的比例基本相同。
+                                                                 本文采用实验拍卖法调查了无锡市 131 名消费者
+5.2. 参与者对食品安全的关注度对 WTP 影响                                  对于三种不同信息层次可追溯猪肉的支付意愿，对研
+     表 5 表示参与者对食品安全的关注度对 WTP 的                             究数据进行了一个简要的描述性统计分析，并进一步
+影响。由表 5 可知，在三轮实验出价中，参与者对食                                  对影响消费者支付意愿的因素进行了分析。研究主要
+品安全的关注度越高，对应的出价高于平均价的人数                                    得到以下结论：
+占比也越大；知道瘦肉精事件的参与者出价高于平均                                          第一，对于目前日益严峻的食品安全问题，消费
+价的占比显著高于不知道瘦肉精事件的参与者占比；                                    者普遍表示关注，仅有 3.05%的消费者从不关注。而
+而是否因食用不健康食品引发疾病对出价基本没有                                     且消费者对食品安全关注度越高，对三种不同信息层
+影响。                                                        次可追溯猪肉的支付意愿更高。这进一步说明了食品
+
+                    Table 5. The influence of the degree of concern for food safety to WTP
+                                表 5. 参与者食品安全的关注度对 WTP 影响
+
+
+     统计       分类           样本        第一轮出价高于该轮平均价                  第二轮出价高于该轮平均价                第三轮出价高于该轮平均价
+     特征       指标           总数          样本数             占比             样本数             占比         样本数          占比
+
+             从不关注           4             1           25.00%            1            25.00%        1         25.00%
+
+ 食品安全关注度     偶尔关注           39           14           35.90%            14           35.90%        15        38.46%
+
+             非常关注           88           50           56.82%            45           51.14%        47        53.41%
+
+              是             97           56           57.73%            51           52.58%        56        57.73%
+是否知道“瘦肉精”
+              否             34            9           26.47%            9            26.47%        7         20.59%
+
+是否因食用不健康食     是             14            7           50.00%            6            42.86%        7         50.00%
+  品引发疾病       否            117           58           49.57%            54           46.15%        56        47.86%
+
+
+                    Table 6. The influence of the perception on the traceability food to WTP
+                                表 6. 参与者对可追溯食品的认知对 WTP 影响
+
+
+     统计       分类           样本        第一轮出价高于该轮平均价                  第二轮出价高于该轮平均价                第三轮出价高于该轮平均价
+     特征       指标           总数
+                                       样本数              占比            样本数             占比         样本数          占比
+
+              了解            70           28           40.00%            28           40.00%        33        47.14%
+对可追溯食品的了解
+              不了解           61           37           60.66%            32           52.46%        30        49.18%
+
+是否关注猪肉可追溯     不关注           93           47           50.54%            43           46.24%        44        47.31%
+   标签
+              关注            38           18           47.37%            17           44.74%        19        50.00%
+
+
+
+10                                                                                             Copyright © 2013 Hanspub
+
+===== PAGE 6 =====
+基于 BDM 实验拍卖法的消费者对不同信息层次可追溯猪肉的支付意愿：江苏无锡市的案例
+
+
+                                                                                 1(1): 101-106.
+安全问题已成为人们关注的焦点，如何重塑消费者对                                                   [6]    J. E. Hobbs. Information asymmetry and the role of traceability
+食品安全的信心已成为当前急需解决的问题。                                                             systems. Agribusiness: An International Journal, 2004, 20(4):
+                                                                                 397-415.
+      第二，对于三种不同信息层次的可追溯猪肉，每                                               [7]    W. Verbeke. The emerging role of traceability and information in
+                                                                                 demand-oriented livestock production. Outlook on Agriculture,
+增加一类可追溯信息，消费者的平均支付意愿就增加                                                          2001, 30(4): 249-255.
+                                                                          [8]    W. Van Rijswijk, L. J. Frewer, D. Menozzi and G. Faioli. Con-
+一元左右，说明消费者愿意为包含更高信息层次的可                                                          sumer perceptions of traceability: A cross-national comparison
+追溯猪肉支付更高的价格，这对于提高可追溯食品的                                                          of the associated benefits. Food Quality and Preference, 2008,
+                                                                                 19(5): 452-464.
+深度、精度，尤其是生产不同层次的可追溯食品，以                                                   [9]    T. Glynn, T. Tonsor and C. Schroeder. Livestock identification:
+                                                                                 Lessons for the US beef industry from the Australian system.
+满足市场需求，推广可追溯食品具有启示意义。                                                            Journal of International Food & Agribusiness Marketing, 2006,
+                                                                                 18(3-4): 103-118.
+      第三，消费者性别、年龄、学历均在不同程度上                                               [10]   E. B. Golan, F. Krissoff, K. Kuchler, G. P. Nelson and L. Calvin.
+影响其对三种不同信息层次的可追溯猪肉的支付意                                                           Traceability in the US food supply: Economic theory and indus-
+                                                                                 try studies, Washington DC: US Department of Agriculture,
+愿。女性、年轻与高学历的消费者对高层次的可追溯                                                          Economic Research Service. Agricultural Economic Report,
+                                                                                 2004: 830.
+猪肉具有更高的偏好。因此，生产不同类型的可追溯                                                   [11]   A. M. Angulo, J. M. Gil and and L. Tamburo. Food safety and
+                                                                                 consumers’ willingness to pay for labelled Beef in Spain. Journal
+猪肉以满足市场需求，既是对生产者提出的客观要                                                           of Food Products Marketing, 2005, 11(3): 89-105.
+求，也是食品工业结构转型的需要，更能保障食品安                                                   [12]   M. H. Tsai, F. J. Chang, L. S. Kao and C. C. Chang. An applica-
+                                                                                 tion of composite utility evaluation model for irrigation project.
+全。                                                                               Journal of Chinese Agricultural Engineering, 2004, 2: 112-123.
+                                                                          [13]   J. L. Lusk, J. Roosen and J. A. Fox. Demand for beef from cattle
+      第四，消费者对可追溯食品的认知程度决定了对                                                      administered growth hormones or fed genetically modified corn:
+                                                                                 A comparison of consumers in France, Germany, the United
+不同类型可追溯猪肉的偏好，认知程度越高则对高层
+                                                                                 Kingdom, and the United States. American Journal of Agricul-
+次的可追溯猪肉具有更高的偏好。因此，加强对食品                                                          tural Economics, 2003, 1: 16-29.
+                                                                          [14]   张志强, 徐中民, 程国栋. 条件价值评估法的发展与应用[J].
+可追溯的宣传推广是实施食品可追溯体系的必要举                                                           地球科学进展, 2003, 18(3): 454-463.
+措。                                                                        [15]   D. L. Dickinson, D. V. Bailey. Meat traceability: Are US consu-
+                                                                                 mers willing to pay for it? Journal of Agricultural and Resource
+                                                                                 Economics, 2002, 27(2): 348-364.
+7. 致谢                                                                     [16]   J. E. Hobbs, D. Bailey, D. L. Dickinson and M. Haghiri. Trace-
+                                                                                 ability in the Canadian red meat sector: Do consumers care? Cana-
+                                                                                 dian Journal of Agricultural Economics, 2005, 53(1): 47-65.
+      本文的研究得到了国家自然科学基金项目(批准                                               [17]   王怀明, 尼楚君, 徐锐钊. 消费者对食品质量安全标识支付
+号：71273117)、教育部人文社会科学一般项目(12YJC-                                                 意愿实证研究——以南京市猪肉消费为例[J]. 南京农业大学
+                                                                                 学报: 社会科学版, 2011, 11(1): 21-29.
+630326)、江苏省高校社科重大项目(2011ZDAXM018)                                         [18]   J. E. Hobbs. A transaction cost analysis of quality, traceability
+的资助。                                                                             and animal welfare issues in UK beef retailing. British Food
+                                                                                 Journal, 1996, 6(1): 16-26.
+                                                                          [19]   D. Sparling, S. Henson, S. Dessureault and D. Herath. Costs and
+                                                                                 benefits of traceability in the Canadian dairy-processing sector.
+                                                                                 Journal of Food Distribution Research Distribution Research,
+参考文献 (References)                                                                2006, 1: 154-160.
+                                                                          [20]   马从国, 赵德安, 刘叶飞, 倪军, 张玉峰. 猪肉工厂化生产的
+[1]   Y. Sarig. Traceability of food products. Agricultural Engineering
+      International, 2003, 12: 2-17.                                             全程监控与可溯源系统研制[J]. 农业工程学报, 2008, 24(9):
+                                                                                 121-125.
+[2]   吴林海, 徐玲玲, 王晓莉. 影响消费者对可追溯食品额外价
+                                                                          [21]   G. M. Becker, M. H. DeGroot and J. Marschak. Measuring util-
+      格支付意愿与支付水平的主要因素——基于 Logistic, Interval                                     ity by a single-response sequential method. Behavioral Science,
+      Censored 的回归分析[J]. 中国农村经济, 2010, 4: 77-86.                                 1964, 9: 226-232.
+[3]   Y. Sarig. Traceability of food products. International Commis-      [22]   朱淀, 蔡杰. 实验拍卖理论在食品安全研究领域中的应用:
+      sion of Agricultural Engineering, 2003, 5: 2-17.
+                                                                                 一个文献综述[J]. 江南大学学报: 人文社会科学版, 2012,
+[4]   A. Regattieri, M. Gamberi and R. Manzini. Traceability of food
+                                                                                 1(11): 126-131.
+      products: General framework and experimental evidence. Jour-
+                                                                          [23]   C. Noussair, S. Robin and B. Ruffieux. Do consumers really
+      nal of Food Engineering, 2007, 81(2): 347-356.
+                                                                                 refuse to buy genetically modified food? The Economic Journal,
+[5]   L. U. Opara. Traceability in agriculture and food supply chain: A
+                                                                                 2004, 114(492): 102-120.
+      review of basic concepts, technological implications, and future
+      prospects. Journal of Food Agriculture and Environment, 2003,
+
+
+
+
+Copyright © 2013 Hanspub                                                                                                                        11

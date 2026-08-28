@@ -1,0 +1,1167 @@
+SOURCE_PDF: 1.3_文献不足/补充文献_16篇/PDF全文/31_Chuanhui_Liao_2020_Food_Safety_Trust_Risk_Perception_and_Consumers_Response_to_Company_Trust_Repair_Actions_i.pdf
+EXTRACTION_STATUS: ok
+PAGES: 16
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+International Journal of
+           Environmental Research
+           and Public Health
+
+Article
+Food Safety Trust, Risk Perception, and Consumers’
+Response to Company Trust Repair Actions in Food
+Recall Crises
+Chuanhui Liao 1 , Yu Luo 1 and Weiwei Zhu 2, *
+ 1    School of Economics and Management, Southwest University of Science and Technology, Mianyang 621010,
+      China; liaochuanhui@163.com (C.L.); luoyu9602@163.com (Y.L.)
+ 2    School of Marxism, Hefei University of Technology, Hefei 230009, China
+ *    Correspondence: zwwhfut@hfut.edu.cn
+                                                                                                    
+ Received: 13 January 2020; Accepted: 11 February 2020; Published: 17 February 2020                 
+
+ Abstract: Food recalls have severe impacts on the operation, reputation, and even the survival of a
+ recalling company involved in a crisis, with consumer trust violation being the immediate threat to the
+ recalling firm. The involved firms adopt trust repair strategies and release messages relevant to these
+ actions to the public. In this research, we developed a conceptual model to analyze consumers’ general
+ responses to the food recall, and we then compared the effect of two types of consumer trust repair
+ strategies, i.e., self-sanction and information-sharing. The results show that consumer food safety
+ trust has negative impacts on consumers’ protective behavioral intention during a food recall crisis.
+ In the scientific-evidence sharing group, consumers have a higher risk perception, coping appraisal
+ efficacy, information-seeking tendency, and protection behavioral intention. However, consumers’
+ food safety trust fails to predict protection behavioral intention because scientific-evidence actions can
+ either be regarded as an explanation and self-serving, or as useful facts and solutions. Self-sanction
+ actions overcome the disadvantages of information-sharing actions, but consumers still require
+ information on facts of and solutions to the crisis. Therefore, it is recommended that recalling firms
+ combine these two strategies in the case of consumer trust repair in food recall crises. Furthermore,
+ the involved firms are encouraged to employ a third party to release the scientific evidence.
+
+ Keywords: consumer trust repair actions; risk perception; coping-appraisal perception; self-sanction;
+ information-sharing; protective behavioral intention
+
+
+
+
+1. Introduction
+     Food recalls have severe impacts on the operation, reputation, and even the survival of a recalling
+company involved in a crisis [1], but one of the most critical impacts of a food recall is the violation
+of consumer trust [2]. As a valuable resource, trust is very important in the consumer–organization
+relationship [3–5]. However, it is fragile and vulnerable to threats [2]. A food safety crisis can be
+regarded as a type of consumer trust violation [6], which exerts negative effects on the consumers’
+cognitions and emotions toward the company [7], increasing the consumers’ estimation of the efficacy
+of the suggested protective responses [8], leading to a reduction of the consumers’ active action [3],
+activating great consumption change [9], and even destroying behavior [6]. During the response
+process, consumers might be exposed to large amounts of information released from different channels
+by varieties of parties, resulting in an overestimation of the probability and vulnerability of potential
+damage [10]. Moreover, this will influence consumers’ response behavioral intention [11,12]. However,
+in previous studies, few researchers have taken the process mentioned above as a whole. Therefore,
+we set our first research objective as exploring consumers’ crisis-coping processes and response
+behaviors during food recall crises.
+
+
+Int. J. Environ. Res. Public Health 2020, 17, 1270; doi:10.3390/ijerph17041270   www.mdpi.com/journal/ijerph
+
+===== PAGE 2 =====
+Int. J. Environ. Res. Public Health 2020, 17, 1270                                                    2 of 16
+
+
+
+      Information communication is a crucial factor influencing seller-buyer trust. In a product-harm
+crisis, the organizations involved usually take actions and release pre-packaged information subsidies
+and well-prepared stories about firm activities, to influence consumer negative perception about the
+firms [13]. Hence, in a food recall, the involved company will take trust repair actions and then
+release the concerned information through intermediaries, in order to simplify consumers’ information
+seeking and influence consumers’ perceptions of the affair and their behaviors. Previous studies
+have focused on routine strategies, with less attention having been paid to hostage-posting [14] and
+financial reimbursements [2,15,16]. Hostage-posting refers to a commitment device employed to reduce
+uncertainty and resolve social conflict, while self-sanction is a type of voluntary hostage-posting used
+in an uncertain situation [16]. In the context of Chinese spirit recall, the recalling manufacturer can
+recall beyond the legal liability, for example, by recalling more than just the identified lot, or provide
+more remedies to the customers. Therefore, according to Nakayachi and Watabe [16], we set the second
+research objective as exploring how repair strategies (self-sanctioning and information sharing) affect
+consumers’ response behaviors differently.
+      To address these two research objects mentioned above, we developed a conceptual model to assess
+consumers’ general risk perception and response behaviors. In addition, we compared the effective
+of two different trust repair strategies, namely the self-sanction strategy and the information-sharing
+strategy, in shaping consumers’ reaction behavior. This research was conducted by formulating
+questionnaires mirroring actual Chinese spirit recalls that have occurred in China. In March 2016
+(CFDA Notification of unqualified Chinese spirits in the quality-inspection of the 42nd batch (No 59,
+2016), available on http://samr.cfda.gov.cn/WS01/CL1687/147481.html (accessed at 12 October 2016)),
+the China Food and Drug Administration (CFDA) announced that 42 lot samples were found to be
+unqualified in Chinese spirit quality inspections during October and December of 2015. In these 42 lots,
+5 identified as containing cyanide and 10 as being associated with an abuse of food additives were
+recognized as risky food and recalled. These Chinese spirit safety scandals, together with the former
+plasticizer storm and Chinese spirit-blending affairs, have great impacts on the development of the
+Chinese spirits industry. Therefore, in this research, we mirrored these actual Chinese spirit recalls
+and developed fictional recall announcements, with any dates and identifying information altered,
+to analyze consumers’ reaction to different trust repair strategies.
+      This article is organized as follows. After the introduction in section one, the theoretical framework
+and hypotheses are presented in section two. In section three, the research method is presented.
+The results and discussion are elaborated upon in section four and five, respectively. Then, the
+conclusions, suggestions, and limitations are presented in the last part.
+
+2. Theoretical Framework
+      Protection Motivation Theory (PMT) is used to explain people’s behavioral change in response to
+a health risk, an environmental risk, and food safety hazards [17–19]. As a comprehensive persuasion
+model, PMT successively analyzes the effects of two cognitive processes (the threat appraisal and the
+coping appraisal) over the motivation and intention of protective actions. People first evaluate the
+gravity (severity) of, and exposure (vulnerability) to, a risk, which is defined as an estimation of threat
+appraisal [17,20,21]. They further evaluate the coping appraisals, with response efficacy, to estimate
+the efficacy of the suggested solutions in order to remove the threat, and the self-efficacy in order to
+assess their perceived belief and confidence in their ability to handle the risky issue [22]. The results of
+these two estimations further activate the protection motivation and behavioral intention [17,19,20].
+      The Heuristic-systematic model (HSM, [23,24] assumes that the formation of individuals’ attitude
+is based on information processing [25]. It indicates that information seeking is the antecedent factor of
+behavioral change intention. People who incline to seek information will have a significant tendency to
+conduct protective behavior to reduce the harm [23]. Though the PMT model has been widely used in
+risk situations [17–19], it has not been used to analyze consumers’ behavioral reactions to food product
+harm hazards. Since the main effect of a food product hazard lies in its threat to consumers’ health,
+
+===== PAGE 3 =====
+Int. J.
+Int. J. Environ.
+        Environ. Res.
+                 Res. Public
+                      Public Health
+                             Health 2020,
+                                    2020, 17,
+                                          17, x1270
+                                                FOR PEER REVIEW                                                               33 of 16
+                                                                                                                                 of 16
+
+reactions to food product harm hazards. Since the main effect of a food product hazard lies in its
+it is appropriate
+threat  to consumers’  to use   it in it
+                             health,   this  situation. Moreover,
+                                         is appropriate     to use it ininformation
+                                                                          this situation. seeking    and processing
+                                                                                             Moreover,     informationhave        not
+                                                                                                                            seeking
+been   considered      in  the PMT,     despite   the  fact that  they   can  affect   people’s
+and processing have not been considered in the PMT, despite the fact that they can affect people’srisk perception      and   coping
+appraisal     efficacy
+risk perception       and(CAE).
+                            copingItappraisal
+                                       has beenefficacy
+                                                    indicated    thatItfood
+                                                             (CAE).           safety
+                                                                        has been        is generally
+                                                                                     indicated          regarded
+                                                                                                  that food   safetyas    credence,
+                                                                                                                       is generally
+which
+regarded cannot      be observed
+              as credence,     which  bycannot
+                                          consumers      [26]. Hence,
+                                                  be observed              food safety
+                                                                  by consumers        [26].information
+                                                                                             Hence, foodcan       be regarded
+                                                                                                             safety   information   as
+risk  information      aiming    to  reduce    the consumer      uncertainty     while   making
+can be regarded as risk information aiming to reduce the consumer uncertainty while making          purchasing      decisions    [26].
+Previous
+purchasing  studies    have certified
+                  decisions              the importance
+                               [26]. Previous       studiesand haveeffectiveness
+                                                                       certified theof applying
+                                                                                          importanceHSM and
+                                                                                                          in risk  situations [27].
+                                                                                                                 effectiveness      of
+Therefore,     we   can  incorporate      PMT    and  HSM     to develop    a more     comprehensive
+applying HSM in risk situations [27]. Therefore, we can incorporate PMT and HSM to develop a more          model    for  exploring
+consumers’
+comprehensive    reactions
+                       modeltofortheexploring
+                                      food recall    context. reactions to the food recall context.
+                                                  consumers’
+       Furthermore,
+       Furthermore, trust trust acts
+                                acts as an essential antecedent factor of risk perception and coping perception
+in crisis
+    crisis situations
+            situations[8,12,28–30].
+                           [8,12,28–30].InInananindustrialized
+                                                   industrialized   society,  consumers
+                                                                       society,  consumers   relyrely
+                                                                                                   more   on social
+                                                                                                       more           trusttrust
+                                                                                                                on social     to deal
+                                                                                                                                    to
+with   emergent
+deal with     emergentand risky    affairs
+                            and risky       that require
+                                         affairs            largelarge
+                                                  that require      amounts
+                                                                         amountsof knowledge
+                                                                                      of knowledge  and and
+                                                                                                         skillsskills
+                                                                                                                 [31].[31].
+                                                                                                                        Hence,
+                                                                                                                             Hence,we
+set
+we consumer
+     set consumer   foodfood
+                           safety  trusttrust
+                                safety     as the
+                                                asantecedent
+                                                    the antecedentof theofpsychological
+                                                                            the psychological process   in theincontext
+                                                                                                     process                 of food
+                                                                                                                   the context      of
+recalls  [8].
+food recalls [8].
+       Based on onthethediscussion
+                         discussionabove,above,we we developed
+                                                       developed  thethe
+                                                                       theoretical
+                                                                          theoretical framework
+                                                                                          framework  shown   in Figure
+                                                                                                         shown             1. In1.this
+                                                                                                                   in Figure        In
+model,    in   food   recall  situations,    consumers      first evaluate     the  severity    and
+this model, in food recall situations, consumers first evaluate the severity and vulnerability of the vulnerability     of  the  risk
+(risk perception), and then estimate the efficacy of the proposed coping measures and their ability to
+conduct
+conduct thesetheseprotective
+                      protectivebehaviors,
+                                    behaviors,  known
+                                                   known as the
+                                                              as coping    appraisal
+                                                                  the coping            efficacy
+                                                                                  appraisal        (CAE). (CAE).
+                                                                                                efficacy    During During
+                                                                                                                      this process,
+                                                                                                                                 this
+consumers       may    experience      information      inefficiency    and   are  inclined
+process, consumers may experience information inefficiency and are inclined to seek extra      to  seek  extra   information       [8].
+Lastly,  consumers
+information               makeconsumers
+                  [8]. Lastly,    their consumption
+                                                make their  decisions    baseddecisions
+                                                               consumption       on these psychological,
+                                                                                              based on these cognitive,
+                                                                                                                   psychological,and
+information
+cognitive, and    seeking    processes.
+                     information      seeking processes.
+
+
+
+
+                                                  Figure
+                                                  Figure 1. Conceptual model.
+                                                         1. Conceptual model.
+
+2.1. Consumer Food Safety Trust
+2.1. Consumer Food Safety Trust
+      Trust is of great importance in the consumer–manufacturer relationship [8,29]. With the
+      Trust is of great importance in the consumer–manufacturer relationship [8,29]. With the
+advancement of society, economy, and technology, people cannot possess knowledge sufficient
+advancement of society, economy, and technology, people cannot possess knowledge sufficient for
+for all risks and threats. They have to resort to social trust and rely on governments, manufacturers,
+all risks and threats. They have to resort to social trust and rely on governments, manufacturers, and
+and experts to make response decisions in times of product harm crisis [31]. This is the case in the area
+experts to make response decisions in times of product harm crisis [31]. This is the case in the area of
+of food safety since large amounts of advanced technologies have been adopted in food production,
+food safety since large amounts of advanced technologies have been adopted in food production,
+such as genetically-modified food, food additives, and functional foods [19]. In the domain of food
+such as genetically-modified food, food additives, and functional foods [19]. In the domain of food
+safety, the trustees include food supervision departments, consumer associations, experts, and food
+safety, the trustees include food supervision departments, consumer associations, experts, and food
+manufacturers and retailers [32]. The more consumers rely on these trustees, the lower the risk level
+manufacturers and retailers [32]. The more consumers rely on these trustees, the lower the risk level
+they perceive [32]. At the same time, a consumer’s food safety trust may influence their CAE. When
+they perceive [32]. At the same time, a consumer’s food safety trust may influence their CAE. When
+they have a high trust level toward food safety, they tend to accept the responses provided by the
+they have a high trust level toward food safety, they tend to accept the responses provided by the
+trustees [8,28,29]. Hence, we proposed the following hypotheses:
+trustees [8,28,29]. Hence, we proposed the following hypotheses:
+
+===== PAGE 4 =====
+Int. J. Environ. Res. Public Health 2020, 17, 1270                                                   4 of 16
+
+
+
+H1/2/3: Consumer food safety trust has a negative effect on risk perception (H1), CAE (H2), and protective
+behavioral intention (H3).
+     Trust is one of the prerequisites for effective risk communication [8,27,33], and Liao (2013) [34]
+indicates that risk information changes the perceived risk and coping efficacy that consumers feel,
+inducing uncertainty. The increase in uncertainty motivates people to seek more information and
+help to analyze the hazards so that they can react to a certain risk. Therefore, when the trusted party
+provides the risk information, consumers who have a higher trust and lower uncertainty about the
+accuracy and usefulness of the information do not feel information insufficiency and thus decrease
+their information search behavior. Hence, we formulated hypothesis H4:
+H4: Consumer food safety trust has a negative effect on risk information seeking intention.
+
+2.2. Risk Perception and Coping Appraisal
+     In PMT, in a risky situation, people conduct threat appraisal and coping appraisal analyses to
+make behavioral decisions. Threat appraisal includes assessments of risk severity and vulnerability,
+and these two evaluations are usually integrated into risk perception [34]. A coping appraisal includes
+response efficacy and self-efficacy [17]. When people feel a high-perceived threat, they are more
+cautious and actively take protective behavior to reduce the harm [8,35]. Chen [19] also confirmed
+that the food safety risk perception held by consumers in Taiwan increases their willingness to buy
+safe food and induces higher protective behavioral intentions. Generally, when consumers believe
+that the protective measures provided by the trustees are effective, they will choose and adopt the
+recommended protective measures. Therefore, we hypothesize that
+H5/H6: Risk perception (H5) and CAE (H6) have a positive influence on the protection behavioral intention.
+     In the RISP (Risk Information Seeking and Processing) model, the perceived information ‘gap’ is
+the main motivation of the information search [27]. Changes in risk perception and CAE will evoke
+affection responses (usually fear), motivate information demand, and further induce actual information
+seeking behavior. Shan [36], Zhang [37]), and Terpstra [38] have confirmed that people in risky
+situations demonstrate more information seeking intentions and behavior. Hovick [11] and Wei [39]
+demonstrated the indirect and direct effect of risk perception on the information process. At the same
+time, when consumers feel high CAE, they think highly of the effects of the recommended response
+measures [20]. In this situation, consumers with more food safety trust may accept the protective
+measures provided by experts and companies [23], and no longer seek more information. The study of
+Verbeke [8] also indicates that in a food safety crisis, the Dutch consumers’ risk perception significantly
+and positively influences information seeking intentions, while the effect of coping appraisal is not
+significant. Therefore, we propose the following hypotheses:
+H7: Risk perception positively affects information seeking.
+H8: Coping appraisal has a negative influence on information seeking.
+
+2.3. Protection Behavioral Intention
+     In marketing, behavioral intention is an indicator that demonstrates the consumers’ decision
+to stay with or defect from the company [40]. It has been used to predict consumer responses to
+product-harm crises [9,10,41]. In terms of food crises, Li [41] investigated the consumers’ willingness
+to pay (WTP) after the 2010 egg recall and found that the WTP for organic eggs significantly increased
+with negative information of recall. Additionally, balanced information (positive and negative) will
+mitigate the increase. Peake [9] also indicates that media reliance has strong and direct effects on broad
+consumption changes in the context of fictional food recalls. Furthermore, HSM demonstrates that
+information seeking is the antecedent factor of behavioral change intention. Individuals who tend to
+
+===== PAGE 5 =====
+Int. J. Environ. Res. Public Health 2020, 17, 1270                                                   5 of 16
+
+
+
+seek information are inclined to conduct protective behavior to avoid the harm [23]. Therefore, we
+developed the following hypothesis:
+H9: Information seeking positively affects protective behavioral intention.
+
+2.4. Crisis Communication and Trust Repair Messages
+      Information communication is a crucial factor influencing seller-buyer trust. When examining
+the role of crisis communication in product crisis situations, the theory of consumer trust repair
+and its various iterations have become the most dominant focus of research since its start in the
+mid-2000s [2,16,42]. It has been applied in various domains, such as various manufacturers [16,43],
+service providers [43,44], and E-commerce businesses [45]. However, only two papers have focused on
+consumer trust repair in food crises. Giraud [46] found that a private label system had a positive effect
+on consumer trust restoration after the mad cow crisis in Europe. Cleeren [47] also indicate that brand
+advertising was more effective in trust repair for stronger brands than weaker brands in the context of
+the food harm crisis of peanut butter in Australia.
+      In this paper, we choose self-sanction (one type of hostage posting) and information-sharing
+strategies as the targeted strategies and explore their effect on consumers’ responses based on the
+following reasons: (1) Of all the consumer trust repair strategies, hostage posting is less studied [48].
+Only two articles have explored the effectiveness of monitoring and self-sanction. Dirks [14] indicate that
+two ‘substantive’ responses, i.e., penance and regulation, can increase organizational trust. Nakayachi
+and Watabe [16] also found that voluntary hostage posting raised participants’ organizational trust.
+However, these two studies deal with organizational trust, and we know less about the effectiveness of
+a self-sanction strategy on consumer trust repair in the context of food recall hazards; (2) information
+sharing is an important action in trust repair [2,15]. The explosive diffusion of information caused
+by information dissemination, especially negative news, poses new challenges for manufacturers
+when attempting to repair and restore consumer trust. Current studies demonstrate that information
+communication is an important way of eliminating mutual suspicion coordinating expectations and
+ultimately fostering trust [49,50]. While most of the information released is news denoting ‘good
+doings’ and the ‘responsibility’ of the involved companies, few studies have explored the effectiveness
+of releasing the ‘scientific evidence’. To the best of our knowledge, only two papers have discussed this
+issue. Wen et al. [51] have discussed the effectiveness of ‘scientific evidence’ provision in image repair
+for American beef in Taiwan. The result indicates that although the US government used scientific data
+as support, the rhetoric was not successful in the end. Li [41] demonstrates that providing mitigating
+information was effective in alleviating the decrease of ordinary egg purchases after the 2010 egg recall.
+Meanwhile, we know less about how these two strategies influence consumer trust repair and how
+consumers respond to this information. Hence, in this study, we adopted an empirical examination
+and proposed the following research question:
+      RQ: How do consumer responses differ depending on the two types of trust repair messages
+(self-sanction and information sharing) in food recall crises?
+
+3. Research Method
+
+3.1. Questionnaire and Measures
+      A questionnaire survey was used to collect data. There were four parts in each questionnaire.
+Part 1 presented the aim and expressed the gratitude for the participants. In part 2, we provided the
+simulated scenarios. Then, in part 3, items concerning the constructs were presented, followed by
+demographic data collection in part 4. According to the theory of trust repair and the study aim, we
+set the information of scientific evidence and self-sanction strategies as the backgrounds of scenario A
+and B, respectively. The scientific evidence for food additives disclosed in scenario A was as follows:
+
+===== PAGE 6 =====
+Int. J. Environ. Res. Public Health 2020, 17, 1270                                                                  6 of 16
+
+
+
+      (1) Cyclamate is a synthetic sweetener, which is widely used in beverages and pastries, according
+to the national standards, but not in Chinese spirits; (2) the unqualified samples may be caused by the
+improper use of raw materials and accessories; (3) according to the ADI value set by the Joint FAO
+& WHO Expert Committee on Food Additives (JECFA), an adult of 60 kg has to consume 9.9 kg of
+Chinese spirits a day for it to be harmful.
+      Scenario B provided the background of the self-sanction measure, described as providing more
+remedies beyond the legal liabilities. Scenario B was as follows:
+      The Chinese spirits of X brand produced on 8 March 2014 (lot number 20140308), and on 18 June
+2015 (lot number 20150618), were found to be unqualified, due to the detection of cyclamate by the
+CFDA during a sampling inspection. To be a responsible company, this company decided to recall all
+the products produced in 2014 and 2015, in addition to the detected unqualified lots. Retailers and
+consumers who hold these products should please contact our product recall office as soon as possible.
+We are sorry for the inconvenience.
+      Based on previous literature, we used multiple items to measure the constructs, with slight
+modifications, in order to conform to the food recall context. A seven-point Likert scale was used, with
+1 for strongly disagree and 7 for strongly agree. All the constructs, items, and references are shown in
+Table 1.
+
+                                          Table 1. Constructs, items, and references.
+
+    Construct                        Item        Measurement                                               References
+                                                 How much trust do you have in the following
+                                                 institutions or persons that they are conscious of
+                                                 their responsibilities in food safety affairs?
+   Food safety trust
+                                                 The State Food and Drug Administration and the
+   (FST)                             FST1                                                                  [12]
+                                                 sub-bureaus.
+                                     FST2        Food safety experts and scholars.
+                                     FST3        Food manufacturers and retailers.
+                                     FST4        Food certification bodies.
+                                                 It is dangerous to drink the recalled Chinese spirits
+                                     RP1
+                                                 containing abused additives (such as cyclamate).
+                                                 Drinking recalled Chinese spirits containing abusive
+                                     RP2         additives, such as cyclamate, would seriously
+                                                 damage my health.
+    Risk perception (RP)                         Drinking recalled Chinese spirits containing abusive      [12]
+                                     RP3         additives (such as cyclamate) will bring me property
+                                                 loss (possible medical expenses).
+                                                 When I drink, it is unpleasant to think of Chinese
+                                     RP4         spirits recall originated from abuse of additives, such
+                                                 as cyclamate.
+                                                 I think change consumption to other Chinese spirits
+                                     CEP1
+                                                 brand can protect my health.
+                                                 I think stop purchasing the recalled Chinese spirits
+   Coping efficacy                   CEP2        can save potential medical expenses arising from
+                                                                                                           [8,20]
+   perception (CEP)                              drinking the recalled Chinese spirits.
+                                                 I think I am knowledgeable and competent to handle
+                                     CEP3
+                                                 with the Chinese spirits recall affair.
+                                                 I think I have enough time and money to conduct the
+                                     CEP4
+                                                 protective behavior.
+
+===== PAGE 7 =====
+Int. J. Environ. Res. Public Health 2020, 17, 1270                                                                7 of 16
+
+
+
+                                                         Table 1. Cont.
+
+    Construct                        Item        Measurement                                             References
+                                                 I will search for more information about the additive
+                                     IS1
+                                                 involved in the Chinese spirits recall.
+                                     IS2         I have to search for more information.
+    Information seeking (IS)                     I am concerned with the latest news about the recall    [52]
+                                     IS3
+                                                 every day.
+                                                 I search for information if it is available in other
+                                     IS4
+                                                 places.
+                                                 I would stop purchase the recalled Chinese spirits
+                                     PBI1
+                                                 before I think it is safe.
+                                                 I would change consumption to other types of wine
+    Protective behavioral            PBI2
+                                                 products (i.e., beers, wines and spirits).              [9,40]
+    intention (PBI)
+                                     PBI3        I will find and consume foreign brand products.
+                                                 I will not encourage my acquaintances to buy
+                                     PBI4
+                                                 products from the recalling firms.
+
+
+3.2. Sample and Data Collection
+     After a pre-test, the formal questionnaire survey was conducted through online and offline
+channels. The questionnaire was posted on Wenjuanxing, a popular electronic data collection platform,
+from 20 December 2016 to 28 February 2017. At the same time, trained surveyors distributed the
+questionnaire to consumers in supermarkets, kiosks, and stores during the winter vacation time.
+All the participants anonymously answered the questions and were assured that their responses would
+remain confidential. Copies with missing data and identical responses in most of the items were
+deleted. Finally, there were 461 usable questionnaires, with 158 on-site surveys and 303 online surveys.
+Of all the participants, there were 290 females. Fifty-six percent of the respondents were 36–50 years
+old, 74.41% were married, and 52.71% had completed senior high school education and above. More
+than half of the respondents earned less than ¥4000 each month. We used a χ2 test to evaluate whether
+the sample represented the general distribution of the Chinese population. The results confirmed that
+the characteristics of gender and age in the sample were representative of the population. Generally,
+the sample can represent the population to some extent.
+     Since data were collected from two channels, i.e., online and offline channels, at the same time,
+common method bias (CMB) may exist. Harman’s one-factor test was employed, and the results
+indicated that all the items were divided into five constructs with the criterion of eigenvalues greater
+than 1. All these constructs explained 73.03% of the variance, with the first one representing 28.02%.
+Hence, the data was fit for further analysis.
+
+4. Results
+
+4.1. Reliability and Validity Assessment
+      We employed exploratory factor analysis (EFA) and confirmatory factor analysis (CFA) to evaluate
+the construct reliability. As shown in Table 2, all the values of Cronbach’s a and composite reliability are
+higher than 0.8, and the proportion of variance explained (R2) is between 0.42 and 0.892, indicating an
+acceptable reliability. Secondly, content, convergent, and discriminant validities were tested. Since all
+the items were adopted from previous studies, with minor revision made under the research situation,
+content validity is supported. Convergent validity was assessed through factor loadings, composite
+validity, and average variance extracted (AVE). All the factor loadings and composite reliability values
+are near or greater than the benchmark of 0.7, and the AVEs range from 0.63 to 0.83 (Table 3), supporting
+a good convergent validity. As for the discriminant validity test, the square roots of the AVEs are higher
+than the correlations between each pair of constructs (Table 4). Therefore, the data exhibited a good
+liability and validity and was ready for further analysis. CFA was employed to test the measurement
+
+===== PAGE 8 =====
+Int. J. Environ. Res. Public Health 2020, 17, 1270                                                                         8 of 16
+
+
+
+model. The results show that the indicators (χ2 /df = 2.22, TLI = 0.932, NFI = 0.913, CFI = 0.945, RMSEA
+= 0.038, and SRMR = 0.061) conformed to the recommended thresholds, supporting the overall fitness
+of the CFA model.
+
+                       Table 2. Measurement model (confirmatory factor analysis (CFA)) results.
+
+                                                                                   Cronbach’s          Composite
+       Item      Construct       Estimate      S.E.     C.R.     p       R2                                          AVE
+                                                                                   Alpha Value          Liability
+       FST1                        0.903      0.062     20.906   ***    0.816
+       FST2                        0.932      0.063     21.51    ***    0.868
+                     FST                                         ***                   0.93                0.95      0.827
+       FST3                        0.858      0.047     25.667          0.737
+       FST4                        0.761        -         -      a      0.579
+      PRE1                         0.945      0.039     27.165   ***    0.892
+      PRE2                         0.798      0.043     21.707   ***    0.638
+                     PRE                                         ***                  0.847              0.897       0.686
+      PRE3                         0.921      0.086     10.709          0.42
+      PRE4                         0.861        -         -      a      0.742
+       RP1                          0.77      0.092     13.161   ***    0.593
+       RP2                          0.77      0.09      13.126   ***    0.592
+                     RP                                          ***                  0.831              0.888       0.665
+       RP3                         0.67       0.094     11.876          0.449
+       RP4                         0.653        -         -      a      0.426
+        IS1                        0.713      0.067     14.539   ***    0.508
+        IS2                        0.791      0.07      16.085   ***    0.625
+                       IS                                        ***                  0.911              0.937       0.789
+        IS3                        0.804      0.064     16.235          0.647
+        IS4                         0.74        -         -      a      0.548
+       PBI1                        0.737      0.059     15.938   ***    0.543
+       PBI2                        0.842      0.076     14.142   ***    0.525
+                     PBI                                         ***                  0.803              0.871       0.629
+       PBI3                        0.688      0.06      14.719          0.474
+       PBI4                         0.79        -         -      a      0.624
+      Note: Regression weight fixed at 1.0. The S.E., C.R., and p-value were not estimated in these cases. Extra estimation
+      by fixing a different parameter shown to be statistically significant with p < 0.01.
+
+
+                                   Table 3. Means, standard deviation, and correlations.
+
+                 Construct        Mean        S.D.         FST          PRE          RP         IS           PBI
+                 FST              3.969       1.022        0.909
+                 PRE              5.257       1.050        −0.582 **    0.888
+                 RP               5.485       0.759        −0.338 **    0.352 **     0.793
+                 IS               4.761       0.855        −0.433 **    0.370 **     0.416 **   0.828
+                 PBI              5.162       0.825        −0.439 **    0.441 **     0.557 **   0.520 **     0.815
+      Note: ** p < 0.01. Correlations appear below the diagonal; the diagonal (bold) elements are the square roots of the
+      average variance extracted (AVE), and others are the correlations among constructs.
+
+
+           Table 4. Quadratic regression result, with information seeking being the dependent variable.
+
+                                  Model              Independent              β           t-Value
+                                  Model 1                CAE             0.369 ***        8.496
+                                                         CAE             0.843 ***         3.159
+                                  Model 2
+                                                     Square of CAE       −0.480 *         −1.986
+                                Note: * p < 0.05, and *** p < 0.001. CAE: coping appraisal efficacy.
+
+
+4.2. Structural Model Describing Consumers’ Responses
+     A structural equation was used to estimate the proposed model. The results show that all the
+indicators (χ2 /df = 1.572, TLI = 0.981; NFI = 0.965; CFI = 0.987; RMSEA = 0.035; SRMR = 0.049) indicate
+an acceptable model fitness. Figure 2 demonstrates the path coefficients (β), significance level (p),
+and explained variance (R2). The results of the SEM analysis indicated that food safety trust, risk
+
+===== PAGE 9 =====
+Int. J. Environ. Res. Public Health 2020, 17, 1270                                                                9 of 16
+Int. J. Environ. Res. Public Health 2020, 17, x FOR PEER REVIEW                                                  9 of 16
+
+
+hand, a higher
+perception, andrisk   perception
+                 coping  appraisalleads     to aexplained
+                                       efficacy  higher protection    behavioral
+                                                             33% of the           intention
+                                                                        variance in          (β = 0.427,
+                                                                                     information         t = which
+                                                                                                   seeking,  7.128)
+and more information-seeking
+subsequently   explained 55% of(β    the= variance
+                                          0.363, t = in
+                                                     5.957), supporting
+                                                        protection        the hypotheses
+                                                                   behavioral   intention, of H5 and H7.
+                                                                                           indicating       On the
+                                                                                                       a medium
+other
+to highhand,  CAE haspower.
+        interpretation     a positive     effectfood
+                                   However,      on behavioral
+                                                      safety trustprotection   intention
+                                                                   explained 16%    of the(β  = 0.12, t of= coping
+                                                                                           covariance        2.932),
+supporting
+appraisal    H6. Finally,
+          efficacy, indicatinginformation     seeking has power.
+                                  a small interpretation      a positive  and significant
+                                                                     In general, the resultseffect
+                                                                                             of theon
+                                                                                                    SEMprotection
+                                                                                                          analysis
+behaviorala intention
+indicated              (β =fit0.274,
+            satisfactory       [19]. t = 4.876). Therefore, H9 was supported.
+
+
+
+
+                       Figure2.2.Results
+                      Figure      Resultsofofthe
+                                              thefull
+                                                  fullanalysis.  Note:**** pp <
+                                                       analysis.Note:                     *** p < 0.001.
+                                                                              < 0.01, and *** p < 0.001.
+
+     As
+     Theshown    in Figure
+          significant  effect2,ofthe
+                                   CAEconsumer      food safety
+                                          on information           trust is
+                                                               seeking   is consistent
+                                                                             negativelywith
+                                                                                        correlated  with risk
+                                                                                             the proposed     perception
+                                                                                                            assumption,
+but=with
+(β   −0.405,    = −7.018),
+          the topposite                  = −0.574, t H8
+                            CAE (β Therefore,
+                          direction.                    = −11.722),    information
+                                                             is not supported.                  (β = −0.236,
+                                                                                      seekinganalyze
+                                                                                  To further                 t = of
+                                                                                                       the role  −3.905),
+                                                                                                                    CAE,
+and  protective   behavioral      intention    (β  =  −0.151,    t = −2.846),   thus  supporting
+we conducted a quadratic regression. We set CAE and the square of CAE as independent variables,     hypotheses   H1, H2,
+H4, and   H3.  As  an important       mediating
+and information seeking as a dependent variable.     variable    in PMT,    the coping  perception   mediating   process
+shows a significant effect on food safety trust and protection behavioral intention. On the one hand,
+a higherTable
+          risk perception
+                4. Quadraticleads      to a higher
+                               regression             protection
+                                             result, with            behavioral
+                                                            information   seeking intention   (β = 0.427,
+                                                                                   being the dependent    t = 7.128) and
+                                                                                                       variable.
+more information-seeking (β = 0.363, t = 5.957), supporting the hypotheses of H5 and H7. On the other
+                                   Model         Independent               β       t-Value
+hand, CAE has a positive effect on behavioral protection intention (β = 0.12, t = 2.932), supporting H6.
+                                 Model 1               CAE            0.369 ***      8.496
+Finally, information seeking has a positive and significant effect on protection behavioral intention
+                                                       CAE            0.843 ***      3.159
+(β = 0.274, t = 4.876). Therefore,
+                                 Model   H9
+                                          2 was supported.
+                                                Square of CAE −0.480 *              −1.986
+     The significant effect of CAE on information seeking is consistent with the proposed assumption,
+but with the opposite direction. Therefore, H8 is not supported. To furtherefficacy.
+                        Note:   *  p < 0.05, and  *** p < 0.001.  CAE:  coping  appraisal   analyze the role of CAE, we
+conducted a quadratic regression. We set CAE and the square of CAE as independent variables, and
+     The results (Table 4) show that CAE positively affects information seeking, while the square of
+information seeking as a dependent variable.
+CAE negatively influences information seeking. Hence, the relationship between CAE and
+     The results (Table 4) show that CAE positively affects information seeking, while the square of
+information seeking demonstrates an inverted U-shape. This implies that when a consumer holds a
+CAE negatively influences information seeking. Hence, the relationship between CAE and information
+low level of CAE, they have perceived information insufficiency, leading to more information
+seeking demonstrates an inverted U-shape. This implies that when a consumer holds a low level of
+seeking.
+CAE, they have perceived information insufficiency, leading to more information seeking.
+4.3. Results
+4.3. Results of
+             of Trust Repair Strategy
+                Trust Repair Strategy Comparisons
+                                      Comparisons
+     We evaluated
+     We   evaluated thethe contrasts
+                           contrasts between
+                                       between the the two
+                                                        two trust
+                                                               trust repair
+                                                                     repair strategy
+                                                                             strategy groups,
+                                                                                       groups, i.e.,
+                                                                                                i.e., the
+                                                                                                      the information-
+                                                                                                           information-
+sharing  and  self-sanction     groups.   We    first  employed      an independent     sample
+sharing and self-sanction groups. We first employed an independent sample test and confirmed      test  and  confirmed
+significant differences   between     these  two   groups     (Table  5). We   also employed    a
+significant differences between these two groups (Table 5). We also employed a single multi-group  single  multi-group
+analysis to
+analysis  to analyze
+             analyze these
+                        these differences.
+                                differences. The
+                                               The structural
+                                                     structural model
+                                                                   model forfor each
+                                                                                each trust
+                                                                                      trust repair   strategy group
+                                                                                             repair strategy   group isis
+demonstrated    in Figure   3.  All indicators   conform     to  the recommended      benchmark
+demonstrated in Figure 3. All indicators conform to the recommended benchmark and show that the     and   show  that the
+model and
+model   and data
+             datafit
+                   fitwell
+                       well(χ(χ=2 694.51,
+                              2           df =df300,
+                                  = 694.51,           χ2/dfχ2=/df
+                                                  = 300,       2.315, TLI = TLI
+                                                                   = 2.315,  0.918,
+                                                                                 = NFI   = 0.901,
+                                                                                    0.918, NFI =CFI    = 0.935,
+                                                                                                   0.901,   CFI RMSEA
+                                                                                                                = 0.935,
+= 0.054, and  RMR     = 0.078).   Moreover,    the  explanatory      powers   of  the three  data
+RMSEA = 0.054, and RMR = 0.078). Moreover, the explanatory powers of the three data sets are almostsets  are almost  the
+same, indicating the robustness of the model. In Figure 3, we only demonstrate the significant paths
+to emphasize a visual comparison of the differences between these two groups.
+
+===== PAGE 10 =====
+RP              5.552                  0.778         5.407         0.73          2.064    0.04
+              IS              4.864                  0.825         4.642         0.877         2.797    0.005
+              PBI             5.251                  0.792         5.058         0.852         2.524    0.012
+              FST             3.966                  0.986         3.972         1.065         −0.26    0.78
+              PRE
+Int. J. Environ.              5.274
+                 Res. Public Health 2020, 17, 1270   1.057         5.236         1.045         0.59     0.497      10 of 16
+
+
+      Differences between the full model and the two groups are presented in Figures 2 and 3. There
+the two
+are  same,   indicating
+          differences      the robustness
+                        between              of theand
+                                   the full model   model.    In Figure 3, we onlygroup.
+                                                        the information-sharing       demonstrate       thesafety
+                                                                                               First, food   significant
+                                                                                                                   trust
+paths   to emphasize     a visual  comparison    of the differences   between   these two     groups.
+has a significant effect on the protection behavioral intention in the full model, but not in the
+information-sharing group. Second, CAE positively influences information-seeking in the full model,
+                             Table 5. Independent sample test between the two groups.
+but fails to do so in the information-sharing group. There is only one difference between the self-
+sanction group and the full       model group. In the
+                              Information-Sharing        self-sanction
+                                                      Group             group,Group
+                                                                Self-Sanction    information-seeking is no longer
+an antecedent      factor in predicting
+               Construct      Mean       protection
+                                               S.D.   behavioral   intention,
+                                                                Mean           while
+                                                                             S.D.     it ist in the full
+                                                                                                     Sig. model.
+      There are differences between these two groups. In the self-sanction group, food safety trust
+                              n = 248                           n = 213
+negatively influences protection behavioral intention and CAE positively influences information-
+               RP
+seeking. However,        these5.552            0.778
+                                 two paths failed               5.407        0.73
+                                                      in the information-sharing           2.064
+                                                                                        group.       0.04
+                                                                                                   Moreover,     in the
+               IS             4.864            0.825            4.642        0.877         2.797     0.005
+information-sharing
+               PBI        group,  information
+                              5.251              seeking
+                                               0.792      activates
+                                                                5.058higher  protection
+                                                                             0.852         behavioral
+                                                                                           2.524         intention,
+                                                                                                     0.012           but
+fails to do soFSTin the self-sanction
+                              3.966     group.0.986
+                                                 The research 3.972
+                                                                certifies the1.065
+                                                                               differences    in the 0.78
+                                                                                           −0.26      effect of the two
+kinds of trust PRErepair strategies.
+                              5.274            1.057            5.236        1.045         0.59      0.497
+
+
+
+
+     Int. J. Environ. Res. Public Health 2020, 17, x FOR PEER REVIEW                                                   11 of 16
+
+
+
+
+      Figure 3. The multiple group analysis results. Notes: χ2 = 694.51, df = 300, χ2 /df = 2.315, p < 0.001, TLI
+          Figure
+      = 0.918, NFI3.=The multiple
+                      0.901, CFI =group
+                                   0.935,analysis
+                                          RMSEAresults.
+                                                    = 0.054,Notes:
+                                                              and RMRχ2 = 694.51,
+                                                                           = 0.078.dfOnly
+                                                                                      = 300,paths
+                                                                                              χ2/dfwith
+                                                                                                    = 2.315,
+                                                                                                         CR p><2.0
+                                                                                                                0.001,
+                                                                                                                   are TLI
+          = 0.918, NFI  = 0.901, CFI = 0.935, RMSEA      = 0.054,  and  RMR     = 0.078.  Only
+      demonstrated here. * p < 0.05, t > 1.96; ** p < 0.01, t > 2.58; *** p < 0.001, t > 3.29.   paths  with CR  > 2.0 are
+          demonstrated here. * p < 0.05, t > 1.96; ** p < 0.01, t > 2.58; *** p < 0.001, t > 3.29.
+
+     5. Discussion
+          This study has explored how consumers respond to food recall crises and examined the effects
+     of two types of consumer trust repair strategies. The main results and explanations will be provided
+     below.
+
+===== PAGE 11 =====
+Int. J. Environ. Res. Public Health 2020, 17, 1270                                                 11 of 16
+
+
+
+      Differences between the full model and the two groups are presented in Figures 2 and 3. There
+are two differences between the full model and the information-sharing group. First, food safety
+trust has a significant effect on the protection behavioral intention in the full model, but not in
+the information-sharing group. Second, CAE positively influences information-seeking in the full
+model, but fails to do so in the information-sharing group. There is only one difference between the
+self-sanction group and the full model group. In the self-sanction group, information-seeking is no
+longer an antecedent factor in predicting protection behavioral intention, while it is in the full model.
+      There are differences between these two groups. In the self-sanction group, food safety trust
+negatively influences protection behavioral intention and CAE positively influences information-
+seeking. However, these two paths failed in the information-sharing group. Moreover, in the
+information-sharing group, information seeking activates higher protection behavioral intention, but
+fails to do so in the self-sanction group. The research certifies the differences in the effect of the two
+kinds of trust repair strategies.
+
+5. Discussion
+     This study has explored how consumers respond to food recall crises and examined the effects of
+two types of consumer trust repair strategies. The main results and explanations will be provided below.
+
+5.1. Antecedents of Protective Behavioral Intention
+     As for the first research objective, most of the findings are in accordance with our hypotheses
+and previous research. Consumers holding higher levels of food safety trust usually have a lower risk
+perception and CAE. They feel less information inefficiency, exhibit less information-seeking behavior,
+and are less likely to conduct protective behaviors. In this paper, consumers’ food safety trust was
+measured by consumers’ trust in the CFDA and its subordinates, food manufacturers and retailers,
+and third parties [32]. Hence, consumers with a lower level of food safety trust may not rely on these
+stakeholders and take shortcuts by adopting information and response suggestions provided by these
+stakeholders, and may conduct response behaviors accordingly, thus increasing the information need
+and information seeking intention [29]. Moreover, consumers with a lower level of food safety trust
+may feel a higher level of coping efficacy. They may reject the suggested coping behavior provided
+by experts and CFDAs because most of the suggestions are simple and superficial efforts to deal
+with food safety harm, such as checking, dropping, and returning the recalled food. These measures
+are not sufficient for solving food safety problems. Consumers with a low level of food safety trust
+tend to spend time and effort seeking information about the abuse of food additives because they are
+concerned about their health.
+     Risk perception and CAE are predicted to positively influence both information seeking and
+protective behavioral intention, conforming to our hypotheses and previous studies [8,19]. When
+faced with a food crisis, consumers have a higher risk perception because of information asymmetry,
+which leads to more fear and uncertainty of the potential harm [52]. Besides, a higher uncertainty and
+coping appraisal may facilitate their protective behavioral intention [8,19]. Moreover, risk perception
+and coping appraisal have a significant positive effect on information seeking, which conforms to
+previous studies [27,36]. However, coping appraisal positively influences information seeking, with
+the opposite direction of the coefficient compared to our hypothesis. A further estimation using a
+quadratic regression shows that the relationship between CAE and information seeking is an adverse
+U-shape. The probable reason for this may be explained as follows. Before the turn-point, consumer
+food safety trust is at a low level, and people have less knowledge of food additives, so consumers
+may perceive a low competency andself-efficacy in solving the problem [33,53]. Therefore, they may
+seek further information, leading to a positive relationship between CAE and informational seeking
+intention. With the accumulation of information, knowledge, and experience, consumers’ self-efficacy
+evaluation will gradually increase. As the consumer’s CAE exceeds the turning point, consumers
+are competent at assessing the effectiveness of recommended measures and other available measures.
+
+===== PAGE 12 =====
+Int. J. Environ. Res. Public Health 2020, 17, 1270                                                12 of 16
+
+
+
+Therefore, coping CAE in the second half demonstrates a negative correlation with information seeking.
+Generally, the positive impact of risk perception and CAE of information seeking highlight the critical
+role of information searching and communication in consumer reactions to food harm crises.
+
+5.2. Trust Repair Action Messages and Consumers’ Reaction Behavior
+      The second aim of this research was to compare the effectiveness of two kinds of trust repair
+action information in the context of food recalls. The results demonstrated that there were three
+main differences between these two groups. First, in the self-sanction group, food safety trust has
+negative impacts on consumer’s protective behavioral intention. However, it is insignificant in the
+information-sharing group. A reasonable explanation for this insignificant effect may be as follows.
+On the one hand, although consumers hold a negative perception of the recall, they also attach
+importance to the scientific information provided by the manufacturers [41], resulting in a reduction
+of the consumer’s intention to take protective actions, to a certain extent. On the other hand, some
+consumers would argue that providing scientific-evidence information is an act of explanation and
+self-serving [44,51], especially with the comparative information about the usage and dosage of other
+types of food additives. This result conforms to the study of Wen et al. [51]. To repair the image of
+American beef in the “mad cow” time in 2010, the US government provided statements of scientific
+research; however, the US officials and scientific data were not perceived as objective sources, and
+defenses of quality of US beef were perceived as self-serving [51]. Providing scientific data is regarded
+as an apology with an explanation or denial with an explanation [44], which will lead to a lower
+trust repair efficacy and higher protective behavioral intention. In comparison, in the self-sanction
+group, the recalling firm provides financial compensation and recall beyond the legal liability (recalls
+more products than required). This behavior information signals that the recalling firms are actively
+implementing social responsibilities, and thus helping to repair and restore consumer trust and decrease
+broad consumption changes [16]. Therefore, when provided with scientific-evidence information, the
+impact of food safety trust on behavioral intention is not significant.
+      Second, consumers’ coping appraisal in the self-sanction action group positively influences
+information seeking, but is insignificant in the information-sharing action group. In the self-sanction
+action group, when the recalling firm provides financial compensation and recalls beyond the legal
+reliability, they are conveying a good image of social responsibility, indicating the firm’s promise that
+this wrongdoing will not happen in the future. However, consumers still need to search for more
+information to make decisions because of a perceived lack of technical solutions. Conversely, in the
+information-sharing action group, the effect of coping appraisal on information-seeking intention is
+insignificant. The possible reason for this may be as follows. On the one hand, providing scientific
+evidence during the product recall crisis can be regarded as self-serving or as an apology with an
+explanation, which decreases the consumer food safety trust and enhances their evaluation of the
+efficacy of consumption change responses [51,54]. Hence, consumers may feel that it is unnecessary to
+seek more information. On the other hand, the extensive use of additives in foods disclosed in the
+scientific information may make consumers confused and anxious about the severity and ubiquity of
+food additive problems. They may thus perceive less confidence in the efficacy of the recommended
+responses and hold a low response efficacy. At the same time, understanding additives requires
+knowledge of chemistry, biology, and food science which is beyond most of the consumers [55].
+Consumers are incompetent at finding, judging, and getting rid of the additives in the food, leading to
+a low level of self-efficacy [36]. Therefore, people perceive the information gap and will seek more
+information concerning food additives to make decisions.
+      Lastly, in the information-sharing action group, the relationship between information searching
+and protective behavioral intention was not significant, whereas it was significantly positive in the
+information-sharing action group. As mentioned before, financial compensation and recall beyond the
+legal liability will increase consumers’ recognition of companies’ social responsibility performance
+and consumer trust in enterprises and products. Therefore, consumers will tend to maintain their
+
+===== PAGE 13 =====
+Int. J. Environ. Res. Public Health 2020, 17, 1270                                                  13 of 16
+
+
+
+pro-corporate behavior [39] and reduce their protective behavioral intention. However, other consumers
+who care more about the facts and technical treatments of the recall will prefer to seek more information
+to make a decision [39]. Only when they get useful information will they make decisions. Hence,
+when provided with self-sanction action information, the relationship between consumers’ information
+seeking and their protective behavioral intention was not clear.
+     In summary, the disclosure of scientific evidence information may either be regarded as an
+apology with an explanation [51] and a self-serving behavior [54], or as impressive scientific facts.
+Therefore, this information will not necessarily lead to information seeking and protective behavioral
+intention. However, the disclosure of self-sanction action information may overcome the disadvantages
+of information-sharing actions by directly decreasing consumers’ protective behavioral intention and
+increasing consumers’ willingness to seek more information. Therefore, the recalling firms can integrate
+these two types of trust repair strategies to achieve better results.
+
+6. Conclusions
+      This study investigates consumers’ reaction to food recall and estimates the relative effectiveness
+of two types of trust repair strategies (information-sharing and self-sanction) during a product-harm
+crisis. In the full model, the results demonstrate that a lower level of food safety trust increases
+risk perception, CAE, information seeking, and protective behavioral intention. It suggests that the
+involved firms should take measures to develop consumer food safety trust either in times of crisis or
+in normal times. For example, the manufacturers and retailers should propose a column in newspapers,
+on TV, and on professional social media to publicize knowledge of Chinese spirits, such as different
+Chinese spirit-making technologies and types and functions of legal additives. Furthermore, the
+firms could post labels on the bottle to show the third-party guarantee (e.g., solid-state fermentation
+certification). The producers should set up the ‘traceability system of wine quality safety’ to realize
+the aims of ‘quality safety traceable, risk controllable, product recallable, and liability pursued’, and
+thus develop consumers’ food safety trust [19]. We also found that consumers exhibiting a high risk
+and low coping appraisal exhibited a desire for more information, and their information-seeking
+intention resulted in a higher protective behavioral intention. Hence, managers should take advantage
+of the information subsidy (i.e., carefully prepare effective information aimed at motivating favorable
+actions), and distribute this through various channels to influence consumers’ food safety trust, risk
+perception, CAE, and information seeking [8,29].
+      Furthermore, we found that consumer trust repair actions and relevant information disclosure are of
+great importance for recalling companies. Besides traditional trust repair strategies, such as an apology
+and denial, managers could consider strategies of self-sanction and the sharing of scientific evidence.
+Managers could release not only self-sanction action messages, such as financial compensation and
+recall beyond legal liabilities, but also scientific evidence. Given that the self-sanction action messages
+can repair and develop consumer trust, increasing the tendency for information-seeking, the protective
+behavioral intention after information-seeking cannot be predicted. Hence, information-sharing actions
+can remedy the disadvantages of self-sanction behavior only when consumers’ information-seeking
+requirements are met. Therefore, crisis managers should provide scientific-based information to the
+public to enhance their knowledge of and trust in the recalled product. However, scientific data
+supplied by the recalling firm in urgent times may be regarded as self-serving or denial with an
+explanation, so it would be better for the managers to employ the expert endorsement strategy and ask
+experts to release information [51]. At the same time, managers should release scientific evidence in
+normal times, as well as during crisis times.
+      This study contributes to research on crisis management relating to product recalls. First, this
+study estimates the consumer crisis-coping process in Chinese spirit recall contexts by integrating
+the PTM, HSM, and consumer trust theory, which extends the application of PMT from health risk to
+product harm events. The results support their usefulness in predicting consumer reaction acts in times
+of a product crisis. Furthermore, this study evaluates the effectiveness of two kinds of information
+
+===== PAGE 14 =====
+Int. J. Environ. Res. Public Health 2020, 17, 1270                                                            14 of 16
+
+
+
+subsidies of trust repair action (self-sanction and information-sharing) based on the theory of consumer
+trust repair. The results support the hypothesis that consumer responses to product harm crises can be
+influenced by the trust repair actions adopted by the involved firms.
+       Some limitations should be acknowledged. First, this study only focuses on product recalls in the
+food industry, confining the generalization and application of the results. Second, the two measures are
+provided independently in two scenarios. Further research should examine the relationship between
+self-sanction and information sharing in a new scenario including these two strategies. Third, the
+explained variance of PRE is not high, so some other determinants or sub-sections of this construct,
+i.e., response efficacy and self-efficacy, should be taken into consideration. Furthermore, consumer
+food safety trust was measured by the three types of trustees, and further research should pay more
+attention to different types of trustees since previous studies have indicated different types of trust
+relationships with diversified consumer perceptions of food safety [32]. Therefore, all these matters
+and other factors should be taken into consideration in future studies.
+
+Author Contributions: Conceptualization, C.L.; methodology, C.L.; investigation, Y.L.; writing—original draft
+preparation, C.L.; writing—review and editing, W.Z. All authors have read and agreed to the published version of
+the manuscript.
+Funding: This paper is supported by the Sichuan Science and Technology Program (Grant No. 2018ZR0205).
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+1.    Dean, D.H. Consumer reaction to negative publicity: Effects of corporate reputation, response, and
+      responsibility for a crisis event. J. Bus. Commun. 2004, 41, 192–211. [CrossRef]
+2.    Xie, Y.; Peng, S. How to repair customer trust after negative publicity: The roles of competence, integrity,
+      benevolence, and forgiveness. Psychol. Mark. 2009, 26, 572–589. [CrossRef]
+3.    Bondoc, I. European Regulation in the Veterinary Sanitary and Food Safety Area, a Component of the
+      European Policies on the Safety of Food Products and the Protection of Consumer Interests: A 2007
+      Retrospective. Part Two: Regulations. Universul Jurid. Supl. 2018, 16–19. Available online: https:
+      //www.ceeol.com/search/article-detail?id=624697 (accessed on 17 October 2019).
+4.    Sargeant, A.; Lee, S. Trust and relationship commitment in the United Kingdom voluntary sector:
+      Determinants of donor behavior. Psychol. Mark. 2004, 21, 613–635. [CrossRef]
+5.    Schiffman, L.G.; Sherman, E.; Kirpalani, N. Trusting souls: A segmentation of the voting public. Psychol.
+      Mark. 2002, 19, 993–1007. [CrossRef]
+6.    Bies, R.J.; Tripp, T.M. Beyond distrust, Getting even “and the need for revenge”. In Trust in Organizations:
+      Frontiers of Theory and Research; Kramer, R.M., Tyler, T.R., Eds.; SAGE Publicatinos Inc.: London, UK; New
+      Delhi, India, 1996; pp. 246–260.
+7.    Lewicki, R.J.; Bunker, B.B. Developing and Maintaining Trust in Work Relationships. In Trust in Organizations:
+      Frontiers of Theory and Research; Kramer, R.M., Tyler, T.R., Eds.; SAGE Publications, Inc.: Thousand Oaks, CA,
+      USA, 1996; pp. 114–139.
+8.    Verbeke, W. Agriculture and the food industry in the information age. Eur. Rev. Agric. Econ. 2005, 32,
+      347–368. [CrossRef]
+9.    Peake, W.O.; Detre, J.D.; Carlson, C.C. One bad apple spoils the bunch? An exploration of broad consumption
+      changes in response to food recalls. Food Policy 2014, 49, 13–22. [CrossRef]
+10.   Feng, T.; Keller, L.R.; Wang, L.; Wang, Y. Product quality risk perceptions and decisions: Contaminated pet
+      food and lead-painted toys. Risk Anal. Int. J. 2010, 30, 1572–1589. [CrossRef]
+11.   Hovick, S.; Freimuth, V.S.; Johnson-Turbes, A.; Chervin, D.D. Multiple health risk perception and information
+      processing among African Americans and Whites living in poverty. Risk Anal. Int. J. 2011, 31, 1789–1799.
+      [CrossRef]
+12.   Feng, T.; Keller, L.R.; Wu, P.; Xu, Y. An empirical study of the toxic capsule crisis in China: Risk perceptions
+      and behavioral responses. Risk Anal. 2014, 34, 698–710. [CrossRef]
+
+===== PAGE 15 =====
+Int. J. Environ. Res. Public Health 2020, 17, 1270                                                               15 of 16
+
+
+
+13.   Zavyalova, A.; Pfarrer, M.D.; Reger, R.K.; Shapiro, D.L. Managing the message: The effects of firm actions
+      and industry spillovers on media coverage following wrongdoing. Acad. Manag. J. 2012, 55, 1079–1101.
+      [CrossRef]
+14.   Dirks, K.T.; Kim, P.H.; Ferrin, D.L.; Cooper, C.D. Understanding the effects of substantive responses on trust
+      following a transgression. Organ. Behav. Hum. Decis. Process. 2011, 114, 87–103. [CrossRef]
+15.   Chen, Y.-H.; Wu, J.-J.; Chang, H.-T. Examining the mediating effect of positive moods on trust repair in
+      e-commerce. Internet Res. 2013, 23, 355–371. [CrossRef]
+16.   Nakayachi, K.; Watabe, M. Restoring trustworthiness after adverse events: The signaling effects of voluntary
+      “hostage posting” on trust. Organ. Behav. Hum. Decis. Process. 2005, 97, 1–17. [CrossRef]
+17.   Rogers, R.W. Cognitive and psychological processes in fear appeals and attitude change: A revised theory of
+      protection motivation. In Social Psychophysiology: A Source Book; Elsevier: Amsterdam, The Netherlands,
+      1983; pp. 153–176.
+18.   Chen, M.-F. Extending the protection motivation theory model to predict public safe food choice behavioural
+      intentions in Taiwan. Food Control 2016, 68, 145–152. [CrossRef]
+19.   Hunter, E.; Röös, E. Fear of climate change consequences and predictors of intentions to alter meat
+      consumption. Food Policy 2016, 62, 151–160. [CrossRef]
+20.   Rogers, R.W. A protection motivation theory of fear appeals and attitude change1. J. Psychol. 1975, 91, 93–114.
+      [CrossRef]
+21.   Cameron, K.A. A practitioner’s guide to persuasion: An overview of 15 selected persuasion theories, models
+      and frameworks. Patient Educ. Couns. 2009, 74, 309–317. [CrossRef]
+22.   Bandura, A. Self-efficacy. In Encyclopedia of Human Behavior; Ramachaudran, V.S., Ed.; Academic Press: New
+      York, NY, USA, 1994; Volume 4, pp. 71–81, reprinted in Encyclopedia of Mental Health; Friedman, H., Ed.;
+      Academic Press: San Diego, CA, USA, 1998; pp. 1–15; Available online: https://www.uky.edu/~{}eushe2/
+      Bandura/Bandura1994EHB.pdf (accessed on 18 October 2019).
+23.   Eagly, A.H.; Chaiken, S. The Psychology of Attitudes; Harcourt Brace Jovanovich College Publishers: Orlando,
+      FL, USA, 1993; pp. 114–120.
+24.   Chaiken, S. Heuristic versus systematic information processing and the use of source versus message cues in
+      persuasion. J. Personal. Soc. Psychol. 1980, 39, 752. [CrossRef]
+25.   Trumbo, C.W. Information processing and risk perception: An adaptation of the heuristic-systematic model.
+      J. Commun. 2002, 52, 367–382. [CrossRef]
+26.   Beck, U. Risk society: Towards a new modernity. In Association with Theory, Culture & Society, 1st ed.; SAGE
+      Publications Ltd.: Thousand Oaks, CA, USA, 1992; pp. 265–272.
+27.   Beck, U. Risk Society: Towards a New Modernity; SAGE Publications: London, UK, 1992; pp. 95–101.
+28.   Han, G.; Jan, S. Does Food Safety Risk Perception Affect the Public’s Trust in Their Government? An
+      Empirical Study on a National Survey in China. Int. J. Environ. Res. Public Health 2019, 16, 1874. [CrossRef]
+29.   Hansen, J.; Holm, L.; Frewer, L.; Robinson, P.; Sandøe, P. Beyond the knowledge deficit: Recent research into
+      lay and expert attitudes to food risks. Appetite 2003, 41, 111–121. [CrossRef]
+30.   Trumbo, C.W.; McComas, K.A. The function of credibility in information processing for risk perception. Risk
+      Anal. Int. J. 2003, 23, 343–353. [CrossRef] [PubMed]
+31.   Slovic, P. Perceived risk, trust, and democracy. Risk Anal. 1993, 13, 675–682. [CrossRef]
+32.   Wachinger, G.; Renn, O.; Begg, C.; Kuhlicke, C. The risk perception paradox—Implications for governance
+      and communication of natural hazards. Risk Anal. 2013, 33, 1049–1065. [CrossRef] [PubMed]
+33.   Griffin, R.J.; Dunwoody, S.; Neuwirth, K. Proposed model of the relationship of risk information seeking and
+      processing to the development of preventive behaviors. Environ. Res. 1999, 80, S230–S245. [CrossRef]
+34.   Liao, C.; Zhou, X.; Zhao, D. An augmented risk information seeking model: Perceived food safety risk
+      related to food recalls. Int. J. Environ. Res. Public Health 2018, 15, 1800. [CrossRef]
+35.   Bubeck, P.; Botzen, W.J.; Kreibich, H.; Aerts, J.C. Detailed insights into the influence of flood-coping appraisals
+      on mitigation behaviour. Glob. Environ. Chang. 2013, 23, 1327–1338. [CrossRef]
+36.   Shan, L.; Wang, S.; Wu, L.; Tsai, F.-S. Cognitive Biases of Consumers’ Risk Perception of Foodborne Diseases
+      in China: Examining Anchoring Effect. Int. J. Environ. Res. Public Health 2019, 16, 2268. [CrossRef]
+37.   Zhang, J.; Cai, Z.; Cheng, M.; Zhang, H.; Zhang, H.; Zhang, Z. Association of Internet Use with Attitudes
+      Toward Food Safety in China: A Cross-Sectional Study. Int. J. Environ. Res. Public Health 2019, 16, 4162.
+      [CrossRef]
+
+===== PAGE 16 =====
+Int. J. Environ. Res. Public Health 2020, 17, 1270                                                              16 of 16
+
+
+
+38.   Terpstra, T.; Lindell, M.K.; Gutteling, J.M. Does communicating (flood) risk affect (flood) risk perceptions?
+      Results of a quasi-experimental study. Risk Anal. Int. J. 2009, 29, 1141–1155. [CrossRef]
+39.   Wei, J.; Zhao, M.; Wang, F.; Zhao, D. The effects of firm actions on customers’ responses to product recall
+      crises: Analyzing an automobile recall in China. J. Risk Res. 2016, 19, 425–443. [CrossRef]
+40.   Zeithaml, V.A.; Berry, L.L.; Parasuraman, A. The behavioral consequences of service quality. J. Mark. 1996,
+      60, 31–46. [CrossRef]
+41.   Li, T.; Bernard, J.C.; Johnston, Z.A.; Messer, K.D.; Kaiser, H.M. Consumer preferences before and after a food
+      safety scare: An experimental analysis of the 2010 egg recall. Food Policy 2017, 66, 25–34. [CrossRef]
+42.   Yi, L.; Tao, J.; Zhu, Z.; Tan, C.; Qi, L. Food Safety Incident, Public Health Concern, and Risk Spillover
+      Heterogeneity: Avian Influenza Shocks as Natural Experiments in China’s Consumer Markets. Int. J. Environ.
+      Res. Public Health 2019, 16, 4182. [CrossRef] [PubMed]
+43.   Gillespie, N.; Dietz, G.; Lockey, S. Organizational reintegration and trust repair after an integrity violation: A
+      case study. Bus. Ethics Q. 2014, 24, 371–410. [CrossRef]
+44.   Mattila, A.S. How to handle PR disasters? An examination of the impact of communication response type
+      and failure attributions on consumer perceptions. J. Serv. Mark. 2009, 23, 211–218. [CrossRef]
+45.   Bansal, G.; Zahedi, F.M. Trust violation and repair: The information privacy perspective. Decis. Support Syst.
+      2015, 71, 62–77. [CrossRef]
+46.   Giraud-Heraud, E.; Rouached, L.; Soler, L.-G. Private labels and public quality standards: How can consumer
+      trust be restored after the mad cow crisis? Quant. Mark. Econ. 2006, 4, 31–55. [CrossRef]
+47.   Cleeren, K.; Dekimpe, M.G.; Helsen, K. Weathering product-harm crises. J. Acad. Mark. Sci. 2008, 36, 262–270.
+      [CrossRef]
+48.   Bozic, B. Consumer trust repair: A critical literature review. Eur. Manag. J. 2017, 35, 538–547. [CrossRef]
+49.   Moorman, C.; Zaltman, G.; Deshpande, R. Relationships between providers and users of market research:
+      The dynamics of trust. J. Mark. Res. 1992, 29, 314–328. [CrossRef]
+50.   Yousafzai, S.Y.; Pallister, J.G.; Foxall, G.R. Strategies for building and communicating trust in electronic
+      banking: A field experiment. Psychol. Mark. 2005, 22, 181–201. [CrossRef]
+51.   Wen, W.-C.; Yu, T.-H.; Benoit, W.L. The failure of ‘scientific’evidence in Taiwan: A case study of international
+      image repair for American beef. Asian J. Commun. 2012, 22, 121–139. [CrossRef]
+52.   Huurne, E.T.; Gutteling, J. Information needs and risk perception as predictors of risk information seeking. J.
+      Risk Res. 2008, 11, 847–862. [CrossRef]
+53.   Lee, H.; Abdul Halim, H.; Thong, K.; Chai, L.K. Assessment of Food Safety Knowledge, Attitude, Self-Reported
+      Practices, and Microbiological Hand Hygiene of Food Handlers. Int. J. Environ. Res. Public Health 2017, 14,
+      55. [CrossRef]
+54.   Van de Ven, A.H. Engaged Scholarship: A Guide for Organizational and Social Research; Oxford University Press:
+      Oxford, UK, 2005; pp. 112–118.
+55.   Wu, L.; Zhong, Y.; Shan, L.; Qin, W. Public risk perception of food additives and food scares. The case in
+      Suzhou, China. Appetite 2013, 70, 90–98. [CrossRef] [PubMed]
+
+                            © 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+                            article distributed under the terms and conditions of the Creative Commons Attribution
+                            (CC BY) license (http://creativecommons.org/licenses/by/4.0/).

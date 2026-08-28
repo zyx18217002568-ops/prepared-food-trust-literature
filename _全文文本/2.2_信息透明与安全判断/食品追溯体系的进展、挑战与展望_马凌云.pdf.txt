@@ -1,0 +1,534 @@
+SOURCE_PDF: 2.2_信息透明与安全判断/食品追溯体系的进展、挑战与展望_马凌云.pdf
+EXTRACTION_STATUS: ok
+PAGES: 10
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+食品与发酵工业
+         Food and Fermentation Industries
+         ISSN 0253-990X,CN 11-1802/TS
+
+
+
+
+《食品与发酵工业》网络首发论文
+
+
+题目：         食品追溯体系的进展、挑战与展望
+作者：         马凌云，谢庆超，刘鹏
+DOI：        10.13995/j.cnki.11-1802/ts.047343
+收稿日期：       2026-05-17
+网络首发日期：     2026-08-13
+引用格式：       马凌云，谢庆超，刘鹏．食品追溯体系的进展、挑战与展望[J/OL]．食品与发
+            酵工业. https://doi.org/10.13995/j.cnki.11-1802/ts.047343
+
+
+
+
+  网络首发：在编辑部工作流程中，稿件从录用到出版要经历录用定稿、排版定稿、整期汇编定稿等阶
+段。录用定稿指内容已经确定，且通过同行评议、主编终审同意刊用的稿件。排版定稿指录用定稿按照期
+刊特定版式（包括网络呈现版式）排版后的稿件，可暂不确定出版年、卷、期和页码。整期汇编定稿指出
+版年、卷、期、页码均已确定的印刷或数字出版的整期汇编稿件。录用定稿网络首发稿件内容必须符合《出
+版管理条例》和《期刊出版管理规定》的有关规定；学术研究成果具有创新性、科学性和先进性，符合编
+辑部对刊文的录用要求，不存在学术不端行为及其他侵权行为；稿件内容应基本符合国家有关书刊编辑、
+出版的技术标准，正确使用和统一规范语言文字、符号、数字、外文字母、法定计量单位及地图标注等。
+为确保录用定稿网络首发的严肃性，录用定稿一经发布，不得修改论文题目、作者、机构名称和学术内容，
+只可基于编辑规范进行少量文字的修改。
+  出版确认：纸质期刊编辑部通过与《中国学术期刊（光盘版）》电子杂志社有限公司签约，在《中国
+学术期刊（网络版）
+        》出版传播平台上创办与纸质期刊内容一致的网络版，以单篇或整期出版形式，在印刷
+出版之前刊发论文的录用定稿、排版定稿、整期汇编定稿。因为《中国学术期刊（网络版）
+                                       》是国家新闻出
+版广电总局批准的网络连续型出版物（ISSN 2096-4188，CN 11-6037/Z），所以签约期刊的网络版上网络首
+发论文视为正式出版。
+
+===== PAGE 2 =====
+食品与发酵工业
+
+
+
+
+食品追溯体系的进展、挑战与展望
+
+马凌云 1，谢庆超 1，刘鹏 2
+1（上海海洋大学 食品学院，上海，201306）
+2（中国标准化研究院，北京，100191）
+*通信作者        谢庆超，高级工程师，E-mail：qcxie@shou.edu.cn
+
+
+摘要       该文系统梳理了近 20 年来国际食品法典委员会（Codex Alimentarius Commission, CAC）、国际标准化组织
+（International Organization for Standardization, ISO）、欧盟、美国、加拿大、澳大利亚、日本、韩国等主要国家和中
+国在食品追溯领域的法律法规、标准要求及应用进展等。通过比较分析得出，各国的食品追溯体系在立法强制性与自
+愿性、覆盖范围、关键数据元素及技术应用方面存在显著差异，全球食品追溯体系共同面临标准不统一、中小企业实
+施成本高、新兴风险应对不足等问题和挑战。该文指出，建议采取加强国际标准协同、推广低成本技术解决方案、利
+用区块链和物联网等新兴技术、深化国际合作等措施。
+关键词 食品追溯；法规；标准；比较研究；食品安全
+DOI: 10.13995/j.cnki.11-1802/ts.047343
+
+
+Progress, challenges and future prospects of the food traceability system
+MA Lingyun1 , XIE Qingchao1 , LIU Peng2
+
+1(College of Food Science and Technology,Shanghai Ocean University, Shanghai 201306, China)
+2(China National Institute of Standardization, Beijing 100191, China)
+Abstract This paper systematically reviews the laws, regulations, standards, and application progress in the field of food
+traceability over the past 20 years in the CAC, the ISO, the European Union, the United States, Canada, Australia, Japan,
+South Korea, and China. Through comparative analysis, it is found that there are significant differences among national food
+traceability systems in terms of legislative mandatory versus voluntary approaches, coverage, key data elements, and
+technological applications. In addition, global food traceability systems collectively face common challenges and issues,
+including a lack of unified standards, high implementation costs for small and medium-sized enterprises, and insufficient
+preparedness for emerging risks. The recommended measures are strengthening international standard harmonization,
+promoting low-cost technological solutions, leveraging emerging technologies like blockchain and the Internet of Things, and
+deepening international cooperation to collaboratively build a transparent and efficient global food traceability system.
+Key words food traceability; regulation; standard; comparative study; food safety
+
+
+   21 世纪以来，陆续爆发了疯牛病、苏丹红、三聚氰胺等举世瞩目的重大食品安全事件，凸显了
+建立高效食品追溯体系的重要性和紧迫性。国际食品法典委员会（ Codex Alimentarius Commission,
+CAC）对食品追溯的定义为“追踪食品在生产、加工和分销的特定阶段流动的能力”[1] 。构建高效、
+透明、可信的食品溯源系统已成为保障食品安全的关键技术手段 [2]。
+   近 20 年来，无论是国际组织还是世界各国，均在食品追溯领域深入开展了探索与实践。但受政
+治、经济、技术水平及食品产业结构差异的影响，目前全球尚未形成统一的追溯模式。本文通过对国
+际组织、欧盟、主要发达国家和中国的食品追溯体系进行系统性比较研究，梳理食品追溯体系的发展
+脉络与核心特征，剖析共性问题，提出优化食品追溯体系和加强各国协同发展等建议。
+
+
+
+    收稿日期：2026-05-17
+    基金项目：国家重点研发专项（2024YFD2402200）
+    作者简介：马凌云，学士
+    网络首发时间： 2026-08-13 16:19:57 网络首发地址： https://link.cnki.net/urlid/11.1802.TS.20260813.1556.001
+
+===== PAGE 3 =====
+2                                                                     食品与发酵工业
+
+
+1 国际组织的食品追溯框架与标准
+     CAC 和国际标准化组织（International Organization for Standardization, ISO）等国际组织，在推动
+全球食品追溯体系的标准化和协调化方面发挥着重要的引领作用。
+1.1 CAC
+     作为全球最重要的食品标准制定机构，CAC 发布的 CAC/GL 60—2006《食品检验和认证体系中
+使用可追溯性／产品追踪方法导则》是国际公认的有关食品追溯的基础标准。该标准明确，作为食品
+检验和认证管理机构的一种重要工具，追溯有助于提高相关食品安全措施的有效性和/或效率；同时
+明确了设计和实施食品追溯体系应遵循目标明确、技术可行、成本效益等原则。虽然该标准不具有强
+制性，但为世界各国立法提供了基本原则和框架，有效减少了国际食品贸易中的技术壁垒，也为世界
+贸易组织（World Trade Organization, WTO）框架下的食品安全争端提供了国际基准。
+1.2 ISO
+     2007 年，ISO 发布了 ISO 22005:2007《饲料和食品链的可追溯性 体系设计与实施的通用原则和
+基本要求》。该标准明确了设计和实施食品追溯体系的原则和基本要求，确定了目标设定、设计步
+骤、建立程序、文件要求、组织衔接、内部审核和评审等步骤的内容要素，是食品企业特别是跨国企
+业建立内部追溯管理体系的重要依据 [3]。
+
+2 主要地区和国家食品追溯体系
+2.1 欧盟
+     欧 盟 是 全 球 进 行 食 品 追 溯 立 法 管 理 的 最 严 格 、 最 系 统 的 地 区 。2002 年 ， 欧 盟 颁 布 的 EC No
+178/2002《通用食品法》是欧洲食品安全监管的重要基石，该法第 18 条明确规定，欧盟市场销售的
+所有食品、饲料及其原料都必须具备可追溯性 [4-5] ，要求经营者必须能够识别其供应商和客户。2005
+年 1 月，欧盟法规强制要求所有的食品和饲料行业执行追溯要求。针对牛肉、鱼类、转基因食品等特
+定产品，欧盟提出了更加细化的追溯标签和要求 [6-8]。例如，EC No 1760／2000 明确要求，实行牛类
+动物产品追溯。作为欧盟内实施牛肉追溯的典范，爱尔兰制定了《牛肉制品追溯指南》 [9]，其识别系
+统为每头牛分配唯一的电子耳标，并与中央数据库连接。所有农场、市场和屠宰场的移动信息均应实
+时上传。这不仅在 2000 年疯牛病危机后成功恢复了欧盟内外市场信任，还通过精准的数据管理提升
+了畜牧业的整体效率和疫病防控能力。欧盟的牛肉制品追溯系统中使用的条码子系统由编码系统、数
+据载体和数据交换 3 部分组成。2023 年，欧盟出台《通用产品安全法规》，进一步强化了产品安全
+与追溯要求，标志着欧盟在产品安全和可追溯性方面迈出了重要一步 [10]。
+     经过近 20 年发展，通过建立严密的法律框架、高效的监管架构、独立的检验检测机构和快速响
+应的预警系统，欧盟逐步形成了科学、严谨的农产品质量安全追溯体系。这一体系提升了供应链各环
+节的透明度和效率，同时也确保了农产品的高质量和安全性 [11]。近年来，其工作重点转向利用数字化
+技术提升追溯效率，如探索在葡萄酒、橄榄油等高端产品应用区块链技术进行追溯 [12]。例如，中法政
+府部门指导实施的原产地身份认证系统（certified origin identification, C.O.I.D），以无线射频（radio
+frequency identification, RFID）技术，详细记录每瓶葡萄酒在法国的所有重要数据，包括葡萄的产地
+土壤、种植气候，酿酒师、生产日期、储运温度控制以及进出口和市场流通等内容，实现可追溯式管
+理。
+2.2 美国
+   美国的追溯体系由多个联邦机构分头负责管理，呈现出强制性与自愿性并存。2003 年 12 月，美
+国实施的《公共健康安全与生物恐怖应对法（2002）》，要求国内外食品、饲料企业必须建立产品可
+追溯制度，保存能够确定食品来源和去向的记录，以便美国食品药品监督管理局 （Food and Drug
+Administration, FDA）能够追查给人或者动物健康带来严重不利影响或者死亡威胁的食品来源 [13]。
+   2004 年美国启动国家动物标识系统（national animal identification system, NAIS），拟于 2009 年
+
+===== PAGE 4 =====
+马凌云等    食品追溯体系的进展、挑战与展望                                              3
+
+
+强制实施。NAIS 的任务是追溯动物从出栏到屠宰的全过程，要求生产者、加工商和零售商做好从动
+物出生、养殖到屠宰和加工过程的跟踪记录并建立标识。由于该系统加重了农户负担， 2010 年终止
+推进。2011 年美国推出了动物疾病追溯规划（animal disease traceability, ADT），拟通过降低追溯成
+本，减轻农户负担来实现跨州畜禽产品的追溯管理，该计划正在持续推进中 [14]。总体来说，行业主导
+的自愿性标准（如国际物品编码组织标准）应用更为广泛 [15]。
+    2022 年，美国发布《食品安全现代化法案》（food safety modernization act, FSMA），该法案第
+204 条“加强食品的跟踪和追溯以及记录保存”的（d）款明确了高风险食品的追溯数据记录和保存
+要求。作为《食品安全现代化法案》的配套法规，《FSMA 最终规则：对某些食品的额外追溯追踪记
+录要求》明确要求制造、加工、包装或贮存《食品可追溯性清单》（food traceability list, FTL）上食
+品的从业人员必须保存食品供应链中关键追踪事件（critical tracking event, CTE）的具体信息即关键
+数据元素（key data elements, KDE），并提供给供应链的上下游合作伙伴 [16]。该框架性要求是有效追
+踪食品的基础，并清楚地传达了 FDA 进行追踪所需要的信息，但仅针对菠菜、西红柿、即食沙拉等
+FTL 内高风险食品的特定关键追踪事件。目前，FDA 正在鼓励采用更智能的追溯技术 [17]。在肉类、
+家禽等领域，美国农业部作出了强制性追溯要求。
+2.3 加拿大
+    加拿大在肉类和新鲜农产品领域的食品追溯较为成熟。例如，2001 年 9 月加拿大启动了畜产品
+质量可追溯体系和动物标识数据库建设，开发了猪产品信息可追溯系统。2006 年，加拿大开始全面
+实施猪的标识计划。2008 年李氏杆菌病疫情后，加拿大加强了追溯立法。加拿大《食品安全法案
+（2012）》要求，所有联邦注册的企业必须建立预防性控制和追溯体系 [18] 。目前，加拿大基本完成了
+猪肉从屠宰到餐桌的追溯。
+2.4 澳大利亚
+     澳大利亚和新西兰食品标准局（Food Standards Australia New Zealand, FSANZ）制定的《食品标
+准法典》，规定了对食品追溯的普遍性要求 [19]。其特点是强调“全行业一致的方法”，以召回驱动完
+善追溯体系。澳大利亚通过颁布《食品法案》、《食品安全管理条例》、《食品标准条例》、《食品
+安全管理与总体要求》、《食品工业场所与设备管理要求》等，对食品行业的追溯作出了强制性规
+定，涵盖所有食品类别，以及农产品种植养殖、生产、加工、存储、运输、销售、出口等各环节。
+     澳大利亚高度重视肉类的可追溯管理，通过实施肉类标准（meat standards Australia, MSA），为
+消费者提供肉类食用品质的准确性描述。2002 年 1 月，澳大利亚实施了国家牲畜标识计划（national
+livestock identification system, NLIS）。NLIS 可以实现对动物个体从出生到屠宰的全过程进行追踪。
+2003 年，澳大利亚在全国强制实施 NLIS，NLIS 数据库详细记录了牧场和牛的注册、买卖交易、患病
+情况和兽药残留等信息。通过使用 NLIS 数据库，澳大利亚的监管部门可以追溯到牛在整个供应链上
+任意节点的信息。
+2.5 日本
+  2000 年代初疯牛病危机后，日本颁布了《牛肉可追溯法》，迅速建立起了强制性牛肉可追溯制
+度 。随后通过颁布《食品安全基本法》，将食品追溯推广到其他领域。2009 年，日本发布《关于
+ [20]
+
+米谷等交易信息记录及产地信息传递法律》（也称《大米可追溯法》），建立实施大米追溯制度。按
+照《大米可追溯法》的规定，日本所有的大米经销商、大米制品生产商和大米种植者都必须保存交易
+记录、大米及大米配料原产地信息。该法要求 2010 年 10 月 1 日起大米生产经营主体建立并保存交易
+记录，2011 年 7 月 1 日起实行产地信息传送与公开。
+  2003 年，日本发布《食品可追溯指南》，2007 年和 2010 年对该指南进行了 2 次修改完善。《食
+品可追溯指南》明确了建立不同产品可追溯系统的基本要求，提出了农产品生产、食品加工和流通企
+业建立食品可追溯系统的注意事项 [21]。日本制定了贝类（牡蛎、扇贝）、养殖鱼类以及紫菜的质量安
+全可追溯操作规程。
+  目前，日本强制实行可追溯制度的产品为牛肉和大米；对于水果、蔬菜、牛肉以外的畜禽产品、
+
+===== PAGE 5 =====
+4                                                                      食品与发酵工业
+
+
+大米以外的粮油产品、水产品等，实行分阶段逐步实施，经营主体可根据实际情况，自愿建立食品可
+追溯制度。
+2.6 韩国
+    2002 年 起 ， 韩 国 陆 续 制 修 订 颁 布 的 《 食 品 安 全 基 本 法 》 、 《 食 品 卫 生 法 》 、 《 优 质 农 产 品
+法》、《农产品质量管理法》、《牛和牛肉可追溯法》等法律，都对建立食品追溯制度提出了明确要
+求。根据上述法律要求，韩国出台了《农产品质量管理法施行细则》、《水产品可追溯实施细则》、
+《牛和牛肉追溯施行细则》等法规，详细规定了注册、登记、变更、标识、有效性、数据提交等追溯
+实施的具体要求。修订后的其他食品相关法律也增加了追溯条款，例如《健康食品法》明确了健康食
+品的追溯要求。
+    2009 年 12 月、2012 年 7 月先后推出《农产品追溯管理标准》、《农产品追溯管理系统详细实施
+指导》；2013 年 3 月公布《食品追溯标准指南》、《食品追溯基本准则》，推动实施农产品追溯。
+韩国实施了严格的农产品和水产品追溯制度，并强制要求使用二维码进行标识，方便消费者通过手机
+APP 扫码查询全程信息 [22]。
+
+3 中国食品追溯体系
+3.1 法律层面
+    2015 年后，中国陆续修订颁布了《食品安全法》、《农产品质量安全法》等法律法规，均对建
+立食品追溯体系作出了明确规定、提出了具体要求。《食品安全法》第 42 条规定，国家建立食品全
+程追溯制度，食品生产经营者应当依法建立追溯体系 [23]。《农产品质量安全法》第 41 条规定，国家
+对列入农产品质量安全追溯目录的农产品实施追溯管理；第 75 条明确了农产品质量安全追溯的法律
+责任 [24]。《食品安全法实施条例》第 17 条要求有关部门明确食品安全全程追溯基本要求，指导食品
+生产经营者通过信息化手段建立、完善食品安全追溯体系，特别是将婴幼儿配方食品等针对特定人群
+的食品以及其他食品安全风险较高或者销售量大的食品的追溯体系建设作为监督检查的重点 [25]。
+3.2 政策层面
+    中共中央、国务院多次制发文件，为建立食品追溯体系提供了根本遵循和政策指引。2009 年 2
+月，中共中央、国务院发布《关于 2009 年促进农业稳定发展农民持续增收的若干意见》，提出加快
+推进动物标识及疫病可追溯体系建设，要求实行严格的食品质量安全追溯制度。2015 年 12 月，国务
+院办公厅印发《关于加快推进重要产品追溯体系建设的意见》，明确了推进食用农产品和食品追溯体
+系建设的重点品种、具体要求。2019 年 5 月，中共中央、国务院发布《关于深化改革加强食品安全
+工作的意见》，要求食用农产品生产经营主体和食品生产企业依法建立食品安全追溯体系，确保产品
+来源可查、去向可追，明确国家建立统一的食用农产品追溯平台，建立食用农产品和食品安全追溯标
+准和规范，完善全程追溯协作机制。2025 年 3 月，中共中央办公厅、国务院办公厅印发《关于进一
+步强化食品安全全链条监管的意见》，要求加快建立食用农产品质量安全追溯协作和执法合作机制，
+制定食用农产品质量安全追溯管理办法，建立健全食用农产品质量安全追溯目录。
+3.3 规章和规范性文件
+  近年来，市场监管总局、农业农村部出台的多个部门规章将食品、食用农产品追溯体系作为重要
+内容，明确了责任主体、提出了前进方向。2021 年 11 月，市场监管总局公布《食品生产经营监督检
+查管理办法》，将追溯制度体系建立情况和相关记录作为食品生产经营者的监督检查要点。2022 年 9
+月，农业农村部公布《动物检疫管理办法》，明确要求建立全国统一的动物检疫管理信息化系统，实
+现动物检疫信息的可追溯。2023 年 6 月，市场监管总局公布《食用农产品市场销售质量安全监督管
+理办法》，要求保证市场销售的食用农产品可追溯，同时鼓励集中交易市场开办者采用信息化手段统
+一采集食用农产品进货、贮存、运输、交易等数据信息，提高食品安全追溯能力和水平 。2025 年 2
+月，市场监管总局公布《食品生产经营企业落实食品安全主体责任监督管理规定》，要求食品安全总
+监承担追溯体系建设职责。
+
+===== PAGE 6 =====
+马凌云等   食品追溯体系的进展、挑战与展望                                                                                              5
+
+
+    此外，《农业部、食品药品监管总局关于加强食用农产品质量安全监督管理工作的意见》、《农
+业部、食品药品监管总局关于进一步加强畜禽屠宰检验检疫和畜禽产品进入市场或者生产加工企业后
+监管工作的意见》、《市场监管总局办公厅关于进一步加强食用农产品市场销售质量安全监管工作的
+通知》、《市场监管总局办公厅关于进一步落实食用农产品批发市场食品安全查验要求的通知》、
+《农业农村部办公厅、国家市场监督管理总局办公厅关于加强新修订〈中华人民共和国农产品质量安
+全法〉有关规定衔接工作的通知》等多个规范性文件对加快建立食用农产品质量安全追溯体系的部门
+职责分工、试点主体、重点品种、技术手段、信息归集、结果应用等提出了具体要求。
+3.4 标准体系
+    截至目前，中国发布了多项推荐性国家标准，如 GB/T 38158—2019《重要产品追溯—产品追溯
+系统基本要求》及 GB/T 29568—2013《农产品追溯要求 水产品》、GB/T 33915—2017《农产品追溯
+要求 茶叶》、GB/Z 40948—2021《农产品追溯要求 蜂蜜》等针对产品的具体标准。GB/T 37029—
+2018《食品追溯 信息记录要求》、GB/T 36088—2018《冷链物流信息管理要求》、GB/T 43260—
+2023《进口冷链食品追溯 追溯信息管理要求》、GB/T 43268—2023《进口冷链食品追溯 追溯体系通
+则》等推荐性标准，均对食品冷链物流信息追溯作出了细化规定或提出了要求。
+    此外，农业农村部门陆续出台了 NY/T 4710—2025《农产品质量安全追溯 术语》、NY/T 4711—
+2025《农产品质量安全追溯 编码与标识》、NY/T 4712—2025《农产品质量安全追溯 数据格式》、
+NY/T 4713—2025《农产品质量安全追溯 数据接口》等通用性的行业推荐性标准，以及 NY/T 1761—
+2009《农产品质量安全追溯操作规程 通则》及 NY/T 1762—2009《农产品质量安全追溯操作规程 水
+果》、NY/T 1763—2009《农产品质量安全追溯操作规程 茶叶》、NY/T 1764—2009《农产品质量安
+全追溯操作规程 畜肉》、NY/T 1993—2011《农产品质量安全追溯操作规程 蔬菜》、NY/T 3204—
+2018《农产品质量安全追溯操作规程 水产品》、NY/T 3817—2020《农产品质量安全追溯操作规程
+蛋与蛋制品》、NY/T 3819—2020《农产品质量安全追溯操作规程 食用菌》等针对产品的具体追溯操
+作规程。
+                                     表1 不同层级追溯标准下各类型标准占比统计
+           Table 1 Statistical proportion of various standards under different levels of traceability standards
+                                             通用类占比/%食品类占比/%农产品类占比/%
+
+                                 国家标准           51.06           36.17            12.77
+
+                                 行业标准           5.68            56.82            37.50
+
+                                 地方标准           7.98            48.47            43.56
+
+                                 团体标准           15.68           44.60            39.72
+
+                                      表2 分类追溯标准在各级标准中的占比统计
+           Table 2 Statistical proportion of classification traceability standards in various levels of standards
+                                国家标准占比/%行业标准占比/%地方标准占比/%团体标准占比/%
+
+                      通用类             51.72             5.75             14.94            27.59
+
+                      食品类             6.20              18.25            28.83            46.72
+
+                      农产品类            2.68              14.73            31.70            50.89
+
+3.5 试点应用
+  为积极应对 2005 年欧盟开始实施的水产品可追溯制度，2004 年原质检总局出台《出境水产品追
+溯规程(试行)》和《出境养殖水产品检验检疫和监管要求 (试行)》，明确要求海捕原料可以追溯到
+船，养殖原料可追溯到养殖场或塘，淡水捕捞原料可追溯到捕捞区域，进口原料可追溯到进口批次。
+原食品药品监管局等 8 部门开始启动肉类食品追溯制度和系统建设项目，印发《肉类制品跟踪与追溯
+应用指南》以及《生鲜产品跟踪与追溯应用指南》。
+  2016 年 6 月，原农业部印发《关于加快推进农产品质量安全追溯体系建设的意见》，推动建立
+
+===== PAGE 7 =====
+6                                                                                                        食品与发酵工业
+
+
+全国统一的追溯管理信息平台、制度规范和技术标准，选择苹果、茶叶、猪肉、生鲜乳、大菱鲆等几
+类农产品统一开展追溯试点。
+   农业农村部、市场监管总局等部门在肉类、蔬菜等领域开展了重要产品追溯体系建设试点，包括
+由农业农村部主导的“国家农产品质量安全追溯管理信息平台”（侧重于初级农产品，覆盖种植、养
+殖等生产环节）与市场监管总局推动的“重要产品追溯体系”（侧重于加工食品、流通与消 费环
+节） [26]。部分电商平台利用区块链技术对其生鲜产品进行追溯，走在了应用前沿 [27]。
+
+4 食品追溯体系对比
+   上述主要地区和国家食品追溯体系上的差异，其本质是“政府干预与市场自主”、“统一标准与
+ 个性化适配”、“风险防控与贸易便利”三大矛盾的平衡结果（详见表 3）。欧盟、中国偏向于“政
+ 府主导+统一标准”，通过全面强制要求保障追溯体系的完整性与互通性，适用于食品产业集中、贸
+ 易一体化程度高的场景；美国、加拿大、澳大利亚采用“风险导向+分类施策”的策略，在保障高风
+ 险食品安全的同时，为企业保留自主空间，适配产业多元化、中小企业众多的格局；日本、韩国以
+“重点聚焦+精细管理”为特色，通过严厉处罚与民间补充，实现核心食品的精准追溯，满足消费者对
+ 食品安全的较高需求。
+                                          表3 主要地区和国家食品追溯对比
+                     Table 3 Comparison of food traceability among seven main region and countries
+对
+比
+    欧盟          美国                 加拿大             澳大利亚               日本                     韩国          中国
+维
+度
+
+核
+    全面强制为核      高风险品种强             基础要求强           基础记录强              重点品种（牛肉、               牛/猪肉强制，其    全面强制为导
+心
+    心，内部追溯可     制，普通品种自            制，深化应用          制，召回系统             进口大米）强制，               他自愿（GAP 认   向，分级分类实
+属
+    选           愿                  自愿              必备                 其余自愿补充                 证引导）        施
+性
+
+实
+    牛肉、禽类、水     芝士、鸡蛋、黄            高风险食品为          所有食品，重                                                食用农产品、食
+施                                                                     牛肉、进口大米、               牛/猪肉及制品、
+    产品、转基因食     瓜等 16 类高风险         主，逐步覆盖          点监管进口食                                                品、特殊食品等
+品                                                                     部分加工食品                 GAP 认证农产品
+    品等全品类       产品                 全品类             品、乳制品                                                 主要品类
+种
+
+覆
+                生产-加工-装运           生产-加工-销         生产-流通-销            生产-加工-流通-销             生产-加工-流通-   生产-加工-物流-
+盖   生产-加工-流通-
+                为核心，物流可            售，物流按需          售，含进口端             售，含内部拆分组               销售，聚焦核心     销售全链条（冷
+范   销售全链条
+                选                  覆盖              管控                 合信息                    环节          链强化）
+围
+
+追
+                国家动物标识系            全国电子溯源          食品标准局统             官方+农协+企业多                          国家农产品质量
+溯   统一 RASFF、                                                                                农林部农管院统
+                统（NAIS）+企          系统+分级监          一框架+企业自            元平台（如全农放                           安全追溯平台+省
+平   TRACES 系统                                                                                一平台
+                业自建系统              管平台             主记录                心系统）                               市对接系统
+台
+
+技
+                                                                      产品编码、终端查                           RFID、区块链、
+术   统一编码、电子     RFID、二维码、          电子溯源、风          第三方审核+数                                   统一追溯码、
+                                                                      询屏、精细化数据                           物联网、“一码通
+应   耳标、区块链      大数据建模              险分级算法           字化记录                                      GAP 认证关联
+                                                                      库                                  查”
+用
+
+监
+                强制召回权+风险           风险分级抽查                                                    官方主导+GAP    三位一体数字化
+管   跨境互认+行政抽                                       第三方独立审             分段监管+严厉刑事
+                分级检查+司法威           +全链条责任                                                    认证绑定+平台     监管+行政复核+
+机   查+高额罚款                                         计+突击检查             处罚+民间监督
+                慑                  追溯                                                        追溯          信用挂钩
+制
+
+典
+                                   分级防控高
+型   跨境适配性强，     风险导向明确，                            第三方主导，             精细化程度高，消               政策引导有力，     国际标准引领，
+                                   效，监管成本
+特   标准统一        企业自主性高                             召回响应迅速             费者参与度高                 逐步扩大覆盖      全链条闭环管控
+                                   可控
+征
+
+
+5 面临的共同问题与挑战
+    尽管世界各国在食品追溯方面取得了显著进展，但全球追溯体系仍面临诸多共同挑战：
+
+===== PAGE 8 =====
+马凌云等          食品追溯体系的进展、挑战与展望                                                                                                                  7
+
+
+   一是标准不一与互通性差：各国、各地区乃至各行业的数据标准、编码体系不一致，形成“数据
+ 孤岛”，阻碍了跨境食品追溯的效率。
+   二是中小型食品生产经营企业实施成本高：应用 RFID、区块链等先进追溯技术的前期投入和运
+ 营成本给中小企业带来了巨大压力，导致其积极性不高，追溯体系水平参差不齐 [28-29]。
+   三是法规执行的深度与广度不足：部分国家的追溯法规仍停留在原则性要求阶段，对追溯深度
+（到单品还是批次）和广度（覆盖所有环节）的规定不够明确，导致执行效果打折扣。
+   四是面临新型食品与新型风险的挑战：对于实验室培育肉、昆虫蛋白等新型食品，以及复杂的跨
+ 国、跨业态供应链（如电商平台销售的非标农产品），现有追溯体系尚缺乏成熟的监管方案。
+   五是数据质量与真实性难题：追溯系统的有效性依赖于输入数据的准确性。人为错误甚至故意欺
+ 诈（如产地伪标）会使得整个食品追溯系统失灵。
+
+6 对策与展望
+  为应对上述挑战，建议从以下几方面推动发展食品追溯体系：
+  一是加强国际协同与标准统一：在 CAC 和 ISO 框架下，推动建立全球统一的追溯核心数据元和
+接口标准，提升不同系统间的互通性。
+  二是推广低成本与适用的技术方案：开发和推广基于云平台、低成本二维码、简化 SaaS 软件的
+追溯解决方案，降低中小型企业的技术门槛和实施成本。
+  三是完善法规与强化联动：各国需进一步细化法规要求，明确追溯的颗粒度（如批次号标准），
+并加强跨部门、跨地区的监管协作与数据共享。
+  四是构建基于风险的差异化追溯策略：对高风险食品（如婴幼儿配方奶粉、生鲜肉类）实施最严
+格的强制性追溯，对低风险食品可采用更灵活的方式，实现资源优化配置 [30]。
+  五是深度融合新兴信息技术：大力探索推进区块链 [31-32]、物联网、大数据和人工智能在食品追溯
+体系中的应用 [33-34]。区块链可确保数据自动化、可信化流转，物联网可实现数据自动采集，AI 可进
+行风险预测，共同构建“智慧追溯”生态系统。
+
+7    结语
+  过去 20 年，全球食品追溯体系经历了从无到有、从局部到全局、从被动应对到主动预防的深刻
+变革。食品追溯体系的建设是一项系统工程，欧盟的强制性模式、美国的市场化模式以及中国的快速
+追赶模式，均基于自身国情，形成了各自不同的治理逻辑与发展路径。
+  在全球化食品供应链的背景下，任何国家的单一体系都无法独善其身。未来的发展方向必然是走
+向更深层次的国际合作与技术融合。通过构建标准统一、技术先进、成本可控、执行有力、信息互通
+的全球追溯网络，才能有效保障食品安全，提振消费者信心，并最终实现一个更安全、更透明、更可
+持续的全球食品安全管理系统。中国应在坚持自身制度优势的基础上，吸收借鉴各国先进经验，通过
+分类实施、标准引领、技术赋能、各方参与，构建起既符合中国实际又与国际接轨的食品追溯体系，
+为中国食品安全治理提供坚实保障。
+参考文献
+[1] CODEX ALIMENTARIUS COMMISSION. Principles for traceability/product tracing as a tool within a food inspection and certification
+    system: CAC/GL 60-2006[S]. Rome: FAO/WHO, 2006.
+[2] 王 少 华 ， 孙 传 恒 ， 罗 娜 ， 等 ． 面 向 预 制 食 品 溯 源 的 隐 私 数 据 加 密 共 享 方 法 研 究 [J]． 农 业 机 械 学 报 ， 2024， 55（ 5） ： 405-
+    418．
+    Wang S H, Sun C H, Luo N, et al. Privacy data encryption sharing method for prepared food tra ceability[J]. Transactions of the Chinese
+    Society for Agricultural Machinery, 2024, 55(5): 405-418.
+[3] International Organization for Standardization. Traceability in the feed and food chain -General principles and basic requirements for system
+    design and implementation: ISO 22005:2007[S]. Switzerland: ISO, 2007.
+[4] European Parliament and Council. Regulation (EC) No 178/2002 laying down the general principles and requirements of food law,
+    establishing the European food safety authority and laying down procedures in matters of food safety[EB/OL]. Official Journal of the
+    European Communities, 2002-02-1: 1-24[2026-06-23]. https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32002R0178.
+[5] 周佩丽． 中外关于食品追溯管理的文献研究[J]． 福建轻纺， 2022（8）： 28-31．
+
+===== PAGE 9 =====
+8                                                                                                                              食品与发酵工业
+
+     Zhou P L. A literature review on food traceability management between China and foreign countries[J]. The Light & Textile Industries of
+     Fujian, 2022(8): 28-31.
+[6] European Parliament and Council.(2000). Regulation (EC) No 1760/2000 establishing a system for the identification and regi stration of
+     bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation (EC) No 820/97[Z/OL].Of ficial
+     Journal       of       the       European      Communities,        2000-08-11:       1-10[2026-06-23].         https://eur-lex.europa.eu/legal-
+     content/EN/TXT/PDF/?uri=CELEX:32000R1760.
+[7] European Parliament and Council.(2013). Regulation (EU) No 1379/2013 on the common organisation of the markets in fishery and
+     aquaculture products, amending Council Regulations (EC) No 1184/2006 and (EC) No 1224/2009 and repealing Council Regulation (EC) No
+     104/2000[Z/OL].Official Journal of the European Union , 2013-12-28: 1-21[2026-06-23]. https://eur-lex.europa.eu/legal-
+     content/EN/TXT/PDF/?uri=CELEX:32013R1379&qid=1782210096985.
+[8] European Parliament and Council.(2003). Regulation (EC) No 1829/2003 on genetically modified food and feed (Text with EEA
+     relevance)[Z/OL].Official Journal of the European Union , 2003-10-18: 1-23[2026-06-23]. https://eur-lex.europa.eu/legal-
+     content/EN/TXT/PDF/?uri=CELEX:32003R1829.
+[9] Food Safety Authority of Ireland.(2013). Guidance Note No.10 Product Recall and Traceability(Revision 3)[EB/OL].Food Safety Authority
+     of Ireland, 2013: 9-23[2026-06-24]. https://www.fsai.ie/getmedia/43a4a3be-4753-4b45-a76f-bd8799691670/10507_fsai-gn-10-rev3-amend-
+     accessible-fa1.pdf?ext=.pdf.
+[10] 杜学美， 周雨瞳， 荀伟， 等． 新兴技术视角下国内外质量安全可追溯体系对比分析[J]．中国质量， 2025（10）： 50-55．
+     Du X M, Zhou Y T, Xun W, et al. A comparative analysis of domestic and international quality and safety traceability systems from the
+     perspective of emerging technologies[J]. China Quality, 2025(10): 50-55.
+[11] 田 淑 娇 ， 赵 帅 ， 彭 秀 媛 ， 等 ． 国 际 典 型 农 产 品 质 量 安 全 追 溯 体 系 研 究 及 对 我 国 的 启 示 [J]． 农 业 科 技 与 装 备 ， 2025（ 6） ：
+     124-127．
+     Tian S J, Zhao S, Peng X Y, et al. Research on international typical agricultural product quality and safety traceability systems and its
+     implications for China[J]. Agricultural Science&Technology and Equipment , 2025(6): 124-127.
+[12] Karlsen K M, Olsen P, Donnelly K A, et al. Implementing traceability: Practical challenges and future opportunities[J]. Trends in Food
+     Science & Technology, 2010, 21(8): 382-390.
+[13] U.S. Food and Drug Administration. Guidance for industry and FDA staff: Guidance for records access authority provided in tit le III, subtitle
+     A, of the public health security and bioterrorism preparedness and response act of 2002[EB/OL].( 2018-09-20)[2026-06-24].
+     https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-and-fda-staff-guidance-records-access-
+     authority-provided-title-iii-subtitle-public.
+[14] 陈娉婷， 罗治情， 官波， 等． 国内外农产品追溯体系发展现状与启示[J]． 湖北农业科学， 2020， 59（20）： 15-20．
+     Chen P T, Luo Z Q, Guan B, et al. Research and implications of agricultural products traceability system from domestic and developed
+     countries[J]. Hubei Agricultural Sciences, 2020, 59(20): 15-20.
+[15] Bosona T, Gebresenbet G. Food traceability as an integral part of logistics management in food and agricultural supply chain[J]. Food
+     Control, 2013, 33(1): 32-48.
+[16] U.S. Food and Drug Administration. FSMA final rule on requirements for additional traceability records for certain foods[EB/O L].(2025-12-
+     10)[2026-01-04].           https://www.fda.gov/food/food-safety-modernization-act-fsma/fsma-final-rule-requirements-additional-traceability-
+     records-certain-foods.
+[17] Badia-Melis R, Mishra P, Ruiz-García L. Food traceability: New trends and recent advances. A review[J]. F ood Control, 2015, 57: 393-401.
+[18] Canadian Food Inspection Agency. Safe Food for Canadians Act.S.C.2012,c.24[S].Ottawa: Canadian Food Inspection Agency, 2012.
+[19] Food Standards Australia New Zealand. Food Standards Code-Standard 3.2.2-Food Safety Practices and General Requirements[S].Canberra:
+     FSANZ, 2021.
+[20] Ministry of Agriculture, Forestry and Fisheries of Japan. Law for Special Measures Concerning the Management and Relay of Information
+     for Individual Identification of Cattle.Law No.72[S].Tokyo: Ministry of Agriculture, Forestry and Fisheries of Japan, 2003.
+[21] Committee on the Guidelines for Introduction of Food Traceability Systems. Guidelines for Introduction of Food Traceability
+     Systems[R].2003-03.
+[22] Korea     Ministry      of    Food      and   Drug    Safety.    Food      Safety   Traceabi lity   System      Operation       Guide[EB/OL].
+     https://www.foodsafetykorea.go.kr,2023.
+[23] 全国人民代 表大 会常务委员 会关 于修改《中 华人 民共和国食 品安 全法》的决 定 [J]． 中华人民共 和国全国人 民代 表大会常务 委员 会
+     公报， 2025（5）： 611-637．
+     Decisions of the Standing Committee of the National People's Congress on Amending the Food Safety L aw of the People's Republic of
+     China[J].Bulletin of the Standing Committee of the National People's Congress of the People's Republic of China , 2025(5): 611-637.
+[24] 中华人民共和国农产品质量安全法[J]．中华人民共和国全国人民代表大会常务委员会公报， 2022， （5）： 723-733．
+     Law of the People's Republic of China on the Quality and Safety of Agricultural Products[J].Bulletin of the Standing Committee of the
+     National People's Congress of the People's Republic of China , 2022, (5): 723-733.
+[25] 中华人民共和国食品安全法实施条例[J]．中华人民共和国国务院公报， 2019， （32）： 25-33．
+     Implementation regulations of the People's Republic of China Food Safety Law[J].Bulletin of the State Council of the People's Republic of
+     China, 2019, (32): 25-33.
+[26] 毋修远， 胡纪鹏， 王雅楠， 等． 我国食品安全追溯体系发展现状及对策研究[J]． 粮食与饲料工业， 2023（4）： 5-9．
+     Wu X Y, Hu J P, Wang Y N, et al. Development status and suggestions of food safety traceability system in China[J]. Cereal & Feed Industry,
+     2023(4): 5-9.
+[27] 宋敏． 标准规则框架下食品冷链物流追溯管理的国际化比较与问题建议[J]． 中国食品安全， 2025（9）： 115-118．
+     Song M. International comparison and recommendations for food cold chain logistics t raceability management under standard regulatory
+     frameworks[J]. China Food Safety, 2025(9): 115-118.
+[28] 杨雪婧， 王馨茁， 罗嘉伟． 粮食安全可追溯的法律规制现状、难点与对策 [J]． 粮食加工， 2026， 51（2）： 69-72;83．
+     Yang X J, Wang X Z, Luo J W. Current legal regulatory framework, challenges, and strat egies for the traceability of food security[J]. Grain
+     Processing, 2026, 51(2): 69-72;83.
+[29] Tian F. An agri-food supply chain traceability system for China based on RFID & blockchain technology[C]. 13th International Conference
+     on Service Systems and Service Management (ICSSSM). New York: IEEE, 2016: 1-6.
+[30] Dandage K, Badia-Melis R, Ruiz-García L. Indian perspective in food traceability: A review[J]. Food Control , 2017, 71217-71227.
+
+===== PAGE 10 =====
+马凌云等          食品追溯体系的进展、挑战与展望                                                                                                                 9
+
+[31] 王青瑜， 陈琴琴． 智能区块链在食品溯源系统的应用研究[J]． 食品安全质量检测学报， 2026， 17（8）： 93-105．
+     Wang Q Y, Chen Q Q. Research on the application of smart blockchain in food traceability systems[J]. Journal of Food Safety and Quality,
+     2026, 17(8): 93-105.
+[32] 李婷婷． 基于物联网与区块链的轻工食品类产品质量追溯系统设计与实现[J]． 轻工标准与质量， 2026（4）： 4-6．
+     Li T T. Design and implementation of a product quality traceability system for light industry food products based on IoT and blockchain[J].
+     Standard & Quality of Light Industry, 2026(4): 4-6.
+[33] Alvarez-García W Y, Mendoza L, Muñoz-Vílchez Y,, et al. Implementing artificial intelligence to measure meat qu ality parameters in local
+     market traceability processes[J]. International Journal of Food Science & Technology, 2024, 59(11): 8058-8068.
+[34] Khanna T, Nand P, Bali V. FruitBlock: A layered approach to implement blockchain -based traceability system for agri-supply chain[J].
+     International Journal of Business Information Systems , 2023, 43(1): 107-127.

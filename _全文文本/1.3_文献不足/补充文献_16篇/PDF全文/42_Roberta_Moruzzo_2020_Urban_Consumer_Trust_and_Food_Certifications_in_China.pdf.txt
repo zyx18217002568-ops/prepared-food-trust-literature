@@ -1,0 +1,1599 @@
+SOURCE_PDF: 1.3_文献不足/补充文献_16篇/PDF全文/42_Roberta_Moruzzo_2020_Urban_Consumer_Trust_and_Food_Certifications_in_China.pdf
+EXTRACTION_STATUS: ok
+PAGES: 14
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+foods
+Article
+Urban Consumer Trust and Food Certifications
+in China
+Roberta Moruzzo 1 , Francesco Riccioli 1, * , Fabio Boncinelli 2 , Zhaozhong Zhang 3 ,
+Jinjin Zhao 3 , Yaojia Tang 3 , Lara Tinacci 1 , Tommaso Massai 1 and Alessandra Guidi 1
+ 1    Department of Veterinary Science, University of Pisa, 56124 Pisa, Italy; roberta.moruzzo@unipi.it (R.M.);
+      lara.tinacci@unipi.it (L.T.); tommaso.massai@unipi.it (T.M.); alessandra.guidi@unipi.it (A.G.)
+ 2    Department of Agriculture, Food, Environment and Forestry, University of Florence, 50144 Florence, Italy;
+      fabio.boncinelli@unifi.it
+ 3    Research Institute of Regulation and Public Policy, University of Finance and Economics, Hangzhou 310018,
+      China; magiczhang625@163.com (Z.Z.); jinjinzhao@zufe.edu.cn (J.Z.); yaojiatang@zufe.edu.cn (Y.T.)
+ *    Correspondence: francesco.riccioli@unipi.it
+                                                                                                      
+ Received: 16 July 2020; Accepted: 17 August 2020; Published: 21 August 2020                          
+
+
+ Abstract: China has experienced frequent food safety incidents that have undermined consumer
+ trust in the food supply chain. To overcome this problem, China requalified the legislative framework
+ and adopted a comprehensive food certification system over the years. Here, we investigated
+ the influences of food traceability and Chinese certifications (QS/SC—food quality safety market
+ access/production system, hazard-free, green, and organic) on Chinese consumer trust of food
+ safety for different types of products: fish, meat, milk, eggs, and rice. Data were collected through
+ face-to-face surveys conducted in rural and urban Chinese areas. With a sample of 757 questionnaires,
+ we ran a logit model. The results show consumers’ uncertainty and skepticism of certifications
+ guaranteeing food safety attributes, especially for animal-based products. We found that price is used
+ as a cue of safety by Chinese consumers. Individuals with higher education seem less influenced by
+ certifications and other cues included in the analysis. The findings demonstrate that Chinese policy
+ makers should implement new strategies to enhance consumer food safety trust, and design policies
+ by considering different categories (e.g., vegetables, meat, fish, etc.) of food.
+
+ Keywords: logit model; consumer’s trust; food safety; food certification policy; food legislation;
+ consumers’ protection
+
+
+
+
+1. Introduction
+     The fast development of the Chinese food industry has been accompanied by frequent food
+safety incidents [1,2] that have undermined consumer trust in food safety [3–6] and have limited
+the international reputation of the Chinese food industry [7–12]. Many studies reported weaknesses
+in China’s food safety system, which are mainly related to poor law enforcement and inefficient
+supervision of governmental agencies [13–15]. To enhance consumer trust in food, in 2003, the Chinese
+government introduced the food quality safety market access system (QS system), meaning “authorized
+manufacturing for enterprises”, which is the industrial product manufacturing license. Only after
+applying for this license can food enterprises be allowed to enter the market for processing or
+trading [16]. In 2018, the QS system was replaced by the Sheng Chan (SC, which means “production”)
+system [17], which was released by the government. These licenses consist of the letters SC followed
+by 14-digit numbers providing information about the product and the producers. To indicate QS/SC
+licensing, we only use “SC” in this paper. This change in policy emphasized the responsibilities of
+enterprises in ensuring food safety instead of government regulation.
+
+
+Foods 2020, 9, 1153; doi:10.3390/foods9091153                                       www.mdpi.com/journal/foods
+
+===== PAGE 2 =====
+Foods 2020, 9, 1153                                                                                                                                                                 2 of 14
+
+
+
+      As declared      in2020,
+                            2015       by      China’s         State Council, food safety is a top priority; the government has
+             Foods Foods
+                   2020,
+                    Foods9,       9,9,xxPEER
+                              x FOR
+                            2020,       FOR
+                                          FORPEERPEERREVIEW
+                                                 REVIEW   REVIEW                                                                                                                   2 of 1422of
+                                                                                                                                                                                             of14
+                                                                                                                                                                                                14
+tried to improve the legislative framework and its implementation. In 2015, the food safety law was
+rewritten, revised       inAs
+                   As declared
+                            As   declared
+                               2018,
+                                  declared and
+                                          in      in
+                                               2015in  2015
+                                                    published  by
+                                                                by China’s
+                                                        by China’s
+                                                        2015              inState
+                                                                      China’s      State
+                                                                               October     Council,
+                                                                                    Council,
+                                                                                    State      2019foodas
+                                                                                            Council,        food thesafety
+                                                                                                             safety
+                                                                                                             food               isis aapriority;
+                                                                                                                        Regulation
+                                                                                                                        is a top
+                                                                                                                      safety            top
+                                                                                                                                         top priority;
+                                                                                                                                                 on    the      the
+                                                                                                                                                                  the government
+                                                                                                                                                               Implementation
+                                                                                                                                                       the government
+                                                                                                                                                 priority;               government   has has has
+of the Foodtried   tried
+              SafetytriedLawto
+                    to improve  improve
+                             to improve
+                                   [18–20].      the
+                                         the legislativelegislative
+                                                  theAlong
+                                                         legislative       framework
+                                                                   framework
+                                                                    withframework
+                                                                               the law       and
+                                                                                              and     its
+                                                                                       and requirements,
+                                                                                             its           implementation.
+                                                                                                  implementation.
+                                                                                                       its implementation.      In 2015,
+                                                                                                                           to enhance     In   2015,
+                                                                                                                                                 the
+                                                                                                                                           In 2015,and   the
+                                                                                                                                                       foodthe  food       safety
+                                                                                                                                                                  safetysafety
+                                                                                                                                                                  food
+                                                                                                                                                             ensure           law waslaw
+                                                                                                                                                                              consumerlaw waswas
+                   rewritten,        revised        in   2018,     and
+                                                                    and published          in
+                                                                                            in October  20192019         asRegulation
+                                                                                                                             the
+                                                                                                                              the Regulation               on    the
+                                                                                                                                                                  the Implementation
+trust in foodrewritten,
+               quality       revised
+                    rewritten,and revised   in 2018,
+                                      safety,        in    and
+                                                     the2018,
+                                                            Chinesepublished        in October
+                                                                            published
+                                                                              government         October
+                                                                                                       adopted    as the
+                                                                                                                  2019  aascomprehensive
+                                                                                                                                      Regulation  on the    on Implementation
+                                                                                                                                                              food       Implementation
+                                                                                                                                                                          certification
+             of theof
+                    of the Food Safety Law [18–20]. Along with the law requirements, to enhance and ensure
+                       the
+                      Food    Food
+                                Safety  Safety
+                                             Law     Law
+                                                     [18–20].[18–20].
+                                                                    Along   Along
+                                                                                with   with
+                                                                                        the    the
+                                                                                             law      law      requirements,
+                                                                                                      requirements,            to       to
+                                                                                                                                    enhance  enhanceand      and
+                                                                                                                                                             ensure        consumer
+                                                                                                                                                                       ensure      consumer
+                                                                                                                                                                                    consumer
+system [21], principally             organized              by product             certifications.               Product          certification              should           provide         a
+             trusttrust
+                    in food
+                    trust   in
+                             infood
+                                 quality
+                                 food    quality        and
+                                                         andsafety,
+                                                and safety,
+                                           quality                         the
+                                                                            theChinese
+                                                                   the Chinese
+                                                               safety,                         government
+                                                                                        government
+                                                                                  Chinese       government    adopted adopted         aacomprehensive
+                                                                                                                             a comprehensive
+                                                                                                                       adopted            comprehensive      foodfood           certification
+                                                                                                                                                                        certification
+                                                                                                                                                                        food     certification
+signal to consumers
+             systemsystem
+                    system
+                            that
+                        [21], [21],  the
+                                 principally  food
+                                 [21], principally
+                                           principally
+                                                        with
+                                                      organized   this
+                                                              organized
+                                                               organized
+                                                                          label  by
+                                                                          by productincorporates
+                                                                                  by productcertifications.
+                                                                                       product
+                                                                                                              certain
+                                                                                                    certifications.
+                                                                                                     certifications.
+                                                                                                                            features,
+                                                                                                                      ProductProduct
+                                                                                                                              Product
+                                                                                                                                               thus
+                                                                                                                                             certification
+                                                                                                                                     certification        eliminating
+                                                                                                                                               certification should   should      the
+                                                                                                                                                                            provide
+                                                                                                                                                                       should
+                                                                                                                                                                                         risk
+                                                                                                                                                                                   provide
+                                                                                                                                                                                         a
+                                                                                                                                                                                    provide     aa
+that consumers
+             signal face
+                   signal    when
+                              to
+                      to consumers
+                    signal                purchasing
+                               to consumers
+                                   consumers    that thethat
+                                                         thatfood food
+                                                                the
+                                                                 the   food
+                                                                        with
+                                                                        food products
+                                                                                with     thiswith
+                                                                                        this
+                                                                                 this label
+                                                                                with           label     features
+                                                                                                         incorporates
+                                                                                                 incorporates
+                                                                                                label     incorporates    thatcertain
+                                                                                                                        certain     consumers features,
+                                                                                                                                       features,
+                                                                                                                                 certain               thus
+                                                                                                                                                features,   cannot
+                                                                                                                                                                thus         verify.the the
+                                                                                                                                                                 thus eliminating
+                                                                                                                                                                 eliminating
+                                                                                                                                                                           eliminating        the
+      As argued    risk
+             risk that
+                    risk  that
+                             Ni consumers
+                      byconsumers
+                           that    [22], face
+                                  consumers     productface
+                                                        facewhen
+                                                      when               purchasing
+                                                                  certifications
+                                                                 purchasing
+                                                               when       purchasing foodfood
+                                                                                            in
+                                                                                            products
+                                                                                            food     products
+                                                                                                  China
+                                                                                                      productswith    with
+                                                                                                                  mainly      features
+                                                                                                                       features
+                                                                                                                       with       include
+                                                                                                                               features        that the
+                                                                                                                                       that consumers
+                                                                                                                                                that   consumers
+                                                                                                                                                             hazard-free
+                                                                                                                                                        consumers   cannot   cannot
+                                                                                                                                                                              cannot    verify.
+                                                                                                                                                                                       food
+                                                                                                                                                                                 verify. verify.
+certification system,      As
+                   As arguedAs   argued
+                             greenarguedby
+                                         food  Niby
+                                                  by   Ni
+                                                        Ni [22],
+                                                     [22],    product
+                                                              [22],
+                                                    certification     product
+                                                                        product
+                                                                             system,  certifications
+                                                                              certifications
+                                                                                      certifications in China
+                                                                                           and organic        in
+                                                                                                               in Chinamainly
+                                                                                                                    China
+                                                                                                                     food     mainly
+                                                                                                                               mainly include
+                                                                                                                              certification   includethe
+                                                                                                                                               include        the
+                                                                                                                                                               the hazard-free
+                                                                                                                                                             hazard-free
+                                                                                                                                                         system,       hazard-free
+                                                                                                                                                                           which    food
+                                                                                                                                                                                       havefood
+                                                                                                                                                                                            food
+                   certification
+             certification
+                    certificationsystem, system, green
+                                           system,       green
+                                                            food
+                                                          green     food
+                                                                     food     certification
+                                                                     certification        system,
+                                                                              certification       system,and
+                                                                                                   system,        and
+                                                                                                                  organic
+                                                                                                                   and   organic
+                                                                                                                               food
+                                                                                                                          organic        food     certification
+                                                                                                                                          certification
+                                                                                                                                          food     certification  system,  system,which
+                                                                                                                                                                            system,      which
+                                                                                                                                                                                         which
+different approval rates and trust among consumers [6,23–25]. Jin et al. [26] reported that certification
+             havehave
+                    have     different
+                     different        approval
+                              different        approval
+                                                approvalratesratesand and
+                                                                 rates     and trust
+                                                                           trust    among
+                                                                                   trust   among
+                                                                                           amongconsumersconsumers
+                                                                                                          consumers          [6,23–25].
+                                                                                                                      [6,23–25].
+                                                                                                                              [6,23–25]. Jin etJin  al.et
+                                                                                                                                                  Jin        al.
+                                                                                                                                                              al. [26]
+                                                                                                                                                         et[26]      [26] reported
+                                                                                                                                                                    reported         that that
+                                                                                                                                                                              reported       that
+of final productscertification
+                      alone cannot       of
+                                                  assure
+                                               final
+                                                               foodalone
+                                                        products
+                                                                           safety      regarding
+                                                                                   cannot      assure
+                                                                                                           consumers’
+                                                                                                            food      safety
+                                                                                                                                    perception
+                                                                                                                                 regarding
+                                                                                                                                                            of food perception
+                                                                                                                                                     consumers’
+                                                                                                                                                                             safety.
+             certification      of final
+                    certification               products
+                                          of final       productsalonealone cannot      assure
+                                                                                    cannot          food food
+                                                                                                assure        safetysafety
+                                                                                                                         regarding regarding consumers’
+                                                                                                                                                      consumers’    perceptionperceptionof of   of
+      Liu et al.
+             food[27]
+                   food  defined
+                    safety.
+                    food    safety.
+                             safety.
+                                            hazard-free food and green food certification. The first is related to food
+safety, where theLiu  quantities
+                           Liu
+                          et  al.et
+                            Liu    [27]
+                                   et  al.   of
+                                             [27]products
+                                        al.defined
+                                              [27]  defined          dangerous
+                                                                   hazard-free
+                                                           hazard-free
+                                                     defined        hazard-free foodfood  to human
+                                                                                        and
+                                                                                        food    and
+                                                                                                 and green
+                                                                                                green      food
+                                                                                                         green health,
+                                                                                                                    food     such asThe
+                                                                                                                            certification.
+                                                                                                                     certification.
+                                                                                                                     food    certification.   heavy  Themetals,
+                                                                                                                                                    The
+                                                                                                                                                    first    first
+                                                                                                                                                             is   related
+                                                                                                                                                              first          pesticides,
+                                                                                                                                                                      isis related
+                                                                                                                                                                                to food
+                                                                                                                                                                            related    to
+                                                                                                                                                                                        to food
+                                                                                                                                                                                            food
+and fertilizers,   safety,
+                  are
+             safety,   where
+                    safety,    where
+                        controlled          thebyquantities
+                                  the quantities
+                                where        the     national
+                                                  quantities        of
+                                                            of products
+                                                                     of products
+                                                                      laws.      Green  dangerous
+                                                                                dangerous
+                                                                         products            certification
+                                                                                        dangerous to humanto
+                                                                                                           tohuman   health,
+                                                                                                                 human      health,
+                                                                                                                       refers      to food
+                                                                                                                                such
+                                                                                                                             health,      such
+                                                                                                                                           as
+                                                                                                                                           such    as
+                                                                                                                                                   asheavy
+                                                                                                                                                   obtained
+                                                                                                                                               heavy        metals,
+                                                                                                                                                         heavy      metals,
+                                                                                                                                                                       using
+                                                                                                                                                                     metals,      pesticides,
+                                                                                                                                                                                   limited
+                                                                                                                                                                          pesticides,
+                                                                                                                                                                                  pesticides,
+and controlled     and
+                    and fertilizers,
+             and quantities
+                   fertilizers,       are
+                            fertilizers,        are
+                                                are controlled
+                                        of controlled  controlled
+                                               livestock          and     by
+                                                                  by national
+                                                                           by   national
+                                                                                       laws.
+                                                                                national
+                                                                           poultry        feedlaws.
+                                                                                                 Green
+                                                                                               laws.     Green
+                                                                                                          Green
+                                                                                                   additive,          certification
+                                                                                                              certification
+                                                                                                                       certification
+                                                                                                                        chemical    refers   refers
+                                                                                                                                                 to food
+                                                                                                                                              refers
+                                                                                                                                            pesticides,  toto food
+                                                                                                                                                                 obtained
+                                                                                                                                                                foodand   obtainedusingusing
+                                                                                                                                                                           obtained
+                                                                                                                                                                              fertilizers.using
+                   limited
+             limited    and
+                    limited     and
+                                 and     controlled
+                                 controlledcontrolled        quantities
+                                                     quantities
+                                                              quantitiesof      of
+                                                                                of  livestock
+                                                                             livestock      and
+                                                                                     livestock      and
+                                                                                                     poultry
+                                                                                                     and     poultryfeed
+                                                                                                              poultry      feed
+                                                                                                                            additive,
+                                                                                                                            feed     additive, chemical
+                                                                                                                                       additive,       chemical
+                                                                                                                                                        chemical          pesticides,
+                                                                                                                                                                 pesticides,         and
+                                                                                                                                                                           pesticides,       and
+                                                                                                                                                                                             and
+The green food label refers to a category of food that is grown in a safe and ecologically sound manner.
+                   fertilizers.
+             fertilizers.            The
+                              The green
+                    fertilizers.       The green foodfood
+                                                green     labellabel
+                                                          food      refersrefers
+                                                                   label              to
+                                                                                       to aa category
+                                                                               to a category
+                                                                             refers           categoryof food  of
+                                                                                                                of food
+                                                                                                                    that is
+                                                                                                                    food   thatgrown
+                                                                                                                            that    isis grown
+                                                                                                                                             in a safe
+                                                                                                                                          grown       in
+                                                                                                                                                       in aa and
+                                                                                                                                                               safe     and
+                                                                                                                                                                         and ecologically
+                                                                                                                                                                safe ecologicallyecologically
+There are two standards
+                   sound       manner.
+                                       for greenThere
+                                                            food:
+                                                           are
+                                                                         the “A” grade               green,         which         represents              a transitional               level a
+             sound     manner.
+                    sound       manner.There       are two
+                                                 There      are twotwo standards
+                                                                  standards standards      for
+                                                                                            for green
+                                                                                    for green        food:food:
+                                                                                                   green         the “A”
+                                                                                                               food:    the
+                                                                                                                         the “A”“A” grade
+                                                                                                                               grade        green,
+                                                                                                                                         grade      green,
+                                                                                                                                                         which
+                                                                                                                                                     green,       which        represents
+                                                                                                                                                                      represents
+                                                                                                                                                                   which                 a
+                                                                                                                                                                                represents       a
+between conventional
+                   transitional
+             transitional
+                    transitional
+                                 andlevel
+                                level      organic
+                                             between
+                                           level    betweenfood,
+                                                     between
+                                                                       allowing
+                                                                     conventional
+                                                             conventional
+                                                                      conventional   and restricted
+                                                                                            and
+                                                                                             and organic
+                                                                                            organic         use
+                                                                                                      organicfood,of     chemical
+                                                                                                                     food,     allowing
+                                                                                                                        allowing
+                                                                                                                      food,     allowing
+                                                                                                                                             fertilizers
+                                                                                                                                                  restricted
+                                                                                                                                          restricted
+                                                                                                                                                   restricted useand   use
+                                                                                                                                                                       of    pesticides,
+                                                                                                                                                                               of
+                                                                                                                                                                                of chemical
+                                                                                                                                                                         usechemical chemical
+and the “AA”     grade
+                   fertilizers
+             fertilizers      green
+                            and
+                    fertilizers      andfood,
+                                    and
+                                   pesticides,         which
+                                             pesticides,and the
+                                              pesticides,       and
+                                                                 andrepresents
+                                                                        the
+                                                                         the“AA”
+                                                                      “AA”       grade
+                                                                               “AA”      full
+                                                                                        grade
+                                                                                           green
+                                                                                         grade  organic
+                                                                                                  green
+                                                                                                      food,food,
+                                                                                                   green          status.
+                                                                                                                 which
+                                                                                                                food,   which       represents
+                                                                                                                           represents
+                                                                                                                         which       represents         full
+                                                                                                                                                          fullorganic
+                                                                                                                                                full organic           status.
+                                                                                                                                                                 organic       status.
+                                                                                                                                                                                status.
+      Organic food OrganicisOrganic
+                                “certified
+                           Organicfood food food      to
+                                                     is
+                                              is “certifiedinternational
+                                                          “certified
+                                                      is “certified         to
+                                                                    to international   standards
+                                                                                international
+                                                                             to international  standards    such
+                                                                                                        standards
+                                                                                                         standards such assuch
+                                                                                                                             the
+                                                                                                                          such
+                                                                                                                            as       as
+                                                                                                                                  theasInternational
+                                                                                                                                           the    International
+                                                                                                                                          International
+                                                                                                                                            the International        Federation
+                                                                                                                                                                             Federation
+                                                                                                                                                                    FederationFederationof ofof of
+Organic AgricultureOrganic
+             OrganicOrganic       Agriculture
+                         Agriculture
+                              Movements
+                                  Agriculture            Movements
+                                                 Movements
+                                                         (IFOAM)
+                                                          Movements   (IFOAM) (IFOAM)
+                                                                             and     hence
+                                                                               (IFOAM)       and
+                                                                                       and hence
+                                                                                              and     hence
+                                                                                                 genetically
+                                                                                                       hence      genetically
+                                                                                                         genetically         modified
+                                                                                                                         modified
+                                                                                                                   genetically        modified
+                                                                                                                                             ingredients
+                                                                                                                                        modified        ingredients
+                                                                                                                                                ingredients
+                                                                                                                                                         ingredients  are      are
+                                                                                                                                                                         areshunned  shunned
+                                                                                                                                                                                shunned
+                                                                                                                                                                               are    shunned
+                   on
+                    on ideological
+             on ideological
+                         ideological grounds”  grounds”
+                                                grounds” [28]. [28].
+                                                                 [28].    Descriptions
+                                                                  Descriptions
+                                                                           Descriptions of three
+                                                                                            the of   the
+                                                                                                ofthree
+                                                                                                      the   three
+                                                                                                                kinds
+                                                                                                             three     kinds
+                                                                                                                          of
+                                                                                                                        kinds      of
+                                                                                                                                   of certifications
+                                                                                                                              certifications
+                                                                                                                                         certifications  together together
+                                                                                                                                                                   togetherwith   with
+                                                                                                                                                                                    their
+                                                                                                                                                                                   with    their
+                                                                                                                                                                                            their
+on ideological     grounds”             [28].       Descriptions                of the                  kinds         of   certifications                together            with      their
+                   comparisons
+             comparisons
+                    comparisons            are
+                                            areprovided
+                                  are provided    providedin Tablein
+                                                                   inTable1. 1.
+                                                                        Table     1.
+comparisons are provided in Table 1.
+                                        TableTable 1.
+                                                   1.Comparison
+                                              1. Comparison
+                                             Table               of
+                                                                  ofhazard-free
+                                                            of hazard-free
+                                                      Comparison           food,food,
+                                                                    hazard-free  greengreen
+                                                                                 food, food,food,
+                                                                                       green       and
+                                                                                                   andorganic
+                                                                                             and organic
+                                                                                             food,       food food
+                                                                                                       organic foodcertifications.
+                                                                                                               certifications.
+                                                                                                                      certifications.
+                    Table 1. Comparison of hazard-free food, green food, and organic food certifications.
+                                           Hazard-Free
+                                       Hazard-Free  FoodFood
+                                            Hazard-Free    Food  GreenGreen
+                                                                         FoodFood
+                                                                      Green   Food
+                         Certification
+                    Certification                                                            Organic
+                                                                                         Organic FoodFood  Certification
+                                                                                                       Certification
+            Certification Certification
+                                  Hazard-Free Certification
+                                              Food Certification
+                                         Certification
+                                               Certification         Certification
+                                                                 Green Food Certification
+                                                                 Certification
+                                                                      Certification
+                                                                                             Organic  Food
+                                                                                              Organic Food  Certification
+                                                                                                           Certification
+
+
+
+
+                  Logo        LogoLogo
+                                  Logo
+
+
+
+
+                                              No
+                                               Nopollution,
+                                         No pollution,     no no
+                                                   pollution,     no                                                  No chemical synthetic
+                                 No pollution,   no toxicity,
+                                            toxicity,  safety, safety,    Agricultural    products   grown,
+                                      toxicity,  safety,
+                                             toxicity,     highhigh
+                                                        safety,              Agricultural
+                                                                  highAgricultural             products
+                                                                                        products
+                                                                             Agricultural       products          pesticides, veterinary drugs,
+                                      high quality food, clean             produced, or processed in a No chemical  No
+                                                                                                                     No   chemical    synthetic
+                                                                                                                                synthetic
+                                             quality
+                                       quality   food,
+                                              quality food,
+                                                         cleanclean
+                                                       food,    clean grown, grown,     produced,
+                                                                                 produced,
+                                                                              grown,             or or
+                                                                                         produced,     or             feedchemical
+                                                                                                                            additives, synthetic
+                                                                                                                                         etc.; no
+                                     environment,   production             non-polluting     environment,       pesticides,
+                                                                                                          pesticides,         veterinary
+                                                                                                                         veterinary
+                                                                                                                 pesticides,            drugs,
+                                                                                                                               veterinary      drugs,
+                                                                                                                                                drugs,
+                                                environment,                  processed      in  aanon-                 genetic engineering
+              Definition                  environment,
+                                 technology      environment,
+                                               compliance,    control processed
+                                                                          contents  ofintoxic
+                                                                               processed  a non-
+                                                                                              in
+                                                                                               and  non-
+                                                                                                    harmful
+                                                                                                              feed  feed   additives,
+                                                                                                                     additives,
+                                                                                                                     techniques;
+                                                                                                                     feed          etc.;
+                                                                                                                                   and
+                                                                                                                            additives,    etc.;
+                                                                                                                                          no    no
+                                                                                                                                         specific
+                                                                                                                                          etc.;  no
+                                          production
+                                  of production
+                                     harmful   substances technology
+                                                   technology
+                                          production       technology       polluting
+                                                             content, polluting
+                                                                          substances     environment,
+                                                                                        strictly
+                                                                                  environment,
+                                                                            polluting             controlled,
+                                                                                          environment,            marks    shall  not be  used   for
+                                  use of non-pollution    food  after      and  conform    to  the national     geneticgenetic
+                                                                                                                       genetic   engineering
+                                                                                                                           engineering
+                                                                                                                                 engineering
+                          Definition
+                      Definition          compliance,
+                           Definitioncompliance,    control
+                                           compliance,      control
+                                                               of of
+                                                             control         contents
+                                                                      ofcontents  of toxic
+                                                                              contents    of
+                                                                                          of toxic
+                                                                                               and and
+                                                                                              toxic  and           production inand  accordance
+                                    examination and approval                  safety food standards. techniques;   techniques;
+                                                                                                                             and
+                                                                                                                    techniques;           specific
+                                                                                                                                   specific
+                                            harmful
+                                       harmful
+                                             harmful   substances
+                                                        substances harmful
+                                                  substances                  harmful     substances
+                                                                                   substances
+                                                                               harmful     substances             with   prescribedand     specific
+                                                                                                                                      technology.
+                                                                                                           marksmarks
+                                                                                                                  shallshall
+                                                                                                                marks   not be
+                                                                                                                        shall   not
+                                                                                                                                not  be
+                                                                                                                                      beused
+                                                                                                                                   used  for for
+                                                                                                                                         used   for
+                                          content,
+                                     content,
+                                           content,  use
+                                                use ofuse of
+                                                           of non-
+                                                        non-            strictly
+                                                              non-strictly          controlled,
+                                                                             controlled,
+                                                                         strictly
+                                                                           Strict:   controlled,
+                                                                                    A-level;    and   and
+                                                                                                       and
+                                                                                                 Stricter:
+                                                                                                                production
+                                                                                                            production   in
+                                                                                                                 production     in  accordance
+                                                                                                                            accordance
+                                                                                                                                 in accordance
+                                          pollution
+                                     pollution   foodfood
+                                           pollution    afterafter
+                                                       food             conform
+                                                                       AA-level
+                                                              afterconform     to the
+                                                                         conform      to   the
+                                                                                            thenational
+                                                                                    (referring
+                                                                                       tonational   to Food
+                                                                                                 national
+                                                                      and   Agriculture        Organizationwithwith  prescribed
+                                                                                                                prescribed
+                                                                                                                withStrictest        technology.
+                                                                                                                              technology.
+                                                                                                                      prescribed      technology.
+                                                                                                                               (referring to
+                                   Low      examination
+                                      examination   to and
+                                             examination
+                                        (referring          and          safety
+                                                             and safetysafety
+                                                       general                     food
+                                                                            food food        standards.
+                                                                                    standards.standards.
+           Strictness                                                  of the United Nations (FAO)                  European Union and
+                                domestic food    approval
+                                                safety
+                                           approval    standards)
+                                                  approval                    and World Health                       IFOAM standards)
+                                                                        Strict:
+                                                                   Strict:
+                                                                         Strict:  A-level;
+                                                                           A-level;              Stricter:
+                                                                                         Stricter:
+                                                                                   A-level;
+                                                                           Organization—(WHO)    Stricter:
+                                      Low Low
+                                            Low(referring
+                                            (referring   to to
+                                                   (referring            AA-level
+                                                               to AA-level               (referring
+                                                                                   standards)
+                                                                                 (referring
+                                                                          AA-level                to to
+                                                                                          (referring               Strictest
+                                                                                                        to Strictest           (referring
+                                                                                                                        (referring
+                                                                                                                   Strictest           to to
+                                                                                                                                (referring   to
+                        Strictness
+                   Strictness
+                         Strictness
+                               Measures general
+                                   general
+                                         general   domestic
+                                          fordomestic    foodfood
+                                                    domestic   food
+                                              the Administration    FoodFood      and
+                                                                                  andAgriculture
+                                                                           and Agriculture
+                                                                          Food             AgricultureEuropean European
+                                                                                                                     Union
+                                                                                                               European    Union     and
+                                                                                                                                      andIFOAM
+                                                                                                                              and IFOAM
+                                                                                                                           Union           IFOAM
+                                                                                                                Administrative Measures on
+                                            safety
+                                 of hazard-free
+                                      safety        standards)
+                                                 food                      Organization
+                                                       products, Organization
+                                               standards)                                      theof
+                                                                                                  ofthe                  standards)
+      Laws and regulations                   safety  standards)          Green    Foodof
+                                                                            Organization   labelling  the
+                                                                                                       Act         standards)
+                                                                                                                          standards)
+                                                                                                                       Organic    Product
+                               agricultural product quality and United   United
+                                                                             NationsNations (FAO)  (FAO)
+                                                                          United     Nations        (FAO)                Certification
+                                                            safety law
+                                             Printed on the food package for                     Printed on the food package                     Printed on the food package
+                 Label
+                                                      identification                                   for identification                              for identification
+     Validity of certification                                 3 years                                           3 years                                         1 year
+
+===== PAGE 3 =====
+Foods 2020, 9, 1153                                                                                                         3 of 14
+
+
+
+                                                        Table 1. Cont.
+
+        Certification        Hazard-Free Food Certification        Green Food Certification          Organic Food Certification
+                                                                                                      1994 (Since 2004, there has
+       Operation year                     2001                                1990                   been unified organic product
+                                                                                                         standards in China)
+                             Certification of land, practices,   Certification of land, practices,      Certification of land,
+     Type of certification
+                                      and products                        and products                 practices, and products
+                               The Center for Agri-food               China Green Food                   Certification and
+    Certificate authority    Quality and Safety, Ministry of     Development Center, Ministry             Accreditation
+                                  Agriculture of PRC                of Agriculture of PRC              Administration of PRC
+                                          Source: Own elaboration from [27,29,30].
+
+      These certifications have been widely used in Chinese academic studies as representative of
+safe food [31–33], intended as the absence of harmful or undeclared biological, chemical, or physical
+contaminants; they have their respective labels printed on the food packages for identification, together
+with the certification authority [34]. Notably, despite these certifications (hazard-free, green, and organic)
+being mainly related to the quality of food, they are strongly implicated with the safety, and many
+consumers identify them with the safety concept. As argued by Riccioli et al. [35], users identify safer
+food with high-quality food, and the two concepts are often highly correlated. In particular, Grunert [36]
+studied this correlation and identified the complexities involved, considering how consumers make
+their own judgments about the safety and quality of a product. Nicolas et al. [37] studied this correlation,
+stating that a higher level of food safety is directly related to quality improvement.
+      Here, we investigated the influences of product certifications on Chinese consumers’ choices of
+safe food products, analyzing their impacts on different types of products. The preference of Chinese
+consumers for other food-related attributes, such as traceability information or price, as well as their
+preferred place of sale (traditional supermarkets vs. grocery stores) for purchasing safe food, were also
+studied to compare these attributes with certifications.
+      This article is organized as follows: Section 2 describes the current state of Chinese consumers’
+knowledge of food certification, presenting their different attitudes about the quality of safe food and
+the certification labels. Section 3 describes the materials and methods, Section 4 outlines the results,
+and Section 5 provides the discussion and conclusions.
+
+2. Chinese Consumers’ Knowledge and Safety Perception about Food Certification
+      Consumer knowledge of safe food concept is still quite low in China [27]. Indeed, they generally
+have positive attitudes toward safe food but a limited ability to recognize it and identify it as the
+hygienic quality of a product. Nearly one in two Chinese consumers have little or no confidence in
+the food certification system [34]. Past studies [38,39] suggested that international certified labels
+enjoy more trust from the Chinese consumers than their local competitors. Consumers’ preferences
+and emphasis on different attributes linked to certification system vary depending on location or
+country [7] and are influenced by the degree of their trust in the government’s supervision of food
+safety and food labels [40].
+      Despite the importance of the Chinese food industry and policymakers understanding
+Chinese consumers’ awareness of food safety and their preferences for food safety information
+attributes, few studies focused on Chinese consumers’ preferences and behavior with regard to food
+safety attributes [9,41].
+      The literature shows that Chinese consumers use the safe food logos on products to identify
+safe food [27]. Despite the level of knowledge of safe food logos being still too low, adding the
+certification mark to the food label is becoming an important method to prove food quality [42].
+The report produced by the Forum on Health, Environment, and Development states that most surveys
+showed that Chinese consumers are willing to pay a premium for product attributes indicating quality,
+principally some form of labeling or certification [43].
+
+===== PAGE 4 =====
+Foods 2020, 9, 1153                                                                                 4 of 14
+
+
+
+      Zhang and Wu [44] reported that 35% of consumers can recognize the more common green food
+labels in the market, less than 10% of consumers were able to identify the organic food label, and only
+0.4% of consumers were able to recognize all the safe food labels. Jin and Zhao [45] reported that
+less than half of consumers in Zhejiang province used the green food label to identify green food,
+21% identified green foods by personal feeling, and 18% by food brand. Zhang [46] showed that a large
+majority of consumers depended on advertisements, vendor guarantees, and friends’ recommendations
+to identify green food; only 13% used the green food label. Zhang and Wu [44] found that only 40%
+of consumers in Chengdu (Sichuan province) were able to recognize the green food label, and 64%
+of consumers did not know that two levels (A and AA) of green food existed. One exception to this
+situation was reported by Liu et al. [47], who found that a majority (74%) of consumers who were
+aware of organic pork were able to recognize its label and knew it was officially certified.
+      The literature also describes different attitudes (sometimes positive and sometimes negative)
+among Chinese consumers about the quality of safe food and the certification labels. Zhang and
+Wang [48] reported that in their in-depth interviews, all participants doubted whether green food
+companies strictly control the production area, process, transportation, and storage. Wang et al. [49]
+reported that 71% of consumers were dissuaded from buying green pork by its high price (48%),
+quality and safety issues (22%), lack of availability (17%), and a lack of confidence in the certification
+label (14%). Wang et al. [50] found that consumers had a low willingness to pay (WTP) for safe food.
+The reason is that the standard for obtaining safe food certification is relatively low, giving consumers
+an impression that pork with a safe food logo is minimally different from pork with no certification.
+Additionally, Liu et al. [27] reported that Chinese consumers have difficulty in identifying safe food
+certificates and labels.
+      Green and organic food labels are associated with reports of fake organic products, false labels,
+and bribing of inspection officials [51,52]. Simultaneously, few products are covered by safe
+food labels [53].
+      Other authors found a different attitude of consumers toward certifications. Bekele [30] reported
+that consumers trust certified green food labels. Green food certification serves as a reassurance to
+both domestic consumers and to international food manufacturers sourcing ingredients in China.
+For other authors, the primary driver of demand for green food is the lack of confidence in the safety
+of Chinese produce [33].
+      In a large-scale study of the adoption of organic food by Chinese consumers, healthiness,
+taste, and environmental friendliness were found to be important attributes. Health concerns outweigh
+environmental concerns in terms of influencing the purchase intentions of Chinese consumers [54].
+Consumers with a higher level of concern about vegetable safety pay more attention to the nutritional
+health and pollution hazards of foods (hazard-free) when they purchase food [55].
+      Ortega et al. [56] found that concerning Ultra High Temperature (UHT) milk, consumers most
+value government certification followed by a national brand. The recent milk-safety incidents that
+affected various nationally recognized brands in China have sparked consumer interest in government
+certification efforts, especially as they pertain to the monitoring and supervision of branded firms
+and products.
+
+3. Materials and Methods
+
+3.1. Questionnaire Design and Survey
+     The questionnaire was administered to a sample of Chinese consumers in Zhejiang province.
+Nine of the 11 cities (and surrounding areas) in the province were selected: Hangzhou, Ningbo,
+Shaoxing, Jinhua, Quzhou, Taizhou, Jiaxing, Huzhou, and Lishui. Two cities were excluded: Wenzhou
+was excluded because of the high proportion of immigrants, and Zhoushan was excluded because it
+is built on several islands, which would have complicated the data collection, as fish is as the food
+mainly consumed in the city.
+
+===== PAGE 5 =====
+Foods 2020, 9, 1153                                                                                    5 of 14
+
+
+
+      The questionnaires were administered in January 2017 by specially trained students through
+random sampling of residents. A total of 1000 questionnaires were collected, of which 757 (75.7%) were
+used in the analysis; 243 (24.3%) questionnaires were excluded due to incomplete answers. Considering
+recent similar studies [57–59], this size was adequate for our analysis.
+      To achieve the maximum possible variation, the survey was administered on different days and at
+different times and places. The interviewers approached the respondents in 3–5 residential districts
+in the main urban areas and 3–5 villages of the selected cities. According to the proportion of urban
+and rural population in Zhejiang province, the sample included 30% rural households and 70% urban
+households. Participants were voluntary, and they did not receive any kind of compensation or
+gift. Participants when started their interviews were not informed about the final aim and the topic
+of research.
+      The questionnaire (originally written in English and then translated into Chinese), created in
+collaboration with faculty members of the Zhejiang University of Finance and Economics, was divided
+into the following phases for a total of 36 questions:
+
+•     The first part requested the socio-demographic information of the respondents;
+•     The second part asked questions regarding eating habits (e.g., the frequency of consumption of
+      different types of product or the different reasons influencing their purchase);
+•     The third part asked about the safety perception of different categories of food such as rice,
+      milk and milk products, eggs, meat, fish, vegetables, and fruit. Questions regarding certifications
+      were asked in this section as well;
+•     The fourth part queried regarding the quality of food (same categories as above).
+
+      In the last two sections, questions regarding the willingness to pay a higher price for safer or higher
+quality staple food were asked. As WTP is the maximum amount an individual is willing to pay to
+receive an improvement or to avoid a loss in their level of well-being [60–63], through this investigation,
+it was possible to analyze how the price of a product is related to its safety (price safety cue).
+      Specifically, concerning the variables used in the analysis we asked the following questions:
+(i) How much confidence do you have in the safety of the following food categories (staple food,
+milk and derivates, eggs, meat, fish)? (ii) What is the meaning of this mark (SC) for you? (iii) Which
+of the following certifications (green, organic, and hazard free?) do you know? (iv) Where do you
+usually buy food? (v) How often do you read the list of ingredients of the products that you buy?
+(vi) how much do you think that the price of a product is related to its safety? For more details, see the
+Supplementary Materials.
+      In this analysis, we only used a part of the data gathered with the survey, as some were already
+published in [35].
+
+3.2. Econometric Model
+      In our analysis, we modelled the probability of perceiving a certain category of food as safe
+according to eight covariates: if the respondents know green, organic, and hazard-free certifications
+and if the respondents associate foods with the SC logo as safe. As control variables, we included
+the place where respondents usually complete their food purchasing, if respondents usually read the
+ingredients of foods, and if they perceive price as a cue of food safety. We ran our model for five
+food categories: fish, meat, milk, eggs, and rice. The first four categories are animal-based food and
+represent risky food in terms of contamination and disease contagion. We also included rice since it is
+the basic staple food for the large part of Chinese and Asian consumers. The probably of perceiving
+the jth food category as safe is given by the logit of the multiple logistic regression model:
+
+                  Pi (ith consumer confidence in safety of the jth food = 1|X) = eg(x) /1 + eg(x)         (1)
+
+===== PAGE 6 =====
+Foods 2020, 9, 1153                                                                                             6 of 14
+
+
+
+where j is fish, meat, milk, eggs, or rice, and:
+
+                  g(x) = β0 + β1 SC + β2 green + β3 organic + β4 hazardfree + β5 supermarket +
+                                                                                                                   (2)
+                                 β6 ingredient + β7 traceability + β8 pricecue + εi
+
+      All the variables in Equation (2) are dummy variables; SC was equal to 1 if the respondent
+perceived food with SC as safe; green, organic, and hazardfree were equal to 1 if the consumer knew the
+green, organic, and hazard-free certification, respectively, and was 0 otherwise; supermarket, ingredient,
+traceability, and pricecue were equal to 1 if the consumer usually purchases food in supermarkets,
+usually reads food ingredients, knows the certification for traceability, and perceives higher price as a
+cue of food safety, respectively; and ε is a random error term.
+      We included the variable ingredient to control for respondents who pay more attention to food
+and so may behave differently compared with other consumers. For the same reason, we included
+the place where respondents usually purchase their usual food as a control variable. Supermarkets
+and supermarket chains should have well-established procedures and controls to ensure food safety.
+Therefore, we hypothesized that the supermarket consumers would have less need for certifications.
+      We repeated the models in Equation (2) including interaction variables between the covariates
+and two sociodemographic variables, age and level of education, to detect consumer heterogeneity
+according to respondent features. Age and level of education were also dummy variables. Age was
+equal to 1 if the respondents were under 30 years old and 0 otherwise. Finally, education was equal to
+1 if the respondent had at least graduated and 0 otherwise. The hypothesis was that more educated
+people have higher cognitive ability and thus are more likely to use formal certification system, as are
+younger individuals.
+
+4. Results
+     The sample was slightly oriented toward younger and more educated individuals, with an
+acceptable variation between the panels (groups) in the sample. Table 2 reports demographic statistics:
+44% of interviewees were aged between 20 and 29 years, almost 60% were female, and 65% had
+graduate degrees. The largest share of respondents, more than 60%, usually purchased food in the
+supermarket, and 37% usually bought food at local markets and small retailers.
+
+                                      Table 2. Descriptive statistics of the sample.
+
+                         Variable                             Description              Relative Frequency (%)
+                                                                 16–19                         15.06
+                                                                 20–29                         44.25
+                                                                 30–39                         12.55
+                        Age (years)
+                                                                 40–49                         18.49
+                                                                 50–60                          5.28
+                                                                  >60                           4.37
+                                                                 Male                          40.29
+                           Sex
+                                                                Female                         59.71
+                                                             High school                       29.73
+                      Education Level                         Graduate                         64.99
+                                                             Postgraduate                       5.28
+                                                                  Yes                          63.01
+               Consumer reads ingredients
+                                                                  No                           36.99
+                                                                  Yes                          68.82
+                 Consumer trusts SC logo
+                                                                  No                           31.18
+                                                                  Yes                          37.25
+        Consumer knows hazard-free certification
+                                                                  No                           62.75
+
+===== PAGE 7 =====
+Foods 2020, 9, 1153                                                                                                             7 of 14
+
+
+
+                                                         Table 2. Cont.
+
+                           Variable                                Description                Relative Frequency (%)
+                                                                         Yes                                  66.58
+           Consumer knows green certification
+                                                                         No                                   33.42
+                                                                         Yes                                  43.73
+          Consumer knows organic certification
+                                                                         No                                   56.27
+                                                                         Yes                                  12.17
+                         Traceability
+                                                                         No                                   87.83
+                                                                         Yes                                  44.06
+                      Price safety cue
+                                                                         No                                   55.94
+                                                                   Supermarket                                63.01
+                      Purchase place                              Local market                                28.01
+                                                                  Small retailers                              8.98
+
+
+     Almost two-thirds of respondents reported they usually read the ingredients but, in general,
+few knew the certifications. Less than half of the sample knew the organic certification, and only
+12.17% knew traceability. Table 3 shows the estimates from the five logit models for the selected foods.
+
+                             Table 3. Influence of brands on the food categories examined.
+
+                                                                               Coefficients
+             Variables
+                                            Fish               Meat               Milk                 Eggs             Rice
+                                           −0.34 *            −0.38 **           −0.33 *          −0.37 **            −0.42 **
+              SC logo
+                                           (0.18)              (0.19)            (0.18)            (0.17)              (0.17)
+                                           −0.39 *             −0.19               0.22             0.21              0.90 ***
+        Green certification
+                                           (0.20)              (0.22)             (0.20)           (0.18)              (0.18)
+                                             0.31             0.47 **              0.27            0.32 *             0.48 ***
+       Organic certification
+                                            (0.19)            (0.21)              (0.18)           (0.17)              (0.17)
+                                             0.09               0.11               0.02            −0.07               −0.09
+     Hazard-free certification
+                                            (0.19)             (0.20)             (0.18)           (0.17)              (0.17)
+                                            −0.08              −0.24               0.09             0.07                0.10
+           Supermarket
+                                            (0.18)             (0.19)             (0.17)           (0.16)              (0.16)
+                                            −0.01               0.13               0.11            −0.06               −0.11
+  Consumer reads ingredients
+                                            (0.24)             (0.25)             (0.23)           (0.22)              (0.21)
+                                             0.15               0.07               0.03            −0.16               −0.20
+            Traceability
+                                            (0.27)             (0.28)             (0.26)           (0.25)              (0.25)
+                                           0.61 ***           0.56 ***           0.41 **           0.38 **            0.59 ***
+          Price safety cue
+                                            (0.17)             (0.18)            (0.16)            (0.15)              (0.16)
+                                          −1.02 ***          −1.33 ***          −1.24 ***         −0.70 ***           −0.68 ***
+              Constant
+                                           (0.21)             (0.22)             (0.21)            (0.19)              (0.20)
+             Pseudo R2                      0.03                0.03               0.02                0.02             0.07
+                               Standard errors in parentheses; *** p < 0.01, ** p < 0.05, * p < 0.1.
+
+     Hazard-free certification and traceability never influenced the probability that consumers perceive
+the selected foods as safe. None of the rest of the certifications included in the models affected
+this probability for all selected products. Therefore, when a certification plays a role in influencing
+consumer perception of food safety, it is product specific.
+     Two factors seemed more effective as a safety cue: SC and price. The first one was significant
+for all the five models but with a lower degree of statistical confidence for fish and milk. The latter
+is the tool that had the greatest impact on food safety because it was the predictor with the largest
+
+===== PAGE 8 =====
+Foods 2020, 9, 1153                                                                                           8 of 14
+
+
+
+coefficient, and it was always statistically significant. Finally, control variables, traceability, place of
+usual shopping, and reading the ingredients never impacted food safety perception.
+     Looking at the results for each product category, we found that for fish and milk none of the
+examined certifications had statistically significant coefficients with a confidence greater than 90%.
+Estimates for meat and eggs revealed that the presence of the organic certification was synonymous
+with safety for respondents, despite the coefficient being statistically significant only at 90% for eggs.
+     The pseudo R2 values were all very low, ranging from 0.02 to 0.03 for fish, meat, milk, and eggs.
+The pseudo R2 for rice was almost double, with a value of 0.07. This result confirmed that certifications
+play a small role in determining food safety trust amongst Chinese consumers, especially for animal-
+based products.
+     To detect if the role of certifications was heterogenous between different groups of the population,
+we ran logit models including a set of interaction terms between the covariates and age and education
+level. The results are shown in Table 4.
+
+                               Table 4. Influence of certifications with age and education.
+
+                                                                       Coefficient
+                Variable
+                                             Fish           Meat          Milk           Eggs       Rice
+                                            −0.42          −0.44          −0.62         −0.83 **   −0.80 **
+                 SC logo
+                                            (0.41)         (0.42)         (0.41)         (0.40)     (0.41)
+                                            −0.49           0.01           0.68          −0.05      0.74 *
+          Green certification
+                                            (0.46)         (0.48)         (0.45)         (0.43)     (0.43)
+                                            0.96 **         0.63           0.73         1.20 ***   0.93 **
+         Organic certification
+                                            (0.46)         (0.48)         (0.46)         (0.45)    (0.45)
+                                            −0.50          −0.26          −0.05          −0.13      −0.02
+       Hazard-free certification
+                                            (0.46)         (0.49)         (0.46)         (0.44)     (0.44)
+                                             0.16          −0.05          −0.25           0.43       0.55
+             Supermarket
+                                            (0.40)         (0.42)         (0.40)         (0.38)     (0.38)
+                                            −0.09          −0.05           0.78          −0.06      −0.69
+     Consumer reads ingredients
+                                            (0.57)         (0.58)         (0.55)         (0.54)     (0.55)
+                                             0.34          −0.28          −0.51          −0.49      −0.32
+              Traceability
+                                            (0.69)         (0.78)         (0.72)         (0.67)     (0.65)
+                                           1.32 ***        1.33 ***      1.07 ***       1.52 ***   1.82 ***
+            Price safety cue
+                                            (0.40)          (0.42)        (0.40)         (0.39)     (0.40)
+                                            −0.21          −0.06          −0.07         −0.78 **   −0.71 **
+          Supermarket × age
+                                            (0.37)         (0.39)         (0.37)         (0.35)     (0.34)
+                                            −0.11          −0.12           0.58           0.04      −0.09
+      Supermarket × education
+                                            (0.38)         (0.41)         (0.39)         (0.36)     (0.36)
+                                             0.10           0.03          −0.38          −0.02      −0.19
+           Ingredient × age
+                                            (0.53)         (0.54)         (0.51)         (0.49)     (0.48)
+                                             0.03           0.23          −0.54           0.14     1.17 **
+        Ingredient × education
+                                            (0.53)         (0.55)         (0.52)         (0.50)    (0.50)
+                                            −0.00          −0.06           0.15           0.37       0.48
+                SC × age
+                                            (0.37)         (0.39)         (0.37)         (0.35)     (0.35)
+                                             0.24           0.29           0.30           0.44       0.18
+            SC × education
+                                            (0.40)         (0.42)         (0.40)         (0.39)     (0.39)
+                                             0.05          −0.00          −0.17          −0.62      −0.10
+          Hazard-free × age
+                                            (0.41)         (0.44)         (0.41)         (0.39)     (0.38)
+                                            0.82*           0.59           0.33           0.46       0.03
+       Hazard free × education
+                                            (0.46)         (0.48)         (0.46)         (0.44)     (0.43)
+
+===== PAGE 9 =====
+Foods 2020, 9, 1153                                                                                                     9 of 14
+
+
+
+                                                       Table 4. Cont.
+
+                                                                            Coefficient
+                Variable
+                                            Fish              Meat             Milk                  Eggs     Rice
+                                             0.17             −0.04             0.03             0.83 **     0.73 *
+              Green × age
+                                            (0.43)            (0.47)           (0.43)            (0.40)      (0.40)
+                                             0.01             −0.31            −0.74             −0.15       −0.18
+          Green × education
+                                            (0.46)            (0.49)           (0.45)            (0.43)      (0.43)
+                                             0.25              0.28            −0.39             −0.40      −0.77 **
+             Organic × age
+                                            (0.44)            (0.46)           (0.43)            (0.40)      (0.39)
+                                          −1.01 **            −0.33            −0.36            −0.89 **     −0.18
+         Organic × education
+                                           (0.47)             (0.49)           (0.46)            (0.45)      (0.44)
+                                            −0.84             −0.66            −0.35              0.18        0.03
+           Traceability × age
+                                            (0.57)            (0.60)           (0.57)            (0.54)      (0.52)
+                                             0.29              0.86             0.91              0.37        0.13
+       Traceability × education
+                                            (0.69)            (0.79)           (0.73)            (0.67)      (0.64)
+                                            −0.33             −0.18            −0.41            −0.78 **    −1.02 ***
+        Price safety cue × age
+                                            (0.37)            (0.39)           (0.37)            (0.36)      (0.35)
+                                          −0.86 **          −1.09 ***         −0.79 **          −1.17 ***   −1.11 ***
+     Price safety cue × education
+                                           (0.39)            (0.41)            (0.39)            (0.38)      (0.38)
+                                          −1.15 ***         −1.48 ***        −1.30 ***          −0.80 ***   −0.74 ***
+                Constant
+                                           (0.22)            (0.24)           (0.22)             (0.21)      (0.20)
+               Pseudo R2                     0.06              0.05             0.05                 0.06     0.10
+                             Standard errors in parentheses; *** p < 0.01, ** p < 0.05, * p < 0.1.
+
+     Organic certification had a statistically significantly influence with a positive sign for the safety
+perception for fish, rice, and eggs. The safety perception of meat and milk was never influenced by any
+of the selected certifications. This model specification confirmed that for all food categories, the price
+strongly influenced the safety perceived by respondents. However, the interaction terms with age and
+education were statistically significant with a negative sign. This implied that educated people as well
+as younger individuals are less oriented toward use price as a safety cue.
+     Considering the individual food categories, organic certification produced a low perception of
+buying safe fish and eggs. For those with a high educational level, the organic certification had
+an opposite effect as the interaction coefficient was negative and statistically significant. Therefore,
+educated individuals perceive organic fish and eggs as less safe than conventional products. Meat and
+milk were not influenced by any of the certifications. We found no statistically significant interactions
+for milk and meat. This indicated that no certifications had a positive impact on consumer safety
+perception for these products, and this conclusion did not vary according to age or educational level.
+     The model specifications in Table 4 confirm that price was the main determinant affecting consumer
+perception of buying safe food. However, individuals with higher education were less willing to
+perceive expensive food as safer.
+     In general, education was a more discriminant factor than age. The interactions with this last
+variable were almost not statistically significant, except for the green certification for eggs, which had a
+stronger impact on younger individuals.
+     The food where the certification logos was most related to the perception of safety was rice,
+whereas certification logos on fish and milk were least related to the perception of safety. After the
+interaction variables of age and level of education were introduced, almost all the certification variables
+were not significantly positive related to the dependent variable.
+
+===== PAGE 10 =====
+Foods 2020, 9, 1153                                                                                   10 of 14
+
+
+
+5. Discussion and Conclusions
+       In this study, we investigated the determinants of food safety perception of Chinese consumers.
+In particular, we examined the role of food certifications to better understand consumer awareness
+of their existence and consumer preferences for food safety information attributes. The limited
+literature [29,64] and its controversial results [12] reflect the uncertainty in China on this issue, but this
+information is central for policymakers and the food industry. Our research confirmed that certifications
+play no clear role in the food safety choices in consumers at large. The price persists as the most
+important driver of food safety choices as mentioned previously [35,65]; however, our results showed
+a clear interest toward certified organic food [66], especially in staple foods, like rice, or frequently
+used foods, like eggs.
+       In general, however, we found heterogeneous consumer reactions, focusing more on products rather
+than certifications; in particular, we found a greater mistrust of food of animal origin as confirmed by the
+low or lack of interest in certifications in meat, fish, and milk, as already found by other authors [12,67].
+       This finding led us to think of a certain skepticism rather than disinterest in safety attributes and,
+consequently, that there is a strong need for the government to review the food certification policy
+and to identify specific solutions for animal-origin food, which are more often the source of major
+food scandals.
+       We found that the food with certification logos most related to the perception of safety was rice.
+This could be due to rice being the staple food in China; therefore, consumers have considerable
+familiarity with this kind of food. As mentioned previously [68], plant products in China are consumed
+in larger quantities and at higher frequencies, among of which rice is likely to be the most typical plant
+product that faces serious food quality and safety issues. The foods where the certification logos were
+least related to the perception of safety were fish and milk. It is not surprising that the consumers are
+skeptical about the safety of dairy products after the past dairy safety crisis (see, among others, [1]).
+       In general, SC certification seems to be the most statistically significant, even if, in some cases,
+with a low level of confidence, confirming that the government should be the central actor in this
+requalification of the certification systems, which should also include control of their correct application
+and transparent communication to consumers.
+       However, some of our results appear contradictory, for example, by comparing the response to
+the SC certification with respect to the certified product. Although consumers considered the SC brand
+safer and more trustworthy, this trust decreased when directed toward the product, preferring other
+certifications. This can be explained by the fact that in a country with frequent scandals and accidents,
+it is normal for the consumer to identify the government as the authority that guarantees their safety
+against producers [69].
+       Specific concerns arise from multiple factors. Rice’s example is particularly explanatory.
+Zhu et al. [70] explained that consumer anxiety about rice, and the grain system in general, is connected
+to different causes: poor knowledge, inability to identify grain quality, high incidence of food-related
+chronic diseases and cancer, environmental pollution, the minimal efficiency of governmental control,
+and social media amplifying and distorting news about food safety and food scandals. In this scenario,
+it is understandable how the consumer would look for further reassurances, such as provided by
+green and organic certification, in accordance with our results about rice and the other products
+examined in our study. These results suggest once again that the government should assume a central
+and well-defined role to construct a clear and transparent certification system that is reliable for
+the consumer.
+       Food incidents and widespread information asymmetry discourage consumers from purchasing
+certified products, especially for those involved in large food scandals. Trust is the most important
+factor that hinders the functioning of the food certification system [34], and the general lack of
+trust toward the government and food industry contribute to the failure in attaching importance to
+voluntary certifications.
+
+===== PAGE 11 =====
+Foods 2020, 9, 1153                                                                                          11 of 14
+
+
+
+      Notably, this study was addressed to a wide audience such as citizens, academic researchers,
+and policymakers, as we explored a transversal theme of common interest. In particular, the lack of
+strong relationship between brands and animal-based products may be of interest both to researchers
+(e.g., with the aim to consider different research models according to the different types (animal-based
+vs. plant-based) of products) and citizens, as it is an increasingly important and timely topic. At the
+same time, the findings offer policy makers guidance for orienting their efforts toward the activation of
+specific brands. Our findings can be therefore useful for further research and to guide the government
+and industry in the actions they have to undertake. According to our results, to associate food safety
+perception with certifications, institutions need to regain trust from citizens, and the credibility and
+transparency of food certification bodies need to be increased. Simultaneously, the food industry
+needs to increase its responsibility and open a proactive dialogue with the government and consumers.
+The 2019 Regulation on the Implementation of the Food Safety Law demonstrates the government’s
+awareness of these needs and offers a chance to requalify the sector. The new regulation emphasizes
+and strengthens the main responsibility of the enterprises and elevates the deliberate release of false
+information or the concealment of the truth about food products to the grade of severe breach. The new
+regulation gives the government the responsibility to integrate food safety knowledge into national
+education and establish a food safety risk exchange mechanism to clarify the contents, procedures,
+and requirements of information exchange on food safety to raise food safety awareness in society and
+avoid misleading concerns.
+      In conclusion, in the context we described, Chinese consumers demand safe food but do not
+completely trust food certifications as a guarantee of safety. This mistrust could be overcome by the
+current legislation that has created the premises for a responsible, fair, and transparent food market
+environment; regulatory enforcement and its implementation remain the challenges.
+
+Supplementary Materials: The following are available online at http://www.mdpi.com/2304-8158/9/9/1153/s1.
+Supplementary Materials: Questionary—Food Safety and Food Quality.
+Author Contributions: Conceptualization and writing—original draft, R.M.; methodology, software,
+writing—original draft preparation, writing—review and editing, and validation, F.R.; methodology, software,
+writing—review and editing, and validation, F.B.; investigation, Z.Z. and J.Z.; data curation, Y.T.; resources, L.T.
+and T.M.; supervision; writing—review and editing, A.G. All authors have read and agreed to the published
+version of the manuscript.
+Funding: This research received no external funding.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+1.    Pei, X.; Tandon, A.; Alldrick, A.; Giorgi, L.; Huang, W.; Yang, R. The China melamine milk scandal and its
+      implications for food safety regulation. Food Policy 2011, 36, 412–420. [CrossRef]
+2.    Qiao, G.; Guo, T.; Klein, K.K. Melamine and other food safety and health scares in China: Comparing
+      households with and without young children. Food Control 2012, 26, 378–386. [CrossRef] [PubMed]
+3.    Wu, L.; Xu, L.; Gao, J. The acceptability of certified traceable food among Chinese consumers. Br. Food J.
+      2011, 113, 519–534. [CrossRef]
+4.    Grunert, K.G.; Loose, S.M.; Zhou, Y.; Tinggaard, S. Extrinsic and intrinsic quality cues in Chinese consumers’
+      purchase of pork ribs. Food Qual. Prefer. 2015, 42, 37–47. [CrossRef]
+5.    Chen, W. The effects of different types of trust on consumer perceptions of food safety: An empirical study
+      of consumers in Beijing Municipality, China. China Agric. Econ. Rev. 2013, 5, 43–65. [CrossRef]
+6.    Zhang, L.; Xu, Y.; Oosterveer, P.; Mol, A.P.J. Consumer trust in different food provisioning schemes: Evidence
+      from Beijing, China. J. Clean. Prod. 2016, 134, 269–279. [CrossRef]
+7.    Liu, R.; Gao, Z.; Snell, H.A.; Ma, H. Food safety concerns and consumer preferences for food safety attributes:
+      Evidence from China. Food Control 2020, 112, 107157. [CrossRef]
+8.    Cicia, G.; Caracciolo, F.; Cembalo, L.; Del Giudice, T.; Grunert, K.G.; Krystallis, A.; Lombardi, P.; Zhou, Y.
+      Food safety concerns in urban China: Consumer preferences for pig process attributes. Food Control 2016, 60,
+      166–173. [CrossRef]
+
+===== PAGE 12 =====
+Foods 2020, 9, 1153                                                                                            12 of 14
+
+
+
+9.    El Benni, N.; Stolz, H.; Home, R.; Kendall, H.; Kuznesof, S.; Clark, B.; Dean, M.; Brereton, P.; Frewer, L.J.;
+      Chan, M.Y.; et al. Product attributes and consumer attitudes affecting the preferences for infant milk formula
+      in China—A latent class approach. Food Qual. Prefer. 2019, 71, 25–33. [CrossRef]
+10.   Lai, J.; Wang, H.H.; Ortega, D.L.; Widmar, N.J.O. Factoring Chinese consumers’ risk perceptions into their
+      willingness to pay for pork safety, environmental stewardship, and animal welfare. Food Control 2018, 85,
+      423–431. [CrossRef]
+11.   Wang, E.P.; Gao, Z.; Heng, Y. Improve access to the EU market by identifying French consumer preference
+      for fresh fruit from China. J. Integr. Agric. 2018, 17, 1463–1474. [CrossRef]
+12.   Wang, E.; Gao, Z.; Heng, Y.; Shi, L. Chinese consumers’ preferences for food quality test/measurement
+      indicators and cues of milk powder: A case of Zhengzhou, China. Food Policy 2019, 89, 101791. [CrossRef]
+13.   Huang, J.; Yang, G. Understanding recent challenges and new food policy in China. Glob. Food Sec. 2017, 12,
+      119–126. [CrossRef]
+14.   Liu, X.; Xu, L.; Zhu, D.; Wu, L. Consumers’ WTP for certified traceable tea in China. Br. Food J. 2015, 117,
+      1440–1452. [CrossRef]
+15.   Unnevehr, L.; Hoffmann, V. Food safety management and regulation: International experiences and lessons
+      for China. J. Integr. Agric. 2015, 14, 2218–2230. [CrossRef]
+16.   Bai, L.; Ma, C.; Gong, S.; Yang, Y. Food safety assurance systems in China. Food Control 2007, 18, 480–484.
+      [CrossRef]
+17.   Liu, G. Printmaking Today; Cello Press Limited: Witney, UK, 2016.
+18.   Hu, J. Food Safety Law of the People’s Republic of China. Available online: http://www.npc.gov.cn/zgrdw/
+      englishnpc/Law/2011-02/15/content_1620635.htm (accessed on 1 August 2020).
+19.   USDA Foreign Agricultural Service. China’s Food Safety Law (2015); USDA Foreign Agricultural Service:
+      Beijing, China, 2015.
+20.   USDA Foreign Agricultural Service. China’s Food Safety Law (2019); USDA Foreign Agricultural Service:
+      Beijing, China, 2019.
+21.   Yu, X.; Gao, Z.; Zeng, Y. Willingness to pay for the “Green Food” in China. Food Policy 2014, 45, 80–87.
+      [CrossRef]
+22.   Ni, X. The predicament and countermeasures of Chinese agricultural certification system. Econ. Rev. 2016, 3,
+      41–45.
+23.   Zhang, D.; Gao, Y.; Morse, S. Corporate social responsibility and food risk management in China;
+      A management perspective. Food Control 2015, 49, 2–10. [CrossRef]
+24.   Gao, Z.; Schroeder, T.C.; Yu, X. Consumer willingness to pay for cue attribute: The value beyond its own.
+      J. Int. Food Agribus. Mark. 2010, 22, 108–124. [CrossRef]
+25.   Ding, Y.; Veeman, M. Effectiveness of quality signalling: Brand versus certification. In Proceedings of the
+      Joint EAAE/AAEA Seminar “Consumer Behavior in a Changing World: Food, Culture and Society”, Naples,
+      Italy, 25–27 March 2015.
+26.   Jin, S.; Guo, H.; Mao, F.; Zhou, L.; Cheng, G. Willingness to pay for implementing haccp systems in China’s
+      small and medium-sized food enterprises. Int. J. Food Agric. Econ. 2016, 4, 25–38.
+27.   Liu, R.; Pieniak, Z.; Verbeke, W. Consumers’ attitudes and behaviour towards safe food in China: A review.
+      Food Control 2013, 33, 93–104. [CrossRef]
+28.   McCarthy, B.L.; Liu, H.-B.; Chen, T. Trends in Organic and Green Food Consumption in China: Opportunities and
+      Challenges for Regional Australian Exporters; ePublications@SCU: East Lismore, Austrila, 2015.
+29.   Guo, Z.; Bai, L.; Gong, S. Government regulations and voluntary certifications in food safety in China:
+      A review. Trends Food Sci. Technol. 2019, 90, 160–165. [CrossRef]
+30.   Bekele, G.E. Analysis of organic and green food production and consumption trends in China. Am. J. Theor.
+      Appl. Bus. 2017, 3, 64. [CrossRef]
+31.   Luo, C. Influential factors on consumers’ willingness to pay for safe food an analysis with in planned
+      behaviour theory. China Rural Surv. 2010, 6, 22–34.
+32.   Wang, H.; Wei, L. Urban consumers’ cognition of safe food, preference and sensitivity of safe fruit and
+      vegetable in Hangzhou City. Zhejiang Soc. Sci. 2006, 6, 40–47.
+33.   Zhou, J.; Xing, J.; Yu, Y. Producer’s behavior research of multiple quality and safety certification in Agri-food
+      sectors. J. Zhejiang Univ. 2015, 45, 55–67.
+
+===== PAGE 13 =====
+Foods 2020, 9, 1153                                                                                            13 of 14
+
+
+
+34.   Wang, J.; Tao, J.; Chu, M. Behind the label: Chinese consumers’ trust in food certification and the effect of
+      perceived quality on purchase intention. Food Control 2020, 108, 106825. [CrossRef]
+35.   Riccioli, F.; Moruzzo, R.; Zhang, Z.; Zhao, J.; Tang, Y.; Tinacci, L.; Boncinelli, F.; De Martino, D.; Guidi, A.
+      Willingness to pay in main cities of Zheijiang provice (China) for quality and safety in food market.
+      Food Control 2020, 108, 106831. [CrossRef]
+36.   Grunert, K.G. Food quality and safety: Consumer perception and demand. Eur. Rev. Agric. Econ. 2005, 32,
+      369–391. [CrossRef]
+37.   Nicolas, F.; Valceschini, E. La dynamique économique de la qualité agro-alimentaire. In Agro-alimentaire:
+      Une Économie de la Qualité; Inra-Economica, Ed.; INRA-Economica: Paris, France, 1995; ISBN 2-7380-0570-5.
+38.   Wu, L.; Yin, S.; Xu, Y.; Zhu, D. Effectiveness of China’s organic food certification policy: Consumer preferences
+      for infant milk formula with different organic certification labels. Can. J. Agric. Econ. Can. Dagroecon. 2014,
+      62, 545–568. [CrossRef]
+39.   Yin, S.; Chen, M.; Xu, Y.; Chen, Y. Chinese consumers’ willingness-to-pay for safety label on tomato: Evidence
+      from choice experiments. China Agric. Econ. Rev. 2017, 9, 141–155. [CrossRef]
+40.   Liu, R.; Gao, Z.; Nayga, R.M.; Snell, H.A.; Ma, H. Consumers’ valuation for food traceability in China:
+      Does trust matter? Food Policy 2019, 88, 101768. [CrossRef]
+41.   Wu, L.; Wang, S.; Zhu, D.; Hu, W.; Wang, H. Chinese consumers’ preferences and willingness to pay for
+      traceable food quality and safety attributes: The case of pork. China Econ. Rev. 2015, 35, 121–136. [CrossRef]
+42.   Janssen, M.; Hamm, U. Product labelling in the market for organic food: Consumer preferences and
+      willingness-to-pay for different organic certification logos. Food Qual. Prefer. 2012, 25, 9–22. [CrossRef]
+43.   Holdaway, J.; Husain, L. Food Safety in China: A Mapping of Problems, Governance and Research. Social
+      Science Research Council (SSRC). Brooklyn, NY, USA. Available online: https://www.ssrc.org/publications/
+      view/food-safety-in-china-a-mapping-of-problems-governance-and-research/ (accessed on 31 July 2020).
+44.   Zhang, T.; Wu, X.M. Consumers’ purchasing behaviour to green food. Commer. Res. 2010, 11, 117–121.
+      [CrossRef]
+45.   Jin, M.; Zhao, C. Consumers’ behaviour intention and purchasing behaviour of green agricultural products.
+      Chin. Rural Econ. 2008, 5, 44–55.
+46.   Zhang, P.Y. Consumer Behaviour of Green Food in Guangzhou City; Jinan University Press: Guangzhou,
+      China, 2008.
+47.   Liu, J.; Wang, K.; Han, J. Consumers’ cognition and purchasing behaviour of organic pork. Mod. Econ. Res.
+      2009, 4, 50–53.
+48.   Zhang, H.; Wang, H. Consumers’ willingness to pay for green agricultural products in Guangzhou City.
+      J. Agrotech. Econ. 2009, 6, 62–69.
+49.   Wang, H.; Qiao, J.; Ning, Y. Influential factors on consumers’ willingness to purchase safe food a study on
+      consumption of urban consumers to green certificated pork of in Beijing. Chin. J. Anim. Sci. 2012, 48, 48–52.
+50.   Wang, J.; Ge, J.; Ma, Y. Urban Chinese consumers’ willingness to pay for pork with certified labels: A discrete
+      choice experiment. Sustainability 2018, 10, 603. [CrossRef]
+51.   Cheng, H. Cheap capitalisma sociological study of food crime in China. Br. J. Criminol. 2012, 52, 254–273.
+      [CrossRef]
+52.   Veeck, A.; Hongyan, Y.; Burns, A.C. Consumer risks and new food systems in urban China. J. Macromark.
+      2010, 30, 222–237. [CrossRef]
+53.   Yang, L.; Qian, Y.; Chen, C.; Wang, F. Assessing the establishment of agro-food control systems based on a
+      relevant officials’ survey in China. Food Control 2012, 26, 223–230. [CrossRef]
+54.   Yin, S.; Wu, L.; Du, L.; Chen, M. Consumers’ purchase intention of organic food in China. J. Sci. Food Agric.
+      2010, 90, 1361–1367. [CrossRef]
+55.   Zhang, B.; Fu, Z.; Huang, J.; Wang, J.; Xu, S.; Zhang, L. Consumers’ perceptions, purchase intention, and
+      willingness to pay a premium price for safe vegetables: A case study of Beijing, China. J. Clean. Prod. 2018,
+      197, 1498–1507. [CrossRef]
+56.   Ortega, D.L.; Wang, H.H.; Wu, L.; Olynk, N.J. Modeling heterogeneity in consumer preferences for select
+      food safety attributes in China. Food Policy 2011, 36, 318–324. [CrossRef]
+57.   Ha, T.M.; Shakur, S.; Do Pham, K.H. Consumer concern about food safety in Hanoi, Vietnam. Food Control 2019.
+      [CrossRef]
+
+===== PAGE 14 =====
+Foods 2020, 9, 1153                                                                                            14 of 14
+
+
+
+58.   Ruby, G.E.; Abidin, U.F.; Lihan, S.; Jambari, N.N.; Radu, S. Predicting intention on safe food handling among
+      adult consumers: A cross sectional study in Sibu district, Malaysia. Food Control 2019. [CrossRef]
+59.   Yu, H.; Gibson, K.E.; Wright, K.G.; Neal, J.A.; Sirsat, S.A. Food safety and food quality perceptions of farmers’
+      market consumers in the United States. Food Control 2017, 79. [CrossRef]
+60.   Varian, H. Microeconomic Analysis; W.W. Norton: New York, NY, USA, 1992.
+61.   Bennett, J.W.; Pearce, D.W.; Turner, R.K. Economics of natural resources and the environment. Am. J.
+      Agric. Econ. 1991, 73, 227. [CrossRef]
+62.   Pearce, D.; Turner, K.; Bateman, I. Economia Ambientale; Il Mulino: Bologna, Italy, 2003.
+63.   Bateman, I.J.; Mace, G.M.; Fezzi, C.; Atkinson, G.; Turner, K. Economic analysis for ecosystem service
+      assessments. Environ. Resour. Econ. 2011, 48, 177–218. [CrossRef]
+64.   Yin, S.; Han, F.; Wang, Y.; Hu, W.; Lv, S. Ethnocentrism, trust, and the willingness to pay of Chinese consumers
+      for organic labels from different countries and certifiers. J. Food Qual. 2019, 2019. [CrossRef]
+65.   Yang, W.; Fang, L. Consumer Willingness to pay for food safety attributes in China: A meta-analysis. J. Int.
+      Food Agribus. Mark. 2020. [CrossRef]
+66.   Wu, W.; Zhou, L.; Chien, H. Impact of consumer awareness, knowledge, and attitudes on organic rice
+      purchasing behavior in China. J. Food Prod. Mark. 2019, 25, 549–565. [CrossRef]
+67.   Yin, S.; Chen, M.; Chen, Y.; Xu, Y.; Zou, Z.; Wang, Y. Consumer trust in organic milk of different brands:
+      The role of Chinese organic label. Br. Food J. 2016, 118, 1769–1782. [CrossRef]
+68.   Nie, W.; Abler, D.; Zhu, L.; Li, T.; Lin, G. Consumer preferences and welfare evaluation under current food
+      inspection measures in China: Evidence from real experiment choice of rice labels. Sustainability 2018,
+      10, 4003. [CrossRef]
+69.   Qijun, J.; Batt, P.J. Barriers and benefits to the adoption of a third party certified food safety management
+      system in the food processing sector in Shanghai, China. Food Control 2016, 62, 89–96. [CrossRef]
+70.   Zhu, H.; Jackson, P.; Wang, W. Consumer anxieties about food grain safety in China. Food Control 2017, 73,
+      1256–1264. [CrossRef]
+
+                        © 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+                        article distributed under the terms and conditions of the Creative Commons Attribution
+                        (CC BY) license (http://creativecommons.org/licenses/by/4.0/).

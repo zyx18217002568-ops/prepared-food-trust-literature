@@ -1,0 +1,369 @@
+SOURCE_PDF: 1.3_文献不足/补充文献_16篇/PDF全文/50_颖琦_钟_2012_The_Survey_on_Consumer_s_Risk_Perception_of_Food_Additive_The_Case_of_Suzhou_City_Jiangsu_.pdf
+EXTRACTION_STATUS: ok
+PAGES: 6
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+Hans Journal of Food and Nutrition Science 食品与营养科学, 2012, 1, 11-16
+http://dx.doi.org/10.12677/hjfns.2012.13003 Published Online August 2012 (http://www.hanspub.org/journal/hjfns.html)
+
+
+
+The Survey on Consumer’s Risk Perception of Food
+Additive: The Case of Suzhou City, Jiangsu Province*
+Yingqi Zhong1, Lijie Shan1,2, Linhai Wu 1,2
+1
+ School of Business, Jiangnan University, Wuxi
+2
+ Jiangsu Province Research Base of Food Safety, Jiangnan University, Wuxi
+Email: zhongyingqi2011@163.com, wlh6799@vip.163.com
+
+Received: Aug. 2nd, 2012; revised: Aug. 17th, 2012; accepted: Aug. 23rd, 2012
+
+Abstract: This paper researches consumers’ risk perception of food additive based on 209 data collected from Suzhou,
+Jiangsu Province. The conclusion indicates that media reports, the views of relatives and friends, corporate brand repu-
+tation as well as the governments’ policies on additives are the main factors affect consumers’ purchase intention of
+food containing additives. Therefore, the core for the government to formulate and implement the food safety risk
+management policy is to establish a risk communication mechanism effectively, release government regulatory infor-
+mation timely, reduce media misinformation vigorously and promote public science literacy fruitfully. All of these will
+help to improve consumer perception of food additive safety risk and enhance consumer’s confidence in the food mar-
+ket.
+
+Keywords: Consumer; Food Addictive; Security Risk Perception; Suzhou City, Jiangsu Province
+
+
+
+消费者对食品添加剂安全风险感知的调查：
+江苏省苏州市的案例*
+
+钟颖琦 1，山丽杰 1,2，吴林海 1,2
+1
+ 江南大学商学院，无锡
+2
+ 江南大学江苏省食品安全研究基地，无锡
+Email: zhongyingqi2011@163.com, wlh6799@vip.163.com
+
+收稿日期：2012 年 8 月 3 日；修回日期：2012 年 8 月 17 日；录用日期：2012 年 8 月 23 日
+
+
+摘     要：本文以江苏省苏州市 209 名消费者为对象，调查消费者对食品添加剂安全风险感知。研究结论显示，
+媒体报道、亲戚朋友的看法、企业的品牌信誉以及政府关于添加剂的相关政策是影响消费者对含有添加剂食品
+购买意愿的主要因素；建立有效的食品安全风险的交流机制，科学地传播信息，最大程度地遏制媒体对消费者
+的误导；及时发布政府监管的信息以及政府所展开的相关努力；强化科普教育，提升公众的科学素养等，都有
+助于改善消费者对食品添加剂安全风险的感知，提升消费者对食品市场的信心。
+
+关键词：消费者；食品添加剂；安全风险感知；江苏省苏州市
+
+
+1. 引言                                                                       以及为防腐和加工工艺的需要而加入食品中的化学
+                                                                            合成或者天然物质，食品添加剂的使用繁荣了食品市
+      食品添加剂是指为改善食品品质和色、香、味，
+                                                                            场，满足了人们对食品的新需求，因而被誉为“现代
+*
+ 基金项目：国家自然科学基金项目(批准号：71073069)、教育部人                                         食品工业的灵魂”。但是食品添加剂多属于化学合成
+文社会科学一般项目(11YJC630172)、江苏省高校社科重大项目
+(2011ZDAXM018)。                                                             物质，具有一定的毒性，如果使用不当或者过量使用
+
+
+Copyright © 2012 Hanspub                                                                                               11
+
+===== PAGE 2 =====
+消费者对食品添加剂安全风险感知的调查：江苏省苏州市的案例
+
+
+可能引发食品安全风险(Stern et al.，2009)[1]。现阶段      的调查，结果表明，对木头源食品添加剂的知识和消
+由于非常复杂的原因，在我国人为滥用食品添加剂(滥                  费者态度之间有一定的关系，对消费者进行木头源添
+用食品添加剂是指超限量、超范围使用食品添加剂以                   加剂的基本知识教育，能有效地提高其对木头源添加
+及使用伪劣、过期的食品添加剂)引发的食品安全事件                  剂的正面评价，并影响其购买态度。Bech-Larsen et
+持续不断，已成为食品安全事件的主体和消费者最担                   al.(2003)[6]在研究丹麦、芬兰和美国的消费者对功能食
+心的食品安全风险。三鹿事件、双汇瘦肉精事件、染                   品的态度时提出，消费者的需求和对这些产品的健康
+色馒头事件等，就是近年来发生的典型食品安全事                    认知 决定了其对 功能食品的 接受程度。 Daniel A.
+件，不仅对我国食品工业造成了极大的损失，使食品                   Devcich et al.(2007)[7] 在调查消费者对功能性食品中
+生产行业遭遇巨大的信任危机，更严重影响了消费者                   人工合成或天然添加的添加剂的感知时发现，对现代
+对我国食品安全的信心。因此，以对江苏省苏州市的                   健康问题比较关注的人群更倾向于选择添加带有疾
+消费者的调查为案例，分析消费者对食品添加剂安全                   病预防特性的功能性食品。由此可见，消费者对食品
+风险的感知，探讨消费者在添加剂食品安全事件爆发                   添加剂的态度影响其对食品添加剂的安全感知，并最
+后的行为，对构建食品安全风险交流机制，化解食品                   终改变其购买的行为，此外，提供有关食品添加剂的
+安全的社会风险具有重要的作用。                           正面信息，能有效改善消费者对食品添加剂的态度，
+     食品添加剂的使用是工业现代化的需要，其在食                从而正确的引导消费者的行为。
+品的加工、贮存、保鲜、保质等方面有很大的贡献，                      食品添加剂的相关信息影响消费者的安全风险
+然而由于消费者对食品添加剂的信息知之甚少，滥用                   感知。Henriette Boel Nielsen(2009)[8]等学者研究表明，
+添加剂的食品安全事件爆发后，消费者对食品质量与                   当消费者缺乏相关知识的时候，从媒体报道和广告中
+安全的信心急剧下降，甚至可能造成不必要的恐慌。                   获知的信息将对其购买行为产生重要的影响。Sharlin
+正由于此，食品添加剂的安全风险与消费者感知成为                   (1987)[9]研究表明，
+                                                       媒体对于食品安全事件的夸张报道
+近 10 年来国际上普遍研究的新热点。例如，Williams            可能会引起消费者过激的情绪反应。相对于提供食品
+       [2]
+et al.(2004) 澳大利亚消费者的调查发现，添加剂和化           安全的正面信息，提供负面信息的机构或个人更易为
+学物质被认为是影响食品安全最常见的潜在危害。国                   消费者所接受，因而大众媒体更有动机提供负面信息
+外学者的研究主要集中于以下几个方面：                        (Verbeke，2001)[10]，然而，当出现负面消息时，即使
+     消费者个体特征的差异性影响其对食品添加剂                 在没有医学证据情况下，消费者对食品安全的信心也
+安全风险的感知。人们对食品安全风险的感知存在着                   会因此大幅下降。
+                       [3]
+明显的个体差异性。Thesis(2003) 研究消费者对鲜切               消费者对不同信息来源的信任程度，也影响其对
+水果蔬菜使用可食用的保护膜(一种储藏类添加剂)的                  食品安全风险的感知(Frewer et al., 1996)[11] 。Mario
+态度时发现，年轻的消费者对鲜切水果蔬菜可食用保                   Mazzocchi(2008)[12] 研究了沙门氏菌爆发后欧洲五国
+护膜的风险感知敏感，并且女性消费者更倾向于使用                   的 2725 位消费者对鸡肉的购买意愿，结果发现，消
+                             [4]
+可食用的保护膜。Kariyawasam(2007) 在调查消费者          费者对不同信息来源提供的信息的信任程度不同，医
+对具有不同安全信息属性的鲜牛奶的接受程度时也                    生和卫生当局是最受信任的信息来源。同时，由于一
+发现，年轻、高收入和受教育程度高的女性消费者更                   般消费者通常为非专业人士，他们对危险和关联风险
+倾向于购买添加剂含量低的牛奶。可见个体特征的差                   的理解相当不完善。例如，Shim et al.(2011)[13]的研究
+异性影响其对食品添加剂安全风险的感知，进而改变                   发现，超过三分之二的消费者认为有关食品添加剂的
+消费者的行为。                                   信息不全面，因而消费者对食品中的防腐剂、色素和
+     消费者的态度与食品添加剂安全风险的感知。消                人造甜味素等添加剂感到非常担忧。因此，建立有效
+费者对食品添加剂安全状况的认知与评价与其掌握                    的风险信息传递机制，引导和改善消费者对食品添加
+                                    [5]
+的食品添加剂的知识有关，Tobias Stern et al.(2009)     剂的认知，能够提高人们对食品质量安全的信心，有
+对澳大利亚 263 位消费者进行了木头中提取的添加剂                效避免消费者恐慌心理的出现。
+
+
+12                                                               Copyright © 2012 Hanspub
+
+===== PAGE 3 =====
+消费者对食品添加剂安全风险感知的调查：江苏省苏州市的案例
+
+
+    国内学者也逐步展开了相关方面的研究，周应恒                 3.1. 受访者基本特征
+        [14]
+等(2010)        调查了三聚氰胺事件爆发后南京消费者的
+                                             统计显示，受访者女性比例稍低于男性，年龄结
+心理感知，分析了影响其风险感知的主要因素。梁寒
+                                          构跨度较大，20~60 岁占 83.7%；受访者的学历分布广，
+等(2007)[15]认为由于瘦肉精、
+                  “苏丹红”事件的爆发以
+                                          大专以上学历占 68.3%；家庭人口数以 3~5 人为主，所
+及厂商、媒体的误导，许多消费者误认为食品中的添
+                                          占比例约为 80%左右，约 50%的受访者家中有 18 岁以
+加剂都对人体的健康产生负面作用，加深了其对食品
+                                          下的未成年人；受访者的家庭月收入较高，符合苏州
+添加剂的恐惧。然而，相对于国外的研究，国内对消
+                                          市的经济发展水平，56.5%的受访者家庭月平均收入超
+费者食品添加剂安全风险感知的研究尚不深入、不全
+                                          过 6000 元。受访者的样本基本特征与苏州市的人口特
+面。本文在文献综述的基础上，采用实证调研的方法，
+                                          征基本吻合，反映了样本的随机性比较好，能够确保
+分析江苏省苏州市的消费者对食品添加剂的安全风
+                                          研究结论的可靠性。受访者的统计特征见表 1。
+险感知，试图深化这一方面的研究。
+                                            Table 1. Basic statistical characteristics of the respondents
+2. 样本选择及问卷设计                                             表 1. 被调查者的基本统计特征
+
+
+2.1. 调查对象                                   统计特征                  分类指标              样本数         百分比(%)
+
+                                                                      男               121          57.9
+    本次研究选择江苏省苏州市的消费者为调查对                    性别特征
+                                                                      女               88           42.1
+象。之所以选择江苏省苏州市展开研究，主要由于食
+                                                                  18~29 岁             111          53.1
+品添加剂滥用引发的公共安全事件爆发后，消费者对
+                                            年龄结构                  30~59 岁             64           30.6
+于食品添加剂的安全风险的感知与其科学素养密切
+                                                                  大于 60 岁             34           16.3
+相关。经济社会发展水平较为发达的城市，其居民群
+                                                                     已婚               100          47.8
+体的总体科学素养相对较高(刘奕、张帆，2004)[16]。               婚姻状况
+                                                                     未婚               109          52.2
+江苏省苏州市是中国经济社会发展水平最高的城市                                           初中及以下                17            8.1
+之一，居民群体对包括添加剂风险在内的食品安全风                                        高中或职业高中                49           23.4
+险的感知可能相对强烈。选择江苏省苏州市来展开研                     学历状况                     大专               54           25.8
+究能够更好地反映消费者对食品添加剂安全风险的                                               本科               82           39.2
+
+感知，并有可能概括出具有普遍意义的结论。                                               研究生                 7            3.3
+
+                                                                     1人                6            2.9
+2.2. 问卷设计与调研方式
+                                                                     2人               23           11.0
+
+    本文的研究数据通过问卷调查获得。问卷选项的设                                           3人               75           35.9
+                                            家庭人口数
+计主要基于已有文献和作者对本研究的把握。为了达到                                             4人               53           25.4
+
+预期效果，问卷初步设计后在南通地区进行了小规模的                                             5人               34           16.3
+
+                                                                   5 人以上              18            8.6
+预调研，根据预调研的结果调整问卷。问卷内容主要包
+                                                                      是               63           30.1
+含消费者对食品安全风险的感知、对食品添加剂的认                   家中是否有 18 岁
+                                          以下的未成年人                     否               146          69.9
+知、消费者个体与家庭特征信息等三个部分。
+                                                                1000 元及以下              3            1.4
+    本次调查由经过训练的调查员在超市的食品购
+                                                                1001~3000 元           29           13.9
+买处随机选择消费者，采用一对一直接访谈的方式进
+                                                                3001~6000 元           59           28.2
+行，消费者在调查员的解释与引导下完成答卷。调查                     家庭月平均
+                                                                6001~9000 元           66           31.6
+在 2011 年 8 月 14 日~22 日期间进行，发放问卷 220         收入水平
+                                                                9001~15000 元          32           15.3
+份，有效问卷 209 份，问卷有效率为 95%。
+                                                              15,001~25,000 元          9            4.3
+
+3. 样本统计性描述                                                       25,000 以上             11           5.3
+
+
+
+Copyright © 2012 Hanspub                                                                                    13
+
+===== PAGE 4 =====
+消费者对食品添加剂安全风险感知的调查：江苏省苏州市的案例
+
+
+3.2. 消费者对食品安全信息的关注度
+
+     如图 1 显示，超过 98%的消费者对食品安全类
+事件信息表示关心，仅有 0.48%及 0.96%的消费者对
+食品类安全事件不关心、非常不关心；分别有 39.23%、
+38.28%、21.05%的消费者对食品安全类事件信息很
+关心、比较关心、一般关心。其中有 17.7%、40.71%
+的消费者对牛奶及制品的安全状况很担忧、比较担
+忧，34.4%的消费者认为一般，7.2%的消费者不担忧，
+没有消费者完全不担忧牛奶及制品的安全状况。            Figure 1. The degree of concern of consumer for food safety infor-
+                                                              mation
+     对于牛奶包装标签上的信息，30.62%的消费者非                 图 1. 消费者对食品安全信息的关注度
+常关注，35.41%的消费者比较关注，23.92%的消费者
+认为一般，仅有 8.13%和 1.91%的消费者不太关注和
+极不关注。
+     对于牛奶包装标签信息的类型，消费者最关注的
+是食品安全信息(38.76%)，其次为脂肪等营养成分的
+信息(30.14%)，13.88%的消费者关注诸如滋味、口感
+等感官方面的信息，9.57%的消费者关注品牌或价格
+方面的信息，仅有 7.66%的消费者关注包装等功能属
+性的信息。                                   Figure 2. Consumer’s perception on food additives
+     66.5%的消费者最关注牛奶标签上的保质期，其                    图 2. 消费者对食品添加剂的认知
+
+次为是否含有添加剂或添加剂是否为纯天然(16.3%)，
+                                 的消费者认同“为了牛奶的状态和口感，可以适量使
+再次为卫生指标(12.9%)，仅有 4.3%的消费者关注产
+                                 用食品添加剂”20.4%的消费者保持中立，仅有 25.6%
+品的购买价格以及产地。
+                                 的消费者不认同上述观点。
+     38.2%的消费者认为食品添加剂是牛奶中最不
+安全的因素，其次是食源性病原菌(25.8%)，再次是       3.3.2. 消费者对食品添加剂信息的关注度
+食品本身带有的有害物质(12.0%)，11.5%的消费者认         在问及“消费者购买牛奶时，是否时常关注添加
+为重金属是牛奶中最不安全的因素，仅有 6.7%的消        剂含量等信息”，63.2%的消费者表示比较关注，20.1%
+费者认为农药残留和兽药残留是牛奶中最不安全的           的消费者偶尔关注，仅有 16.7%的消费者不关注，说
+因素。                              明大部分的消费者比较关注牛奶中食品添加剂的含
+                                 量等信息。
+3.3. 消费者对食品添加剂的态度
+                                      61.3%的消费者认为食品添加剂的含量对其购买
+3.3.1. 消费者对食品添加剂的认知              牛奶的决策影响很大，22.0%的消费者保持中立，仅有
+     如图 2 所示，大部分消费者对食品添加剂的态度     16.8%的消费者认为添加剂的含量不影响其购买牛奶。
+是客观而公正的，67.0%的消费者都认同“食品添加
+                                 3.4. 影响消费者购买含添加剂食品的因素
+剂本身对人体没有危害作用，违法或超标使用食品添
+加剂才会对人体造成危害”，10.0%的消费者保持中             如图 3 所示，影响消费者购买含添加剂食品的主
+立，仅有 23.0%的消费者不认同上述观点。66.0%的消    要因素有媒体报道、亲戚朋友的看法、企业的品牌信誉
+费者认同“经过国家批准的添加剂，按照国家标准添          以及政府关于添加剂的相关政策，其中，企业的品牌信
+加到牛奶中，该牛奶是安全的”
+             ，15.0%的消费者保持        誉和媒体的报道对消费者的购买决策影响较大，亲戚朋
+中立，仅有 19.0%的消费者不同意上述观点。54.0%     友的看法和政府出台的相关政策影响相对较小。
+
+
+14                                                                    Copyright © 2012 Hanspub
+
+===== PAGE 5 =====
+消费者对食品添加剂安全风险感知的调查：江苏省苏州市的案例
+
+
+                                                                   4. 主要结论与政策建议
+                                                                         本文的调查结果表明，食品添加剂已成为人们最
+                                                                   为担忧的食品不安全因素，这与 McIntosh 和 Williams
+                                                                   的研究结果相似[17,18]，特别是在苏州，超过一半的消
+                                                                   费者认为食品添加剂是食品中最关键的不安全因素。
+                                                                   此外，23%的消费者不认同“食品添加剂本身对人体
+                                                                   没有危害作用，违法或超标使用食品添加剂才会对人
+ Figure 3. The factors of consumers to purchase foods containing
+                             additives                             体造成危害”这一观点，这说明消费者的对食品添加
+           图 3. 影响消费者购买含添加剂食品的因素
+                                                                   剂的观念还存在误区，需要政府与企业、舆论的正确
+                                                                   引导。
+3.4.1. 媒体对食品添加剂的相关报道，对消费者
+                                                                         本文的研究结论显示，媒体报道、亲戚朋友的看
+       决定是否购买含食品添加剂的牛奶的影响
+                                                                   法、企业的品牌信誉以及政府的相关政策都是影响消
+     媒体对于食品添加剂的相关报道对消费者的购
+                                                                   费者对含有添加剂的食品购买意愿的主要因素，上述
+买决策影响比较大。调查显示，5.7%的消费者认为媒
+                                                                   的初步讨论显示，本文所涵盖的政策含义已非常清
+体的相关报道对其购买决策的影响程度非常小，6.7%
+                                                                   晰。其要点是：1) 政府部门和企业、舆论应当通过各
+的消费者认为很小，11.0%的消费者认为比较小，
+                                                                   种宣传方式提高消费者对食品添加剂的认知水平，使
+11.0%的消费者认为一般，19.1%的消费者认为比较
+                                                                   消费者客观的认识食品添加剂；2) 添加剂已成为消费
+大，22.5%的消费者认为很大，23.9%的消费者认为非
+                                                                   者最为担忧的食品不安全因素，政府应严格规范食品
+常大。
+                                                                   加工制造过程中添加剂的使用，更好的监控添加剂的
+3.4.2. 亲戚朋友对于食品添加剂的看法，对消费者                                         来源和流向，以安全的食品获得消费者的信任；3) 媒
+       决定是否购买含食品添加剂的牛奶的影响                                          体等相关舆论的报道是影响消费者的购买意愿的主
+     调查显示，分别有 20.6%、23.0%、13.9%的消费                                 要因素，因此政府应当建立有效的食品安全风险的交
+者认为亲戚朋友的看法对其购买决策的影响比较大、                                            流机制，科学地传播信息，最大程度地遏制媒体对消
+很大、非常大，15.8%的消费者认为一般，仅有 12.0%、                                     费者的误导；4) 及时发布政府监管的信息与所展开的
+10.0%和 4.8%的消费者认为比较小、很小以及非常小。                                      努力，有助于恢复消费者对食品市场的信心。
+3.4.3. 企业的品牌信誉，对消费者是否购买含
+                                                                   5. 致谢
+       食品添加剂牛奶的影响
+     结果显示，分别有 2.9% 、1.4%、10.0%、13.9%、                                    本文的研究得到了中国国家自然科学基金项目
+20.1%、26.8%及 24.9%的消费者认为，企业的品牌信                                    (批准号：71073069)、教育部人文社会科学一般项目
+誉对消费者的购买决策影响非常小、很小、比较小、                                            (批准号：11YJC630172)、江苏省高校社科重大项目(批
+一般、比较大、很大以及非常大，可见，企业的品牌                                            准号：2011ZDAXM018)的资助。
+信誉是影响消费者是否购买含有添加剂食品的主要
+因素之一。
+                                                                   参考文献 (References)
+3.4.4. 政府出台的有关食品添加剂的政策，对消费者                                        [1]   T. Stern, R. Haas and O. Meixner. Consumer acceptance of
+       决定是否购买含食品添加剂牛奶的影响                                                 wood-based food additives. British Food Journal, 2009, 111(2):
+                                                                         179-195.
+     结果显示，大部分的消费者认为政府出台的政策                                         [2]   P. Williams, E. Stirling and N. Keynes. Food fears: A national
+                                                                         survey on the attitudes of Australian adults about the safety and
+对其购买决策的影响很大，分别有 23.9%、19.1%和                                             quality of food. Asia Pacific Journal of Clinical Nutrition, 2004,
+                                                                         13(1): 32-39.
+12.4%的消费者认为比较大、很大和非常大，23.9%的                                       [3]   A. Thesis. Consumer perception and application of edible coat-
+消费者认为一般、仅有 9.1%、4.3%和 7.2%的消费者                                           ings on fresh-cut fruits and vegetables. Louisiana State: Louisi-
+                                                                         ana State University and Agricultural and Mechanical College,
+认比较小、很小及非常小。                                                             2003.
+
+
+Copyright © 2012 Hanspub                                                                                                                15
+
+===== PAGE 6 =====
+消费者对食品添加剂安全风险感知的调查：江苏省苏州市的案例
+
+
+[4]  S. Kariyawasam, U. Jayasinghe-Mudalige and J. Weerahewa.              [11] L. J. Frewer, C. Howard, D. Hedderley and R. Shepherd. What
+     Use of Caswell’s classification on food quality attributes to as-          determines trust in information about food-related risks? Under-
+     sess consumer perceptions towards fresh milk in tetra-packed               lying psychological constructs. Risk Analysis, 1996, 16: 473-
+     containers. The Journal of Agricultural Sciences, 2007, 3(1): 43-          486.
+     54.                                                                   [12] M. Mazzocchi. Food scares and trust: A European study. Journal
+[5] T. Stern, R. Haas and O. Meixner. Consumer acceptance of                    of Agricultural Economics, 2008, 59(1): 2-24.
+     wood-based food additives. British Food Journal, 2009, 111(2):        [13] S. M. Shim, S. H. Seo, Y. Lee, G. I. Moon, M. S. Kim and J. H.
+     179-195.                                                                   Park. Consumers’ knowledge and safety perceptions of food ad-
+[6] T. Bech-Larsen, K. G. Grunert. The perceived healthiness of                 ditives: Evaluation on the effectiveness of transmitting informa-
+     functional foods: A conjoint study of Danish, Finnish and                  tion on preservatives. Food Control, 2011, 22: 1054-1060.
+     American consumers perception of functional foods. Appetite,          [14] 周应恒, 卓佳. 消费者食品安全风险认知研究——基于三聚氰
+     2003, 40: 9-14.                                                            胺事件下南京消费者的调查[J]. 农业技术经济, 2010, 2: 89-
+[7] D. A. Devcich, I. K. Pedersen and K. J. Petrie. You eat what you            96.
+     are: Modern health worries and the acceptance of natural and          [15] 梁寒, 程小梅, 王志伟. 食品添加剂存在的问题及安全对策
+     synthetic additives in functional foods. Appetite, 2007, 48: 333-
+                                                                                分析[J]. 监督与选择, 2007, 21: 56-57.
+     337.
+[8] H. B. Nielsen, S. Anne-Mette, K. G. Grunert, et al. Consumer           [16] 刘奕, 张帆. 我国居民高等教育支付能力及学费政策的实证
+     perception of the use of high-pressure processing and pulsed               研究[J]. 中国软科学, 2004, 2: 14-20.
+     electric field technologies in food production. Appetite, 2009, 52:   [17] A. McIntosh, M. Mcdowell and S. MeNutt. Assuring quality for
+     115-126.                                                                   national health and nutrition examination survey dietary coding.
+[9] H. I. Sharlin. The social and cultural construction of                      Journal of the American Dietetic Association, 1998, 99(9), 89-
+     risk—Macro-risk and the media: The EDB-case. Dordrecht:                    95.
+     Reidel University, 1987.                                              [18] P. Williams, E. Stirling and N. Keynes. Food fears: A national
+[10] M. W. Verbeke, P. J. Van Kenhove. Impact of emotional stability            survey on the attitudes of Australian adults about the safety and
+     and attitude on consumption decisions under risk: The Coca-                quality of food. Asia Pacific Journal of Clinical Nutrition, 2004,
+     Cola crisis in Belgium. Journal of Health Communication, 2002,             13(1): 32-39.
+     7: 455-472.
+
+
+
+
+16                                                                                                                Copyright © 2012 Hanspub

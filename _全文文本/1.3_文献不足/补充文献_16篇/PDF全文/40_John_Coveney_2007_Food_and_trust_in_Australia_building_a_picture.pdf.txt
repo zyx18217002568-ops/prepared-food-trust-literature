@@ -1,0 +1,695 @@
+SOURCE_PDF: 1.3_文献不足/补充文献_16篇/PDF全文/40_John_Coveney_2007_Food_and_trust_in_Australia_building_a_picture.pdf
+EXTRACTION_STATUS: ok
+PAGES: 9
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+Public Health Nutrition: 11(3), 237–245                                                     DOI: 10.1017/S1368980007000250
+
+
+                              Food and trust in Australia: building a picture
+                               John Coveney*
+                               Department of Public Health, Flinders University, Box 2100, Adelaide 5001, South Australia
+
+
+                               Submitted 8 December 2006: Accepted 29 March 2007: First published online 3 August 2007
+
+                               Abstract
+                               Objective: To explore consumer trust in food, especially people’s experiences that
+                               support or diminish trust in the food supply; consumer practices to strengthen
+                               trust in food; and views on how trust in the food supply could be increased.
+                               Setting: Adelaide, South Australia.
+                               Design: In-depth qualitative research interviews and focus groups.
+                               Subjects: Women and men who are primary food providers in families (n 5 24).
+                               Results: Media coverage of food scares and scandals and personal experience of
+                               food-borne illness challenged respondents’ trust in the food system. Poor retail
+                               food handling practices and questionable marketing ploys by food manufacturers
+                               also decreased trust. Buying ‘Made-in-Australia’ produce and following food
+                               safety procedures at home were important practices to strengthen food trust.
+                               Knowledge of procedures for local food inspection and for national food reg-
+                               ulation to keep food safe was scanty. Having a strong regulatory environment
+                               governing food safety and quality was considered by respondents to be of prime
+                               importance for trust building.
+                               Discussion: The dimensions of trust found in this study are consistent with key
+                               theoretical aspects of trust. The need for trust in highly complex environments, in
+                               this case the food supply, was evident. Trust was found to be integral to food
+                               choice, and negative media reports, the sources of which themselves enjoy var-
+                               ious levels of dependability, were found to easily damage trust relationships. The
+                               lack of visibility of authoritative monitoring and surveillance, misleading food
+                               advertising, and poor retail food handling practices were identified as areas that
+                               decreased consumer trust. Respondents also questioned the probity of food                                               Keywords
+                               labelling, especially health claims and other mechanisms designed to guide food                                                Trust
+                               choice. The research highlights the role trust plays in food choice. It also                                            Food safety
+                               emphasises the importance of a visible authoritative presence in the food system                                        Food choice
+                               to strengthen trust and provide reassurance to consumers.                                                      Qualitative research
+
+
+
+                 The importance of understanding influences on food                               mechanisms to keep food safe has been challenged by a
+                 choice is fundamental to public health since diet is a                           number of food safety events. In South Australia, for
+                 major risk factor for many common population health                              example, over the past 10 years there have been cases of
+                 problems, including heart disease, diabetes, cancer and                          food poisoning involving processed meats7,8, some of
+                 obesity1. It is well accepted that food choice is influenced                     which have resulted in fatalities. New technological
+                 by a range of biological, cultural, economic and psycho-                         developments in the food supply may also damage trust,
+                 social factors2. The role of trust in influencing consumer                       especially when the safety of new products is questioned,
+                 food choice is taking on increasing importance. Trust is                         as in the case where trials of genetically modified peas
+                 now regarded as a vital component of health and well-                            were halted after an adverse immune response was
+                 being3. In relation to food and public health, trust is                          detected in test animals9.
+                 crucial if consumers are to recognise and accept the                                There is often a lack of congruence between consumer
+                 benefits of new food technologies and feel assured that                          perceptions and the available evidence on which foods
+                 food regulation is protecting their best interests. In some                      can be trusted10. For example, a recent survey of 1200
+                 countries, a lack of trust has had a detrimental effect on                       Australian adults found that pesticides, food additives and
+                 public confidence in the integrity of the food supply,                           preservatives gave rise to the greatest uncertainties about
+                 leaving consumers vulnerable to misinformation and                               food11. This is despite the fact that food additives are
+                 poor dietary choices4.                                                           thoroughly tested and strictly regulated in Australia, and
+                    In Australia, there has been growing concern about the                        that government market basket surveys show pesticide
+                 level of consumer trust in food5,6. Consumer trust in                            residues to be nowhere near the levels that public concern
+
+
+                 *Corresponding author: Email John.coveney@flinders.edu.au                                                                r The Authors 2007
+
+
+https://doi.org/10.1017/S1368980007000250 Published online by Cambridge University Press
+
+===== PAGE 2 =====
+238                                                                                                                            J Coveney
+              would suggest. Nevertheless, public concerns should not                         efficacy of the claim and the regulatory mechanism
+              be dismissed as ‘irrational’ or ‘unfounded’. Public health                      overseeing claim substantiation.
+              groups, food regulators and food industry groups in
+                                                                                              Despite its potential role in influencing public health
+              Europe have all learned to their cost that public food trust
+                                                                                           outcomes, consumer food trust is poorly understood.
+              has a marked effect on confidence in food purchases, the
+                                                                                           Indeed, public health interventions are often based on
+              credibility of expert recommendations, food regulation
+                                                                                           simplistic assumptions of trust that are undertheorised.
+              and trust in food industry practices12.
+                                                                                           Inherent in many interventions is an assumption of a
+                 In public health nutrition, trust impacts on important
+                                                                                           linear relationship between scientific evidence, public
+              areas, namely: (1) food choice, (2) confidence in expert-
+                                                                                           trust and consumer behaviour. A critique of recent
+              endorsed population dietary guidelines and recommen-
+                                                                                           research on lay attitudes to food20 demonstrates that a
+              dations and (3) trust in food regulation designed to
+                                                                                           ‘knowledge-deficit’ model underpins much public health
+              improve public health nutrition. Damage to trust in these
+                                                                                           communication. The model assumes that experts’ and
+              areas can have dramatic public health consequences, as
+                                                                                           consumers’ knowledge exists within the same techni-
+              discussed below.
+                                                                                           cal–rational paradigm, but at different points along a
+                                                                                           continuum. However, like many human–health inter-
+              1. Food choice
+                                                                                           actions, the role played by trust is likely to be multi-
+                 Trust directly affects dietary patterns and food intake,
+                                                                                           dimensional and complex, and consumers’ trust in expert
+                 and thus nutritional status. Although the precise
+                                                                                           recommendations and regulatory processes is more likely
+                 nutritional outcomes of altered food choice as a
+                                                                                           to be the product of a much more complex evaluation of
+                 consequence of trust are unknown, dietary modelling
+                                                                                           trust and credibility.
+                 shows that essential nutrients can be marginalised by
+                                                                                              Most of the health literature addressing trust arises from
+                 the elimination from the diet of food considered
+                                                                                           risk communication and risk assessment. This literature is
+                 unsafe13. Also unorthodox and possibly dangerous
+                                                                                           limited because trust and risk are, in fact, different phe-
+                 eating habits – for example, avoidance of core food
+                                                                                           nomena: risk refers to the likelihood of potential harm,
+                 groups – can arise when consumers distrust standard
+                                                                                           whereas trust concerns the judgement or willingness to
+                 regulatory controls14.
+                                                                                           accept another’s power or authority in the midst of
+              2. Expert advice
+                                                                                           uncertainty.
+                 Trust plays an important role in consumer recognition
+                                                                                              Although some initial research has been undertaken in
+                 of expert-endorsed dietary recommendations. Efforts
+                                                                                           Scandinavia20 and the UK21, Australian research addres-
+                 to improve public understanding about diet, ranging
+                                                                                           sing food trust is limited to a survey examining consumer
+                 from Australian government programmes encouraging
+                                                                                           perceptions about environmental health risks22 and a
+                 fruit and vegetables to the National Heart Foundation’s
+                                                                                           qualitative study on consumer food risk23. Given the
+                 ‘Pick the Tick’ campaign, rely on consumer trust in
+                                                                                           importance of evidence-based research in identifying
+                 both the credibility of the message and the probity of
+                                                                                           ways in which consumer trust can influence food choice,
+                 the organisation. In the UK, public trust, and thus
+                                                                                           acceptance of expert advice and confidence in food
+                 credibility of dietary messages, has been jeopardised
+                                                                                           regulatory practices, there is a pressing need for research
+                 when the ‘messenger’ is regarded as fallible15,16, or
+                                                                                           to examine trust in food.
+                 when commercial concerns in private–public food
+                 campaigns are believed to have overtaken public
+                 interests17. Concerns have been expressed over the                        The study
+                 efficacy of health campaigns because the UK public no
+                 longer trusts government or expert messages18. The                        This paper reports on an exploratory study of food and
+                 extent of this distrust, and its effects on food choice, is               trust undertaken in Adelaide, South Australia. The aim of
+                 unknown but clearly needs to be understood to better                      the study was to examine the dimensions of consumer
+                 plan public campaigns addressing public health                            trust in food, and was guided by the following broad
+                 nutrition.                                                                questions:
+              3. Food regulation
+                                                                                           1. What are people’s experiences that support or
+                 Trust is integral to public attitudes to food regulatory
+                                                                                              diminish trust in the food supply?
+                 measures. In Australia, there has been concern that
+                                                                                           2. What are people’s practices to strengthen trust in the
+                 public mistrust of government regulation of some
+                                                                                              food they eat?
+                 issues (e.g. genetically modified food legislation) may
+                                                                                           3. How could trust in the food supply be increased?
+                 overflow and negate efforts to influence and improve
+                 dietary habits through mechanisms like food label-                          Because little is known of food trust in Australia – its
+                 ling19. Moreover, the success of the planned intro-                       determinants and its consequences – a qualitative
+                 duction of pre-approved health claims on food in                          approach was employed. Qualitative research is useful in
+                 Australia is predicated on consumer trust in both the                     examining hitherto unexplored issues; it attempts to
+
+
+
+
+https://doi.org/10.1017/S1368980007000250 Published online by Cambridge University Press
+
+===== PAGE 3 =====
+Food and trust in Australia: building a picture                                                                                 239
+                 understand and generate theories or explanations rather                   agency. Interviews and focus groups were audiotaped
+                 than test hypotheses24. The flexible nature of qualitative                (with permission) and transcribed. All respondents’
+                 research provides the opportunity to capture rather than                  names were changed. The study was approved by the
+                 prove emerging ideas and themes. Results from qualita-                    University Social and Behavioural Ethics Committee.
+                 tive research are not usually generalisable to whole
+                 populations, but instead are often used to develop
+                                                                                           Data analysis
+                 hypotheses for further testing and confirmation.
+                                                                                           The data, which were indexed, coded and managed using
+                 The sample                                                                NUD-IST version 4, were analysed in three steps. First-
+                                                                                           order analysis began with the collection of the first
+                 Qualitative research often recruits participants through                  interviews and comprised a description of the respon-
+                 systematic, non-probabilistic sampling which aims to                      dents’ opinions and views in relation to the issues raised
+                 enlist respondents on the basis of their particular                       in the interviews. First-order analysis built from the
+                 experiences of phenomena, rather than their representa-                   ‘ground up’ as the researchers reached consensus about
+                 tion of a population group25. In this study, primary food                 themes arising from the data. At the end of the research,
+                 providers in families were recruited. Primary providers                   these themes were used as overarching issues from which
+                 are those family members who have the main responsi-                      the data could be examined.
+                 bility for food purchasing and preparation. Based on                         Second-order analysis examined the data from theo-
+                 earlier research26, primary food providers are more likely                retically informed perspectives. The issues discussed
+                 to consider the safety and quality of food purchases. It                  during the interviews and the focus groups were framed
+                 made sense to target this group to seek their concerns                    within current commentaries and research on trust. The
+                 about, and trust in, the food supply.                                     purpose of this level of analysis is to go beyond
+                    Participants were recruited via Tan McGregor, a market                 description and to generate explanations (or theory) to
+                 research company, using an extensive database compiled                    comment on the ways in which respondents understood
+                 by the company through active and voluntary recruitment                   and articulated issues of food and trust. A third level of
+                 of respondents. Potential participants with the following                 analysis was undertaken to examine the extent to which
+                 characteristics were sought:                                              the research questions were addressed, including new
+                                                                                           light now shed on the area as a result of this research.
+                 > have main responsibility for family food shopping;
+                                                                                           These three levels of analysis allow a full explication of
+                 > be between ages 18 and 65 years;
+                                                                                           the data and provide transparency of the data analysis
+                 > be from a range of socio-economic groups.
+                                                                                           processes.
+                 By these means, primary food providers were recruited
+                 from a range of socio-economic position and from dif-                     Results and discussion
+                 ferent locations in Adelaide, South Australia.
+                                                                                           Twelve participants (four men) were recruited for in-
+                 The methods                                                               depth interviews and two groups of six participants (two
+                                                                                           men in each group) took part in the focus group dis-
+                 Data were collected by in-depth interviews and focus                      cussions. The respondents were from a wide variety of
+                 groups. The rationale was to use interviews to build a                    socio-economic positions and age groups (Table 1).
+                 picture of individual concerns, beliefs and practices,
+                 which could be put to focus groups for collective view-
+                                                                                           First-order analysis
+                 points – even consensus.
+                                                                                           Four overarching themes were identified from the inter-
+                    Three researchers (including the author) conducted the
+                                                                                           view and focus group data for first-order analysis. These
+                 first six interviews and met frequently to discuss the issues
+                                                                                           were: (1) knowledge of events that raised issues of
+                 raised and to further refine the scope of the research in
+                                                                                           food trust; (2) direct experience of food and trust; (3)
+                 light of emerging data. The author conducted all but two
+                                                                                           knowledge of trust mechanism that governed the food
+                 of the remaining interviews, and facilitated the focus
+                                                                                           system; and (4) views on ways of building trust in the
+                 groups. An interview schedule served as a prompt and a
+                                                                                           food system.
+                 guide to the interview discussions. As the research pro-
+                 gressed, the schedule was modified as new, unanticipated
+                 issues arose. By the time the issues were taken up by the                 Knowledge of events that raised issues of food trust
+                 focus groups, the schedule had ‘stabilised’, meaning that                 Respondents were well aware of a number of food scares,
+                 it had had no new issues added. The interviews were                       including cases of food poisoning, that gained promi-
+                 conducted in the respondents’ homes and the focus                         nence in Australia. Examples of food scares with foods
+                 groups were undertaken in the offices of the recruiting                   such as processed meats, orange juice and biscuits were
+
+
+
+
+https://doi.org/10.1017/S1368980007000250 Published online by Cambridge University Press
+
+===== PAGE 4 =====
+240                                                                                                                            J Coveney
+              Table 1 Names (given for research) age, and occupation of par-               mentioned. In relation to the latter, the media was the
+              ticipants in interviews and focus groups                                     most often cited source of information, with word of
+              Name                            Age                       Occupation         mouth being another way in which awareness was raised.
+                                                                                           There was, however, a considerable difference in the
+              Interviews
+                 Arthur                       42                  Security guard           trustworthiness of different media sources. Television
+                 Annie                        39                  Pharmacy assistant       programmes of an investigative nature, especially when
+                 Clive                        58                  Retired                  experts gave testimonies or statements, were more trusted
+                 Don                          24                  Engineer
+                 Kitty                        43                  Home duties              than newspapers.
+                 Jody                         36                  Factory worker
+                 Kass                         38                  Teacher                     Robyne: More inclined [to trust] TV if they actually
+                 Kirsty                       26                  Bank assistant              speak to the scientists or whoever makes it or
+                 Meg                          54                  Nurse                       whatever, not so much just a reporter going blah,
+                 Mary                         57                  Retail assistant
+                 Nick                         51                  Public servant              blah, blah, reading off paper.
+                 Robyne                       29                  Horse trainer                                                  (interview # 12)
+              Focus group 1                                                                Similar to an earlier study on food and risk by Lupton23,
+                Bart                          57                  Police assistant         periodicals and magazines like Newsweek were rated as
+                Jane                          45                  Photographic assistant
+                Sandy                         60                  Retired                  sources of trusted information on food. Some people
+                ‘Spiderman’                   37                  Pensioner                resorted to the Internet or libraries to follow up stories in
+                Bangles                       23                  Home duties              order to strengthen trust.
+                Lucy                          27                  Personal assistant
+                                                                                              Clive: If it was something that I had an interest in
+              Focus group 2
+                Paul                          64                  Retired                     then I’d be inclined to do a bit more searching
+                Kate                          41                  Home duties                 around perhaps. Sort of go to the library pick up
+                Ellie                         60                  Retired                     publications y The Internet’s a great place for
+                David                         54                  Pensioner
+                Helen                         25                  Checkout operator           finding out things, but it’s also, anybody can publish
+                Ally                          23                  Secretary                   anything about all kinds of things. And so obviously
+                                                                                              you really need to check your sources.
+                                                                                                                                      (interview #3)
+              readily provided. In the last 10 years in Australia gen-
+                                                                                           Direct experience of food and trust
+              erally, and South Australia in particular, there have been
+                                                                                           The discussions in this area could be separated into three
+              some famous cases of food poisoning involving these
+                                                                                           areas: shops and stores selling food; other shoppers; and
+              foods.
+                                                                                           food manufacturers. Each one is discussed in turn.
+                  Annie: Well the Garibaldi and the Nippy fruit juice
+                  episodes.
+                                                                                           Shops and stores. Respondents spoke about the trust-
+                                                         (interview #2)
+                                                                                           worthiness of shops and stores selling food, making the
+                  Paul: The only ones that I would remember would
+                                                                                           point that sometimes trust was breached by the ways in
+                  be the Nippy’s Orange Juice and the Metwurst ones,
+                                                                                           which food is handled. While the use of safe food-
+                  which got a lot of publicity in the newspaper.
+                                                                                           handling techniques – gloves and hairnets – was seen
+                                                      (focus group #1)
+                                                                                           to boost trust in food safety, it also raised awareness of
+              Some respondents remembered cases of food poisoning                          trust when these practices were not followed or were
+              or a food reaction that had affected them personally or                      absent.
+              had been experienced by friends or relatives.
+                                                                                              Meg: It’s amazing how often you go to places, like the
+                  Sandy: I had a incident where I came out in a rash                          pizza place we go to where they touch the food with
+                  after going to a Chinese restaurant one night.                              their hands and scratch their bum and touch it [food].
+                                                     (focus group #1)                                                                (interview #9)
+                  Mary: After eating a pasta dish with a cream sauce                          Don: It probably makes you more aware that there’s
+                  [my friend] was the only one of a group that ate that                       a [food safety issue] because they’re obviously
+                  particular pasta and she was violently ill and we                           wearing it for a reason but it’s also how they wear
+                  could only assume that was what it was.                                     it. Like I said before, with the money in one hand
+                                                       (interview #10)                        and the glove on the other it’s redundant.
+                                                                                                                                     (interview #4)
+              Participants were asked how they were made aware of
+              matters that challenged their trust in food. Both direct                     Concern was especially expressed about foods like
+              experience of food risk (exposure to poor food handling)                     cooked and raw meat and fish. These foods were thought
+              and indirect experience (reported food scares) were                          to require special handling and were in many ways
+
+
+
+
+https://doi.org/10.1017/S1368980007000250 Published online by Cambridge University Press
+
+===== PAGE 5 =====
+Food and trust in Australia: building a picture                                                                                   241
+                 dangerous if handled poorly. Indeed, respondents spoke                    was regarded to be a source of foods that might not come
+                 about their own trusted practices to make food safe –                     up to safety standards and therefore did not warrant trust.
+                 keeping food cool, using different chopping boards,
+                 following use-by dates.
+                                                                                           Knowledge of trust mechanisms
+                                                                                           Respondents were asked to discuss any mechanisms or
+                 Other shoppers. The practices of other shoppers,
+                                                                                           processes that gave them trust in the food supply and to
+                 especially in supermarkets where food can be freely
+                                                                                           identify who might be responsible for ensuring that trust
+                 handled, also came under scrutiny. Indiscriminate
+                                                                                           mechanisms were adequately carried out. The impor-
+                 handling of food and the possibility of passing on
+                                                                                           tance of inspection of food and practices, whether this
+                 contamination was a source of comment. Having to
+                                                                                           was at the level of the shop, the manufacturer or even
+                 place trust in others to keep food from posing a health
+                                                                                           borders (for example, quarantine), was strongly empha-
+                 risk was regarded as inevitable and also problematic.
+                                                                                           sised as a trust-building mechanism. Border protection
+                     Kitty: Yeah, I mean you don’t usually sort of think                   was considered to have effectively protected Australia
+                     about it when you are going to the fruit and veg, but                 from problems such as bovine-spongioform encephalo-
+                     people that have been in there and handled all the                    pathy and foot-and-mouth disease that had wreaked
+                     things. Yeah and make me wash my fruit and veg                        havoc on the food environment in other countries.
+                     before I eat it.
+                                                                                              Mary: I do think its important that our borders are
+                                                           (interview #7)
+                                                                                              kept secure, and that we don’t have people wan-
+                 Food manufacturers. Food manufacturers were often                            dering in with all sorts of bits and pieces or sending
+                 found to be in breach of food trust, especially in the                       things in or bringing them in with them.
+                 area of food labelling. Health endorsements in                                                                       (interview #9)
+                 particular, even by not-for-profit organisations like the
+                                                                                           There was also awareness of checking and monitoring at
+                 Australian National Heart Foundation, were regarded to
+                                                                                           the local level; however, there was considerably less
+                 be open to deceit, as expressed by Ellie in this focus
+                                                                                           certainty about how this actually happened. Respondents
+                 group discussion:
+                                                                                           held somewhat vague notions about routine checking of
+                     Ellie: It’s a matter of question, because I was told                  food, but were unsure about the ways in which this is
+                     that if you pay enough, you can get the tick from                     carried out; there was an expectation that someone,
+                     the Heart Foundation.                                                 somewhere was monitoring the food supply. While some
+                     (Other member): I heard that.                                         respondents were aware of local food inspection systems
+                     Ellie: But you have to pay a lot of money to get a                    (e.g. food inspectors), there was almost no awareness of
+                     tick on your produce, whether or not its been                         the national food regulator (Food Standards Australia and
+                     [tested]. It gets back to the almighty dollar.                        New Zealand) that sets food standards for the Australian
+                                                          (focus group #1)                 states and territories. However, there was more awareness
+                                                                                           of quarantine mechanisms to keep food safe, often as a
+                 The marketing imperative, whereby food manufacturers
+                                                                                           result of experience of airport checks and X-ray screening
+                 are constantly seeking to promote their products over
+                                                                                           of baggage that are now part of international flight arri-
+                 others, was believed to undermine probity in food
+                                                                                           vals. And while there was an understanding that bovine-
+                 labelling. The failure of any recognisable government
+                                                                                           spongioform encephalopathy (‘mad cow disease’) was
+                 endorsement of labelling, which could be trusted, com-
+                                                                                           not yet in Australia, there was little understanding of the
+                 pounded the problem.
+                                                                                           mechanisms that made this the case.
+                     Don: From what you’re saying I’d be thinking things
+                     like Anti-Cancer Foundation, The Heart [Foundation],
+                     the ticks, that sort of stuff. I see all that’s there but a lot       Belief in ways of building trust in food
+                     of it’s voluntary, not mandatory which probably isn’t                 Overall the importance of trust in the food system was
+                     the best way of doing it. You do see the nutrition                    regarded as axiomatic for the respondents in interviews
+                     labels, that sort of stuff, and I think they’ve just                  and focus groups. Being able to have confidence in a
+                     changed the ingredient conditions again so, yes, the                  system that ensured food was safe and of high quality was
+                     government is there but I see it more as a choice of an               paramount. Respondents talked about the pressures of a
+                     information control rather than an active control.                    busy lifestyle and the need to feel confident that the food
+                                                                    (interview #4)         supply was adequately monitored for safety and quality.
+                                                                                           It was also regarded as something to expect from a
+                 However, labelling of a food as ‘Made in Australia’ gen-
+                                                                                           wealthy country, as one respondent put it.
+                 erated considerable trust. In general, respondents were
+                 satisfied with the standards of food manufacturing in                        Kass: Umm, we like to think we live in a pretty safe,
+                 Australia compared to other countries. Asia in particular                    wealthy country and economyy It would be nice
+
+
+
+
+https://doi.org/10.1017/S1368980007000250 Published online by Cambridge University Press
+
+===== PAGE 6 =====
+242                                                                                                                             J Coveney
+                  to know that they are looking after us by making                         trust mechanism – where people could see evidence of
+                  sure that the food we get is top quality or at least                     government involved in monitoring and auditing the food
+                  monitored or regulated.                                                  supply – was believed by many to be a trust-building
+                                                      (interview #7)                       activity.
+              Another went further by saying that for them it was ‘a                          Don: We’ve got a register of national estate, we
+              matter of life or death’ (Paul, focus group #2). Others                         know what’s been heritage listed and that sort of
+              talked about the economic costs of a lack of trust, citing                      stuff, a register of trustworthy manufacturers, sup-
+              the bankruptcy of companies whose products had been                             pliers or just a label – like you get the plaques for a
+              the cause of food poisoning, but extending this to a                            heritage listed building.
+              national level. Respondents were well aware of the pro-                         Interviewer: So some kind of endorsement?
+              blems with food scares and scandals that had happened                           Don: Yes, an endorsement, that sort of thing.
+              in other countries, especially in Europe, and were grateful                                                              (interview #4)
+              that these did not exist to the same extent in Australia.
+                                                                                           Strengthening food labelling was also seen as a way of
+              Having to be suspicious of food was a prospect that
+                                                                                           building trust. A number of respondents, in interviews
+              respondents did not relish and they were grateful that
+                                                                                           and focus groups, talked about their lack of trust in
+              there were systems that could be counted on to keep
+                                                                                           how food was labelled and how this was sometimes
+              things safe. There was a belief that systems of monitoring
+                                                                                           misleading.
+              were in place and that people were doing their job.
+                                                                                              Sandy: I think sometimes its very misleading. Like,
+                  Bangles: I think its just like the ACCC.* You know its
+                                                                                              you pick up something, like a juice for example,
+                  there but you just have to assume they are doing
+                                                                                              like orange juice, and you start to really look at, and
+                  their job.
+                                                                                              what legally they are allowed to call orange juice, I
+                                                        (focus group #1)
+                                                                                              mean, you know, sometimes it has only got a 35%
+              Some respondents took steps to build trust into their own                       component of actual fruit juice and the rest of its
+              food practices by, for example, not eating meat or                              water or something else. It is a little bit misleading.
+              avoiding additives and chemicals wherever possible. In                                                                (focus group #1)
+              terms of the wider system, some respondents believed
+                                                                                           In summary, the interviews and the focus groups raised a
+              that there was room for improvement. For example,
+                                                                                           number of concerns reflecting the levels of trust people
+              respondents who had worked in different parts of the
+                                                                                           had in food and the systems that govern its quality and
+              food industry were cynical of the checks that occurred,
+                                                                                           safety. There was a degree of faith that abstract systems
+              like the pre-warning of inspection of food premises.
+                                                                                           kept food safe; however, personal experiences made
+                  Annie: Well I think often they pussyfoot around. I                       some respondents distrustful of the local mechanisms –
+                  worked in a bakery where we used to know when                            e.g. retail shops – that brought food to them. To frame
+                  someone would come in to do an inspection, so                            these views and opinions more analytically, second-level
+                  how ridiculous is that.                                                  analysis is used.
+                                                      (interview #2)
+                                                                                           Second-level analysis
+              Others were apprehensive about the outsourcing of                            Trust is a complex and diffuse phenomenon. It is not easy
+              inspection to the private sector citing the failure of gov-                  to measure or define with accuracy. However, a number
+              ernment to do the job properly. However, one respon-                         of commentators have written about trust in detail
+              dent who had been an elected member of a local council                       drawing out some important analytical considerations.
+              had first-hand knowledge of this and was comfortable                         Here, key theoretical perspectives are used to provide a
+              with outsourcing to a profit-making concern.                                 more in-depth understanding of respondents’ views on
+                  Clive: I have spoken to the people there in my role                      food and trust.
+                  at work [as local government councillor] so I know
+                  the people, I know the process and I know that                           The need for trust
+                  there are very responsible group. So that’s why I                        In complex societies where labour divisions lead to spe-
+                  don’t have problems.                                                     cialisation and differentiation of tasks, trust is imperative.
+                                                       (interview #3)                      Because of the sheer impossibility of undertaking all the
+                                                                                           necessary tasks for everyday living, the efforts of others
+              The lack of a presence of food governance was believed
+                                                                                           must be relied upon to provide the essentials for living,
+              to be something that had to be improved. The visibility of
+                                                                                           such as food. Indeed, the division of labour between
+                                                                                           those who produce and manufacture food and those who
+              *ACCC – Australian Competition and Consumer Commission is an inde-
+              pendent federal level ‘watchdog’ that administers the Trade Practices Act,   consume it has arguably never been greater27. Thus, the
+              1974.                                                                        need for consumers to have trust in the system which
+
+
+
+
+https://doi.org/10.1017/S1368980007000250 Published online by Cambridge University Press
+
+===== PAGE 7 =====
+Food and trust in Australia: building a picture                                                                                    243
+                 brings food to them is fundamental. Evident in the dis-                   about ‘truth telling’ by institutions vested with the
+                 cussions with individuals and focus groups in this                        responsibly for managing food risk – there is a greater
+                 research was a resignation that responsibility for food                   belief that food items are safe to eat. For the respondents
+                 production and manufacture had to be delegated. The                       in research, reported here, however, social trust was
+                 idea of trusting delegated responsibility is not new, and                 generally low. There was a high degree of suspicion and
+                 Freudenburg28 traces its theorisation to Durkheim who                     doubt about the management of the quality and safety of
+                 wrote more than 100 years ago on the division of labour                   the food supply by various government bodies. And
+                 and complexity of task.                                                   while there was a belief that mechanisms were in place to
+                    Even though respondents were resigned to invest trust                  monitor and survey the food supply for safety and quality,
+                 in others in the food supply, this was not done lightly or                a lack of visibility of these mechanisms raised doubts
+                 without consideration. Respondents were mindful of the                    about their effectiveness. There was an expressed need
+                 fragility of the trust they had in the food supply, and                   by respondents to be eyewitness to safety- and quality-
+                 talked about times when they were less trusting of a                      monitoring processes. The reassurance through, for
+                 system which was often difficult to understand and fol-                   example, government-endorsed labels to guide con-
+                 low. So on the one hand while respondents knew they                       sumers’ food purchases was also believed to be lacking.
+                 had to rely on trust, they were also mindful of reported                  Respondents believed that food labelling was mostly
+                 cases of food risk which challenged trust.                                about marketing and promotion of food, rather than
+                                                                                           about quality, nutrition information or education.
+                 The asymmetry of trust
+                 Trust asymmetry was discussed by Slovic29 to refer to the                 Third-level analysis
+                 observation that negative reports of safety and quality are               Unlike consumers in some countries where a number of
+                 usually given higher priority than positive reports. That is to           food scares and scandals have damaged trust in food and
+                 say, consumers are more likely to hear about, notice and                  the governance of the food system32, Australians have not
+                 remember the number of times things go wrong with the                     experienced national food trust problems23. Even so,
+                 food system than the number of times things go right. Trust               respondents in this research spoke at length about food
+                 asymmetry was a feature of the interviews and focus                       safety issues that had an impact on consumer confidence
+                 groups in this research, and respondents talked about the                 in the food supply. In terms of the research questions that
+                 their distrust of food producers, manufacturers, retailers                framed this study, the following comments can be made.
+                 and even other shoppers, all of whom it was believed had                     In relation to the first question that addressed respon-
+                 the potential to introduce risks to health and safety into the            dents’ experiences that supported or diminished trust,
+                 food supply. In comparison, there were fewer comments                     respondents were more likely to experience distrust of,
+                 on the ways producers, manufacturers, etc. kept the food                  rather than trust in, the safety and quality of food. That is
+                 supply safe. In other words, there was a negative bias when               to say, there was little mention of experiences that sup-
+                 considering the contributions of food supply stakeholders.                ported food trust. There are two possible reasons for this.
+                    Respondents spoke of developments that challenged                      It may have been that the kinds of issues put to respon-
+                 their trust in the food supply. Sometimes these were                      dents for them to consider in interviews and focus groups
+                 rather abstract, like genetically modified foods, which                   guided them towards more negative rather than positive
+                 were believed to reside hidden in the food supply. Other                  issues. The tone and nature of questions, prompts and
+                 developments that were more visible and tangible,                         probes guided by the interview schedule can drive the
+                 however, raised concerns about food trust. For example,                   responses of qualitative discussions33. However, the
+                 the recent introduction of safe food handling methods in                  schedules for interviews and focus groups were carefully
+                 supermarkets and shops was often commented on. The                        worded to be as neutral as possible and not steer
+                 use of hairnets, gloves and tongs especially in the sale of               respondents to any particular direction so it is unlikely
+                 cooked or raw meat was often regarded as a source of                      that the questions were biased. A much more likely cause
+                 distrust than trust. Having been exposed to hygienic food-                of a focus on distrust is the asymmetric nature of trust,
+                 handling practices, respondents’ awareness was heigh-                     discussed earlier, which tends to emphasise a negative
+                 tened so that they took special note of poor practices. In                rather than positive experiences of trust. There was a
+                 other words, they were more likely to engage in trust                     view that trust has to be earned and could easily be lost.
+                 asymmetry by focusing on risks rather than on benefits.                      Secondly, in terms of ways of strengthening food trust,
+                                                                                           respondents discussed a range of practices that helped
+                 Social trust                                                              them gain trust in food. These included avoidance of
+                 Frewer et al.30 define social trust as people’s willingness               foods or shops which were considered suspicious or even
+                 to be confident in experts and institutions who manage                    harmful; checking and monitoring at point of purchase;
+                 risks for them. Poppe and Kjaernes31, in a six-country                    and home-based handling techniques that kept food safe,
+                 study on food trust, showed that in those countries where                 washing fruits and vegetables, etc. Sometimes this inclu-
+                 social trust is high – for example, when there is optimism                ded making meals from basic ingredients and avoiding
+
+
+
+
+https://doi.org/10.1017/S1368980007000250 Published online by Cambridge University Press
+
+===== PAGE 8 =====
+244                                                                                                                              J Coveney
+              so-called ‘processed’ foods. In some countries, consumers                    even for organisations like the National Heart Foundation
+              have increased use of organic food as a way of gaining                       that aim to reform the food supply by encouraging the
+              confidence in their food supply34. In this research,                         manufacture of healthier foods. There are implications
+              organics were not used to any great extent by respon-                        here for health claims labelling, which is being intro-
+              dents. This may be because the organic industry in                           duced in Australia soon. While reassurances on the rig-
+              Australia is less well developed than some other coun-                       orous control of health claims have been pledged35, this
+              tries. Also respondents talked about the problems in                         research suggests that health claims are likely to meet
+              identifying organic food for purchase and this made trust                    with consumer cynicism unless government endorsement
+              a difficult proposition.                                                     is clear and visible. There are also implications for front-
+                 Lastly, in terms of increasing trust in food there are                    of-packet food labelling using a traffic-light guide system,
+              some general points worth noting. There was a voiced                         which have been discussed in Australia as a mechanism to
+              need for greater authoritative presence to either endorse                    make the selection of healthier foods easier36,37. In the
+              good practice or counter market-oriented promotions.                         UK, food supply reforms that have attempted to ‘put the
+              The lack of visibility of authoritative endorsement in the                   consumer first’ have not always served to further con-
+              food marketplace made respondents in this research                           sumers interests38. It would appear from this research that
+              suspicious of adequate monitoring and surveillance of the                    South Australian consumers tend to be suspicious of any
+              food supply. There was also cynicism in both the inter-                      reforms or developments that purport to protect them
+              views and focus groups about the honesty of food                             but, in the process, diminish the presence of a depend-
+              labelling, especially in terms of health endorsements.                       able and trustworthy authority in the food system. Of
+              Rather than see some food labelling as genuine efforts to                    paramount importance is a visible government presence
+              inform the public and guide food choice, food labels                         that strengthens trust in the system and provides reas-
+              were overall considered as ploys to provide manu-                            surance to consumers.
+              facturers with a marketing edge.
+
+
+                                                                                           Acknowledgements
+              Implications of this study
+                                                                                           Sources of funding: This research was funded by The
+              As an exploratory study, this research attempted to build
+                                                                                           Flinders University Institute of Health Research (project
+              a picture of key issues of food trust for Australian con-
+                                                                                           no. 2538).
+              sumers. Other research has demonstrated that consumers’
+                                                                                              Conflict of interest declaration: None declared.
+              trust in food eaten is very dependent on specific contexts
+                                                                                              Authorship responsibilities: The author was chief
+              and local experiences31. Thus, the extent to which con-
+                                                                                           investigator and project manager and was involved in all
+              sumers in other countries may experience the degrees of
+                                                                                           stages of the study, including securing project funding,
+              (mis)trust presented here might be argued. Even within
+                                                                                           study conceptualisation and design, data collection and
+              Australia, different experiences of consumers may well
+                                                                                           analysis, and manuscript preparation.
+              temper views on food trust. South Australians in particular
+                                                                                              Acknowledgements: The author would like to thank
+              have been exposed to a number of highly publicised
+                                                                                           Ellie Rosenfeld, Stacey Masters and Tuesday Udell for their
+              cases of food poisoning and poor food practice in recent
+                                                                                           help with interviewing participants for this study, also
+              years, which were reflected in this research.
+                                                                                           Marika Tiggemann for early discussions on food and trust.
+                 While the small number of respondents recruited is
+              appropriate for an exploratory qualitative study, it does
+              place limitations on examining any differences in
+              response across gender and socio-economic groups.                            References
+              What the research provides is a broad view of partici-
+              pants’ views on trust in the food supply, substantiated by                    1 Australian Institute of Health and Welfare (AIHW). Chronic
+              in-depth interviews and focus groups. The implications                          Diseases and Associated Risk Factors in Australia, 2001.
+                                                                                              Canberra: AIHW, 2002.
+              may be summarised as follows. Firstly, trust is integral to                   2 Murcott A, ed. The Nation’s Diet: The Social Science of Food
+              food choice and negative media reports, the sources of                          Choice. London: Longman, 1998.
+              which themselves enjoy various levels of dependability,                       3 Baum F. The New Public Health: The Australian Experience.
+              can easily damage trust relationships. Moreover, the                            Melbourne: Oxford University Press, 1998.
+                                                                                            4 Lang T, Heasman M. The Food Wars, Public Health and the
+              perceived lack of visibility of trust-building mechanisms                       Battle for Mouths Minds and Markets. London: Earthscan
+              makes it difficult for consumers to develop trust and                           Publication, 2004.
+              counter negative reports. Secondly, the market-competi-                       5 Coveney J. Food security and sustainability: are we selling
+                                                                                              ourselves short? Asia Pacific Journal of Clinical Nutrition
+              tive nature of the food supply led to a general belief
+                                                                                              2000; 9: S97–100.
+              expressed in this research that stakeholders in the food                      6 Australian Competition and Consumer Commission. ACCC
+              supply are purely vested in profit-making. This was true                        watches new labelling of GM foods [online], 18 January 2002.
+
+
+
+
+https://doi.org/10.1017/S1368980007000250 Published online by Cambridge University Press
+
+===== PAGE 9 =====
+Food and trust in Australia: building a picture                                                                                      245
+                       Available at http://www.accc.gov.au/content/index.phtml/            22 Starr G, Langley A, Taylor A. Environmental Health Risk
+                       itemId/87952. Accessed 29 March 2007.                                  Perceptions in Australia: A Research Report to the enHealth
+                  7    Beers M. Haemolytic–uraemic syndrome: of sausages and                  Council. Adelaide: Centre for Population Studies in
+                       legislation. Australian New Zealand Journal of Public                  Epidemiology, South Australian Department of Human
+                       Health 1996; 20(5): 462–6.                                             Services, 2000.
+                  8    Anon. Listeria widow searches for answers. Adelaide                 23 Lupton DA. Lay discourses and beliefs related to food risks:
+                       Advertiser, 30 December 2005; 2.                                       an Australian perspective. Sociology of Health and Illness
+                  9    Prescott V, Campbell P, Moore A, Matles J, Rothenburg ME,              2005; 27(4): 448–67.
+                       Foster PS, et al. Transgenic expression of bean alpha-              24 Liamputtong P, Ezzy D. Qualitative Research Methods, 2nd
+                       amylase inhibitor in peas results in altered structure and             ed. South Melbourne: Oxford University Press, 2005.
+                       immunogenicity. Journal of Agriculture and Food Chem-               25 Mays N, Pope C. Rigour and qualitative research. British
+                       istry 2005; 53(23): 9023–30.                                           Medical Journal 1995; 311(6997): 109–12.
+                 10    Sjoberg L. Limits of knowledge and the limited importance           26 Coveney J. Food, Morals and Meaning: The Pleasure and
+                       of trust. Risk Analysis 2001; 21(1): 189–98.                           Anxiety of Eating. London: Routledge, 2006.
+                 11    Williams P, Stirling E, Keynes N. Food fears: a national            27 Fischler C. Food, self and identity. Social Science Informa-
+                       survey on the attitudes of Australian adults about the safety          tion 1988; 27(2): 275–92.
+                       and quality of food. Asia Pacific Journal of Clinical               28 Freudenburg W. Risk and recreancy: Weber, the division of
+                       Nutrition 2004; 13(1): 32–9.                                           labor, and the rationality of risk perception. Journal of
+                 12    Lang T. The complexities of globalisation: the UK as a case            Social Issues 1993; 71(4): 909–32.
+                       study of tensions within the food system and the challenge          29 Slovic P. Perceived risk, trust and democracy. Risk Analysis
+                       to food policy. Agriculture and Human Values 1999; 16(2):              1993; 13(6): 675–82.
+                       169–85.                                                             30 Frewer L, Lassen J, Kettlitz B, Scholderer J, Beekman V,
+                 13    Cade J, Calvert C, Barrett J. How could the BSE crisis affect          Berdal KG. Societal aspects of genetically modified foods.
+                       nutrient intake? Comparison of beef and non-beef eating                Food and Chemical Toxicology 2004; 42(7): 1181–93.
+                       meat eaters from the UK Women’s Cohort Study. European              31 Poppes C, Kjaernes U. Trust in Food in Europe. Oslo:
+                       Journal of Clinical Nutrition 1998; 52(5): 151–2.                      National Institute for Consumer Research, 2003.
+                 14    Lea E, Worsley A. Influences on meat consumption in                 32 Lang T. Food industrialisation and food power: implications
+                       Australia. Appetite 2001; 36(2): 127–36.                               for food governance. Development Policy Review 2003;
+                 15    Masood E. UK panel formed to rebuild trust in government               21(5–6): 555–68.
+                       science advice. Nature 1999; 397(6719): 458.                        33 Oakley A. Interviewing women – a contradiction in terms.
+                 16    Coulson NS. Source of food safety information: whom do                 In: Roberts H, ed. Doing Feminist Research. London:
+                       adolescents trust? Appetite 2002; 38(3): 199–200.                      Routledge & Kegan Paul, 1981.
+                 17    Food Commission. Cause or Compromise?: A Survey into                34 Sirieix L, Schaer B. Buying Organic Food in France:
+                       Marketing Partnerships between Food Companies and                      Shopping Habits and Trust [online], 19 December 2005.
+                       Health Charities or Medical Associations. London: The                  Available      at    http://ideas.repec.org/p/wpa/wuwpot/
+                       Food Commission, 2002.                                                 0512010.html. Accessed 30 May 2007.
+                 18    Coombes R. Public distrusts government health campaigns,            35 Food Standards Australia New Zealand (FSANZ). Nutrition,
+                       experts say. British Medical Journal 2005; 331(7508): 70.              Health and Related Claims. Canberra: FSANZ, 2005.
+                 19    Anon. Trust food labels. Adelaide Advertiser, 19 January            36 Zimmet P, James P. The unstoppable Australian obesity and
+                       2002; 51.                                                              diabetes juggernaut: What should politicians do? Medical
+                 20    Hansen J, Holm L, Frewer L, Robinson P, Sandoe P. Beyond               Journal of Australia 2006; 185(4): 187–8.
+                       the knowledge deficit: recent research into lay and expert          37 Beard T, Nowson C, Riley M. Traffic-light food labels
+                       attitudes to food risks. Appetite 2003; 41(2): 111–21.                 (letter). Medical Journal of Australia 2007; 1(1): 19.
+                 21    MacIntyre S, Reilly J, Miller D, Eldridge J, eds. Food Choice,      38 Rothstein H. Escaping the regulatory net: why regulatory
+                       Media Scares, and Health: The Role of the Media. Harlow:               reform can fail consumers. Law and Policy 2005; 27(4):
+                       Longman, 1998.                                                         520–48.
+
+
+
+
+https://doi.org/10.1017/S1368980007000250 Published online by Cambridge University Press

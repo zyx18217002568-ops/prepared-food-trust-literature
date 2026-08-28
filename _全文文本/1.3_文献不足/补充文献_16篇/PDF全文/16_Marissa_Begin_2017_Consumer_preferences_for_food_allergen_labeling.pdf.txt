@@ -1,0 +1,688 @@
+SOURCE_PDF: 1.3_文献不足/补充文献_16篇/PDF全文/16_Marissa_Begin_2017_Consumer_preferences_for_food_allergen_labeling.pdf
+EXTRACTION_STATUS: ok
+PAGES: 11
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+Marra et al.
+Allergy Asthma Clin Immunol (2017) 13:19                                       Allergy, Asthma & Clinical Immunology
+DOI 10.1186/s13223-017-0189-6
+
+
+
+
+ RESEARCH                                                                                                                                          Open Access
+
+Consumer preferences for food allergen
+labeling
+Carlo A. Marra1, Stephanie Harvard2,3, Maja Grubisic4,5, Jessica Galo6, Ann Clarke7, Susan Elliott8
+and Larry D. Lynd2,3,4*
+
+
+  Abstract
+  Background: Food allergen labeling is an important tool to reduce risk of exposure and prevent anaphylaxis for
+  individuals with food allergies. Health Canada released a Canadian food allergen labeling regulation (2008) and subse-
+  quent update (2012) suggesting that research is needed to guide further iterations of the regulation to improve food
+  allergen labeling and reduce risk of exposure.
+  Objective: The primary objective of this study was to examine consumer preferences in food labeling for allergy
+  avoidance and anaphylaxis prevention. A secondary objective was to identify whether different subgroups within the
+  consumer population emerged.
+  Methods: A discrete choice experiment using a fractional factorial design divided into ten different versions with 18
+  choice-sets per version was developed to examine consumer preferences for different attributes of food labeling.
+  Results: Three distinct subgroups of Canadian consumers with different allergen considerations and food allergen
+  labeling needs were identified. Overall, preferences for standardized precautionary and safety symbols at little or no
+  increased cost emerged.
+  Conclusion: While three distinct groups with different preferences were identified, in general the results revealed
+  that the current Canadian food allergen labeling regulation can be improved by enforcing the use of standardized
+  precautionary and safety symbols and educating the public on the use of these symbols.
+  Keywords: Immune system diseases, Hypersensitivity, Hypersensitivity, immediate, Food hypersensitivity, Public
+  health, Health planning, Health services research, Social control, Formal policy, Humans
+
+
+Background                                                                                self-report versus a requirement for symptoms compat-
+Food allergy (FA) is a public health issue gaining world-                                 ible with an IgE-mediated reaction and confirmatory
+wide attention [1–9]. While the overall prevalence of food                                testing), non-reporting of incidents, and respondent bias
+allergy has been estimated to be approximately 7%, only                                   [1, 14]. Studies suggest that food allergens are the pri-
+3–4% of adults and 5–6% of children have received a phy-                                  mary cause of anaphylaxis [15–19]. There are about 7%
+sician-confirmed food allergy diagnosis [10–12]. A meta-                                  of Canadians with food allergies—among all Canadian
+analysis published in 2007 suggested that the prevalence                                  children, 1.7% specifically have peanut allergies [14], of
+of food allergy ranges from 3 to 35%, and one Australian                                  which 90% have experienced a severe reaction [14]. A
+study suggested that more than 10% of 1 year olds had                                     number of US studies have suggested that the incidence
+a challenge-proven egg allergy [1, 13]. This wide range is                                of anaphylaxis is increasing and is perhaps as high as
+a reflection of the varying definition of food allergy (i.e.                              49.8 per 100,000 person-years [15, 20–24]. Additionally,
+                                                                                          within the last decade, US hospitalizations secondary to
+*Correspondence: larry.lynd@ubc.ca
+                                                                                          food-induced anaphylaxis increased by 350% [25]. Simi-
+4
+  Collaboration for Outcomes Research and Evaluation, Faculty                             larly, a study by Ben-Shoshan et al. has revealed that in
+of Pharmaceutical Sciences, University of British Columbia, 2405                          at least one emergency department in Quebec, Canada,
+Wesbrook Mall, Vancouver, BC V6T 1Z3, Canada
+Full list of author information is available at the end of the article
+
+                                             © The Author(s) 2017. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                             (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                             provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                             and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                             publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+===== PAGE 2 =====
+Marra et al. Allergy Asthma Clin Immunol (2017) 13:19                                                                       Page 2 of 11
+
+
+
+
+the rate of emergency department visits for anaphylaxis        DCE survey, participants are presented with an array of
+doubled over a 4 year period [26].                             choice sets representing hypothetical but realistic choice
+  There is no cure for food allergy and, thus, strict avoid-   scenarios. Each choice set is composed of different attrib-
+ance of allergenic foods is paramount in symptom pre-          utes defined by levels that are necessary for decision-
+vention [7]. Food allergen labeling is an internationally      making. Participants are asked to make trade-off choices
+recognized risk management tool and regulatory policies        among different combinations of attributes thereby
+are being developed to lower food allergen exposure risk       revealing their preferences. By understanding participant
+for individuals with food allergies [7]. In 2008, the Cana-    preferences between different levels of an attribute, the
+dian Minister of Health announced new labeling require-        relative importance of a product characteristic (in this
+ments for food allergens and intolerances contained in         study, the food label), can be determined [38–40].
+pre-packaged foods. A regulatory update was released in          A qualitative study using focus groups to identify spe-
+August 2012 noting the requirement to list all food aller-     cific attributes of allergen-related food labeling that are
+gens, gluten sources, and sulphites in the ingredient lists    most important to consumers was conducted prior to the
+or in a precautionary statement [27].                          development of the DCE questionnaire with the approval
+  Despite the increasing public health concern surround-       from the UBC BREB [41]. Eight focus groups were con-
+ing food allergies and the recent update in Canadian food      ducted with 2 sample groups of consumers: (1) families
+allergen labeling regulations, there is scarce information     with allergic member(s) (n = 26); and (2) the general
+regarding the best way to present allergen information         public (n = 24). Recruitment for the first group was
+to consumers [28]. Knowledge about consumers’ use of           completed through Food Allergy Canada (formerly Ana-
+allergen labels may inform regulatory agencies about the       phylaxis Canada), the largest anaphylaxis support group
+appropriate packaging of foods and design of food labels       in Canada. IPSOS Reid conducted recruitment for the
+to reduce risk of exposure to food allergens [29–33]. The      second group. The focus groups covered topics related
+objective of this study was to use a stated choice experi-     to perceptions of current allergen labeling, information
+ment to evaluate Canadians’ preferences for different          needs, and preferences for allergen labels. Interviews
+types of food allergen-related information on food labels,     were digitally recorded, transcribed, and analyzed. Based
+and to determine if there are differences in preferences       on the results of the qualitative study, four attributes with
+across different types of respondents.                         their respective levels were included in the DCE ques-
+                                                               tionnaire (Table 1).
+Methods                                                          Overall, there were 180 possible choice-set combina-
+Recruitment and study sample                                   tions, based on 13 levels across four attributes. To reduce
+In order to recruit a representative sample of the Cana-       the number of choice-sets that each respondent had to
+dian population, respondents were recruited by IPSOS           complete, a fractional factorial design divided into ten dif-
+Reid Canada (Vancouver, British Columbia, Canada).             ferent versions with 18 choice-sets per version was devel-
+Participants were selected from a balanced sample in           oped. The DCE included 18 choice-sets per respondent
+terms of sociodemographic variables including gender,          in which each respondent was asked to choose between
+age, income, level of education, and region within Can-        two hypothetical alternatives (Fig. 1a). Furthermore, a pic-
+ada. Subjects were derived from the IPSOS I-Say panel          ture of the label was presented with each choice set that
+of approximately 300,000 Canadian residents who have
+agreed to participate in surveys. Respondents were eli-
+                                                               Table 1 Attributes and levels included in the DCE
+gible to participate in the study if they were 19 years or
+older, currently residing in Canada, and were fluent in        Attribute                 Levels
+reading and writing in English.                                Precautionary statement   Not suitable for consumers with allergies to
+  Ethics approval was obtained from the University of                                     peanuts or tree nuts
+British Columbia Behavioural Research Ethics Board                                       May be present: peanuts and tree nuts
+                                                                                         May contain traces of peanuts and tree nuts
+(UBC BREB). Participants were required to provide                                        Contains wheat, dairy, peanuts, and tree nuts
+informed consent prior to study enrolment and were             Safety statement          Does not contain soy, eggs, fish or shellfish
+remunerated using IPSOS Reid’s points based system.                                      Safety statement not included
+                                                               Use of symbols            Precautionary symbol
+Discrete choice experiment (DCE) questionnaire design                                    Safety symbol
+                                                                                         Both precautionary and safety symbol
+The DCE, one of the most frequently employed tech-                                       No symbols used
+niques to assess consumer preferences, is based on eco-        Placement of information Package front
+nomic theory of choice behaviour and can take into                                      Next to ingredients
+account inter-linked human behaviours [34–37]. In a                                     Package front and next to ingredients
+
+===== PAGE 3 =====
+Marra et al. Allergy Asthma Clin Immunol (2017) 13:19                                                                                   Page 3 of 11
+
+
+
+
+ Fig. 1 a Example of discrete choice experiment choice-set for respondents’ preferences and b graphical representation of the label representing
+ attributes in the choice set
+
+
+
+represented the exact attributes described in the choice                    was also collected: demographic data (age, gender, prov-
+set (see Fig. 1b for example). The internal consistency of                  ince, marital status, household income, level of educa-
+individuals’ responses was evaluated by including two                       tion, number of children); allergen related data (number
+fixed-repeated choice-sets (not included in the final anal-                 of allergen affected individuals in the household, consid-
+ysis) in each 18 choice-set version. Prior to recruitment,                  eration of allergens when buying packaged foods, reasons
+the DCE was pilot tested in 100 respondents to evalu-                       for considering allergens when buying packaged foods,
+ate the clarity of the questionnaire and that the attribute                 allergens that a household must avoid, food-related ana-
+levels were consistent with the range of preferences. The                   phylactic experience by an individual or anyone in their
+final survey was designed to take respondents between 15                    household, and willingness to pay (highest amount an
+and 30 min to complete. The final version of the design                     individual was willing to pay above a $500 monthly gro-
+was checked for orthogonality, level balance, and mini-                     cery bill for the inclusion of the allergen information on
+mal overlap. In addition to the DCE, the following data                     all food packages, reasons for not wanting to pay any
+
+===== PAGE 4 =====
+Marra et al. Allergy Asthma Clin Immunol (2017) 13:19                                                              Page 4 of 11
+
+
+
+
+amount for the inclusion of the allergen information on        (SD = 16), 617 (56%) were female, 173 (16%) had at least
+food packages, and the amount an individual was willing        a university degree, and 756 (69%) reported having an
+to pay above an individual’s annual income taxes in order      annual household income of $40,000 or more (Table 2).
+to include allergen labeling on food packages).                In addition, 429 (39%) reported at least one allergic indi-
+                                                               vidual in their household, 437 (40%) consider allergens
+Statistical analysis                                           when buying food, and 132 (12%) respondents, or some-
+Participants’ baseline characteristics were described using    one in their household, had experienced an anaphylac-
+means with standard deviations for continuous variables        tic reaction to a food (Table 3). Correspondingly, 820
+and frequencies and percentages for categorical variables.     (75%) respondents reported being willing to pay for the
+Only those respondents who completed all 18 choice             inclusion of food-allergen information on all food pack-
+sets of the DCE were included in the final analyses. The       ages (Table 4). There were statistically significant differ-
+demographics of consistent and inconsistent respond-           ences between the inconsistent and consistent groups of
+ents (based on the two fixed-repeated choice-sets) were        respondents based on gender, number of allergens per
+compared to determine if there were any statistically sig-     household, number of reasons why respondents con-
+nificant differences between these two groups. For the         sider allergens when buying packaged foods, and all the
+comparison of these two groups, two-sample t tests and χ2      willingness to pay questions with the exception of not
+tests were used, with the significance level set at 5% (two-   willing to pay more on the respondents’ annual income
+tailed). To account for preference heterogeneity between       taxes in order to include allergen labeling on food pack-
+respondents, the respondents’ relative preferences for         ages. Therefore, all respondents were included in the final
+each level of each attribute were estimated using a latent     analysis, including a covariate for consistency of response
+class model (LCM). Socio-demographic, allergen, and            to account for these differences. The only covariate found
+cost variables were investigated for inclusion in the final    to be significant was group membership (consistent or
+model based on their influence on class membership.            inconsistent) thus, the inconsistent group of respondents
+Multiple models with 1–6 latent classes and with and           was excluded from the final model.
+without covariates, all with the same specification other        A LCM including explanatory variables compared to a
+than the number of classes, was evaluated. All attributes      model including only the attribute responses improved
+and covariates were effect-coded. To determine the most        the model fit. After considering the goodness of fit statis-
+appropriate covariates to include in the final model, a for-   tics, the interpretability and relative sizes of the classes, a
+ward selection method with a priori significance set at        3-class model was selected as best representing respond-
+5% was used. Selection of the best model (including the        ents’ preferences (Table 5). Most parameter values for
+number of latent classes) was made based on the Bayes-         the choice model were significant at the 5% level. Due
+ian information criteria (BIC), Akaike information cri-        to missing data on age, gender and marital status, only
+teria (AIC), and the log-likelihood function. To facilitate    985 respondents were included in the final latent class
+explaining the differences in preferences between classes,     analysis.
+the relative importance of the attributes across latent          The relative preferences and a weighted average over
+classes was examined. The relative importance represents       all classes were calculated for each attribute. Use of sym-
+the maximum effects, re-scaled to sum to 1 across attrib-      bols was the most important attribute accounting for
+utes within a latent class. All statistics were performed      43.5% of the variance explained, on average. The pres-
+
+www.sas.com) and Latent GOLD® version 4.5 (Statistical
+using SAS 9.2 (SAS Institute, Inc., Cary, NC, USA; http://     ence of a safety statement accounted for 26.4%. Place-
+                                                               ment of information and the precautionary statement
+Innovations, Inc., Belmont, MA, USA).                          accounted for 18.9 and 11.3%, respectively. The results
+                                                               indicate that class 1 respondents (with the probability of
+Results                                                        being in class 1 being the greatest, 44%) had the strong-
+Of the 1426 respondents who started the online ques-           est negative preference for no symbols used (−0.925),
+tionnaire, 1100 (77%) completed all 18 choice-sets             and their strongest positive preference was for both a
+including the two fixed-repeated choice-sets. Of the 1100      precautionary and safety symbol (0.796). Thus, the pres-
+respondents deemed eligible for the study, 108 (10%) did       ence of symbols was the most important attribute for
+not answer the fixed questions consistently and were           those in class 1 (Fig. 2). Class 2 respondents (with the
+classified as inconsistent respondents. The average time       probability of being in class 2, 38%) had even stronger
+to complete the survey was 20 min (SD = 22.6). Some            preferences for having both precautionary and safety
+respondents appeared to take a break from the survey,          symbols on the label (1.069), but the presence of the
+with 67 respondents taking over 24 h to complete the           safety statement, “Does not contain soy, eggs, fish, or
+survey. The mean age of the respondents was 46 years           shellfish” was equally preferred (1.073). Finally, the most
+
+===== PAGE 5 =====
+Marra et al. Allergy Asthma Clin Immunol (2017) 13:19                                                                                       Page 5 of 11
+
+
+
+
+Table 2 Baseline characteristics of participants
+Characteristic                                                                All                    Consistent            Inconsistent          p value
+                                                                              (N = 1100)             (N = 992)             (N = 108)
+                                                                              Na (%) or mean (SD)    Na (%) or mean (SD)   Na (%) or Mean (SD)
+
+Age                                                                           46.4 (15.6)            46.7 (15.7)           43.8 (14.0)           0.06
+Females                                                                       617 (56)               567 (57)               50 (46)              0.03
+Province                                                                                                                                         0.97
+    British Columbia, Alberta, Saskatchewan, Manitoba                         403 (37)               364 (37)               39 (36)
+    Ontario                                                                   508 (46)               457 (46)               51 (47)
+    Quebec, Atlantic Provinces, Yukon, Northwest Territories, Nunavut         189 (17)               171 (17)               18 (17)
+Education                                                                                                                                        0.21
+    Did not complete high school                                               81 (7)                 74 (7)                  7 (6)
+    Completed high school and/or some college or trade                        846 (77)               756 (76)               90 (83)
+    Completed university or professional degree                               173 (16)               162 (16)               11 (10)
+Income                                                                                                                                           0.30
+    <$4000                                                                    339 (31)               305 (31)               34 (31)
+    $40,000–$80,000                                                           405 (37)               359 (36)               46 (43)
+    >$80,000                                                                  351 (32)               323 (33)               28 (26)
+Children (yes)                                                                334 (31)               297 (30)               37 (34)              0.37
+Marital status                                                                                                                                   0.33
+    Single, widowed, divorced, separated                                      359 (33)               328 (33)               31 (29)
+    Married, domestic partnership                                             734 (67)               657 (67)               77 (71)
+Household size                                                                                                                                   0.40
+    One person                                                                166 (15)               147 (15)               19 (18)
+    Family of two                                                             365 (33)               325 (33)               40 (37)
+    Three or more family members                                              564 (52)               515 (52)               49 (45)
+SD standard deviation
+a
+    Not all respondents responded to all questions, therefore, the N varies
+
+
+
+important attribute level for class 3 respondents (with                                 presence of a safety statement and the use of symbols,
+the probability of being in class 3, 18%) was the place-                                were also most likely to consider allergens when shop-
+ment of the allergen information next to ingredients on a                               ping for food and were willing to pay an additional $10–
+food package (0.355), but overall, the preferences of class                             $50 above the $500 monthly grocery expense on food
+3 respondents did not differ across the attributes (Fig. 2).                            for the inclusion of the allergen information. They were
+Of note, those respondents who consider allergens when                                  also more likely to be older, single/widowed/divorced or
+making food purchases preferred the ‘precautionary’                                     separated, and have not completed high school. Class
+statements the least.                                                                   3 respondents, who chose placement of information as
+  Table 5 also shows that the inclusion of the covariates                               most important, were the most likely not to consider
+in the model significantly improved the model fit of the                                allergens at all when purchasing food and were not will-
+three latent class segments compared to not including                                   ing to pay any amount above a $500 monthly grocery
+any covariates. A positive and significant coefficient of                               expense on food for the inclusion of the allergen infor-
+a covariate indicates a greater tendency for respondents                                mation. They also tended to be younger, completed at
+in that class to have a particular characteristic. Seven                                least a university undergraduate degree, and live in one
+covariates were found to be significant at 0.05 signifi-                                of the Western provinces.
+cance level: age, marital status, education, province, con-                               In terms of their willingness to pay, the majority of
+sideration of allergens, number of reasons to consider                                  consistent respondents were willing to pay up to $10
+allergens, and amount willing to spend for the inclusion                                extra per month for groceries for the inclusion of aller-
+of allergen information. The respondents who identified                                 gen labels on food. Consistent respondents who were not
+the use of symbols as most important (class 1 respond-                                  willing to pay an additional cost either could not afford to
+ents) were most likely to consider allergens for only one                               pay more, thought that allergen labeling was of no value
+reason; no other covariates were significant. Class 2                                   to their household, that other groups should be responsi-
+respondents, who were most concerned about both the                                     ble for the cost, or were not willing to pay more for other
+
+===== PAGE 6 =====
+Marra et al. Allergy Asthma Clin Immunol (2017) 13:19                                                                    Page 6 of 11
+
+
+
+
+Table 3 Participant experience with food allergens
+Variables                                                      All                    Consistent         Inconsistent        p value
+                                                               (N = 1100)             (N = 992)          (N = 108)
+                                                               N (%)                  N (%)              N (%)
+
+Have you or has anyone in your household experienced an ana-   132 (12)               123 (12)            9 (8)              0.22
+ phylactic reaction to a food (yes)
+Do you consider allergens when buying food (yes)               437 (40)               402 (41)           35 (32)             0.10
+Number of allergens per household                                                                                            0.004
+ No allergens                                                  671 (61)               596 (60)           75 (69)
+ One allergen                                                  230 (21)               204 (21)           26 (24)
+ Two or more allergens                                         199 (18)               192 (19)            7 (6)
+Allergen(s) households if any must avoid
+ N/A                                                           671 (61)               596 (60)           75 (69)
+ Peanuts                                                       171 (16)               157 (16)           14 (13)
+ Tree nuts                                                      90 (8)                 85 (9)             5 (5)
+ Milk                                                           99 (9)                 95 (10)            4 (4)
+ Egg                                                            45 (4)                 44 (4)             1 (1)
+ Fish                                                           35 (3)                 34 (3)             1 (1)
+ Shellfish                                                      95 (9)                 94 (9)             1 (1)
+ Soy                                                            16 (1)                 15 (2)             1 (1)
+ Wheat                                                          67 (6)                 61 (6)             6 (6)
+ Sesame seeds                                                   20 (2)                 19 (2)             1 (1)
+ Other                                                          95 (9)                 87 (9)             8 (7)
+Number of reasons why respondents consider allergens when                                                                    0.02
+ buying packaged foods
+ Do not consider allergens                                     608 (55)               535 (54)           73 (68)
+ One reason                                                    347 (32)               321 (32)           26 (24)
+ Two or more reasons                                           145 (13)               136 (14)            9 (8)
+Reasons why respondents consider allergens when buying packaged foods
+ N/A                                                           608 (55)               535 (54)           73 (68)
+ I have a food allergy                                         156 (14)               143 (14)           13 (12)
+ One or more of my children has a food allergy                  82 (7)                 75 (8)             7 (6)
+ My spouse or partner has a food allergy                        72 (7)                 63 (6)             9 (8)
+ Another member of my household has a food allergy              55 (5)                 53 (5)             2 (2)
+ A friend who visits my home has a food allergy                112 (10)               105 (11)            7 (6)
+ My child’s school has allergen restrictions                   136 (12)               129 (13)            7 (6)
+ My workplace has allergen restrictions                         44 (4)                 43 (4)             1 (1)
+ Other                                                          47 (4)                 46 (5)             1 (1)
+
+
+
+unknown reasons. The respondents’ characteristics asso-                   their income potential but rather their allergen labeling
+ciated with their cost preferences become apparent in the                 needs.
+LCM analysis. Class 2 respondents were willing to pay
+$10–$50 more for their monthly groceries for the inclu-                   Discussion
+sion of allergen labels on food even though their income                  This is the first study in Canada to examine consumer
+potential, as evidenced by their education level, may be                  preferences regarding food allergen labeling of pre-
+lower. Conversely, class 3 respondents reported a higher                  packaged foods using a DCE, one of the most effective
+income but were not willing to pay any additional cost                    methodological techniques, consistent with economic
+for the inclusion of allergen food labels. This group did                 theory. The DCE and LCM account for the heterogeneity
+not have a need for allergen labels. It would seem that an                of food labeling preferences among Canadian respond-
+individual’s willingness to pay an additional cost for the                ents thereby reducing the potential for bias and loss of
+inclusion of food allergen labels is not determined by                    information related to food labeling regulatory practices.
+
+===== PAGE 7 =====
+Marra et al. Allergy Asthma Clin Immunol (2017) 13:19                                                                               Page 7 of 11
+
+
+
+
+Table 4 Summary of the cost questions
+Cost questions                                                                       All             Consistent      Inconsistent       p value
+                                                                                     (N = 1100)      (N = 992)       (N = 108)
+                                                                                     N (%)           N (%)           N (%)
+
+Above an average of $500 per month spent on food, what is the most                                                                      0.0109
+ you would be willing to pay every month for the inclusion of the allergen
+ information on all food packages?
+ $0                                                                                   280 (25)        247 (25)        33 (31)
+ Between $0 and $10                                                                   424 (39)        393 (40)        31 (28)
+ Between $10 and $50                                                                  236 (21)        217 (22)        19 (17)
+ More than $50                                                                        160 (15)        135 (14)        25 (23)
+You specified that you are willing to pay $0 for the inclusion of the allergen                                                          0.017
+  information on food packages—what is the reason?
+ The food allergen labeling is of no value to me or my family                          88 (31)         71 (29)        17 (50)
+ I cannot afford to pay more                                                           63 (23)         54 (22)         9 (26)
+ The government or another group in society should pay for it                          57 (20)         54 (22)         3 (9)
+ Other                                                                                 72 (26)         68 (28)         4 (12)
+Are you willing to pay more on your annual income taxes in order to include
+  allergen labeling on food packages?
+ No                                                                                   871 (79)        787 (79)        84 (78)           0.71
+ Yes                                                                                  229 (21)        205 (21)        24 (22)
+    $0                                                                                 11 (5)           8 (3)          3 (13)           0.03
+    Between $0 and $10                                                                 67 (29)         56 (27)        11 (46)
+    Between $10 and $50                                                                84 (37)         80 (39)         4 (17)
+    More than $50                                                                      67 (29)         61 (30)         6 (25)
+
+
+
+Overall, the majority of respondents prefer some type                            food allergen labeling. Although this is the first study that
+of allergen labeling. The use of symbols was the most                            looked at consumer food allergen labeling preferences
+important food allergen-labeling attribute for those in                          using the DCE, our results are consistent with qualitative
+class 1 (44%) and the use of symbols and a safety state-                         studies investigating similar allergen labeling questions
+ment were equally important to those in class 2 (38%) of                         [28, 29]. In some qualitative studies, participants were
+respondents, with respondents in both classes preferring                         interviewed and observed during the course of grocery
+both precautionary and safety symbols. Those in class 3                          shopping. For instance, in an Ontario study, Chow et al.
+(18%) were essentially indifferent to allergen labeling.                         found that parents of children with food allergies trusted
+  Overall, the second most important food allergen                               products with allergen symbols and found them easily
+labeling attribute identified was the use of the safety                          understandable [28]. Similarly, Cornelisse-Vermaat et al.
+statement “does not contain soy, eggs, fish or shellfish”.                       reported that parents preferred labels with both allergen
+Placement of information and the use of precautionary                            symbols and textual allergen information [29]. Perhaps,
+statements were the third and fourth most important                              similar to nutrition labeling studies, symbol use in aller-
+attributes. The use of precautionary statements, such                            gen labeling is favoured because it is requires less infor-
+as “may contain traces of peanuts” may be preferred                              mation processing [29, 40, 43, 44].
+the least due to the ambiguity of the statement and the                            The results of the DCE suggest that consumers’ prefer-
+necessity of consumers to use their discretion in choos-                         ences for allergen labels on foods varied widely. A 3-class
+ing or avoiding these products. Different precautionary                          model appeared to best fit our data and the class mem-
+expressions may be confusing and the level of allergic risk                      berships were associated with seven measurable sociode-
+associated with each expression may be deemed unas-                              mographic factors. Class 1 individuals, accounting for
+certainable [30, 31]. Additionally, these statements may                         44% of respondents, predominantly reported consider-
+be viewed as causing unnecessary diet restrictions as                            ing allergens when buying food due to one unspecified
+opposed to providing informed food choices [28, 29, 31,                          reason which presumably was associated with some-
+42].                                                                             one in their household having a food allergy. This group
+  We are not aware of any other quantitative studies that                        preferred the use of both precautionary and safety sym-
+have specifically evaluated consumers preferences for                            bols on food allergen labels. Respondents who preferred
+
+===== PAGE 8 =====
+Marra et al. Allergy Asthma Clin Immunol (2017) 13:19                                                                 Page 8 of 11
+
+
+
+
+Table 5 Preferences for each level of each attribute based on the latent class analysis
+Attribute                                                                  Class 1            Class 2             Class 3
+                                                                           Mean (SE)          Mean (SE)           Mean (SE)
+
+Class probabilities                                                        0.44 (0.0246)          0.38 (0.0241)      0.18 (0.0152)
+Precautionary statement
+    Not suitable for consumers with allergies to peanuts or tree nuts      0.162† (0.0453)      0.252† (0.0964)   −0.0078 (0.0612)
+                                                                                     †
+    May be present: peanuts and tree nuts                                  −0.116 (0.0396)    −0.109* (0.0736)     0.294† (0.0614)
+    May contain traces of peanuts and tree nuts                            0.040 (0.0398)     −0.0042 (0.0753)    −0.032 (0.0572)
+    Manufactured in a facility that also processes peanuts and tree nuts   0.119† (0.0447)    −0.0057 (0.0799)    −0.136† (0.0659)
+    Contains wheat, dairy, peanuts and tree nuts                           −0.205† (0.0419)   −0.133* (0.0843)    −0.119† (0.0572)
+Safety statement
+    Does not contain soy, eggs, fish, or shellfish                         0.220† (0.0394)      1.073† (0.0653)   −0.318† (0.0497)
+    Not included                                                           −0.220† (0.0394)   −1.073† (0.0653)     0.318† (0.0497)
+Use of symbols
+    Precautionary symbol                                                   0.433† (0.0502)       0.094 (0.0959)    0.268† (0.0625)
+                                                                                     †
+    Safety symbol                                                          −0.305 (0.0544)     −0.084 (0.1032)    −0.071 (0.0749)
+    Both precautionary and safety symbol                                   0.796† (0.0608)      1.069† (0.1316)   −0.285† (0.0823)
+    No symbols used                                                        −0.925† (0.0594)   −1.078† (0.0861)     0.088* (0.0691)
+Placement of information
+    Package front                                                          −0.054‡ (0.0299)   −0.227† (0.0486)    −0.269† (0.0413)
+                                                                                     †               †
+    Next to ingredients                                                    −0.296 (0.0352)    −0.234 (0.0602)      0.355† (0.0421)
+                                                                                 †                   †
+    Package front and next to ingredients                                  0.350 (0.0318)       0.461 (0.0621)    −0.086† (0.0406)
+Covariate parameter estimates
+Intercept                                                                  0.502† (0.1968)    −0.780† (0.2105)     0.278* (0.2254)
+Age                                                                        −0.0025 (0.0037)    0.0225† (0.0038)   −0.020† (0.0045)
+Marital status
+    Single, widowed, divorced, separated                                   −0.058 (0.0579)      0.130† (0.0599)   −0.072* (0.0679)
+    Married, domestic partnership                                          0.058 (0.0579)     −0.130† (0.0599)     0.072* (0.0679)
+Education
+    Did not complete high school                                           −0.091 (0.1482)      0.309† (0.1390)   −0.218* (0.1759)
+    Completed high school and/or some college or trade                     0.058 (0.0901)       0.112* (0.0894)   −0.169* (0.1054)
+    Completed university or professional degree                            0.033 (0.1120)     −0.420† (0.1199)     0.388† (0.1248)
+Province
+    BC, AB, SA, MA                                                         −0.064 (0.0758)    −0.138‡ (0.0793)     0.202† (0.0869)
+    Ontario                                                                0.083* (0.0734)     −0.017 (0.0759)    −0.066 (0.0879)
+    Quebec, Atlantic Provinces, Yukon, Northwest Territories, Nunavut      −0.019 (0.0937)      0.155* (0.0966)   −0.136* (0.1117)
+Number of reasons to consider allergens
+    No reasons                                                             −0.158* (0.0993)      0.091 (0.1071)     0.067 (0.1191)
+    One reason                                                             0.232† (0.0959)    −0.216† (0.1059)    −0.016 (0.1206)
+    Two or more reasons                                                    −0.074 (0.1026)      0.125* (0.1019)   −0.051 (0.1295)
+Do you consider allergens
+    Yes                                                                    −0.066 (0.0745)      0.233† (0.0790)   −0.167† (0.0893)
+    No                                                                     0.066 (0.0745)     −0.233† (0.0790)     0.167† (0.0893)
+Cost above $500 for groceries
+    $0                                                                     −0.067 (0.0932)    −0.243† (0.0984)     0.309† (0.1033)
+    Less than $10                                                          0.027 (0.0824)      −0.064 (0.0848)      0.037 (0.0985)
+    Between $10 and $50                                                    0.062 (0.1033)       0.223† (0.1030)   −0.285† (0.1315)
+    More than $50                                                          −0.023 (0.1201)       0.084 (0.1184)   −0.061 (0.1449)
+    Log-likelihood                                                         −7538.16
+    No. of individuals                                                     985
+    No. of observations                                                    15,760
+
+SE standard error
+†
+    p value <0.05; ‡ p value <0.10; * p value <0.15
+
+===== PAGE 9 =====
+Marra et al. Allergy Asthma Clin Immunol (2017) 13:19                                                                 Page 9 of 11
+
+
+
+
+                                                                        A 2011 Canadian study found that consumers do not
+                                                                      trust Canadian food allergen labels rendering them
+                                                                      largely ineffective [28]. The updated Canadian food
+                                                                      allergen labeling regulation, released in August 2012,
+                                                                      addressed the need to standardize the location of aller-
+                                                                      gen information on food labels as well as the need for
+                                                                      specificity of allergen sources [27]. Our research sug-
+                                                                      gests that the regulation has a number of outstanding
+                                                                      issues to address. First, consumers preferred the use of
+                                                                      symbols on labels; however, the current Canadian regu-
+                                                                      lation does not enforce the use of any symbols on aller-
+                                                                      gen labels [27]. These symbols need to be standardized
+                                                                      and the public educated about their significance. Sec-
+                                                                      ond, consumers who consider allergens preferred the use
+                                                                      of precautionary statements the least. While we did not
+                                                                      specifically explore the reasons for choosing one format
+                                                                      over another, previous studies suggest that these state-
+                                                                      ments provide no definite allergen content information
+ Fig. 2 Relative importance of attributes by class. The preference
+ weights of maximum effect of each attribute are rescaled such that   apart from cross-contamination thereby limiting food
+ they sum to one across all attributes for each latent class          choices of consumers [28, 29, 31, 42, 45]. This limitation
+                                                                      causes consumers to take on more risk and rely on prod-
+                                                                      uct or brand experience as opposed to allergen labels in
+the use of safety statements and both precautionary and               decision making [28, 29, 45]. Additionally, the terminol-
+safety symbols accounted for 38% of respondents and fell              ogy within precautionary statements is currently not
+in the class 2 group. On average, these individuals were              standardized across manufacturers leaving consumers
+older, not in a partnership, had not completed high school            confused [29, 30, 45].
+or post-secondary education, and considered allergens                   As with any questionnaire-based research, there are
+for more than one unspecified reasons. It is possible that            several limitations. Firstly, while the questionnaire was
+these individuals live or work in a care facility or work in          only administered in English, we do not anticipate that
+a service industry where food allergen vigilance is typi-             this would have biased the results in any way. It is also
+cally high. Class 3, accounting for 18% of respondents,               important to consider that the responses are based on
+had the highest education levels of the three classes. This           a stated choice experiment and not on actual choices.
+class did not consider allergens when buying foods, which             However, the results provide a valid evaluation of relative
+could also explain why this group was not willing to pay              preferences for each labeling attribute, which may direct
+anything for the inclusion of allergen information and that           allergen-labeling regulations towards a standardized
+there was really no difference in the relative importance             and accepted food allergen label. Additionally, respond-
+of each attribute versus classes 1 and 2 who likely had a             ents were recruited through an IPSOS panel and only
+specific need for food allergen information.                          included respondents who had computer access. While
+  The inclusion of food allergen information could                    this could result in a selection bias of respondents, we
+result in increased costs to the food industry which                  feel that these preferences do reflect the preferences of
+would then presumably be passed on to the consumer,                   the average Canadian household.
+thus it was important to not only evaluate Canadians’                   While it is never possible to know if respondents com-
+preferences for labeling but also their willingness to pay.           pletely understood the task or questions, the results do
+Our results showed, as one might expect, that those                   provide an assessment based on their face validity, e.g.
+without a specific need for food allergen labeling (i.e.              those with a need for allergen avoidance had stronger
+class 3 respondents) were not willing to pay more for                 preferences. Furthermore, we incorporated two fixed
+food to have specific allergen labeling on foods. How-                repeated choice questions in the final version of the sur-
+ever, the majority of consistent respondents were will-               vey which showed that approximately 10% of respond-
+ing to pay $0–$10 for the inclusion of allergen labels on             ents were considered inconsistent and were deemed
+food and it appears that an individual’s willingness to               to not have made meaningful choices. Data from these
+pay an additional cost for the inclusion of food allergen             respondents were therefore excluded from analysis,
+labels is not determined by their income but rather their             contributing to the validity of the final results. Finally,
+allergen needs.                                                       our results are also in agreement with earlier qualitative
+
+===== PAGE 10 =====
+Marra et al. Allergy Asthma Clin Immunol (2017) 13:19                                                                                                  Page 10 of 11
+
+
+
+
+findings, which supported the theoretical validity of our                          Author details
+                                                                                   1
+                                                                                     School of Pharmacy, Otago University, Dunedin, New Zealand. 2 School
+DCE methodology.                                                                   of Population and Public Health, Faculty of Medicine, University of British
+  Labeling is the most important risk management tool                              Columbia, Vancouver, BC, Canada. 3 Centre for Health Evaluation and Outcome
+in reducing exposure to allergens. Studies have shown                              Sciences, Providence Health Care Research Institute, Vancouver, BC, Canada.
+                                                                                   4
+                                                                                     Collaboration for Outcomes Research and Evaluation, Faculty of Pharmaceu-
+that the current labeling system is insufficient in prevent-                       tical Sciences, University of British Columbia, 2405 Wesbrook Mall, Vancouver,
+ing allergen exposure [28, 29, 41]. Labels that are ambig-                         BC V6T 1Z3, Canada. 5 Present Address: BC Centre for Improved Cardiovascular
+uous and confusing have led to decreased consumer                                  Health, Vancouver, BC, Canada. 6 Population Data BC, Vancouver, BC, Canada.
+                                                                                   7
+                                                                                     Cumming School of Medicine, University of Calgary, Calgary, AB, Canada.
+confidence in allergen labeling and increased risk expo-                           8
+                                                                                     School of Public Health and Health Systems, University of Waterloo, Waterloo,
+sure. Our results suggest that labels need to be standard-                         ON, Canada.
+ized and intuitive to make them easily understandable
+                                                                                   Acknowledgements
+by the broader public. A more definite allergen content                            Keith Leinweber for artistic contribution.
+statement is preferred as well as the use of symbols to
+communicate allergen information. Further studies are                              Competing interests
+                                                                                   The authors declare that they have no competing interests.
+required to determine reasons behind the consumers’
+stated preferences and to compare these stated prefer-                             Availability of data
+ences with actual decisions. The current iteration of the                          Please contact author for data requests.
+Canadian regulation addressed the need for allergen con-                           Ethics approval and consent to participate
+tent specificity on the labels however the results of this                         Ethics approval was obtained from the University of British Columbia Behav-
+study identify additional changes that will make Cana-                             ioural Research Ethics Board (UBC BREB—Ethics Certificate H09-00627). Par-
+                                                                                   ticipants were required to provide informed consent prior to study enrolment
+dian allergen food labels more effective according to                              and were remunerated using IPSOS Reid’s points based system.
+stated consumer preferences.
+                                                                                   Funding
+                                                                                   Supported by grants from AllerGen NCE Inc. (Allergy, Genes, and Environment
+Key messages                                                                       Network, a national research network funded by Industry Canada through the
+ ••  Canadian consumers’ food allergen vigilance, labeling                         Networks of Centres of Excellence Program). AllerGen NCE Inc. did not have
+     preferences, and willingness to spend on improved                             any role in the study design or data collection, analysis, interpretation of the
+                                                                                   results, or the writing of the manuscript.
+     labeling were investigated.
+ ••  Three distinct classes of consumers emerged with                              Received: 8 December 2016 Accepted: 22 February 2017
+     different need and preferences for food labeling.
+ ••  Canadian consumers identified preferences for (1)
+     standardized precautionary and safety statements
+     and symbols; (2) the use of symbols more than state-
+                                                                                   References
+     ments; (3) little or no increase in cost for improved                         1. Rona RJ, Keil T, Summers C, Gislason D, Zuidmeer L, Sodergren E, Sigurdar-
+     food allergen labeling.                                                           dottir ST, Lindner T, Goldhahn K, Dahlstrom J, et al. The prevalence of food
+ ••  While the majority of respondents had strong pref-                                allergy: a meta-analysis. J Allergy Clin Immunol. 2007;120:638–46.
+                                                                                   2. Anandan C, Sheikh A. European developments in labelling allergenic
+     erences for safety statements and use of symbols, a                               foods. BMJ. 2005;331:1155–6.
+     small proportion of respondents appeared to be                                3. Sampson HA. Update on food allergy. J Allergy Clin Immunol.
+     indifferent to food allergen labelling and were no                                2004;113:805–19 (quiz 820).
+                                                                                   4. Grundy J, Matthews S, Bateman B, Dean T, Arshad SH. Rising prevalence
+     likely to consider allergens when buying foods.                                   of allergy to peanut in children: data from 2 sequential cohorts. J Allergy
+                                                                                       Clin Immunol. 2002;110:784–9.
+Capsule summary                                                                    5. Sicherer SH, Munoz-Furlong A, Sampson HA. Prevalence of peanut and
+                                                                                       tree nut allergy in the United States determined by means of a random
+Canadian food allergen labeling regulations can be                                     digit dial telephone survey: a 5-year follow-up study. J Allergy Clin Immu-
+improved to reduce food allergen exposure risk by stand-                               nol. 2003;112:1203–7.
+ardizing the precautionary and safety labeling and relying                         6. Sicherer SH, Munoz-Furlong A, Burks AW, Sampson HA. Prevalence of
+                                                                                       peanut and tree nut allergy in the US determined by a random digit dial
+more on symbols than statements.                                                       telephone survey. J Allergy Clin Immunol. 1999;103:559–62.
+                                                                                   7. Gendel SM. The regulatory challenge of food allergens. J Agric Food
+                                                                                       Chem. 2013;61:5634–7.
+Abbreviations                                                                      8. O’Hara NN, Roy L, O’Hara LM, Spiegel JM, Lynd LD, FitzGerald JM, Yassi A,
+FA: food allergy; DCE: discrete choice experiment; BREB: behavioural research          Nophale LE, Marra CA. Healthcare worker preferences for active tubercu-
+ethics board; LCM: latent class model; BIC: Bayesian information criteria; AIC:        losis case finding programs in South Africa: a best–worst scaling choice
+Akaike information criteria.                                                           experiment. PLoS ONE. 2015;10:e0133304.
+                                                                                   9. Guo N, Marra CA, FitzGerald JM, Elwood RK, Anis AH, Marra F. Patient pref-
+Authors’ contributions                                                                 erence for latent tuberculosis infection preventive treatment: a discrete
+All of the authors have contributed sufficiently to the conception, design, data       choice experiment. Value Health. 2011;14:937–43.
+collection, analysis and write-up to be included as authors on this manuscript     10. Soller L, Ben-Shoshan M, Harrington DW, Fragapane J, Joseph L, St Pierre
+as per the rules of the International Committee of Medical Journal Editors. All        Y, Godefroy SB, La Vieille S, Elliott SJ, Clarke AE. Overall prevalence of self-
+authors read and approved the final manuscript.                                        reported food allergy in Canada. J Allergy Clin Immunol. 2012;130:986–8.
+
+===== PAGE 11 =====
+Marra et al. Allergy Asthma Clin Immunol (2017) 13:19                                                                                                    Page 11 of 11
+
+
+
+
+11. Venter C, Pereira B, Voigt K, Grundy J, Clayton CB, Higgins B, Arshad SH,          35. Lancsar E, Louviere J, Flynn T. Several methods to investigate rela-
+    Dean T. Prevalence and cumulative incidence of food hypersensitivity in                tive attribute impact in stated preference experiments. Soc Sci Med.
+    the first 3 years of life. Allergy. 2008;63:354–9.                                     2007;64:1738–53.
+12. Zuberbier T, Edenharter G, Worm M, Ehlers I, Reimann S, Hantke T, Roehr            36. Lancsar E, Louviere J. Conducting discrete choice experiments to inform
+    CC, Bergmann KE, Niggemann B. Prevalence of adverse reactions to food                  healthcare decision making: a user’s guide. Pharmacoeconomics.
+    in Germany—a population study. Allergy. 2004;59:338–45.                                2008;26:661–77.
+13. Allen KJ, Koplin JJ. Why does Australia appear to have the highest rates of        37. Lagarde M, Blaauw D. A review of the application and contribution of
+    food allergy? Pediatr Clin N Am. 2015;62:1441–51.                                      discrete choice experiments to inform human resources policy interven-
+14. Ben-Shoshan M, Harrington DW, Soller L, Fragapane J, Joseph L, St Pierre               tions. Hum Resour Health. 2009;7:62.
+    Y, Godefroy SB, Elliott SJ, Clarke AE. A population-based study on peanut,         38. Guimaraes C, Marra CA, Gill S, Simpson S, Meneilly G, Queiroz RH, Lynd
+    tree nut, fish, shellfish, and sesame allergy prevalence in Canada. J Allergy          LD. A discrete choice experiment evaluation of patients’ preferences for
+    Clin Immunol. 2010;125:1327–35.                                                        different risk, benefit, and delivery attributes of insulin therapy for diabe-
+15. Decker WW, Campbell RL, Manivannan V, Luke A, St Sauver JL, Weaver A,                  tes management. Patient Prefer Adherence. 2011;4:433–40.
+    Bellolio MF, Bergstralh EJ, Stead LG, Li JT. The etiology and incidence of         39. Laba TL, Brien JA, Fransen M, Jan S. Patient preferences for adherence to
+    anaphylaxis in Rochester, Minnesota: a report from the Rochester Epide-                treatment for osteoarthritis: the MEdication Decisions in Osteoarthritis
+    miology Project. J Allergy Clin Immunol. 2008;122:1161–5.                              Study (MEDOS). BMC Musculoskelet Disord. 2013;14:160.
+16. Simon MR, Mulla ZD. A population-based epidemiologic analysis of                   40. Hoefkens C, Veettil PC, Van Huylenbroeck G, Van Camp J, Verbeke W. What
+    deaths from anaphylaxis in Florida. Allergy. 2008;63:1077–83.                          nutrition label to use in a catering environment? A discrete choice experi-
+17. Pumphrey R. Anaphylaxis: can we tell who is at risk of a fatal reaction?               ment. Food Policy. 2012;37:741–50.
+    Curr Opin Allergy Clin Immunol. 2004;4:285–90.                                     41. Brown KM, Fenton NE, Lynd LD, Marra CA, FitzGerald JM, Harvard SS,
+18. Liew WK, Williamson E, Tang ML. Anaphylaxis fatalities and admissions in               Rosenthal M, Chow BYL, Clarke AE, Elliott SJ. Canadian policy on food
+    Australia. J Allergy Clin Immunol. 2009;123:434–42.                                    allergen labelling: consumers’ perspectives regarding unment needs.
+19. Piromrat K, Chinratanapisit S, Trathong S. Anaphylaxis in an emergency                 Univers J Public Health. 2015;3:41–8.
+    department: a 2-year study in a tertiary-care hospital. Asian Pac J Allergy        42. Gupta RS, Springston EE, Kim JS, Smith B, Pongracic JA, Wang X, Holl J.
+    Immunol. 2008;26:121–8.                                                                Food allergy knowledge, attitudes, and beliefs of primary care physicians.
+20. Yocum MW, Khan DA. Assessment of patients who have experienced                         Pediatrics. 2010;125:126–32.
+    anaphylaxis: a 3-year survey. Mayo Clin Proc. 1994;69:16–23.                       43. Campos S, Doxey J, Hammond D. Nutrition labels on pre-packaged foods:
+21. Yocum MW, Butterfield JH, Klein JS, Volcheck GW, Schroeder DR, Silver-                 a systematic review. Public Health Nutr. 2011;14:1496–506.
+    stein MD. Epidemiology of anaphylaxis in Olmsted County: a population-             44. Feunekes GI, Gortemaker IA, Willems AA, Lion R, van den Kommer M.
+    based study. J Allergy Clin Immunol. 1999;104:452–6.                                   Front-of-pack nutrition labelling: testing effectiveness of different nutri-
+22. Sheikh A, Alves B. Hospital admissions for acute anaphylaxis: time trend               tion labelling formats front-of-pack in four European countries. Appetite.
+    study. BMJ. 2000;320:1441.                                                             2008;50:57–70.
+23. Lin RY, Anderson AS, Shah SN, Nurruzzaman F. Increasing anaphylaxis                45. Barnett J, Muncer K, Leftwich J, Shepherd R, Raats MM, Gowland MH,
+    hospitalizations in the first 2 decades of life: New York State, 1990–2006.            Grimshaw K, Lucas JS. Using ‘may contain’ labelling to inform food
+    Ann Allergy Asthma Immunol. 2008;101:387–93.                                           choice: a qualitative study of nut allergic consumers. BMC Public Health.
+24. Calvani M, Di Lallo D, Polo A, Spinelli A, Zappala D, Zicari AM. Hospi-                2011;11:734.
+    talizations for pediatric anaphylaxis. Int J Immunopathol Pharmacol.
+    2008;21:977–83.
+25. Branum AM, Lukacs SL. Food allergy among children in the United States.
+    Pediatrics. 2009;124:1549–55.
+26. Hochstadter E, Clarke A, De Schryver S, LaVieille S, Alizadehfar R, Joseph
+    L, Eisman H, Ben-Shoshan M. Increasing visits for anaphylaxis and the
+    benefits of early epinephrine administration: a 4-year study at a pediatric
+    emergency department in Montreal, Canada. J Allergy Clin Immunol.
+    2016;137(1888–1890):e1884.
+27. Canadian Food Inspection Agency. Food allergies and allergen labelling.
+    2016. Government of Canada website, http://www.inspection.gc.ca/
+    food/labelling/core-requirements/ingredients/allergen-labelling/eng/13
+    32352596437/1332352683099. Accessed 23 Feb 2017.
+28. Chow YLB. Everybody else got to have this cookie: the effects of food
+    allergen labels on the well-being of Canadians (Masters thesis, McMaster
+    University, Hamilton, ON). 2011. http://hdl.handle.net/11375/11078.
+29. Cornelisse-Vermaat JR, Voordouw J, Yiakoumaki V, Theodoridis G, Frewer
+    LJ. Food-allergic consumers’ labelling preferences: a cross-cultural com-
+    parison. Eur J Public Health. 2008;18:115–20.
+30. Turner PJ, Kemp AS, Campbell DE. Advisory food labels: consumers with                  Submit your next manuscript to BioMed Central
+    allergies need more than “traces” of information. BMJ. 2011;343:d6180.
+31. Noimark L, Gardner J, Warner JO. Parents’ attitudes when purchasing                    and we will help you at every step:
+    products for children with nut allergy: a UK perspective. Pediatr Allergy                • We accept pre-submission inquiries
+    Immunol. 2009;20:500–4.
+32. Sheth SS, Waserman S, Kagan R, Alizadehfar R, Primeau MN, Elliot S, St                   • Our selector tool helps you to find the most relevant journal
+    Pierre Y, Wickett R, Joseph L, Harada L, et al. Role of food labels in acciden-          • We provide round the clock customer support
+    tal exposures in food-allergic individuals in Canada. Ann Allergy Asthma                 • Convenient online submission
+    Immunol. 2010;104:60–5.
+33. Ben-Shoshan M, Sheth S, Harrington D, Soller L, Fragapane J, Joseph L,                   • Thorough peer review
+    St Pierre Y, La Vieille S, Elliott S, Waserman S, et al. Effect of precautionary         • Inclusion in PubMed and all major indexing services
+    statements on the purchasing practices of Canadians directly and indi-                   • Maximum visibility for your research
+    rectly affected by food allergies. J Allergy Clin Immunol. 2012;129:1401–4.
+34. Louviere J, Flynn T. Discrete choice experiments are not conjoint analysis.              Submit your manuscript at
+    Choice Model. 2010;3:57–72.                                                              www.biomedcentral.com/submit

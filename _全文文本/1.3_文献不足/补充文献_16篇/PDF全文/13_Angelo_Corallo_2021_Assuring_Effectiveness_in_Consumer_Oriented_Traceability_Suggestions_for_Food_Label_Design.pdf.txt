@@ -1,0 +1,1282 @@
+SOURCE_PDF: 1.3_文献不足/补充文献_16篇/PDF全文/13_Angelo_Corallo_2021_Assuring_Effectiveness_in_Consumer_Oriented_Traceability_Suggestions_for_Food_Label_Design.pdf
+EXTRACTION_STATUS: ok
+PAGES: 17
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+agronomy
+Review
+Assuring Effectiveness in Consumer-Oriented Traceability;
+Suggestions for Food Label Design
+Angelo Corallo              , Maria Elena Latino * , Marta Menegoli                  and Roberta Pizzi
+
+                                          Innovation Engineering Department, University of Salento, 73100 Lecce, Italy; angelo.corallo@unisalento.it (A.C.);
+                                          marta.menegoli@unisalento.it (M.M.); roberta.pizzi@unisalento.it (R.P.)
+                                          * Correspondence: mariaelena.latino@unisalento.it
+
+                                          Abstract: Traceability is an important tool used by food companies and regulators in assuring food
+                                          safety and quality, especially when consumers’ needs for food information transparency are the
+                                          driver. Consumers consult the label to find out more details about a food product and, although
+                                          many factors influence their perceptions and purchasing acts, the label remains the primary means
+                                          of communicating food information affecting consumer choice. Therefore, it represents the final
+                                          step in a consumer-oriented traceability path. It follows that a suitable label design can improve the
+                                          food traceability process and reduce the information asymmetry between producer and consumer.
+                                          According to this view, this paper aimed to identify suggestions about food label design, in order
+                                          to create a support framework for food companies in food information communication increasing
+                                          label readability, customer satisfaction, and the effectiveness of traceability. A systematic literature
+         
+                                   review method with content analysis was chosen to conduct the study. Eleven specific suggestions
+Citation: Corallo, A.; Latino, M.E.;      from food labeling design theories were recognized. The novelty of the present study consisted in
+Menegoli, M.; Pizzi, R. Assuring          mapping the food label design field, synthesizing the current knowledge, and providing a support
+Effectiveness in Consumer-Oriented        framework for food companies that would increase the readability of food labeling and enhance
+Traceability; Suggestions for Food        customer satisfaction through a well-proposed food information communication in line with the
+Label Design. Agronomy 2021, 11, 613.     “farm to fork” strategy.
+https://doi.org/10.3390/agronomy
+11040613                                  Keywords: traceability information; food labeling; food label design; food label theory; package;
+                                          food choice
+Academic Editors: Alfonso Albacete,
+Rosa Maria Fanelli, Santiago
+Pereira-Lorenzo and Ana María
+Ramos Cabrer                              1. Introduction
+                                               Currently, consumer awareness of information about food quality and safety is driving
+Received: 22 January 2021
+Accepted: 18 March 2021
+                                          research towards developing various methodologies to support food companies in imple-
+Published: 24 March 2021
+                                          menting transparency-based procedures such as certifications, traceability, and audit [1].
+                                          In particular, traceability and transparency in the food industry and agribusiness address
+Publisher’s Note: MDPI stays neutral
+                                          both companies and marketing needs, such as the optimization of logistical activities and
+with regard to jurisdictional claims in
+                                          business processes, the improvement of market efficiency, the enhancement of information
+published maps and institutional affil-   sharing among supply chain actors from farm to fork, and the improvement of food quality
+iations.                                  communication [2]. The labels on packaging play a role in this by including and communi-
+                                          cating food information. As a key issue of the marketing mix [3], packaging represents for
+                                          consumers the way to learn product information and can be used by food companies to
+                                          stimulate sales [4]. Indeed, labeling, as part of food packaging, is the best means to give
+Copyright: © 2021 by the authors.
+                                          proper product information to consumers [5–8], responding to their expressed and implicit
+Licensee MDPI, Basel, Switzerland.
+                                          cognitive needs [5,9,10].
+This article is an open access article
+                                               The average consumer makes many food decisions each day, most of them uncon-
+distributed under the terms and           sciously [9], influenced by cognitive and emotional issues [10]. Thus, several factors
+conditions of the Creative Commons        influence people’s food choices including health, cost, convenience, taste [11,12], and
+Attribution (CC BY) license (https://     personal and environmental safety [13].
+creativecommons.org/licenses/by/               Communicating information to consumers in a way that is able to satisfy these needs
+4.0/).                                    is both a social and a business goal. Since the label represents the real interface between
+
+
+
+Agronomy 2021, 11, 613. https://doi.org/10.3390/agronomy11040613                                             https://www.mdpi.com/journal/agronomy
+
+===== PAGE 2 =====
+Agronomy 2021, 11, 613                                                                                           2 of 17
+
+
+
+
+                         consumers and food companies, in the absence of a face-to-face encounter [8,14], the most
+                         important challenge is to make a food label sufficiently informative but not misleading.
+                               Deceptive communication, deriving for instance from fraudulent claims, leads con-
+                         sumers to make unhealthy and unsafe choices, undermines fair commercial practices and
+                         trust in food markets, and jeopardizes the sustainability of the food system [15]. The sus-
+                         tainability of the food system is a priority of the 2019–2024 European Union (EU) strategy.
+                         The EU leverages on its “from farm to fork” action in order to ensure a fair economic return
+                         in the supply chain and ensure that Europeans have access to healthy, affordable, and
+                         sustainable food. Particularly, during the Covid-19 pandemic, the focus on individuals’
+                         healthcare and well-being have been strengthened. In such a challenging time, keeping peo-
+                         ple healthy and safe is critical while maintaining a high level of food safety and consumer
+                         trust. Against this backdrop of heightened uncertainty, up-to-date and reliable information
+                         about food is more important than ever [16].
+                               Governments across the world make available guidelines for food labels design in
+                         order to provide consumers with food information, helping them to make conscious
+                         food choices in a more sustainable way. For instance, in the USA, the Food and Drug
+                         Administration (FDA) and United States Department of Agriculture (USDA) declare several
+                         elements of food labeling as mandatory (statement of identity, net contents, nutrition facts
+                         panel, ingredient statement, statement/warning on allergens, country of origin, name, and
+                         place of business).
+                               Food labeling standards also originate from non-government organizations (Codex
+                         Alimentarius; Food and Agriculture Organization of the United Nations), defining rules
+                         for pre-packaged foods, nutrition and health claims, and nutrition labels. However, food
+                         packaging shows several types of information, not all mandatory by regulation. Indeed,
+                         food labels also include marketing information (i.e., advertisements, claims). Moreover, an
+                         increasing number of ethical and external qualities labels, such as eco, sustainability, fair-
+                         trade, carbon footprints, organic, are often packaged for commercial purposes. These labels
+                         fall into the “certification labels” category [8,17–22]. Certainly, food companies respect the
+                         labeling regulations but add other information in order to reach consumers. Indeed, it is
+                         also demonstrated that the claims in labels are able to affect and change consumers’ food
+                         choices [23].
+                               The huge range of information, some of which is really not necessary, risks confusing
+                         consumers in their food choice decision-making process [24,25]. Consumers’ ability to
+                         correctly understand the information shown on product labels can be essential for health
+                         and safety or simply to make an informed choice, respecting personal principles and
+                         values [26,27]. The difficulties in the understandability of food information on labels are
+                         essentially related to food label perception, intelligibility, and interpretation, and several
+                         factors could affect these: (i) Choice conditions at the time of purchase [28]; (ii) product
+                         name and its unintended semantic meaning [29–31]; (iii) proper label readability [32]; (iv)
+                         color combinations related to food healthiness perception [33] or even psychological and
+                         socio-cultural associations and meanings of colors in a cross-cultural perspective [34]; (v)
+                         context and individual conditions at the time of purchasing [28,35]; (vi) role played by
+                         taste [36]; (vii) bias against certain product categories such as Genetically Modified Organ-
+                         isms (GMO) [37,38]; (viii) difficulty related to storage conditions and consumption [39]; (ix)
+                         role played by emotions in reaction to a product or a situation [35]; (x) incorrect or partial
+                         content perception [40,41]; or (xi) product comparison difficult due to several formats of
+                         labels [42].
+                               Several studies have focused on the analysis of food label theories or design. The
+                         majority explore the issue from the consumers’ perspective, others focus on nutrition
+                         and health, daily foodstuffs and meal effects on health, the food industry and related
+                         products, impacts on the market and society, and child nutrition, as emerged from a
+                         previous study by the authors. Moreover, an interesting part of the literature focused on
+                         applying eye-tracking methods to detect the consumer’s response to different food label
+                         designs [43–47]. Nevertheless, to the best of our knowledge, no suggestions for labeling
+
+===== PAGE 3 =====
+Agronomy 2021, 11, x FOR PEER REVIEW                                                                                                                3 of 17
+
+
+
+
+                                tracking methods to detect the consumer’s response to different food label designs [43–
+Agronomy 2021, 11, 613                                                                                                                                  3 of 17
+                                47]. Nevertheless, to the best of our knowledge, no suggestions for labeling design have
+                                been defined. The novelty and the purpose of the present study consisted in mapping the
+                                food label design field, synthesizing the current knowledge, and providing a support
+                                framework
+                               design    have for   food
+                                                 been        companies
+                                                       defined.                that would
+                                                                      The novelty        and increase
+                                                                                               the purpose  readability    and customer
+                                                                                                                 of the present                 satisfaction
+                                                                                                                                     study consisted         in
+                                through the
+                               mapping       a well-proposed
+                                                  food label design    foodfield,
+                                                                                information
+                                                                                     synthesizing  communication         aligned withand
+                                                                                                         the current knowledge,              theproviding
+                                                                                                                                                   “farm to
+                               afork”
+                                 supportstrategy.    A systematic
+                                              framework        for foodliterature
+                                                                             companies   review
+                                                                                              that method      with content
+                                                                                                     would increase                analysis
+                                                                                                                          readability       andwas    chosen
+                                                                                                                                                  customer
+                               satisfaction
+                                to achieve this through
+                                                    purpose.a well-proposed food information communication aligned with the
+                               “farmTheto fork”    strategy.
+                                             results             A systematic
+                                                      of the present         study literature
+                                                                                      contributereview         method best
+                                                                                                      to identifying      withpractices
+                                                                                                                                  content analysis        was
+                                                                                                                                              in food label
+                               chosen
+                                design.toAachieve       this purpose.
+                                              list of suggestions         on label design could benefit: (i) Food companies to improve
+                                theirThe    resultsand
+                                       products      of the     present
+                                                          labels,           study contribute
+                                                                     (ii) governments                to identifying
+                                                                                              to understand              best practices
+                                                                                                                  how social      policies arein food   label
+                                                                                                                                                  acknowl-
+                               design.
+                                edged by  A list  of suggestions
+                                              consumers       and how    onto label  design
+                                                                                 create   newcould
+                                                                                                 betterbenefit:     (i) Food(iii)
+                                                                                                          fitted policies,      companies       to improve
+                                                                                                                                    practitioners     study-
+                               their  products
+                                ing the            andthe
+                                           field for     labels,
+                                                              first (ii)
+                                                                     time governments
+                                                                              facilitating to     understand how
+                                                                                               bibliographical           social policies
+                                                                                                                     referencing              are acknowl-
+                                                                                                                                      and providing         an
+                               edged
+                                overviewby consumers
+                                              of the topic, andandhow      to researchers
+                                                                        (iv)   create new better
+                                                                                               by thefitted    policies, (iii)
+                                                                                                         identification          practitioners
+                                                                                                                             of new    possible studying
+                                                                                                                                                   research
+                               the field for the first time facilitating bibliographical referencing and providing an overview
+                                routes.
+                               of the topic, and (iv) researchers by the identification of new possible research routes.
+                                2. Materials and Methods
+                               2. Materials and Methods
+                                       A review methodology is strategic to systematically analyze a body of knowledge
+                                [48].AAccording
+                                        review methodology
+                                                      this principle,   is strategic
+                                                                             we chose   to to
+                                                                                           systematically       analyzeliterature
+                                                                                               utilize a systematic        a body of review
+                                                                                                                                          knowledgemethod-[48].
+                               According       this principle,      we    chose    to utilize     a systematic     literature
+                                ology in order to establish the boundaries of current knowledge This kind of review, ap-          review    methodology
+                               in orderatospecific
+                                plying         establish   the boundaries
+                                                       protocol,      aims to searchof current
+                                                                                            and knowledge         This kind
+                                                                                                    critically analyze            of review,literature
+                                                                                                                            the previous        applyingin    a
+                               specific   protocol,    aims     to  search     and   critically    analyze    the  previous
+                                a specific field [49]. It is widely recognized that systematic literature reviews allow for the  literature    in a  specific
+                               field  [49]. It is widely
+                                enhancement                   recognized
+                                                   of the quality                that systematic
+                                                                         of review     methodology     literature   reviews
+                                                                                                           and related          allow
+                                                                                                                           results       for thethe
+                                                                                                                                      through      enhance-
+                                                                                                                                                       trans-
+                               ment    of the   quality    of  review      methodology          and   related   results
+                                parency and replicability of the protocol [48,50–52] and, improve the generalizability of through      the   transparency
+                               and
+                                the replicability
+                                     findings allowingof the protocol        [48,50–52]
+                                                                the systematic              and, improve
+                                                                                      synthesis                the generalizability
+                                                                                                     and analysis       of the knowledge   of thethat
+                                                                                                                                                    findings
+                                                                                                                                                        com-
+                               allowing      the  systematic       synthesis       and   analysis     of  the  knowledge
+                                pose a given domain [53]. Particularly, among the several kinds of systematic literature        that   compose       a given
+                               domain
+                                review [53].     Particularly,
+                                          proposed       by Paulamong and Criadothe several
+                                                                                        [54], kinds
+                                                                                                we choseof systematic
+                                                                                                              to apply literature       review proposed
+                                                                                                                          the domain-based            review
+                               by
+                                and, according to the Prisma guidelines [55], we proposed a review protocol according
+                                   Paul   and    Criado     [54],   we    chose    to  apply     the  domain-based         review     and,    composed to    of
+                               the Prisma
+                                3 steps        guidelines
+                                          discussed      below:[55],Search
+                                                                      we proposedschemeaand  review     protocol
+                                                                                                   sample           composed
+                                                                                                              definition,    qualityof 3assessment,
+                                                                                                                                          steps discusseddata
+                               below: Search scheme and sample definition, quality assessment, data analysis (Figure 1).
+                                analysis (Figure 1).
+
+
+
+
+                                 Figure1.1.Research
+                                Figure     Researchmethodology
+                                                    methodologyin
+                                                                indomain-based
+                                                                  domain-based systematic
+                                                                               systematic literature
+                                                                                           literature review.
+                                                                                                      review.
+
+                                2.1. Search Scheme and Sample Definition
+                                     Several authors have identified the need to propose a focused research question
+                                or topic to obtain focused results from a literature review [56,57]. Keyword searching
+                                represents the method commonly used to identify relevant literature [58], and the use of
+                                Boolean operators allows the search to be refined [58]. A valid online article/bibliographic
+
+===== PAGE 4 =====
+Agronomy 2021, 11, 613                                                                                            4 of 17
+
+
+
+
+                         database was identified, as suggested by [59]. Using keywords representative of the
+                         inquired scenario [57], the following combinations were defined:
+                         •    (“Design” OR “Theory” OR “Theories”) AND (“Food labeling” OR “Food labelling”);
+                         •    (“Design” OR “Theory” OR “Theories”) AND (“Food label”).
+                              OR and AND Boolean operators were chosen because they are able to, respectively,
+                         retrieve citations that contain one of the specified terms and retrieve a set of citations in
+                         which each citation contains all search terms, which could appear in any order [59].
+                              On the one hand, the proposed scheme was adequately narrowed down to our research
+                         focus, and on the other hand, it did not limit the research to specific kinds of label (e.g.,
+                         organic, fair trade, GMO) or specific elements that could be found in a label (e.g., logo,
+                         claim, advice).
+                              The Scopus (www.scopus.com (accessed on 24 March 2021)) database was chosen to
+                         provide works with academic relevance according to our domain [60]. It was considered as
+                         a good source [61] and more comprehensive than others [62]. The search in Scopus was
+                         conducted in December 2020, in the “Article title, Abstract, Keywords” section, and no
+                         temporal limitation was set. An initial sample of 937 papers was identified. According
+                         to [63], the initial sample was restricted on the basis of the following criteria: (i) Limiting
+                         to research article or paper, available to download, in the English language, (ii) excluding
+                         works relating to a subject area deemed not pertinent with the present study and recognized
+                         misclassification. The final sample was composed of 100 papers.
+
+                         2.2. Quality Assessment
+                              Quality assessment is a step in systematic literature review proposed to evaluate,
+                         using specific criteria, the quality score of the papers sampled [64]. The sample was
+                         assessed by applying the Critical Appraisal Checklist Instrument proposed by the Joanna
+                         Briggs Institute (JBI) [65]. The protocol is composed of six criteria: (i) The nature of the
+                         research methodology used in the analysis; (ii) the adequacy of the sample size; (iii) the
+                         representativeness of the sample size for the population; (iv) the presence of a theoretical
+                         framework; (v) the minimization of potential confounding factors; (vi) the outcome being
+                         validated and objectively quantifiable. For each criterion, a quality rating was assigned
+                         (low, medium, high). Finally, a study was considered as “high quality” if it rated “high” on
+                         three or more criteria; “medium quality,” if it received two “high” or one “high” and two
+                         “medium” ratings; the remaining studies were classified as “low quality” [63]. The quality
+                         assessment of the papers sampled (Figure 2) resulted in a medium-high rating: 24 out of
+                         100 studies identified were ranked as high quality, 42 out of 100 as medium quality, and
+                         34 out of 100 as low quality.
+
+                         2.3. Data Analysis
+                               Content analysis was carried out on the selected sample of papers, in order to investi-
+                         gate: (i) The meanings of food labeling from the scholarly perspective; (ii) the presence of
+                         theories or suggestions for food labeling design, considering the factors of analysis and the
+                         elements considered in the label. This method was useful in consumer research, and also
+                         in its applications in the field of package design [18,66].
+
+===== PAGE 5 =====
+ronomy 2021, 11, x FOR PEER REVIEW                                                                                                                                               5 of 17
+          Agronomy 2021, 11, 613                                                                                                                                                           5 of 17
+
+
+                                                                             Methodology      Sample        Sample           Theory      Potential       Outcome       Overall
+                                                                              used in this      size    rappresentative      driven    confounders      validated or   rating
+                                                                                 study       adequate                        results    minimized       quantifiable
+
+                                       (Fernan, Schuldt, and Niederdeppe 2018)
+
+                                                   (Wood and Tenbensel 2018)
+
+                                            (Hajdú, Lipták, and Săplăcan 2018)
+
+                                                       (Hess and Slavin 2017)
+
+                                                 (Al-Hamdani and Smith 2017)
+
+                                                     (Brierley and Elliott 2017)
+                                       (de-Magistris, Gracia, and Barreiro-Hurle
+                                       2017)
+                                                     (Kumar and Kapoor 2017)
+
+                                                 (Szlachciuk and Ozimek 2017)
+
+                                                             (Dixon et al. 2016)
+
+                                                         (Machado et al. 2016)
+
+                                                      (Abdul Latiff et al. 2016)
+
+                                                                  (Liang 2016)
+                                                         (Choi and Choi 2016)
+
+                                                        (Spaulding et al. 2015)
+
+                                                          (Kraemer et al. 2015)
+
+                                               (Cucchiara, Kwon, and Ha 2015)
+
+                                                                  (Lwin 2015)
+
+                                                              (Samotyja 2015)
+                                              (Smith, Barratt, and Zlatev 2014)
+
+                                                        (Mohamed et al. 2014)
+                                                               (Williams 2014)
+                                                          (Antúnez et al. 2013)
+
+                                                      (Grabenhorst et al. 2013)
+
+                                                              (Ares et al. 2012)
+
+                                                            (Hellier et al. 2012)
+
+                                                 (Gaillard and Urdapilleta 2011)
+
+                                                           (Kimura et al. 2011)
+
+                                                            (Zlatev et al. 2010)
+
+                                                               (Klintman 2009)
+
+                                                           (Kapsak et al. 2008)
+
+                                                         (Ellen and Bone 2008)
+
+                                                    (Lapan and Moschini 2007)
+
+                                                               (Connolly 2007)
+
+                                                     (Marino and Mahan 2005)
+
+                                                             (Golan et al. 2001)
+
+                                                                 (Rayner 1995)
+
+                                                                   (Lang 1995)
+
+                                                             (Smith et al. 2011)
+
+                                                               (Leufkens 2018)
+
+                                                  (Legendre and Coderre 2018)
+
+                                             (Cummings, Chuah, and Ho 2018)
+
+                                                (Bissinger and Leufkens 2017)
+
+                                                          (Nishida et al. 2016)
+
+                                                          (Oliveira et al. 2016)
+
+                                                (de-Magistris and Gracia 2016)
+
+                                      (Merle, Herault-Fournier, and Werle 2016)
+
+                                                              (Chan et al. 2016)
+
+                                                         (Teng and Wang 2015)
+
+                                       (Salnikova, L. Stanton, and Hooker 2014)
+
+                                                           (Bosman et al. 2014)
+
+                                                   (C.-H. Huang and Lee 2014)
+                                          (Roberto, Pomeranz, and Fisher 2014)
+
+                                                             (Miller et al. 2002)
+
+                                                               (Bui et al. 2013)
+
+                                         (Babasaheb Kajale and C. Becker 2013)
+
+                                                              (Ares et al. 2013)
+
+                                                                   (Stuart 2010)
+
+                                                                  (Singla 2010)
+
+                                             (Brandt, Moss, and Ferguson 2009)
+
+                                                    (Rousu and Corrigan 2008)
+
+                                               (Jordan Lin, Lee, and Yen 2004)
+
+                                                        (Butler and Berry 2001)
+                                                    (Caswell and Padberg 1992)
+
+                                                        (Sapci and Sapci, 2020)
+
+                                                    (Muller and Ruffieux, 2020)
+
+                                                         (Escribano et al., 2020)
+
+                                                         (Khandpur et al., 2019)
+
+                                                              (Zhan et al., 2020)
+
+                                                         (Liang and Lim, 2020)
+
+                                                          (Nobrega et al., 2019)
+
+                                                            (Ferrari et al., 2020)
+
+                                                             (Miller et al., 2019)
+
+                                                            (Tanner et al., 2019)
+
+                                                           (Zerbini et al., 2019)
+
+                                                             (Bray et al., 2019)
+
+                                                        (Khandpur et al., 2019)
+
+                                                   (Bailey and Muldrow, 2018)
+
+                                                        (Schnettler et al., 2019)
+
+                                              (Berhaupt-Glickstein et al., 2019)
+
+                                                        (Goodman et al., 2018)
+
+                                                            (Egnell et al., 2018)
+
+                                                       (Savchenko et al., 2018)
+
+                                                         (Mazocco et al., 2018)
+
+                                                            (Huang et al., 2020)
+
+                                                              (Shin et al., 2020)
+
+                                                            (Deliza et al. 2019)
+
+                                                          (Odaman et al., 2019)
+
+                                                             (Ayaz et al., 2020)
+
+                                                               (Liu et al., 2020)
+
+                                     (Medina-Molina and Pérez-Gonzàlez, 2020)
+
+                                                         (Zlatevska et al., 2019)
+
+                                                               (Lee et al., 2019)
+
+                                                         (Mohajeri et al., 2019)
+
+                                               (Apostolidis and McLeay, 2019)
+
+                                                           (Corallo et al., 2019)
+
+                                                            (Limbu et al., 2019)
+
+                                                        (Pomeranz et al., 2019)
+
+                                                           (Pereira et al., 2019)
+
+                                                            (Ahuja et al., 2018)
+
+
+                                                                    Legend                      Low                       Medium                     High
+
+
+
+
+                                     Figure 2. Quality assessment of sample.
+
+===== PAGE 6 =====
+Agronomy 2021, 11, 613                                                                                                                 6 of 17
+
+
+
+
+                                  3. Results
+                                       Labeling is not yet uniquely defined. Some authors report a specific definition, others
+                                  discuss the label concept in generic way. Several definitions of labeling are used in different
+                                  fields: Academic, regulation, and International Organization for Standardization (ISO).
+                                  The presence of papers in which the authors did not propose any definition of labeling was
+                                  also found: About 45% of the sample did not explain the label meaning, but conducted an
+                                  analysis of it (see Section 1 of Table 1).
+
+                                                 Table 1. Results from content analysis.
+
+                                                      Section 1: Label Definition
+                                                         Academic                                       [8,41,44,45,67–102]
+              Specific Def.                              Regulation                                       [76,86,103–108]
+                                                            ISO                                                 [78]
+                                    Generic Def.                                                        [5,6,26,47,109–114]
+                               No emerging meaning                                                [7,20,29–31,37,38,46,115–153]
+                                               Section 2: Label Definition Points of View
+                                                                                             [5–8,29–31,44,45,67,70,72,76,79,81–83,87–
+                               Generic point of view                                              90,92,94,95,97,101,102,104,106–
+                                                                                               108,112,113,117,121,123–126,129–131]
+                                                     Geographical label                                     [78,85,106]
+                                                      Shelf life label                                         [103]
+                Content
+                                                       Allergy label                                           [109]
+                                                      Nutrition label                              [28,72,76,81,87,115,129,154]
+                                      Position                                                       [43,49,69,70,75,92,94,101]
+                                                 Genetically modified food                                  [39,40,112]
+                Product                                  Organic                                            [74,86,152]
+                                                        Baby food                                              [110]
+                                       Process                                                                [20,78]
+                                                    Section 3: Focus of the Studies
+                                Label Design Theory
+                                                                                           [6,7,46,49,90,99,115,117,121,122,134,135,142]
+                Studies that propose a theory to better design a label
+               Consumer perception of food according to the label
+                                                                                           [43,48,70,85,88,89,98,112,119,135,137,139,140,
+   Studies that analyze consumer perception about food after the consumer has
+                                                                                                            144,150,151]
+                             consulted the food label
+              Consumer behavior about food according to the label                                          [8,70,72–
+    Studies that analyze consumer behavior about food after the consumer has           74,76,78,82,85,88,91,96,103,105,106,110,112,116,
+                             consulted the food label                                     119,124,125,132,133,137,141,144,146,147]
+                     Analysis about nutritional level of food
+                                                                                            [26,71,75,91,92,94,95,115,123,140,143,148–
+      Studies that analyze the perception of food nutritional level after label
+                                                                                                             151,153]
+                                   consultation
+                     Consumer preference about label styles
+                                                                                            [47,84,87,91,92,98,110,118,134,135,142,143]
+      Studies that analyze consumer preference about several styles of labels
+                             Label understandability
+ Studies that analyze the level of understandability of several labels perceived by                 [81,94,96,105,131,136,150]
+                                 the final consumer
+                                         Other                                                  [5,20,29–31,37,38,67,68,77,79,81,99–
+  Studies that treat issues of label design not considered relevant for our analysis             102,107,113,122,126,128,129,152]
+
+
+                                       Analyzing each definition, they were characterized according to several points of
+                                  view: Content, position, product, process, or with any specific connotation (generic point
+                                  of view), as shown in Section 2 of Table 1.
+
+===== PAGE 7 =====
+Agronomy 2021, 11, 613                                                                                           7 of 17
+
+
+
+
+                                Some of the results deserve to be highlighted. Only 49% of the studies considered the
+                         labels from a specific point of view, despite labels or the labeling process being the main
+                         subject of 72% of the studies. Some authors [76,86,103–108] reported a specific definition
+                         coming from the regulation field, treating the label from a content point of view: [103]
+                         writes about shelf-life labeling that is regulated by the EU Commission in order to protect
+                         consumers’ interests in a product’s shelf-life, considered a guarantee of good quality and
+                         safety; [105] reports that a geographical indication label is certified and regulated, as
+                         foreseen by the EU Regulation 1151/2012 that establishes the means to report a “product
+                         specification”; [86] considers “nutrition labeling as a policy tool (mandatory information)
+                         or as a voluntary marketing communication” and refers to a specific definition coming
+                         from regulation, as foreseen by the Codex Alimentarius (CAC/GL 2-1985, Rev. 1-1993).
+                                Only two studies [20,78] reported on a label definition from a process point of view,
+                         writing both about eco labeling and the related aspect of environmental sustainability in
+                         the production processes required.
+                                Moreover, 80% of specific label definition with a position point of view came from
+                         the academic field. Indeed, all studies took into account the front of package (FOP) la-
+                         bel with different scopes: (i) Increasing the perceived amount of nutrients through the
+                         usage of claims [41,93]; (ii) developing a collaborative decision-making processes [68];
+                         (iii) evaluating the importance of colors and text description in order to increase its un-
+                         derstanding [70,92,101]; and (iv) improving label understanding through the usage of
+                         graphical elements rather than textual elements [74].
+                                Thus, content analysis was focused on the recognition of good suggestions in food
+                         label design, and the focus of the studies was analyzed leading to the recognition of
+                         8 categories of topic (Section 3 of Table 1).
+                                Even if only some authors proposed a theory for label design, good suggestions in
+                         label design arose from the other papers. Then, papers were analyzed looking for the
+                         factors and label elements considered in the studies.
+                                In particular, only [89] treated label design considering the dimension of the elements
+                         in a label, more than the contents, as factors of analysis. The author studied the space
+                         dedicated to several contents on food labels with the aim to evaluate the right trade-off
+                         between mandatory and voluntary information shown on labels, in order to ensure, at the
+                         same time, a healthy food choice and a conscious purchase decision by the consumer.
+                                Some papers [7,46,115,122] considered as the object of analysis both the contents and
+                         graphical elements with particular attention to: The structure of the functional claims [121];
+                         nutrition table, color and graphical formats [114]; health claims, diet and low-calories
+                         claims, ingredient list, nutrition table, storage condition recommendation, calorie infor-
+                         mation, brand and product name, background and graphical formats [7]; health claims,
+                         brand and product name, and background [44]. The results were varied. From Kapsak
+                         et al. (2008) emerged the overall difficulty of consumers to comprehend current food labels,
+                         which requires simpler language regarding food, avoiding science- and/or disease-focused
+                         commentary. The major finding was that claims (i.e., “calcium builds strong bones”) per-
+                         form “successfully in communicating to consumers the healthy value of a food product,
+                         as well as its quality and safety” [121]. Marino and Mahan (2005) suggested considering
+                         matching the visual and cognitive processing requirements of decision-making in order to
+                         better support the decision performance in the nutrition labels context. Rayner (1995, 30)
+                         stated that a correct label design “is about the careful integration of words, typography,
+                         images and visual devices to render complex information sets and procedures easier to un-
+                         derstand.” More attention should be given to the density of information reported on a food
+                         label [44], indeed consumer attention is indirectly proportional to increasing information
+                         density. Oliveira et al. (2016, 166) suggest that “health claims should be written as concise
+                         as possible to assure that consumers fully process them [ . . . ]”.
+                                Some of the analyzed papers reported suggestions useful to better design a food label.
+                         First of all, it should be taken into account that label messages are judged and evaluated
+                         by the consumer, simultaneously with the rest of the package [8]. Thus, wording and
+
+===== PAGE 8 =====
+Agronomy 2021, 11, 613                                                                                           8 of 17
+
+
+
+
+                         graphical contents should both be considered important. An underlying assumption is
+                         that the information present on a food label should be user-friendly, in order to facilitate
+                         the understanding of food details by the consumer. From the point of view of the textual
+                         content, food information should be communicated through ordered, clear, simple, concise,
+                         and non-technical expressions [72,82,111,129], with a larger readable font size being bet-
+                         ter [105,110,111] in order to enhance subjective hedonic expectations [67]. From the point
+                         of view of the graphical element, several authors [30,46,69,74,80,85,93,109,126,141–143,150]
+                         contend that images, pictographs, and standardized synthesis graphical systems are more
+                         powerful than textual contents in terms of attractiveness and transmission of messages.
+                         Particularly, standardized synthesis graphical systems (like the traffic light system or
+                         choices checkmark symbol) could increase the perception of product healthiness, guiding
+                         the consumer during the selection and purchase processes [80,126]. Regarding warning
+                         labels, the triangular symbol with a white background and the signal word, “High in” is
+                         more visible to consumers, capturing their attention and informing their food purchases
+                         better than the signal words “A lot of” and the octagonal symbol [91,92]. Moreover, more
+                         attention could be given to the choice of elements like background, wording style, and
+                         picture. Light blue-colored food packages increase not only the attractiveness of the food
+                         products but also increase their consumption [69]. Increasing the contrast between colors
+                         improves the readability of the food label [104]. Indeed, [45] also debated that “the great
+                         majority of consumers fixate their gaze on four key areas (image, brand, ingredients, and
+                         nutritional information) for the food labels.” Some of these elements occupy a front of
+                         package area, giving the food label a double function: Informing the consumer of the food
+                         contents and acting as a poster hoarding [79,82]. Taking into consideration that consumers
+                         value the public labels (regulated by EU [155]) more highly than private ones [117], several
+                         are the information elements considered valuable and inalienable by the consumer.
+                               The information already present on food label that is most requested and valued by
+                         consumers are: Designation of origin followed by the organic logo or country of origin
+                         (COO) label [78,85,113,118], the nutritional panel and warnings [113,118,139,150] (better
+                         if calculated per 100 g of product [75]), the expiry date or the date of the maximum
+                         shelf life [118,132] (with most preference for the wording “best before” [103]), and the
+                         price [112]. It is interesting to note that other information was reported as impactful
+                         for consumers. The usage of claims, better if short [130], could increase the perception
+                         of food quality, healthiness, trust, and influence the food choice [43,70,102,107,139,144].
+                         In the case of certified food products (i.e., organic food, GMO, Protected Geographical
+                         Indication, Protected Designation of Origin), adding details on the authentication source
+                         or food quality can enhance consumers’ awareness of food and the related authentication
+                         mechanisms [39,74,89,106]. Regarding food information not reported on a label yet, it
+                         should go beyond the basic needs of consumers and reflect consumers’ lifestyles and
+                         philosophies, increasing the product appeal [79,98,135]. New labels include: The eco
+                         label [78], fair-trade (more valued than the organic label [83]), and transformation product
+                         mode [85].
+                               Summarizing, from the previous content analysis, eleven suggestions for food label
+                         design are recognized:
+                         (i)    Use simpler language avoiding technical commentaries [72,82,111,129];
+                         (ii)   Avoid a high density of information, integration of words, typography, and im-
+                                ages [7,44] in order to match visual and cognitive processing requirements [114];
+                         (iii) Use large size font in order to enhance subjective hedonic expectations [10,105,110,111];
+                         (iv) Use a light blue color for food packaging to increase attractiveness of the product and
+                                indirectly increase food consumption [69];
+                         (v) Increase the contrast between the color of text and image [104];
+                         (vi) Report nutritional panel with measures calculated per 100 g of product [75];
+                         (vii) Report maximum shelf life [118] with most preference to the wording “best be-
+                                fore” [103] or “expires on” instead of “sell by” [132];
+                         (viii) Use claims with a short format [130];
+
+===== PAGE 9 =====
+Agronomy 2021, 11, 613                                                                                                 9 of 17
+
+
+
+
+                         (ix) Use nutritional warnings [138,149] with triangular symbol, white background and
+                              “high in” text [91,92];
+                         (x) Add details about the source and mechanism of authentication with regard to certified
+                              food product [39,74,89,106];
+                         (xi) Encourage the use of labels that respond to new consumers’ perceptions and lifestyles
+                              such as the eco label [78], fair-trade (more valued than the organic label [83]), and
+                              transformation product mode [85].
+                              The importance of a good food label design is evident both (i) to assure readability and
+                         understandability for consumers in order to make conscious food choices based on accurate
+                         food information, and (ii) to increase food companies’ ability to showcase through a trade-
+                         off between mandatory and voluntary food information [89]. Furthermore, authors suggest
+                         assisting consumers in nutritional education, through suitable policies to guide people in
+                         the correct interpretation of food labels, starting from school educational level [5,28,129].
+
+                         4. Discussion
+                              The analysis conducted showed that no univocal and shared meaning about food
+                         labeling exists, since numerous definitions have been proposed.
+                              In particular, some authors have examined the meaning of food labeling from a
+                         well-rounded perspective. Others conceive food label referring to several points of view.
+                         Generally, food labeling was discussed as a tool able to represent food product information,
+                         but, in some cases, it could specifically refer to the contents in the label, to the position of
+                         the elements in the label, to a specific product category or to a specific production process.
+                              Although all the papers analyzed supply suggestions for food label design, only
+                         13 [6,7,46,49,90,99,115,117,121,122,134,135,142] reported suitable theories.
+                              In all the remaining cases, the focus of the studies ranged from consumer food per-
+                         ception according to label understandability, passing through consumers’ behaviors in
+                         referring to food labels, analysis about the nutritional level of food, consumers’ preference
+                         about label styles, and the analysis of consumers’ needs relating to labels. The papers
+                         in the sample were focused on several factors of analysis: Element position, content, di-
+                         mension and graphical elements, and considered the following label elements: Claims;
+                         ingredients list; table; recommendation; product information; and graphical details. Food
+                         labeling design seems to be embracing a scientific panorama with different scopes, through
+                         different analysis, based on different factors, considering different label elements. In this
+                         regard, eleven were recognized suggestions for food label design, with eight suggestions
+                         referring to content issues (i, ii, vi, vii, viii, ix, x, xi), two suggestions referring to graphical
+                         issues (iv, v), and only one suggestion referring to a wording issue (iii). All the recognized
+                         suggestions permit the design of food-directive labels [133] grading the whole food and
+                         each nutrient, both for healthy and unhealthy foods.
+                              It is interesting to underline that these suggestions represent in most cases consumers’
+                         requirements or preferences (i, ii, iii, iv, v, viii, ix, xi), and in three cases issues already
+                         considered by governments to foster food safety and consumer health (vi, vii, x).
+                              Particularly, suggestion (vi) proposes the effectiveness of a nutritional panel with
+                         measures expressed per 100 g of the product. In the European Community, regulation
+                         1169/2011 represents the guidelines on food labeling, establishing that the nutritional
+                         elements must be expressed as mean values per 100 g (or mL) of the product. Even if this
+                         is mandatory for EU countries, in other parts of the world regulations are different. For
+                         example, the USA regulation established that the nutritional value must be expressed using
+                         the concept of “serving size” which represents the amount of product considered sufficient
+                         to meet the nutritional needs of an average adult. The Food and Drugs Administration
+                         (FDA) established that the serving size could be expressed using several measurement
+                         units such as the ounce, gram, or cup. A cup is equal to 240 mL and the conversion into
+                         grams depends on the type of product. As debated by [75], in Brazilian consumers, this
+                         generates difficulty in understanding the right amount of food to eat to maintain health. To
+                         overcome this issue, authors recommend the inclusion of nutritional information per 100 g.
+
+===== PAGE 10 =====
+Agronomy 2021, 11, 613                                                                                            10 of 17
+
+
+
+
+                              Suggestion (vii) referring to the shelf life is reflected in the legislation. The EU regula-
+                         tion 1169/2011 established that the expiration date must be introduced by the labels as “best
+                         before” or “use by.” Other terms are considered illegitimate. Even though [103] discovered
+                         that European consumers prefer the label “best before” underlining the effectiveness of the
+                         EU regulation, the results found by [132] showed “expires on” is preferred over “sell by”
+                         among US consumers. Indeed, not all countries have the stringent conditions proposed
+                         by the EU in the regulation about expiration date. In the USA, there are no standardized
+                         descriptions for open dating [156]: “Sell by,” “use by,” and “best if used by” are some of
+                         the commonly used labels [157].
+                              Finally, suggestion (x) refers to the importance of adding details about the authentica-
+                         tion mechanism for certified food products. The EU Regulation 2018/848, which entered
+                         into force on 1 January 2021, acknowledges this need, and requires companies to show on
+                         the label of organic food products two identification numbers to univocally identify the
+                         product and the certification body.
+                              These suggestions, even if they are already contained within the regulations in some
+                         countries, could be useful for food companies that operate in less regulated markets and/or
+                         for governments to obtain feedback on the effectiveness of the established regulations.
+                              Indeed, the existing literature demonstrates that poor dietary choices are partly de-
+                         pendent on food marketing [158,159]. Food companies can adopt several strategies, also in
+                         combination, to engage consumers [160]: Information on food labels (such as claims, logo,
+                         advice); marketing strategies (such as product appearance in television shows, movies,
+                         games, magazines); viral marketing or viral advertising (uses existing social networks to
+                         promote a product on the net through a buzz strategy, such as “word of mouth”); sales
+                         promotions (such as coupons, mailings); and co-branding strategies (for instance different
+                         corporates together create a new product).
+                              Considering that, for instance, over half of all food dollars in the USA are spent on food
+                         consumed at home [161], a trend that has probably grown during the Covid-19 pandemic,
+                         the marketing strategies applied to food labels may also influence consumption patterns
+                         at the time of the purchasing act, having an important impact on health and, for instance,
+                         obesity outcomes [162]. The global debate on food marketing’s role in public health and
+                         awareness has also migrated to policy making. For instance, Michelle Obama, the ex-First
+                         Lady of the USA, communicated actions “to revise the way food labels carried nutrition-
+                         related information in her country [ . . . ], as the only way people could make ‘informed
+                         choices’ was ‘by having clear, accurate information’” [77]. Understanding what kind of
+                         information is presented on food labels is important, especially when a bad evaluation of
+                         food information can cause disease. Practitioners need to be conscious of the marketing
+                         strategies and at the same time governments must consider the potential of the food label
+                         to influence and proceed to act policies able to protect consumers from misleading food
+                         information.
+
+                         5. Conclusions
+                              Referring to the study purpose declared in the Introduction section, this study mapped
+                         the food label design field synthesizing the current academic knowledge about:
+                         •    Food label definitions and the related points of view;
+                         •    The aims of current food label studies;
+                         •    The factors considered in food label design analysis.
+                              Even if no univocal and shared meaning about food labeling exists, and generally
+                         the food labeling was conceived as a tool to represent food product information, it could
+                         specifically refer to the provided contents, to the position of the elements, to a specific
+                         product category, or to a specific process in production.
+                              The focuses of the studies range from food label design theories, passing through
+                         consumers’ food perception according to label understandability, consumers’ behaviors
+                         in referring to food labels, analysis of the nutritional level of food, consumers’ preference
+                         about label styles, and the analysis of consumers’ needs from the label. The analyses of
+
+===== PAGE 11 =====
+Agronomy 2021, 11, 613                                                                                                          11 of 17
+
+
+
+
+                                 food label design conducted in the selected papers were focused on several factors: Ele-
+                                 ments position, content, dimension and graphical elements, and considered the following
+                                 label elements: Claims; ingredient list; table; recommendation; product information; and
+                                 graphical details. Starting from these evidences and in order to achieve the purpose of the
+                                 study, eleven suggestions in food label design are recognized. These represent a support
+                                 framework for food companies that would increase label readability and consumers’ satis-
+                                 faction, improving the communication process around food, and reducing the information
+                                 asymmetry between food company and consumer [163].
+                                      Indeed, food companies could find eight useful suggestions to better manage contents
+                                 in food labels (i, ii, vi, vii, viii, ix, x, xi), two suggestion referring to how to improve the
+                                 graphical design of the label (iv, v), and a wording suggestion useful to avoid misunder-
+                                 standing among consumers (iii).
+                                      The novelty of the present study consists in a systematization of the previous knowl-
+                                 edge about food label design into eleven suggestions. It is hoped that the results of the study
+                                 will be interesting for: Those studying the field for the first time, facilitating bibliographical
+                                 referencing and providing an overview about the topic; supporting food companies in food
+                                 label design in order to increase label readability and customers’ satisfaction; supporting
+                                 researchers in the identification of new possible research routes; helping governments to
+                                 understand how social policies are received by consumers and how to create new policies.
+                                      Concluding, it is interesting to underline that the studies considered treated the label
+                                 and the label design from a traditional view (a physical label on primary packaging).
+                                 No study on the design of a virtual label was found, underlining a gap in the literature
+                                 about virtual labeling design in the food industry. This evidence could be attributed to a
+                                 fundamental lack of awareness as to their purpose (i.e., the usage of QR codes to extend
+                                 the label contents is not viewed by consumers as adding value), which represents a failure
+                                 of marketing efforts to inform consumers [90]. Further research studies could investigate
+                                 consumers’ awareness about virtual labeling in order to evaluate if food companies could
+                                 leverage the same best practice in food label design.
+
+                                 Author Contributions: Conceptualization, M.E.L. and M.M.; methodology, M.E.L. and M.M.; valida-
+                                 tion, A.C.; formal analysis and investigation, M.E.L. and M.M., R.P.; resources, A.C.; data curation,
+                                 M.M. and R.P.; writing—original draft preparation, M.E.L., M.M., and R.P.; writing—review and
+                                 editing, M.E.L. and M.M.; visualization, M.E.L. and M.M.; supervision, M.E.L. and A.C. All authors
+                                 have read and agreed to the published version of the manuscript.
+                                 Funding: This research received no external funding.
+                                 Institutional Review Board Statement: Not applicable.
+                                 Informed Consent Statement: Not applicable.
+                                 Conflicts of Interest: The funders had no role in the design of the study; in the collection, analyses,
+                                 or interpretation of data; in the writing of the manuscript; or in the decision to publish the results.
+
+References
+1.   Amodio, M.L.; Chaudhry, M.M.A.; Colelli, G. Spectral and Hyperspectral Technologies as an Additional Tool to Increase
+     Information on Quality and Origin of Horticultural Crops. Agronomy 2020, 10, 7. [CrossRef]
+2.   Trienekens, J.H.; Wognum, P.M.; Beulens, A.J.M.; van der Vorst, J.G.A.J. Transparency in Complex Dynamic Food Supply Chains.
+     Adv. Eng. Inform. 2012, 26, 55–65. [CrossRef]
+3.   Plimmer, J. Augmenting and securing the consumer brand experience through smart and intelligent packaging for food, beverages
+     and other fast-moving consumer goods. In Trends in Packaging of Food, Beverages and Other Fast-Moving Consumer Goods (FMCG);
+     Elsevier: Amsterdam, The Netherlands, 2013; pp. 35–57. ISBN 978-0-85709-503-9.
+4.   Sen, M.K.C. Food Traceability and Consumer Awareness in Turkey: A Review Article. J. Anim. Vet. Adv. 2014, 13, 350–354.
+5.   Caswell, J.A.; Padberg, D.I. Toward a More Comprehensive Theory of Food Labels. Am. J. Agric. Econ. 1992, 74, 460. [CrossRef]
+6.   Lang, T. The Contradictions of Food Labelling Policy. Inf. Des. J. 1995, 8, 3–16. [CrossRef]
+7.   Rayner, M. Food Labelling and Information Design. Inf. Des. J. 1995, 8, 25–35. [CrossRef]
+8.   Tonkin, E.; Wilson, A.M.; Coveney, J.; Webb, T.; Meyer, S.B. Trust in and through Labelling–a Systematic Review and Critique. Br.
+     Food J. 2015, 117, 318–338. [CrossRef]
+
+===== PAGE 12 =====
+Agronomy 2021, 11, 613                                                                                                              12 of 17
+
+
+
+
+9.    Chambers, L.; McCrickerd, K.; Yeomans, M.R. Optimising Foods for Satiety. Trends Food Sci. Technol. 2015, 41, 149–160. [CrossRef]
+10.   Grabenhorst, F.; Schulte, F.P.; Maderwald, S.; Brand, M. Food Labels Promote Healthy Choices by a Decision Bias in the Amygdala.
+      NeuroImage 2013, 74, 152–163. [CrossRef] [PubMed]
+11.   Furst, T.; Connors, M.; Bisogni, C.A.; Sobal, J.; Falk, L.W. Food Choice: A Conceptual Model of the Process. Appetite 1996, 26,
+      247–266. [CrossRef]
+12.   Bublitz, M.G.; Peracchio, L.A.; Andreasen, A.R.; Kees, J.; Kidwell, B.; Miller, E.G.; Motley, C.M.; Peter, P.C.; Rajagopal, P.; Scott,
+      M.L.; et al. Promoting Positive Change: Advancing the Food Well-Being Paradigm. J. Bus. Res. 2013, 66, 1211–1218. [CrossRef]
+13.   Bagozzi, R.P.; Warshaw, P.R. Trying to Consume. J. Consum. Res. 1990, 17, 127. [CrossRef]
+14.   Steptoe, A. Trends in Smoking, Diet, Physical Exercise, and Attitudes toward Health in European University Students from 13
+      Countries, 1990–2000. Prev. Med. 2002, 35, 97–104. [CrossRef] [PubMed]
+15.   Weirich, P. Labeling Genetically Modified Food: The Philosophical and Legal Debate; Oxford University Press: New York, NY, USA,
+      2007; ISBN 0-19-804382-1.
+16.   Carey, R.; Parker, C.; Scrinis, G. Capturing the Meaning of “Free Range”: The Contest between Producers, Supermarkets and
+      Consumers for the Higher Welfare Egg Label in Australia. J. Rural Stud. 2017, 54, 266–275. [CrossRef]
+17.   European Commission. Farm to Fork Strategy. Available online: https://ec.europa.eu/food/sites/food/files/safety/docs/f2f_
+      action-plan_2020_strategy-info_en.pdf (accessed on 23 February 2021).
+18.   Nakat, Z.; Bou-Mitri, C. COVID-19 and the Food Industry: Readiness Assessment. Food Control 2021, 121, 107661. [CrossRef]
+      [PubMed]
+19.   Anagnostou, A.; Ingenbleek, P.T.M.; van Trijp, H.C.M. Sustainability Labelling as a Challenge to Legitimacy: Spillover Effects of
+      Organic Fairtrade Coffee on Consumer Perceptions of Mainstream Products and Retailers. J. Consum. Mark. 2015, 32, 422–431.
+      [CrossRef]
+20.   Chrysochou, P.; Festila, A. A Content Analysis of Organic Product Package Designs. J. Consum. Mark. 2019, 36, 441–448.
+      [CrossRef]
+21.   Klintman, M. Ambiguous Framings of Political Consumerism: Means or End, Product or Process Orientation? Int. J. Consum.
+      Stud. 2006, 30, 427–438. [CrossRef]
+22.   Klintman, M. Participation in Green Consumer Policies: Deliberative Democracy under Wrong Conditions? J. Consum. Policy
+      2009, 32, 43–57. [CrossRef]
+23.   Koos, S. Varieties of Environmental Labelling, Market Structures, and Sustainable Consumption Across Europe: A Comparative
+      Analysis of Organizational and Market Supply Determinants of Environmental-Labelled Goods. J. Consum. Policy 2011, 34,
+      127–151. [CrossRef]
+24.   Larceneux, F.; Benoit-Moreau, F.; Renaudin, V. Why Might Organic Labels Fail to Influence Consumer Choices? Marginal
+      Labelling and Brand Equity Effects. J. Consum. Policy 2012, 35, 85–104. [CrossRef]
+25.   Vanclay, J.K.; Shortiss, J.; Aulsebrook, S.; Gillespie, A.M.; Howell, B.C.; Johanni, R.; Maher, M.J.; Mitchell, K.M.; Stewart, M.D.;
+      Yates, J. Customer Response to Carbon Labelling of Groceries. J. Consum. Policy 2011, 34, 153–160. [CrossRef]
+26.   Charlebois, S.; Schwab, A.; Henn, R.; Huck, C.W. Food Fraud: An Exploratory Study for Measuring Consumer Perception
+      towards Mislabeled Food Products and Influence on Self-Authentication Intentions. Trends Food Sci. Technol. 2016, 50, 211–218.
+      [CrossRef]
+27.   Fitzgerald, M.P.; Donovan, K.R.; Kees, J.; Kozup, J. How Confusion Impacts Product Labeling Perceptions. J. Consum. Mark. 2019,
+      36, 306–316. [CrossRef]
+28.   Lin, C.-T.J.; Lee, J.-Y.; Yen, S.T. Do Dietary Intakes Affect Search for Nutrient Information on Food Labels? Soc. Sci. Med. 2004, 59,
+      1955–1967. [CrossRef]
+29.   Moser, A.K. Buying Organic–Decision-Making Heuristics and Empirical Evidence from Germany. J. Consum. Mark. 2016, 33,
+      552–561. [CrossRef]
+30.   Sanjari, S.S.; Jahn, S.; Boztug, Y. Dual-Process Theory and Consumer Response to Front-of-Package Nutrition Label Formats. Nutr.
+      Rev. 2017, 75, 871–882. [CrossRef]
+31.   Zlatev, J.; Smith, V.; van de Weijer, J.; Skydsgaard, K. Noun–Noun Compounds for Fictive Food Products: Experimenting in the
+      Borderzone of Semantics and Pragmatics. J. Pragmat. 2010, 42, 2799–2813. [CrossRef]
+32.   Smith, V.; Barratt, D.; Zlatev, J. Unpacking Noun-Noun Compounds: Interpreting Novel and Conventional Foodnames in
+      Isolation and on Food Labels. Cogn. Linguist. 2014, 25, 99–147. [CrossRef]
+33.   Gaillard, A.; Urdapilleta, I. Sorting Food Labels and Describing Properties of Categories: Stability of Results between and within
+      Subjects. Psychol. Rep. 2011, 109, 187–207. [CrossRef]
+34.   Graham, D.J.; Mohr, G.S. When Zero Is Greater than One: Consumer Misinterpretations of Nutrition Labels. Health Psychol. 2014,
+      33, 1579–1587. [CrossRef] [PubMed]
+35.   Nyilasy, G.; Lei, J.; Nagpal, A.; Tan, J. Colour Correct: The Interactive Effects of Food Label Nutrition Colouring Schemes and
+      Food Category Healthiness on Health Perceptions. Public Health Nutr. 2016, 19, 2122–2127. [CrossRef] [PubMed]
+36.   Aslam, M.M. Are You Selling the Right Colour? A Cross-cultural Review of Colour as a Marketing Cue. J. Mark. Commun. 2006,
+      12, 15–30. [CrossRef]
+37.   Spendrup, S.; Hunter, E.; Isgren, E. Exploring the Relationship between Nature Sounds, Connectedness to Nature, Mood and
+      Willingness to Buy Sustainable Food: A Retail Field Experiment. Appetite 2016, 100, 133–141. [CrossRef]
+
+===== PAGE 13 =====
+Agronomy 2021, 11, 613                                                                                                               13 of 17
+
+
+
+
+38.   Brewer, J.M.; Shavit, A.Y.; Shepard, T.G.; Veldhuizen, M.G.; Parikh, R.; Marks, L.E. Identification of Gustatory-Olfactory Flavor
+      Mixtures: Effects of Linguistic Labeling. Chem. Senses 2013, 38, 305–313. [CrossRef]
+39.   Ellen, P.S.; Bone, P.F. Stained by the Label? Stigma and the Case of Genetically Modified Foods. J. Public Policy Mark. 2008, 27,
+      69–82. [CrossRef]
+40.   Lapan, H.; Moschini, G. Grading, Minimum Quality Standards, and the Labeling of Genetically Modified Products. Am. J. Agric.
+      Econ. 2007, 89, 769–783. [CrossRef]
+41.   Dickinson, A.; Wills, W.; Meah, A.; Short, F. Food Safety and Older People: The Kitchen Life Study. Br. J. Community Nurs. 2014,
+      19, 226–232. [CrossRef]
+42.   McCrory, C.; White, C.M.; Bowman, C.; Fenton, N.; Reid, J.L.; Hammond, D. Perceptions and Knowledge of Caffeinated Energy
+      Drinks: Results of Focus Groups With Canadian Youth. J. Nutr. Educ. Behav. 2017, 49, 304–311.e6. [CrossRef]
+43.   Fernan, C.; Schuldt, J.P.; Niederdeppe, J. Health Halo Effects from Product Titles and Nutrient Content Claims in the Context of
+      “Protein” Bars. Health Commun. 2018, 33, 1425–1433. [CrossRef] [PubMed]
+44.   Draper, A.K.; Adamson, A.J.; Clegg, S.; Malam, S.; Rigg, M.; Duncan, S. Front-of-Pack Nutrition Labelling: Are Multiple Formats
+      a Problem for Consumers? Eur. J. Public Health 2013, 23, 517–521. [CrossRef]
+45.   Graham, D.J.; Orquin, J.L.; Visschers, V.H.M. Eye Tracking and Nutrition Label Use: A Review of the Literature and Recommen-
+      dations for Label Enhancement. Food Policy 2012, 37, 378–382. [CrossRef]
+46.   Oliveira, D.; Machín, L.; Deliza, R.; Rosenthal, A.; Walter, E.H.; Giménez, A.; Ares, G. Consumers’ Attention to Functional Food
+      Labels: Insights from Eye-Tracking and Change Detection in a Case Study with Probiotic Milk. Lwt-Food Sci. Technol. 2016, 68,
+      160–167. [CrossRef]
+47.   Ares, G.; Giménez, A.; Bruzzone, F.; Vidal, L.; Antúnez, L.; Maiche, A. Consumer Visual Processing of Food Labels: Results from
+      an Eye-Tracking Study: Visual Processing of Food Labels. J. Sens. Stud. 2013, 28, 138–153. [CrossRef]
+48.   Huang, J.; Peng, Y.; Wan, X. The Color-Flavor Incongruency Effect in Visual Search for Food Labels: An Eye-Tracking Study. Food
+      Qual. Prefer. 2021, 88, 104078. [CrossRef]
+49.   Antúnez, L.; Vidal, L.; Sapolinski, A.; Giménez, A.; Maiche, A.; Ares, G. How Do Design Features Influence Consumer Attention
+      When Looking for Nutritional Information on Food Labels? Results from an Eye-Tracking Study on Pan Bread Labels. Int. J. Food
+      Sci. Nutr. 2013, 64, 515–527. [CrossRef] [PubMed]
+50.   Crossan, M.M.; Apaydin, M. A Multi-Dimensional Framework of Organizational Innovation: A Systematic Review of the
+      Literature: A Framework of Organizational Innovation. J. Manag. Stud. 2010, 47, 1154–1191. [CrossRef]
+51.   Leonidou, E.; Christofi, M.; Vrontis, D.; Thrassou, A. An Integrative Framework of Stakeholder Engagement for Innovation
+      Management and Entrepreneurship Development. J. Bus. Res. 2020, 119, 245–258. [CrossRef]
+52.   Christofi, M.; Leonidou, E.; Vrontis, D. Cause-Related Marketing, Product Innovation and Extraordinary Sustainable Leadership:
+      The Root towards Sustainability. Glob. Bus. Econ. Rev. 2015, 17, 93. [CrossRef]
+53.   de Menezes, L.M.; Kelliher, C. Flexible Working and Performance: A Systematic Review of the Evidence for a Business Case:
+      Flexible Working and Performance. Int. J. Manag. Rev. 2011, 13, 452–474. [CrossRef]
+54.   Tranfield, D.; Denyer, D.; Smart, P. Towards a Methodology for Developing Evidence-Informed Management Knowledge by
+      Means of Systematic Review. Br. J. Manag. 2003, 14, 207–222. [CrossRef]
+55.   Wang, C.L.; Chugh, H. Entrepreneurial Learning: Past Research and Future Challenges: Advancing Entrepreneurial Learning
+      Research. Int. J. Manag. Rev. 2014, 16, 24–61. [CrossRef]
+56.   Paul, J.; Criado, A.R. The Art of Writing Literature Review: What Do We Know and What Do We Need to Know? Int. Bus. Rev.
+      2020, 29, 101717. [CrossRef]
+57.   Moher, D.; Liberati, A.; Tetzlaff, J.; Altman, D.G. The PRISMA Group Preferred Reporting Items for Systematic Reviews and
+      Meta-Analyses: The PRISMA Statement. PLoS Med. 2009, 6, e1000097. [CrossRef] [PubMed]
+58.   Cronin, P.; Ryan, F.; Coughlan, M. Undertaking a Literature Review: A Step-by-Step Approach. Br. J. Nurs. 2008, 17, 38–43.
+      [CrossRef]
+59.   Newell, R.; Burnard, P. Vital Notes for Nurses: Research for Evidence-Based Practice; Wiley-Blackwell: Hoboken, NJ, USA, 2006; ISBN
+      1-4051-2562-4.
+60.   Ely, C.; Scott, I. Essential Study Skills for Nursing; Elsevier Health Sciences: New York, NY, USA, 2007; ISBN 0-7234-3371-2.
+61.   Fink, A. Conducting Research Literature Reviews: From the Internet to Paper; Sage Publications: Newbury Park, CA, USA, 2019; ISBN
+      1-5443-1848-0.
+62.   Bauer, J.M.; Reisch, L.A. Behavioural Insights and (Un)Healthy Dietary Choices: A Review of Current Evidence. J. Consum. Policy
+      2019, 42, 3–45. [CrossRef]
+63.   Mishra, D.K.; Sekhari, A.; Henry, S.; Ouzrout, Y. Traceability in Product Supply Chain: A Global Model. In Product Lifecycle
+      Management for Digital Transformation of Industries; Harik, R., Rivest, L., Bernard, A., Eynard, B., Bouras, A., Eds.; Springer
+      International Publishing: Cham, Switzerland, 2016; Volume 492, pp. 377–384. ISBN 978-3-319-54659-9.
+64.   Yong-Hak, J. The Definitive Resource for Global Research Web of Science Access Powerful Cited Reference Searching and Multidisciplinary
+      Content; Thomson Reuters: Ann Arbor, MI, USA, 2019.
+65.   Bimbo, F.; Bonanno, A.; Nocella, G.; Viscecchia, R.; Nardone, G.; De Devitiis, B.; Carlucci, D. Consumers’ Acceptance and
+      Preferences for Nutrition-Modified and Functional Dairy Products: A Systematic Review. Appetite 2017, 113, 141–154. [CrossRef]
+      [PubMed]
+
+===== PAGE 14 =====
+Agronomy 2021, 11, 613                                                                                                            14 of 17
+
+
+
+
+66.   Littell, J.H. Systematic Reviews in the Social Sciences: A Review. Evid. Policy A J. Res. Debate Pract. 2006, 2, 535–537. [CrossRef]
+67.   Institute, J.B. Comprehensive Systematic Review Module 3: The Systematic Review of Quantitative Evidence, Study Guide; Joanna Briggs
+      Institute: Adelaide, Australia, 2011.
+68.   Elliott, C. Marketing Fun Foods: A Profile and Analysis of Supermarket Food Messages Targeted at Children. Can. Public Policy
+      2008, 34, 259–273. [CrossRef]
+69.   Wood, A.; Tenbensel, T. A Comparative Analysis of Drivers of Collaborative Governance in Front-of-Pack Food Labelling Policy
+      Processes. J. Comp. Policy Anal. Res. Pract. 2018, 20, 404–419. [CrossRef]
+70.   Al-Hamdani, M.; Smith, S. Food Product Design: Emerging Evidence for Food Policy. Int. J. Food Sci. Nutr. 2017, 68, 131–137.
+      [CrossRef]
+71.   Kumar, N.; Kapoor, S. Do Labels Influence Purchase Decisions of Food Products? Study of Young Consumers of an Emerging
+      Market. Br. Food J. 2017, 119, 218–229. [CrossRef]
+72.   Machado, P.P.; Kraemer, M.V.; dos Kliemann, N.S.; Colussi, C.F.; Veiros, M.B.; da Proença, R.P.C. Serving Sizes and Energy Values
+      on the Nutrition Labels of Regular and Diet/Light Processed and Ultra-Processed Dairy Products Sold in Brazil. Br. Food J. 2016,
+      118, 1579–1593. [CrossRef]
+73.   Latiff, Z.A.B.A.; Rezai, G.; Mohamed, Z.; Ayob, M.A. Food Labels’ Impact Assessment on Consumer Purchasing Behavior in
+      Malaysia. J. Food Prod. Mark. 2016, 22, 137–146. [CrossRef]
+74.   Liang, R.-D. Predicting Intentions to Purchase Organic Food: The Moderating Effects of Organic Food Prices. Br. Food J. 2016, 118,
+      183–199. [CrossRef]
+75.   Spaulding, C.J.; Mcneal, C.J.; Coppin, J.D.; Shimek, C.; Field, L.; Murano, P.S. Engaging Inner City Middle School Students in
+      Development of an Energy Expenditure Food Label. J. Prev. Interv. Community 2015, 43, 123–134. [CrossRef]
+76.   dos Kraemer, M.V.S.; Machado, P.P.; Kliemann, N.; Chica, D.A.G.; da Proença, R.P.C. The Brazilian Population Consumes Larger
+      Serving Sizes than Those Informed on Labels. Br. Food J. 2015, 117, 719–730. [CrossRef]
+77.   Lwin, M.O. Comparative Practices of Food Label Claims from US, EU and Selected Southeast Asian Countries. J. Consum. Mark.
+      2015, 32, 530–541. [CrossRef]
+78.   Newman, C.L.; Turri, A.M.; Howlett, E.; Stokes, A. Twenty Years of Country-of-Origin Food Labeling Research: A Review of the
+      Literature and Implications for Food Marketing Systems. J. Macromark. 2014, 34, 505–519. [CrossRef]
+79.   Mohamed, Z.; Teng, P.K.; Rezai, G.; Sharifuddin, J. Malaysian Consumers’ Willingness-to-Pay Toward Eco-Labeled Food Products
+      in Klang Valley. J. Food Prod. Mark. 2014, 20, 63–74. [CrossRef]
+80.   Williams, W. Outward Facing: W&R Jacob & Co. Biscuit Labels, 1900-1939. J. Hist. Res. Mark. 2014, 6, 56–97. [CrossRef]
+81.   Ares, G.; Giménez, A.; Bruzzone, F.; Antúnez, L.; Sapolinski, A.; Vidal, L.; Maiche, A. Attentional Capture and Understanding of
+      Nutrition Labelling: A Study BTased on Response Times. Int. J. Food Sci. Nutr. 2012, 63, 679–688. [CrossRef] [PubMed]
+82.   Golan, E.; Kuchler, F.; Mitchell, L.; Greene, C.; Jessup, A. Economics of Food Labeling. J. Consum. Policy 2001, 24, 117–184.
+      [CrossRef]
+83.   Legendre, S.; Coderre, F. The Impact of Altruistic Attribution and Brand Equity in Food Label Campaigns. J. Prod. Brand Manag.
+      2018, 27, 634–646. [CrossRef]
+84.   Bissinger, K.; Leufkens, D. Ethical Food Labels in Consumer Preferences. Br. Food J. 2017, 119, 1801–1814. [CrossRef]
+85.   Merle, A.; Herault-Fournier, C.; Werle, C.O.C. The Effects of Indication of Local Geographical Origin on Food Perceptions. Rech.
+      Appl. Mark. 2016, 31, 26–42. [CrossRef]
+86.   Teng, C.-C.; Wang, Y.-M. Decisional Factors Driving Organic Food Consumption: Generation of Consumer Purchase Intentions.
+      Br. Food J. 2015, 117, 1066–1081. [CrossRef]
+87.   Salnikova, E.; Stanton, J.L.; Hooker, N. A Comparison of Front-of-Pack Nutrition Claims between the US and EU. Br. Food J. 2014,
+      116, 337–352. [CrossRef]
+88.   Bosman, M.J.; Van der Merwe, D.; Ellis, S.M.; Jerling, J.C.; Badham, J. South African Adult Metropolitan Consumers’ Opinions
+      and Use of Health Information on Food Labels. Br. Food J. 2014, 116, 30–43. [CrossRef]
+89.   Huang, C.-H.; Lee, C.-H. Consumer Willingness to Pay for Organic Fresh Milk in Taiwan. China Agric. Econ. Rev. 2014, 6, 198–211.
+      [CrossRef]
+90.   Stuart, S.A. The Relationship between Mandatory and Other Food Label Information. Br. Food J. 2010, 112, 21–31. [CrossRef]
+91.   Tanner, S.A.; McCarthy, M.B.; O’Reilly, S.J. Digital Labelling in the Retail Environment: A Domain-Specific Innovativeness
+      Perspective. Int. J. Retail Disrtib. Manag. 2019, 47, 1336–1352. [CrossRef]
+92.   Khandpur, N.; Mais, L.A.; de Sato, P.M.; Martins, A.P.B.; Spinillo, C.G.; Rojas, C.F.U.; Garcia, M.T.; Jaime, P.C. Choosing a
+      Front-of-Package Warning Label for Brazil: A Randomized, Controlled Comparison of Three Different Label Designs. Food Res.
+      Int. 2019, 121, 854–861. [CrossRef]
+93.   Goodman, S.; Vanderlee, L.; Acton, R.; Mahamad, S.; Hammond, D. The Impact of Front-of-Package Label Design on Consumer
+      Understanding of Nutrient Amounts. Nutrients 2018, 10, 1624. [CrossRef]
+94.   Egnell, M.; Talati, Z.; Hercberg, S.; Pettigrew, S.; Julia, C. Objective Understanding of Front-of-Package Nutrition Labels: An
+      International Comparative Experimental Study across 12 Countries. Nutrients 2018, 10, 1542. [CrossRef] [PubMed]
+95.   Ayaz, A.; Dedebayraktar, D.; Inan-Eroglu, E.; Besler, H.T.; Buyuktuncer, Z. How Does Nutrition Education Contribute to the
+      Consumers’ Use and Attitudes towards Food Labels? Nutr. Food Sci. 2020, 10, 174. [CrossRef]
+
+===== PAGE 15 =====
+Agronomy 2021, 11, 613                                                                                                              15 of 17
+
+
+
+
+96.  Medina-Molina, C.; Pérez-González, B. Nutritional Labelling and Purchase Intention Interaction of Interpretative Food Labels
+     with Consumers’ Beliefs and Decisions. Br. Food J. 2020, 123, 754–770. [CrossRef]
+97. Lee, T.H.; Fu, C.-J.; Chen, Y.Y. Trust Factors for Organic Foods: Consumer Buying Behavior. Br. Food J. 2019, 122, 414–431.
+     [CrossRef]
+98. Apostolidis, C.; McLeay, F. To Meat or Not to Meat? Comparing Empowered Meat Consumers’ and Anti-Consumers’ Preferences
+     for Sustainability Labels. Food Qual. Prefer. 2019, 77, 109–122. [CrossRef]
+99. Corallo, A.; Latino, M.E.; Pizzi, R.; Spennato, A.; Fortunato, L.; Menegoli, M. Human Factor in Smart Labelling: How Enhance
+     Food Awareness in Consumers. In Proceedings of the 2019 6th International Conference on Frontiers of Industrial Engineering
+     (ICFIE) 2019, London, UK, 10–12 September 2019; pp. 89–93.
+100. Limbu, Y.B.; McKinley, C.; Gautam, R.K.; Ahirwar, A.K.; Dubey, P.; Jayachandran, C. Nutritional Knowledge, Attitude, and Use
+     of Food Labels among Indian Adults with Multiple Chronic Conditions: A Moderated Mediation Model. Br. Food J. 2019, 121,
+     1480–1494. [CrossRef]
+101. Pomeranz, J.L.; Wilde, P.; Mozaffarian, D.; Micha, R. Mandating Front-of-Package Food Labels in the U.S.–What Are the First
+     Amendment Obstacles? Food Policy 2019, 86, 101722. [CrossRef]
+102. Pereira, R.C.; de Angelis-Pereira, M.C.; Carneiro, J.D.S. Exploring Claims and Marketing Techniques in Brazilian Food Labels. Br.
+     Food J. 2019, 121, 1550–1564. [CrossRef]
+103. Ahuja, J.K.C.; Li, Y.; Nickle, M.S.; Haytowitz, D.B.; Roseland, J.; Nguyen, Q.; Khan, M.; Wu, X.; Somanchi, M.; Williams, J.; et al.
+     Comparison of Label and Laboratory Sodium Values in Popular Sodium-Contributing Foods in the United States. J. Acad. Nutr.
+     Diet. 2019, 119, 293–300.e17. [CrossRef] [PubMed]
+104. Samotyja, U. Influence of Shelf Life Labelling on the Sensory Acceptability of Potato Snacks. Br. Food J. 2015, 117, 222–233.
+     [CrossRef]
+105. Smith, V.; Clement, J.; Møgelvang-Hansen, P.; Sørensen, H.S. Assessing In-Store Food-to-Consumer Communication from a
+     Fairness Perspective: An Integrated Approach. Fachsprache 2011, 33, 84–106. [CrossRef]
+106. Leufkens, D. The Problem of Heterogeneity between Protected Geographical Indications: A Meta-Analysis. Br. Food J. 2018, 120,
+     2843–2856. [CrossRef]
+107. Bui, M.; Kaltcheva, V.D.; Patino, A.C.; Leventhal, R. Front-of-Package Product Labels: Influences of Varying Nutritional Food
+     Labels on Parental Decisions. J. Prod. Brand Manag. 2013, 22, 352–361. [CrossRef]
+108. Kajale, D.B.; Becker, T.C. Determinants of Consumer Support for Mandatory Labeling of Genetically Modified Food in India: A
+     Student Survey. Br. Food J. 2013, 115, 1597–1611. [CrossRef]
+109. Odaman, T.A.; Bahar, R.; Şam, S.; Ilyasoğlu, H. Food Label Reading Habits of Health Sciences Students. Nutr. Food Sci. 2020, 50,
+     1021–1032. [CrossRef]
+110. Choi, J.; Choi, A. Perceptions of Food Labelling about Allergens in Food Products in South Korea. Br. Food J. 2016, 118, 2842–2854.
+     [CrossRef]
+111. Hajdú, N.; Lipták, K.; Săplăcan, Z. Comparative Analysis of Baby Food Labelling in Hungary and in Romania: Consumers’
+     Perspective. Amfiteatru Econ. 2018, 20, 62–83. [CrossRef]
+112. Hellier, E.; Tucker, M.; Newbold, L.; Edworthy, J.; Griffin, J.; Coulson, N. The Effects of Label Design Characteristics on Perceptions
+     of Genetically Modified Food. J. Risk Res. 2012, 15, 533–545. [CrossRef]
+113. Kimura, A.; Kuwazawa, S.; Wada, Y.; Kyutoku, Y.; Okamoto, M.; Yamaguchi, Y.; Masuda, T.; Dan, I. Conjoint Analysis on the
+     Purchase Intent for Traditional Fermented Soy Product (Natto) among Japanese Housewives. J. Food Sci. 2011, 76, S217–S224.
+     [CrossRef] [PubMed]
+114. Connolly, C. In-line Quality Control of Product Coding from Cobalt IS. Sens. Rev. 2007, 27, 207–211. [CrossRef]
+115. Marino, C.J.; Mahan, R.P. Configural Displays Can Improve Nutrition-Related Decisions: An Application of the Proximity
+     Compatibility Principle. Hum. Factors J. Hum. Factors Ergon. Soc. 2005, 47, 121–130. [CrossRef] [PubMed]
+116. Hess, J.M.; Slavin, J.L. Healthy Snacks: Using Nutrient Profiling to Evaluate the Nutrient-Density of Common Snacks in the
+     United States: Nutrient Density of Snacks. J. Food Sci. 2017, 82, 2213–2220. [CrossRef]
+117. Brierley, M.; Elliott, C. Transparent Choices: Communicating Packaged Food Content to Children. Vis. Commun. 2017, 16, 57–74.
+     [CrossRef]
+118. de-Magistris, T.; Gracia, A.; Barreiro-Hurle, J. Do Consumers Care about European Food Labels? An Empirical Evaluation Using
+     Best-Worst Method. Br. Food J. 2017, 119, 2698–2711. [CrossRef]
+119. Szlachciuk, J.; Ozimek, I. The Reliability, Use and Evaluation of Sources of Information on Foodstuffs. Br. Food J. 2017, 119,
+     442–452. [CrossRef]
+120. Dixon, G.; McComas, K.; Besley, J.; Steinhardt, J. Transparency in the Food Aisle: The Influence of Procedural Justice on Views
+     about Labeling GM Foods. J. Risk Res. 2016, 19, 1158–1171. [CrossRef]
+121. Cucchiara, C.; Kwon, S.; Ha, S. Message Framing and Consumer Responses to Organic Seafood Labeling. Br. Food J. 2015, 117,
+     1547–1563. [CrossRef]
+122. Kapsak, W.R.; Schmidt, D.; Childs, N.M.; Meunier, J.; White, C. Consumer Perceptions of Graded, Graphic and Text Label
+     Presentations for Qualified Health Claims. Crit. Rev. Food Sci. Nutr. 2008, 48, 248–256. [CrossRef]
+
+===== PAGE 16 =====
+Agronomy 2021, 11, 613                                                                                                           16 of 17
+
+
+
+
+123. Cummings, C.L.; Chuah, A.S.F.; Ho, S.S. Protection Motivation and Communication through Nanofood Labels: Improving
+     Predictive Capabilities of Attitudes and Purchase Intentions toward Nanofoods. Sci. Technol. Hum. Values 2018, 43, 888–916.
+     [CrossRef]
+124. Nishida, W.; Fernandes, A.C.; Veiros, M.B.; Chica, D.A.G.; da Proença, R.P.C. A Comparison of Sodium Contents on Nutrition
+     Information Labels of Foods with and without Nutrition Claims Marketed in Brazil. Br. Food J. 2016, 118, 1594–1609. [CrossRef]
+125. de-Magistris, T.; Gracia, A. Consumers’ Willingness to Pay for Light, Organic and PDO Cheese: An Experimental Auction
+     Approach. Br. Food J. 2016, 118, 560–571. [CrossRef]
+126. Chan, K.; Tse, T.; Tam, D.; Huang, A. Perception of Healthy and Unhealthy Food among Chinese Adolescents. Young Consum.
+     2016, 17, 32–45. [CrossRef]
+127. Roberto, C.A.; Pomeranz, J.L.; Fisher, J.O. The Need for Public Policies to Promote Healthier Food Consumption: A Comment on
+     Wansink and Chandon (2014). J. Consum. Psychol. 2014, 24, 438–445. [CrossRef]
+128. Miller, L.M.S. Quantitative Information Processing of Nutrition Facts Panels. Br. Food J. 2014, 116, 1205–1219. [CrossRef]
+129. Singla, M. Usage and Understanding of Food and Nutritional Labels among Indian Consumers. Br. Food J. 2010, 112, 83–92.
+     [CrossRef]
+130. Brandt, M.; Moss, J.; Ferguson, M. The 2006–2007 Food Label and Package Survey (FLAPS): Nutrition Labeling, Trans Fat Labeling.
+     J. Food Compos. Anal. 2009, 22, S74–S77. [CrossRef]
+131. Rousu, M.C.; Corrigan, J.R. Estimating the Welfare Loss to Consumers When Food Labels Do Not Adequately Inform: An
+     Application to Fair Trade Certification. J. Agric. Food Ind. Organ. 2008, 6, 6. [CrossRef]
+132. Butler, L.T.; Berry, D.C. Transfer Effects in Implicit Memory and Consumer Choice. Appl. Cogn. Psychol. 2001, 15, 587–601.
+     [CrossRef]
+133. Sapci, O.; Sapci, A. Consumer Perception of Food Expiration Labels: “Sell By” Versus “Expires On. ” East. Econ. J. 2020, 46,
+     673–689. [CrossRef]
+134. Muller, L.; Ruffieux, B. What Makes a Front-of-Pack Nutritional Labelling System Effective: The Impact of Key Design Components
+     on Food Purchases. Nutrients 2020, 12, 2870. [CrossRef]
+135. Escribano, M.; Gaspar, P.; Mesias, F.J. Creating Market Opportunities in Rural Areas through the Development of a Brand That
+     Conveys Sustainable and Environmental Values. J. Rural Stud. 2020, 75, 206–215. [CrossRef]
+136. Khandpur, N.; Rimm, E.B.; Moran, A.J. The Influence of the New US Nutrition Facts Label on Consumer Perceptions and
+     Understanding of Added Sugars: A Randomized Controlled Experiment. J. Acad. Nutr. Diet. 2020, 120, 197–209. [CrossRef]
+137. Zhan, J.; Ma, Y.; Deng, P.; Li, Y.; Xu, M.; Xiong, H. Designing Enhanced Labeling Information to Increase Consumer Willingness
+     to Pay for Genetically Modified Foods. Br. Food J. 2020, 123, 405–418. [CrossRef]
+138. Liang, A.R.-D.; Lim, W.-M. Why Do Consumers Buy Organic Food? Results from an S–O–R Model. Asia Prac. J. Mark. Logist.
+     2020, 33, 394–415. [CrossRef]
+139. Nobrega, L.; Ares, G.; Deliza, R. Are Nutritional Warnings More Efficient than Claims in Shaping Consumers’ Healthfulness
+     Perception? Food Qual. Prefer. 2020, 79, 103749. [CrossRef]
+140. Ferrari, L.; Baum, C.M.; Banterle, A.; De Steur, H. Attitude and Labelling Preferences towards Gene-Edited Food: A Consumer
+     Study amongst Millennials and Generation Z. Br. Food J. 2020, 123, 1268–1286. [CrossRef]
+141. Miller, A.C.; Polgreen, L.A.; Segre, E.M.; Polgreen, P.M. Variations in Marginal Taste Perception by Body Mass Index Classification:
+     A Randomized Controlled Trial. J. Acad. Nutr. Diet. 2020, 120, 45–52. [CrossRef]
+142. Zerbini, C.; Luceri, B.; Marchetti, A.; Di Dio, C. Shaping Consumption Propensity through the Emotional Response Evoked by
+     Nutritional Labels: Evidence from an FMRI Study. Food Res. Int. 2019, 125, 108547. [CrossRef]
+143. Bray, J.; Hartwell, H.; Price, S.; Viglia, G.; Kapuściński, G.; Appleton, K.; Saulais, L.; Perez-Cueto, F.J.A.; Mavridis, I. Food
+     Information Presentation: Consumer Preferences When Eating Out. Br. Food J. 2019, 121, 1744–1762. [CrossRef]
+144. Bailey, R.; Muldrow, A. Healthy Food Identification: Food Cues and Claims Affect Speeded and Thoughtful Evaluations of Food.
+     Health Commun. 2019, 34, 735–746. [CrossRef] [PubMed]
+145. Schnettler, B.; Ares, G.; Sepúlveda, N.; Bravo, S.; Villalobos, B.; Hueche, C.; Lobos, G. Are Consumers Willing to Pay More
+     for Reformulated Processed Meat Products in the Context of the Implementation of Nutritional Warnings? Case Study with
+     Frankfurters in Chile. Meat Sci. 2019, 152, 104–108. [CrossRef]
+146. Berhaupt-Glickstein, A.; Hooker, N.H.; Hallman, W.K. Qualified Health Claim Language Affects Purchase Intentions for Green
+     Tea Products in the United States. Nutrients 2019, 11, 921. [CrossRef]
+147. Savchenko, O.M.; Kecinski, M.; Li, T.; Messer, K.D.; Xu, H. Fresh Foods Irrigated with Recycled Water: A Framed Field Experiment
+     on Consumer Responses. Food Policy 2018, 80, 103–112. [CrossRef]
+148. Mazocco, L.; Akutsu, R.C.C.A.; Botelho, R.B.A.; Da Silva, I.C.R.; Adjafre, R.; Zandonadi, R.P. Food Rating Scale in Food Services:
+     From Development to Assessment of a Strategy for Consumer Healthier Choices. Nutrients 2018, 10, 1303. [CrossRef]
+149. Shin, S.; van Dam, R.M.; Finkelstein, E.A. The Effect of Dynamic Food Labels with Real-Time Feedback on Diet Quality: Results
+     from a Randomized Controlled Trial. Nutrients 2020, 12, 2158. [CrossRef]
+150. Deliza, R.; de Alcantara, M.; Pereira, R.; Ares, G. How Do Different Warning Signs Compare with the Guideline Daily Amount
+     and Traffic-Light System? Food Qual. Prefer. 2020, 80, 103821. [CrossRef]
+151. Liu, P.; Wang, H.; Li, W.; Hu, B. The Influence of Sugar-Free Label Formats and Colors on Consumers’ Acceptance of Sugar-Free Foods;
+     Springer: Berlin/Heidelberg, Germany, 2020; Volume 1190, p. 626. ISBN 9783030498283.
+
+===== PAGE 17 =====
+Agronomy 2021, 11, 613                                                                                                              17 of 17
+
+
+
+
+152. Zlatevska, N.; Chowdhury, R.M.M.I.; Tam, L.; Holden, S. Facts-up-Front: Should Food Companies Follow the FDA or Industry
+     Label Format? The Effects of Combining Virtue and Vice Information on Consumer Evaluations. Mark. Lett. 2019, 30, 321–334.
+     [CrossRef]
+153. Mohajeri, M.; Hoojeghani, S.; Izadi, A.; Ghahremanzadeh, M.; Pourfarzi, F.; Nemati, A.; Barzegar, A. Food Choice Motivations
+     among Ardabil–Iran Adults? Nutr. Food Sci. 2019, 50, 641–652. [CrossRef]
+154. Miller, C.K.; Edwards, L.; Kissling, G.; Sanville, L. Evaluation of a Theory-Based Nutrition Intervention for Older Adults With
+     Diabetes Mellitus. J. Am. Diet. Assoc. 2002, 102, 1069–1081. [CrossRef]
+155. Przyrembel, H. Food Labelling Legislation in the EU and Consumers Information. Trends Food Sci. Technol. 2004, 15, 360–365.
+     [CrossRef]
+156. Office of the Chied Economist (OCE). How Much Food Waste Is There in the United States and Why Does It Matter; United States
+     Department of Agriculture (USDA): Washington, DC, USA, 2020.
+157. Patra, D.; Leisnham, P.T.; Tanui, C.K.; Pradhan, A.K. Evaluation of Global Research Trends in the Area of Food Waste Due to Date
+     Labeling Using a Scientometrics Approach. Food Control 2020, 115, 107307. [CrossRef]
+158. Wansink, B.; Chandon, P. Can “Low-Fat” Nutrition Labels Lead to Obesity? J. Mark. Res. 2006, 43, 605–617. [CrossRef]
+159. Harris, J.L.; Pomeranz, J.L.; Lobstein, T.; Brownell, K.D. A Crisis in the Marketplace: How Food Marketing Contributes to
+     Childhood Obesity and What Can Be Done. Annu. Rev. Public Health 2009, 30, 211–225. [CrossRef] [PubMed]
+160. Kraak, V.I.; Gootman, J.A.; McGinnis, J.M. Food Marketing to Children and Youth: Threat or Opportunity? National Academies Press:
+     Washington, DC, USA, 2006; ISBN 0-309-09713-4.
+161. Blisard, N. Food Spending by US Households Grew Steadily in the 1990’s. Food Rev. Nat. Food Rev. 2000, 23, 18–22.
+162. Colby, S.E.; Johnson, L.; Scheett, A.; Hoverson, B. Nutrition Marketing on Food Labels. J. Nutr. Educ. Behav. 2010, 42, 92–98.
+     [CrossRef]
+163. Turra, C.; de Vian, C.E.F.; Nielsen, F.A.G.; Santos, P.S.; de Penteado, L.F.F. Overview of the Brazilian Citriculture Certification. J.
+     Agric. Environ. Ethics 2014, 27, 663–679. [CrossRef]

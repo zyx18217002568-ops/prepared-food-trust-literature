@@ -1,0 +1,537 @@
+SOURCE_PDF: 1.3_文献不足/公众对预制菜的KAP调查及关注焦点研究_梁世圆.pdf
+EXTRACTION_STATUS: ok
+PAGES: 8
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+中国食品卫生杂志 2026 年 5 月第 38 卷第 5 期                       Chin J Food Hyg, May      2026，Vol.38，No.5                                  —505 —
+
+
+食品安全标准及监督管理
+                             公众对预制菜的 KAP 调查及关注焦点研究
+
+                                                梁世圆，董效泽，国鸽，陈潇，王君
+        （国家食品安全风险评估中心，国家卫生健康委食品安全风险评估重点实验室，北京                                                                          100022）
+
+
+       摘    要：目 的         探 究 我 国 公 众 对 预 制 菜 的 认 知 水 平 、态 度 倾 向 、消 费 行 为 及 关 注 焦 点，为 政 策 法 规 制 定 、公 众 科 普
+       和 产 业 高 质 量 发 展 提 供 参 考。 方 法             采 用 问 卷 调 查 的 方 法 ，回 收 有 效 问 卷 574 份 ，并 结 合 3 例 预 制 菜 相 关 舆 情 事
+       件进行综合分析。结果                  公众对预制菜的主观认知率较高（85. 0%），但客观认知相符率较低（59. 9%），存在明显认
+       知偏差；公众普 遍 认 同 便 捷 省 时 等 实 用 价 值 ，但 对 安 全 卫 生 信 任 不 足 ，重 点 关 注 原 料 安 全 等 问 题 ；对 在 家 烹 饪 和外
+       卖场景接受度 较 高 ，对 食 堂 和 餐 厅 接 受 度 偏 低 ；公 众 消 费 行 为 呈 现 高 渗 透 、低 频 次 特 征 ，消 费 目 的 主 要 受 年 龄 和 收
+       入 影 响；关 注 焦 点 在 定 义 认 知 差 异 、行 业 共 性 问 题 、知 情 权 保 障 等 方 面 。 结 论                          建 议 从 正 视 认 知 差 异 、加 强 全 链 条
+       监管、推动消费端明示、促进产业提质升级等方面协同发力，构建多元共治格局。
+       关键词：预制菜；公众态度；关注焦点；食品安全
+       中图分类号：R155                   文献标识码：A                 文章编号：1004-8456（2026）05-0505-08
+       DOI:10. 13590/j. cjfh. 2026. 05. 010
+
+
+                   A study on KAP survey and focus of public concern regarding prepared dishes
+                             LIANG Shiyuan，DONG Xiaoze，GUO Ge，CHEN Xiao，WANG Jun
+           （NHC Key Laboratory of Food Safety Risk Assessment, China National Center for Food Safety Risk
+                                                Assessment, Beijing 100022, China）
+
+
+       Abstract：Objective         To investigate the public’s cognitive level，attitude inclination，consumption behavior，and key
+       concerns regarding prepared dishes in China，and to provide a reference for policy and regulatory development，public
+       education，and the high-quality development of the industry. Methods          A questionnaire survey was conducted，and 574
+       valid responses were collected，which were analyzed in conjunction with three public opinion incidents related to prepared
+       dishes. Results    The public’s subjective awareness rate of prepared dishes was high （85. 0%），but the objective cognitive
+       consistency rate was low （59. 9%），indicating a significant cognitive bias. The public generally recognized practical
+       values such as convenience and timesaving，but had insufficient trust in safety and hygiene. They mainly focused on issues
+       like raw material safety. Acceptance was higher for home cooking and take-out scenarios，but lower for canteens and
+       restaurants. Public consumption behavior showed characteristics of high penetration but low frequency，with consumption
+       purposes mainly influenced by age and income. Public opinion focused on differences in definition cognition，common
+       industry problems，and the protection of the right to know. Conclusion        It is recommended to make coordinated efforts in
+       acknowledging cognitive differences， enhancing whole-chain supervision， promoting consumer-end disclosure， and
+       fostering industrial upgrading，to establish a multi-stakeholder governance framework.
+       Keywords：Prepared dishes；public attitudes；key concerns；food safety
+
+
+       预 制 加 工 并 非 新 生 事 物 ，传 统 家 庭 的 食 材 预 处                            预 制 菜 新 业 态 迅 速 兴 起 ，并 快 速 进 入 公 众 视 野 。 此
+理 、餐 饮 后 厨 的 半 成 品 备 料 早 已 长 期 存 在 。 然 而 近                               类产品打破了传统菜肴依赖厨师现场烹制的模式，
+年 来 ，受 人 们 生 活 节 奏 加 快 、消 费 需 求 升 级 、冷 链 物                               转 化 为 可 批 量 生 产 、便 于 储 存 运 输 的 预 包 装 食 品 ，
+流水平提升及供应链体系日趋完善等多重因素驱                                                    实 现 了 从“锅 前 准 备 ”向“工 厂 预 制 ”的 转 变 ，推 动 了
+ ［1］
+动 ，以 工 业 化 、规 模 化 、标 准 化 生 产 为 核 心 特 征 的                                 餐饮模式与家庭烹饪方式的变化。
+
+
+收稿日期：2026⁃03⁃19
+基金项目：国家重点研发计划（2017YFC1601006）
+作者简介：梁世圆             女    助理研究员       研究方向为食品标准              E-mail: liangshiyuan@cfsa.net.cn
+通信作者：王君          女       研究员    研究方向为食品安全             E-mail: wangjun@cfsa.net.cn
+
+===== PAGE 2 =====
+—506 —                     中国食品卫生杂志 2026 年 5 月第 38 卷第 5 期               Chin J Food Hyg, May   2026，Vol.38，No.5
+
+
+    党 中 央 、国 务 院 和 地 方 人 民 政 府 高 度 重 视 预 制              1      资料与方法
+菜 产 业 发 展 ，2023 年 中 央 一 号 文 件 明 确 提 出“ 培 育              1. 1      问卷调查内容和方法
+               ［2］
+发 展 预 制 菜 产 业 ” ，广 东 、山 东 等 地 方 相 继 出 台 政                      问 卷 调 查 采 用 文 献 梳 理 、问 卷 设 计 、专 家 咨 询 、
+                                   ［3-6］
+策措施推进预制菜产业高质量发展                        。为引导预            预 调 查 、正 式 调 查 、数 据 分 析 的 研 究 路 径 ，确 保 科 学
+制菜行业规范发展，2024 年 3 月，市场监管总局、教                            性 与 针 对 性 。 通 过 梳 理 相 关 文 献 资 料 ，结 合 近 几 年
+育 部 、工 业 和 信 息 化 部 、农 业 农 村 部 、商 务 部 、国 家               典 型 舆 情 案 例 中 的 公 众 关 切 点 ，设 计 调 查 问 卷 初
+卫 生 健 康 委 联 合 印 发《关 于 加 强 预 制 菜 食 品 安 全 监               稿 。 通 过 专 家 咨 询 及 小 范 围 预 调 查 ，对 问 卷 的 框 架
+                             ［7］
+管 促 进 产 业 高 质 量 发 展 的 通 知》 （国 市 监 食 生 发                 逻 辑 、题 目 设 计 、跳 转 逻 辑 等 进 行 优 化 ，最 终 形 成 预
+〔2024〕27 号）
+          （以 下 简 称《通 知》），对 预 制 菜 的 定 义                  制 菜 公 众 认 知 、态 度 与 消 费 行 为 调 查 问 卷 。 问 卷 共
+范 围 、标 准 体 系 建 设 、食 品 安 全 监 管 、推 进 产 业 高 质              设 置 20 道题目，包括 4 个部分：
+                                                                           （1）人口统计学特征
+量发展四方面进行明确。                                             类 6 道题，包括性别、年龄、最高教育程度、职业、常住
+    艾媒咨询数据显示，2024 年中国预制菜产业延                                      （2）预制菜认知水平类 2 道题 ，
+                                                        地、月均可支配收入；
+       市场规模达到 4 850 亿元，
+续稳健增长态势，              同比增长                              包 括 认 知 自 评 题 、产 品 判 断 题 ；
+                                                                                 （3）预 制 菜 态 度 倾 向
+33. 8%，预计 2026 年市场规模将突破 7 490 亿元 ，               ［8］
+                                                        类 8 道 题 ，包 括 预 制 菜 的 优 势 、问 题 、不 同 场 景 接 受
+展现出广阔的市场潜力。尽管预制菜产业呈现蓬                                   程度、消费意愿措施、科普宣传渠道、科普宣传形式、
+勃 发 展 态 势 ，但 社 会 各 方 对 预 制 菜 的 理 解 千 差 万                       （4）预 制 菜 消 费 行 为 类 4 道 题 ，包
+                                                        行业发展建议等；
+别 ，公 众 对 预 制 菜 的 安 全 性 、营 养 保 持 、标 签 透 明 度              括消费产品类型、消费频率、消费目的、消费感知。
+等问题仍存疑虑，
+       “预制菜进校园事件”
+                “槽头肉事                                          采 用 线 上 问 卷 平 台“ 问 卷 星 ”开 展 中 国 30 个 省
+                 ［9-10］
+件 ”等 热 点 舆 情 频 发      ，引 发 社 会 广 泛 关 注 与 热 烈            （自 治 区 、直 辖 市）范 围 内 的 匿 名 调 查 ，通 过 食 品 伙
+讨 论 ，行 业 信 任 体 系 尚 未 完 全 建 立 ，不 仅 影 响 了 消               伴 网 、知 乎 发 放 问 卷 ，问 卷 收 集 时 间 为 2025 年 10~
+费者的消费意愿，也制约了产业的高质量发展。                                   11 月。使用 Excel 2016 建立数据库，并进行数据清
+    目前国内针对预制菜的研究主要集中在行业                                 洗，剔除答题时长异常、选项高度一致、逻辑矛盾等无
+现 状 和 发 展 对 策 、生 产 加 工 和 控 制 技 术 等 方 面 。 对              效问卷后，建立有效数据库。使用 SPSS 27. 0 进行统
+                                       ［11］
+预 制 菜 舆 论 焦 点 研 究 较 少 ，其 中 李 航 等           分析了预         计分析，主要方法包括描述性统计、差异性分析和交
+制菜网络舆论的焦点及引发大众负面情绪的原因，                                  叉分 析 。 为 验 证 调 查 结 果 的 可 靠 性 ，对 问 卷 核 心 态
+研究结果显示预制菜的舆论焦点主要集中于使用                                   度量表进行信度和效度检验，总量表 Cronbach’s α>
+便 利 、大 众 担 忧 、校 园 舆 论 ，引 发 大 众 负 面 情 绪 的 原              0. 90，KMO>0. 89，Bartlett 球 形 度 检 验 P<0. 001，表
+因 主 要 集 中 在 食 品 安 全 、添 加 剂 使 用 和 大 众 知 情 权              明 问 卷 内 部 的 相 关 性 和 一 致 性 极 高 ，可 以 支 持 分 析
+                                              ［12-15］
+等方面；对预制菜的购买意愿的研究较为丰富                                ，   结论的有效性。
+但 存 在 调 查 样 本 覆 盖 面 有 限 、相 关 研 究 不 够 细 化 等              1. 2      关注焦点分析和方法
+情 况 ，对于公众的主要担忧和顾虑有待进一步挖掘。                                      关 注 焦 点 分 析 以 全 网 传 播 声 量 、公 众 热 议 程 度
+国外针对预制菜类产品的研究主要集中在安全控制、                                 为 舆 情 案 例 的 选 取 标 准 ，选 取 2023—2025 年 引 发
+营养质量、加工技术等方面［16-18］，尚未涉及预制菜舆                            公 众 关 注 的“ 预 制 菜 进 校 园 事 件 ”
+                                                                                   “ 槽 头 肉 事 件 ”及
+情焦点的系统探讨，对预制菜消费意愿的研究也相对                                 “西贝事件”3 例预制菜相关舆情。通过智慧星光等
+有限，其中 LIN 等   ［19］
+                 探究了文化倾向对中国预制菜肴                         舆 情 监 测 系 统 ，采 集 事 件 关 键 周 期 内 的 全 网 公 开 数
+购买 意 愿 的 影 响 ，研 究 发 现 本 土 民 族 中 心 主 义（倾                 据 ，包 括 新 闻 报 道 、社 交 媒 体 帖 文 、论 坛 讨 论 及 短 视
+向 认 可 本 国 产 品）和 世 界 主 义（乐 于 接 受 各 类 产 品）                频 内 容 。 对 传 播 规 模 、峰 值 特 点 、核 心 关 注 点 等 进
+对 消 费 者 的 购 买 意 愿 有 正 向 影 响 ，而 东 道 国 民 族 中              行梳理，提炼舆论呈现的核心特征。
+心 主 义（倾 向 认 可 外 国 产 品）对 消 费 者 的 购 买 意 愿
+有 负 向 影 响 。 综 上 所 述 ，目 前 缺 乏 对 认 知 、态 度 、消              2      结果
+费 行 为 及 关 注 焦 点 的 系 统 性 研 究 ，尚 难 以 全 面 回 应              2. 1      问卷调查结果
+产 业 发 展 中 的 核 心 矛 盾 与 公 众 关 切 。 基 于 此 ，本 研              2. 1. 1     基本信息
+究 通 过 中 国 30 个 省（自 治 区 、直 辖 市）范 围 的 知 识 、                      本调查共回收问卷 642 份，经筛选后获得有效问
+态 度 及 行 为（Knowledge-attitude-practice，KAP）问 卷           卷 574 份，有效率为 89. 41%。样本覆盖中国 30 个省
+调 查 ，结 合 典 型 舆 情 事 件 进 行 分 析 ，旨 在 为 政 策 法               （自 治区、直辖市），地域覆盖范围充足。受访者的人
+规制定、公众科普和产业高质量发展提 供 参 考 。                               口 统 计 学 特 征 分 布 广 泛（见 表 1），性 别 占 比 相 对 均
+
+===== PAGE 3 =====
+中国食品卫生杂志 2026 年 5 月第 38 卷第 5 期                     Chin J Food Hyg, May   2026，Vol.38，No.5                —507 —
+
+
+表1    2025 年 10~11 月中国 30 个省（自治区、直辖市）公众对                           受 访 者 表 示 对 预 制 菜 了 解 一 些 或 非 常 了 解 ，15. 0%
+          预制菜 KAP 调查的受访者人口统计学特征                                    的 受 访 者 表 示 仅 听 说 过 预 制 菜 ，无 人 表 示 从 未 听 说
+  Table 1   Demographic characteristics of the respondents of
+                                                                   过预制菜。
+prepared dishes KAP survey in 30 provinces (autonomous regions,
+                                                                          公 众 对 预 制 菜 的 客 观 认 知 相 符 程 度 方 面 ，以
+  municipalities) in China from October to November in 2025
+                                                                  《通 知》中 预 制 菜 的 定 义 为 判 定 依 据 ，对 受 访 者 判 断
+项目                               频数               比例/%
+性别                                                                 10 种常见预包装食品是否属于预制菜的结果进行统
+ 男                               277                48.3           计（图 1）。结果显示，10 种食品的平均认知相符率为
+ 女                               297                51.7
+年龄                                                                 59. 9%，各类食品均存在不同程度偏差，尤其是速冻
+ 17 岁及以下                          10                 1.7           肉夹馍（21. 6% 认知相符率）、中央厨房制作的半成品
+ 18~25 岁                          66                11.5
+ 26~35 岁                         182                31.7
+                                                                   菜肴（24. 0% 认 知 相 符 率）的 认 知 相 符 率 最 低 ，速 冻
+ 36~45 岁                         184                32.1           梅菜扣肉（97. 6% 认知相符率）的认知相符率最高。
+ 46~55 岁                         104                18.1
+                                                                          为 量 化 客 观 认 知 水 平 ，对 受 访 者 判 断 结 果 进 行
+ 56 岁及以上                           4.9               4.9
+最高教育程度                                                             赋 分（答 对 1 分 ，答 错 0 分），总 分 范 围 为 0~10 分 ，
+                                  51                 8.9
+ 高中/中专及以下
+                                                                   并 以 5 分 为 界 划 分 高 认 知 水 平 组（>5 分）与 低 认 知
+ 专科                               94                16.4
+ 本科                              263                45.8           水 平 组（≤5 分），进 一 步 通 过 χ2 独 立 性 检 验 ，分 析 客
+ 硕士                              132                23.0           观认知水平在不同人口统计学特征群体间的差异
+ 博士                               34                 5.9
+职业情况                                                              （表 2）。描述性统计可见，56 岁及以上人群高认知比
+ 食品领域工作者                         316                55.1           例达 82. 1%，博士群体为 76. 5%，月收入 15 000 元以
+ 其他领域工作者                         161                28.0
+ 全职家庭主妇/主夫                        13                 2.3           上者为 71. 8%，食品领域工作者为 64. 9%，而 年轻、
+ 待业/失业人员                           4                 0.7           低 学 历 、中 低 收 入 、其 他 职 业 的 群 体 客 观 认 知 水 平
+ 退休人员                             11                 1.9
+ 学生                               46                 8.0
+                                                                   相对较低；χ2 检验结果显示，年龄、教育程度、职业与
+ 其他                               23                 4.0           认 知 水 平 存 在 显 著 关 联 ，性 别 、常 住 地 、月 收 入 与 认
+常住地
+                                                                   知 水 平 未 呈 现 显 著 关 联 ；线 性 关 联 检 验 结 果 表 示 ，
+ 直辖市                             107                18.6
+ 省会                              122                21.3           年 龄 、教 育 程 度 、月 收 入 3 个 有 序 变 量 均 呈 现 显 著
+ 地级市                             197                34.3
+                                                                   的 递 增 趋 势 ，提 示 认 知 水 平 随 年 龄 增 长 、学 历 提 升 、
+ 县级市                              42                 7.3
+ 县城                               75                13.1           收 入 增 加 而 上 升 。 综 合 分 析 ，预 制 菜 客 观 高 认 知 群
+ 乡镇                               22                 3.8
+                                                                   体为高龄、高学历、高收入、食品领域工作者。
+ 农村地区                              9                 1.6
+月均可支配收入                                                            2. 1. 3   预制菜态度倾向
+ 3 000 元及以下                       79                13.8                  公众对预制菜的优势认同聚焦于操作简单
+ 3 001~6 000 元                   162                28.2
+ 6 001~10 000 元                  171                29.8          （82. 2% 认同）、便捷省时（78. 6% 认同）等实用价值
+ 10 001~15 000 元                  84                14.6           方 面 ，而 对 安 全 卫 生（39. 5% 认 同）的 认 同 率 最 低 ；
+ 15 000 元以上                       78                13.6
+                                                                   问 题 关 切 聚 焦 于 安 全 风 险 方 面 ，其 中 产 品 原 料 安 全
+衡，女性占 51. 7%，男性占 48. 3%；涉及各年龄群体，                                  （87. 5% 重 点 关 注）、食 品 添 加 剂 规 范 使 用（85. 2%
+整体以中青年群体为主，其中 26~35 岁与 36~45 岁群                                    重 点 关 注）、生 产 过 程 管 控（81. 4% 重 点 关 注）是 公
+体 合 计 占 比 63. 8%；涉 及 不 同 学 历 层 次 ，整 体 以 中                          众最关注的三大问题，具体见图 2。
+高 学 历 为 主 ，本 科 及 以 上 学 历 群 体 合 计 占 比                                      公众对不同场景下使用预制菜的接受度不同，对
+74. 7%；食品领域工作者与其他领域人员（包括其他                                         在 家 烹 饪（43. 7% 接 受 、22. 0% 拒 绝）、外 卖（40. 1%
+领 域 工 作 者 、全 职 家 庭 主 妇/主 夫 、待 业/失 业 人 员 、                          接 受 、18. 8% 拒 绝）容 易 接 受 ，但 对 食 堂（22. 5% 接
+退 休 人 员 、学 生 、其 他）占 比 基 本 相 当 ，食 品 领 域 工                           受 、44. 4% 拒 绝）、餐 厅（19. 2% 接 受 、49. 5% 拒 绝）
+作 者 占 55. 1%，其 他 领 域 人 员 占 44. 9%；常 住 地 涵                          较为抵触。进一步通过皮尔逊 χ2 检验，分析不同消
+盖 范 围 广 泛 ，整 体 以 城 市 居 民 为 主 ，其 中 地 级 市 、省                         费场景中预制菜接受度与人口统计学特征的关联
+会 及 直 辖 市 群 体 合 计 占 比 74. 2%；涉 及 不 同 收 入                           性（表 3），所 有 场 景 中 食 品 领 域 工 作 者 的 接 受 度 均
+水 平 人 群 ，整 体 以 中 等 水 平 为 主 ，3 001~6 000 元 、                        较 高 ；外 卖 场 景 中 省 会 城 市 居 民 的 接 受 度 更 高 ，硕
+6 001~10 000 元两个区间群体合计占比 58. 0%。                                   士 学 位 接 受 度 呈 边 缘 显 著 升 高（P=0. 049），提 示 可
+2. 1. 2     预制菜认知水平                                                能 存 在 关 联 ；食 堂 场 景 中 男 性 的 接 受 度 更 高 ；餐 厅
+     公 众 对 预 制 菜 的 主 观 认 知 水 平 方 面 ，85. 0% 的                       场景中男性、36~45 岁群体的接受度更高。
+
+===== PAGE 4 =====
+—508 —                                中国食品卫生杂志 2026 年 5 月第 38 卷第 5 期                        Chin J Food Hyg, May      2026，Vol.38，No.5
+
+
+
+
+             注：每种食品的判断基数均为 574 人，认知相符率为受访者判断结果与《通知》中预制菜定义保持一致的人数占比
+                     图1     2025 年 10~11 月中国 30 个省（自治区、直辖市）公众对预制菜的认知相符程度图
+Figure 1   The degree of consistency in the public’s perception of prepared dishes in 30 provinces (autonomous regions, municipalities) in
+                                                  China from October to November in 2025
+
+表2    2025 年 10~11 月中国 30 个省（自治区、直辖市）不同人                                2. 1. 4    预制菜消费行为
+           口统计特征的预制菜客观高认知水平情况
+                                                                               公 众 对 预 制 菜 的 消 费 行 为（包 括 购 买 情 况 、购
+ Table 2   Objective high cognitive level of prepared dishes by
+                                                                        买频率、购买品类、购买目的）见图 3。一方面，预制
+demographic characteristics in 30 provinces (autonomous regions,
+  municipalities) in China from October to November in 2025             菜 市 场 渗 透 较 高 ，但 消 费 频 率 偏 低 。 经 问 卷 题 项 筛
+人口变量 高认知群体 检验统计量（χ2）                       P值      显著性（α=0.05）          选 ，在 家 烹 饪 人 群 共 567 人（占 全 部 样 本 574 人 的
+                1.168                     0.280
+                                                                        98. 8%），其 中 有 预 制 菜 购 买 经 历 者 529 人 ，占 该 群
+性别       —                                            否
+年龄   56 岁及以上   12.675                     0.027       是
+教育程度    博士     12.291                     0.015       是                 体 的 93. 3%；在 有 购 买 经 历 的 群 体 中 ，56. 5% 人 群
+     食品领域工
+职业             21.133                     0.002          是              每 月 购 买 不 超 过 1 次 ，结 合 问 卷 消 费 频 次 分 级 与
+        作者
+常住地      —      8.945                     0.177          否              日 常 消 费 认 知 ，将 该 层 级 界 定 为 低 频 消 费 。 交 叉
+     15 000 元以
+月收入             8.264                     0.082          否              分 析 显 示 ，人 口 统 计 学 变 量 对 于 消 费 频 率 差 异 均
+         上
+注 ：1. 检 验 方 法 ：所 有 变 量 均 采 用 χ2 独 立 性 检 验 ；2. 显 著 性 水 平 α=              未 达 到 统 计 显 著 性（P 均 >0. 05）。 虽 然 食 品 领 域 工
+0.05；3.
+      “显著性”判断：若 P<0.05，则拒绝原假设，认为该人口学特征                                  作 者 的 认 知 和 态 度 领 先 ，但 其 购 买 频 率 未 显 著 高
+与 认 知 水 平 存 在 显 著 关 联 ；4. 本 研 究 为 探 索 性 分 析 ，旨 在 初 步 挖 掘
+                                                                        于 其 他 群 体 ，表 明 专 业 知 识 促 进 了 理 解 与 接 纳 ，却
+变 量 间 潜 在 关 联 ，故 未 进 行 多 重 比 较 校 正 ；5. 对 于 年 龄 、教 育 程 度 、
+                                                                        与 实 际 购 买 行 为 无 关 联 。 另 一 方 面 ，公 众 购 买 预
+月 收 入 3 个 有 序 变 量 ，其 线 性 关 联 检 验 结 果 均 显 著（p for trend 分 别
+为 0.001、0.007、0.019），表 明 认 知 高 水 平 比 例 随 年 龄 增 长 、教 育 程 度               制 菜 的 品 类 和 目 的 存 在 差 异 。 牛 肉 丸 、蟹 棒 等 火
+提高、收入增加而呈现显著的上升趋势                                                       锅 料 半 成 品（79. 7% 购 买）最 受 欢 迎 ，而 家 常 菜 半
+                                                                        成 品（17. 8% 购 买）和 宴 席 菜 半 成 品（23. 8% 购 买）
+     在 提 升 信 任 措 施 方 面 ，公 众 最 期 待 的 前 3 位 措
+                                                                        很 少 被 购 买 。 日 常 家 庭 省 时（62. 9% 选 择）是 首 要
+                     （85. 4% 选 择）、
+施 依 次 为“ 加 强 监 管 执 法 ”           “保障优
+                                                                        目 的 ，其 次 是 加 班 速 食（37. 1% 选 择）。 交 叉 分 析
+     （76. 1% 选择）“
+质原料供应”          、 完善预制菜标准体系”
+                                                                        显 示 ，年龄与收入是购买目的的关键驱动因 素 ，36~
+（74. 2% 选择）。相比宣传，公众更信赖制度与行动。
+信 息 获 取 渠 道 与 形 式 方 面 ，社 交 媒 体（81. 5% 选 择）                              45 岁 中 年 群 体 是“日 常 省 时 ”主 力 ，18~35 岁 年 轻 群
+
+与 新 闻 平 台（69. 9% 选 择）是 主 要 信 息 渠 道 ；图 文 解                               体 是“ 加 班 速 食 ”核 心 ，而 高 收 入 群 体 则 为“ 外 出 野
+
+读（81. 0% 选择）与短视频（77. 5% 选择）是最受欢迎                                        餐”喜好。
+
+的形式。行业发展建议方面，通过汇总开放性建议，                                                 2. 2      舆情汇总结果
+基 于 574 份 样 本 中 416 份 有 效 建 议 ，公 众 的 核 心 诉                                     2023—2025 年 3 例 预 制 菜 相 关 舆 情 事 件 汇 总
+求可概括为“强监管、明标准、保透明、限场景”。                                                 见表 4。
+
+===== PAGE 5 =====
+中国食品卫生杂志 2026 年 5 月第 38 卷第 5 期                         Chin J Food Hyg, May    2026，Vol.38，No.5                                    —509 —
+
+
+
+
+                                        注：A 为公众对预制菜的优势认同，B 为公众对预制菜的问题关切
+                    图2        2025 年 10~11 月中国 30 个省（自治区、直辖市）公众对预制菜的优势认同与问题关切图
+Figure 2      Public-recognized advantages and concerns regarding prepared dishes in 30 provinces (autonomous regions, municipalities)
+                                                 in China from October to November in 2025
+
+               表3     2025 年 10~11 月中国 30 个省（自治区、直辖市）不同人口统计特征的预制菜各场景高接受度情况
+    Table 3   High acceptance of prepared dishes across various scenarios by demographic characteristics in 30 provinces (autonomous
+                                     regions, municipalities) in China from October to November in 2025
+消费场景                 人口变量                  高接受群体                             χ2（df）                        P值                 克莱姆 V
+外卖                   教育程度                     硕士                           15.586（8）                      0.049                0.117
+                      职业                  食品领域工作者                          32.227（12）                     0.001                0.168
+                     常住地                      省会                           23.219（12）                     0.026                0.142
+食堂                    性别                      男性                            9.324（2）                      0.009                0.127
+                      职业                  食品领域工作者                          40.446（12）                     0.000                0.188
+餐厅                    性别                      男性                            6.201（2）                      0.045                0.104
+                      年龄                    36~45 岁                        19.569（10）                     0.034                0.131
+                      职业                  食品领域工作者                          40.770（12）                     0.000                0.188
+在家烹饪                  职业                  食品领域工作者                          26.919（12）                     0.008                0.153
+注 ：1. 检 验 方 法 为 皮 尔 逊 χ 2 检 验 ；2. 显 著 性 水 平 α=0.05，仅 列 出 P<0.05 的 显 著 结 果 ；3. 克 莱 姆 V 值 显 示 各 显 著 关 联 均 为 弱 到 中 等 强 度（0.104~
+0.188）；4.
+        “高接受群体”指在相应消费场景中，对预制菜的接受度显著高于其他群体的人群 ；5. 本研究为探索性分析，旨在初步挖掘变量间潜
+在关联，故未进行多重比较校正，边缘显著结果已谨慎解读
+
+3      讨论                                                                于 预 制 食 品 ，公 众 认 为 其 属 于 预 制 菜 具 有 合 理 性 。
+3. 1     公众对预制菜的认知偏差与定义差异                                                从行业规范管理的角度，主食类食品不具备“菜肴属
+       问 卷 调 查 显 示 ，公 众 对 预 制 菜 的 主 观 认 知 率                              性 ”，
+                                                                            《通 知》将 其 从 预 制 菜 中 排 除 亦 有 合 理 性 。 因
+（85. 0%）与 客 观 认 知 相 符 率（59. 9%）存 在 明 显 差
+                                                                         此 ，公 众 认 知 与 预 制 菜 定 义 之 间 的 差 异 反 映 了 公 众
+异，尤其是速冻肉夹馍（21. 6%）、中央厨房制作的半
+                                                                         经 验 中 的“ 预 制 食 品 ”概 念 与 行 业 规 范 管 理 的“ 预 制
+成品菜肴（24. 0%）等食品的认知相符率极低。这一
+                                                                         菜”界定之间的差异。此外，也存在部分食品在现有
+结 果 与 舆 情 事 件 中 出 现 的“定 义 争 议 ”一 致 ，
+                                   《通 知》
+                                                                         食品类别中交叉的客观现象，增加了判断的复杂性。
+中对预制菜的界定与公众日常经验中的预制菜存
+在 差 异 。 以 速 冻 肉 夹 馍 为 例 ，78. 4% 的 受 访 者 认 为                              进 一 步 分 析 显 示 ，认 知 水 平 与 年 龄 、教 育 程 度 、收 入
+
+其 属 于 预 制 菜 ，但《通 知》将 主 食 类 食 品（包 括 速 冻                                   水 平 及 是 否 从 事 食 品 领 域 工 作 呈 正 相 关 ，提 示 信 息
+肉 夹 馍）排 除 。 从 日 常 经 验 的 角 度 ，速 冻 肉 夹 馍 属                                 获取能力和专业知识在认知形成中的作用。
+                                           表4     2023—2025 年中国预制菜相关舆情事件汇总
+                    Table 4    Summary of public opinion incidents related to prepared dishes from 2023 to 2025 in China
+舆情事件                   预制菜进校园事件                                           槽头肉事件                                            西贝事件
+发生时间                      2023 年 9 月                                      2024 年 3 月                                      2025 年 9 月
+监测时段               2023 年 9 月 1 日~10 月 21 日                        2024 年 3 月 15 日~5 月 10 日                       2025 年 9 月 10 日~9 月 16 日
+传播规模           累计声量约 12.5 万篇次；阅读总量超 10 亿次                    累计传播约 14.7 万条；24 小时阅读量超 10 亿次                           累计传播约 646.5 万条
+峰值特征               9 月 18 日峰值约 2.2 万篇次                      3 次峰值：3 月 15 日（央视曝光）、3 月 16 日（网红直                      9 月 15 日峰值约 214 万条
+                                                              播间关联）、5 月 10 日（官方公布高额处罚）
+核心关注点 食品添加剂使用、卫生条件透明、冷链运输风                                   劣质原料使用、企业以次充好，加强监管、保障消                               定义范围、餐饮明示、价格合
+                  险、营养保留等，监管机制、标准建设等                                    费者知情权和选择权等                                理性、保质期、安全、营养等
+
+===== PAGE 6 =====
+—510 —                               中国食品卫生杂志 2026 年 5 月第 38 卷第 5 期                     Chin J Food Hyg, May     2026，Vol.38，No.5
+
+
+
+
+                                     注：A 为购买情况，B 为购买频率，C 为购买品类，D 为购买目的
+                        图3    2025 年 10~11 月中国 30 个省（自治区、直辖市）公众对预制菜的消费行为图
+Figure 3   Public consumption behavior of prepared dishes in 30 provinces (autonomous regions, municipalities) in China from October
+                                                        to November in 2025
+
+3. 2   公众对预制菜的安全关切与信任特征                                              受 度 较 高 ，而 食 堂（22. 5%）和 餐 厅（19. 2%）场 景 接
+       问卷调查显示，公众对预制菜操作简单（82. 2%）、                                    受度偏低。这一结果与舆情事件的发生场景存在
+便捷省时（78. 6%）等优势的认同率远高于安全卫生                                           关联，
+                                                                       “ 预 制 菜 进 校 园 事 件 ”涉 及 食 堂 场 景 ，
+                                                                                                      “西贝事
+（39. 5%），且问题关切集中于产品原料安全（87. 5%）、                                     件 ”涉 及 餐 厅 场 景 ，且 公 众 核 心 诉 求 指 向 消 费 者 的
+食 品 添 加 剂 规 范 使 用（85. 2%）、生 产 过 程 管 控                                知 情 权 与 选 择 权 。 从 消 费 者 心 理 角 度 分 析 ，在 家 庭
+（81. 4%）等方面。这一结果与舆情反映情况基本一                                           场 景 中 ，消 费 者 对 是 否 使 用 预 制 菜 拥 有 自 主 选 择
+致 ，尽 管 3 例 舆 情 事 件 的 诱 因 各 异 ，但 公 众 的 核 心                            权 ，而 在 食 堂 、餐 厅 等 公 共 餐 饮 场 景 中 ，若 消 费 者 未
+关 切 高 度 趋 同 ，主 要 集 中 在 食 品 添 加 剂 使 用 、生 产                            被 告 知 预 制 菜 的 使 用 情 况 ，则 易 产 生 不 信 任 感 。 进
+卫 生 条 件 、冷 链 运 输 风 险 、营 养 流 失 、原 料 质 量 安 全                           一 步 分 析 显 示 ，不 同 场 景 中 接 受 度 较 高 的 群 体 存 在
+等方面。这些问题本质上是食品行业普遍面临的                                                差 异 ，可 能 与 不 同 群 体 对 食 品 风 险 的 敏 感 程 度 、对
+共 性 挑 战 ，而 非 预 制 菜 独 有 的 个 性 问 题 。 这 表 明 公                           餐饮消费的价值期待等因素有关。
+众 对 预 制 菜 的 质 疑 ，本 质 上 反 映 了 对 当 前 食 品 供 应                           3. 4     公众消费行为的情境依赖特征
+链安全管控水平及信息透明度的信任不足。值得                                                       问 卷 调 查 显 示 ，食 品 领 域 工 作 者 在 认 知 水 平 、
+注 意 的 是 ，公 众 既 高 度 信 任 制 度 性 措 施（85. 4% 选                            态 度 倾 向 上 优 于 其 他 群 体 ，但 其 预 制 菜 购 买 频 率 与
+择“ 加 强 监 管 执 法 ”为 首 要 提 升 信 任 措 施），又 主 要                             其 他 群 体 无 明 显 差 异 。 这 一 结 果 提 示 ，预 制 菜 的 消
+依 赖 社 交 媒 体 获 取 信 息（81. 5% 选 择“社 交 媒 体 ”为                            费 行 为 并 非 仅 由 认 知 和 态 度 决 定 ，还 受 到 具 体 生 活
+首 要 信 息 获 取 渠 道），这 反 映 了 公 众 虽 信 任 官 方 制                             情 境 的 影 响 。 调 查 还 显 示 ，购 买 预 制 菜 的 主 要 目 的
+度 的 治 理 效 力 ，缺 乏 主 动 查 阅 官 方 政 策 文 件 的 习                             为 日 常 家 庭 省 时（62. 9%）和 加 班 速 食（37. 1%），表
+惯 ，日 常 依 赖 大 众 化 社 交 平 台 获 取 资 讯 。 这 种 矛 盾                           明 预 制 菜 的 消 费 行 为 具 有 情 境 依 赖 性 ，例 如 消 费 者
+状 态 提 示 ，单 纯 通 过 制 度 建 设 和 官 方 宣 传 可 能 难 以                           在 时 间 紧 张 、需 要 快 速 解 决 用 餐 时 更 倾 向 于 选 择 预
+有 效 引 导 公 众 认 知 ，还 需 要 在 社 交 媒 体 等 公 众 主 动                           制 菜 ，而 在 时 间 充 裕 时 则 可 能 选 择 传 统 烹 饪 方 式 。
+接触的渠道中进行科普交流。                                                        即 使 是 对 预 制 菜 认 知 水 平 较 高 的 群 体 ，其 消 费 行 为
+3. 3   预制菜接受度的场景差异与知情诉求                                              仍呈现这一特征。
+       问 卷 调 查 显 示 ，公 众 对 预 制 菜 的 接 受 度 具 有 场                        3. 5     局限性分析
+景 差 异 ，在 家 烹 饪（43. 7%）和 外 卖（40. 1%）场 景 接                                    从样本代表性层面来看，本研究采用线上问卷
+
+===== PAGE 7 =====
+中国食品卫生杂志 2026 年 5 月第 38 卷第 5 期      Chin J Food Hyg, May   2026，Vol.38，No.5                                        —511 —
+
+
+调 查 ，受 线 上 调 查 渠 道 的 影 响 ，样 本 结 构 存 在 一 定           4. 4    立足情境需求，推动产业提质升级
+偏 向 性 ，样 本 中 本 科 及 以 上 学 历 者 、地 级 市 及 以 上                  针 对 公 众 消 费 行 为 受 情 境 驱 动 的 特 征 ，建 议 企
+城市居民、26~45 岁中青年群体、食品领域工作者占                          业 将 产 品 开 发 与 情 境 需 求 相 匹 配 。 聚 焦“ 日 常 省
+比 相 对 集 中 ，而 对 低 学 历 、县 级 市 及 以 下 、年 轻 及 老          时”
+                                                     “ 加 班速食 ”等高频需求 ，开发适配的产品 系列 ，
+年 群 体 、其 他 职 业 群 体 的 覆 盖 相 对 不 足 ，整 体 认 知           持 续 优 化 便 捷 性 和 时 效 性 。 同 时 ，行 业 通 过 工 艺 改
+水 平 可 能 存 在 高 估 ，结 论 主 要 反 映 线 上 受 访 群 体 而          进和供应链优化，合理使用食品添加剂，保障原料及
+非全体公众的特征。未来研究可采用配额抽样或                               产品新鲜度，以在确保安全的同时提升产品品质。
+结 合 线 下 调 查 ，以 提 高 样 本 代 表 性 。 从 舆 情 分 析 层
+面 来 看 ，本 研 究 所 选 取 的 3 例 舆 情 案 例 均 为 事 实 性          参考文献
+舆 情 ，未 涉 及 谣 言 类 事 件 ；对 舆 情 文 本 核 心 关 注 点           ［ 1 ］ 张 誉 ，陈 潇 ，范 春 梅 ，等 .“ 预 制 菜 ”相 关 标 准 及 风 险 管 理 研
+                                                           究［J］. 中国食品卫生杂志，2023，35（10）：1514-1519.
+的 提 炼 由 单 一 研 究 者 完 成 ，未 采 用 多 人 独 立 编 码 及
+                                                           ZHANG Y，CHEN X，FAN C M，et al. Research on related
+信 度 检 验 ；舆 情 数 据 采 集 于 公 开 网 络 平 台 ，仅 能 获
+                                                           standards and risk management of“prepared foods”
+                                                                                                          ［J］. Chinese
+取 主 动 发 声 网 民 的 公 开 意 见 ，未 能 覆 盖 不 参 与 网 络                 Journal of Food Hygiene，2023，35（10）：1514-1519.
+讨 论 群 体 的 意 见 。 未 来 研 究 可 纳 入 谣 言 类 舆 情 ，采          ［ 2 ］ 中 共 中 央 国 务 院 . 关 于 做 好 2023 年 全 面 推 进 乡 村 振 兴 重 点
+
+用 多 编 码 者 交 叉 验 证 ，结 合 问 卷 调 查 或 深 度 访 谈 等                 工作的意见［EB/OL］.（2023-01-02）
+                                                                                   ［2026-02-05］. https：//www.
+                                                           gov.cn/zhengce/2023-02/13/content_5741370.htm.
+方法，以更全面地获取并分析公众意见。
+                                                           The Central Committee of the Communist Party of China，The State
+                                                           Council of the People’s Republic of China. Opinions on the key
+4      建议                                                  tasks for comprehensively promoting rural revitalization in 2023
+4. 1    正视认知差异，开展针对性沟通                                     ［EB/OL］. （2023-01-02）［2026-02-05］. https：//www. gov. cn/
+       针 对 公 众 主 观 认 知 与 客 观 理 解 偏 差 、公 众 认 知              zhengce/2023-02/13/content_5741370.htm.
+
+与《通 知》的 定 义 之 间 存 在 差 异 的 问 题 ，建 议 在 相 关            ［ 3 ］ 广 东 省 人 民 政 府 办 公 厅 . 关 于 印 发《加 快 推 进 广 东 预 制 菜 产
+                                                           业高质量发展十条措施》的通知［EB/OL］.（2022-03-24）
+                                                                                            ［2026-
+政 策 标 准 解 读 过 程 中 ，以 公 众 困 惑 为 切 入 点 加 强 沟
+                                                           02-05］. https：//www. gd. gov. cn/zwgk/wjk/qbwj/yfb/content/post_
+通（例 如“ 速 冻 肉 夹 馍 为 什 么 不 属 于 预 制 菜 ”
+                                   “什么
+                                                           3893116.html.
+是中央厨房制作的菜肴”
+          ），同 时 解 释 预 制 菜 定 义 和                            General Office of the People’s Government of Guangdong Province.
+范 围 的 逻 辑 依 据 ，以 弥 合 认 知 偏 差 。 重 点 面 向 年                   Notice on issuing the Ten measures for accelerating the high-
+
+轻 、低 学 历 、中 低 收 入 等 认 知 薄 弱 群 体 ，通 过 社 交 媒                 quality development of the prepared dishes industry in Guangdong
+                                                           ［EB/OL］. （2022-03-24）
+                                                                               ［2026-02-05］. https：//www. gd. gov. cn/
+体 、新 闻 平 台 等 主 要 信 息 渠 道 ，选 择 图 文 解 读 、短 视
+                                                           zwgk/wjk/qbwj/yfb/content/post_3893116.html.
+频等受欢迎的形式进行科普，以提升传播实效。
+                                                    ［ 4 ］ 河南省人民政府办公厅 . 关于印发河南省加快预制菜产业发
+4. 2    聚焦共性风险，强化全链条监管                                     展 行 动 方 案（2022—2025 年）的 通 知［EB/OL］.（2022-10-11）
+       针对公众关注焦点集中于食品工业共性问题，                                ［2026-02-05］. https：//www. henan. gov. cn/2022/10-26/2629095.
+
+建 议 在 实 施 全 链 条 重 点 监 管 的 同 时 ，提 升 监 管 信 息                 html.
+                                                           General Office of the People’s Government of Henan Province.
+的 公 众 可 及 性 。 重 点 围 绕 食 品 原 料 安 全 、食 品 添 加
+                                                           Notice on issuing the action plan for accelerating the development
+剂 使 用 等 公 众 最 关 切 的 风 险 点 加 强 监 管 ，强 化 覆 盖
+                                                           of the prepared dishes industry in Henan（2022-2025）
+                                                                                                             ［EB/OL］.
+生 产 、流 通 、餐 饮 的 全 链 条 追 溯 与 透 明 监 管 体 系 ，并                 （2022-10-11）［2026-02-05］. https：//www. henan. gov. cn/2022/
+将 日 常 检 查 结 果 、抽 检 数 据 、处 罚 信 息 等 通 过 社 交                  10-26/2629095.html.
+媒体等公众主动接触的渠道进行通俗化公示和解                               ［ 5 ］ 山东省人民政府办公厅 . 关于推进全省预制菜产业高质量发
+                                                           展 的 意 见［EB/OL］. （2022-11-12）
+                                                                                      ［2026-02-05］. http：//www.
+读，让公众直观感知监管行动，以行动提振信心。
+                                                           shandong.gov.cn/art/2022/11/16/art_267492_26108.html.
+4. 3    推行消费明示，保障知情选择权
+                                                           General Office of the People’s Government of Shandong Province.
+       针 对 公 众 在 食 堂 、餐 厅 场 景 中 预 制 菜 接 受 度 较              Opinions on promoting the high-quality development of the
+低 的 问 题 ，建 议 将 保 障 消 费 者 知 情 权 作 为 提 升 信 任                 prepared dishes industry in the province［EB/OL］.（2022-11-12）
+的 切 入 点 。 推 动 餐 饮 服 务 提 供 者 在 菜 单 、就 餐 区                   ［2026-02-05］. http：//www. shandong. gov. cn/art/2022/11/16/art_
+
+域 、点 餐 小 程 序 、官 方 网 站 、公 众 号 等 位 置 标 明 菜 品                 267492_26108.html.
+                                                    ［ 6 ］ 山西省人民政府办公厅 . 关于加快山西省预制菜产业高质量
+加 工 制 作 方 式 ，据 实 标 注 预 制 菜 、中 央 厨 房 成 品 或
+                                                           发展的意见［EB/OL］.（2023-07-26）
+                                                                                   ［2026-02-05］. https：//www.
+半 成 品 等 内 容 。 同 时 ，针 对 校 园 、集 体 食 堂 等 公 众
+                                                           shanxi. gov. cn/zfxxgk/zfcbw/zfgb2/2023nzfgb/d8q_76601/szfbgtwj_
+关 注 度 较 高 的 就 餐 场 所 ，可 以 进 一 步 强 化 信 息 公 示                 77863/202308/t20230815_9132670.shtml.
+力度，以维护消费者自主选择权。                                            General Office of the People’s Government of Shanxi Province.
+
+===== PAGE 8 =====
+—512 —                                    中国食品卫生杂志 2026 年 5 月第 38 卷第 5 期                        Chin J Food Hyg, May         2026，Vol.38，No.5
+
+
+      Opinions on accelerating the high-quality development of the                LI H，ZHAO L，YANG P W，et al. Analysis of online public
+      prepared dishes industry in Shanxi［EB/OL］.（2023-07-26）
+                                                           ［2026-                 opinion on prepared dishes based on LDA model and semantic
+      02-05］. https：//www. shanxi. gov. cn/zfxxgk/zfcbw/zfgb2/2023nzfgb/          co-occurrence network［J］. Modern Business，2024（24）：36-39.
+      d8q_76601/szfbgtwj_77863/202308/t20230815_9132670.shtml.             ［12］ 雷 鸣 ，东 晓 莉 ，黄 蓉 . 消 费 者 预 制 菜 购 买 意 愿 及 影 响 因 素 研
+［ 7 ］ 市 场监管总局，教育部，工业和信息化部，等 . 关于加强预制                                              究——以西安市为例［J］. 北方经贸，2024，7：59-63.
+      菜食品安全监管 促进产业高质量发展的通知［EB/OL］.（2024-                                          LEI M，DONG X L，HUANG R. A Study on consumer purchase
+      03-18）
+           ［2026-02-05］. https：
+                              //www. samr. gov. cn/zw/zfxxgk/fdzdgknr/            intention and influencing factors of prefabricated vegetables——
+      spscs/art/2024/art_e1ba9385be204186adc0f2cfef717693.html.                   taking Xi’an City as an example［J］. Northern Economy and
+      State Administration for Market Regulation，Ministry of Education，           Trade，2024（7）：59-63.
+
+      Ministry of Industry and Information Technology，et al. Notice        ［13］ 黄梓熙，贺嫦珍 . 预制菜消费者购买意愿的影响因素分析——
+
+      on strengthening the regulation of food safety of prepared dishes           以广东省为例［J］. 食品安全导刊，2023，28：189-192.
+
+      and promoting the high-quality development of the industry［EB/              HUANG Z X，HE C Z. Analysis on the influencing factors of
+
+      OL］.（2024-03-18）
+                     ［2026-02-05］. https：//www. samr. gov. cn/zw/                 consumers’purchasing intention for prepared dishes——taking
+
+      zfxxgk/fdzdgknr/spscs/art/2024/art_e1ba9385be204186adc0f                    Guangdong Province as an example［J］. Journal of Food Safety
+
+      2cfef717693.html.                                                           Guide，2023，28：189-192.
+
+［ 8 ］ 艾 媒 咨 询 . 2024-2025 年 中 国 预 制 菜 产 业 发 展 蓝 皮 书［EB/                    ［14］ 杜松霖，李梅芳，杨芳，等 . 基于结构方程模型的消费者预制菜
+
+      OL］.（2025-07-18）
+                     ［2026-02-05］. https：//www.iimedia.cn/c400/                   购买意愿的影响因素研究［J］. 中国商论，2024，33（17）：74-78.
+
+      106595.html.                                                                DU S L，LI M F，YANG F，et al. A structural equation model-
+
+      iiMedia Research. Blue book on the development of China’s                   based study on factors influencing consumers’intention to purchase
+
+      prepared dishes industry 2024-2025［EB/OL］. （2025-07-18）                     pre-made dishes［J］. China Journal of Commerce，2024，33（17）：
+                                                                                  74-78.
+     ［2026-02-05］. https：//www.iimedia.cn/c400/106595.html.
+                                                                           ［15］ 刘 竞 阳 ，李 欢 ，孟 婷 ，等 . 消 费 者 对 预 制 菜 认 知 及 消 费 意 愿
+［ 9 ］ 中华人民共和国教育部 . 教育部 ：对“预制菜进校园”持审慎
+                                                                                  研究［J］. 中国食物与营养，2024，30（12）：48-55.
+      态 度［EB/OL］.（2023-09-22）
+                            ［2026-02-05］. http：//www.moe.gov.
+                                                                                  LIU J Y，LI H，MENG T，et al. A consumer survey on cognition
+      cn/jyb_xwfb/s5147/202309/t20230922_1082180.html.
+                                                                                  and purchase intention of pre-prepared food［J］. Food and
+      Ministry of Education of the People’s Republic of China. The
+                                                                                  Nutrition in China，2024，30（12）：48-55.
+      Ministry of Education holds a cautious attitude towards the
+                                                                           ［16］ TANG T，ZHANG M，LIM LAW C，et al. Novel strategies for
+      introduction of prepared dishes into campuses［EB/OL］.（2023-
+                                                                                  controlling nitrite content in prepared dishes： current status，
+      09-22）［2026-02-05］. http：//www. moe. gov. cn/jyb_xwfb/s5147/
+                                                                                  potential benefits， limitations and future challenges［J］. Food
+      202309/t20230922_1082180.html.
+                                                                                  Research International，2023，170：112984.
+［10］ 国 务 院 食 安 办 ，公 安 部 ，农 业 农 村 部 ，等 . 关 于 开 展 严 厉 打
+                                                                           ［17］ PETIMAR J，GRUMMON A H，SIMON D，et al. Nutritional
+      击 肉 类 产 品 违 法 犯 罪 专 项 整 治 行 动 的 通 知［EB/OL］.（2024-
+                                                                                  composition and purchasing patterns of supermarket prepared
+      03-29）［2026-02-05］. https：//www. gov. cn/zhengce/zhengceku/
+                                                                                  foods over time［J］. American Journal of Preventive Medicine，
+      202404/content_6943015.htm.
+                                                                                  2023，64（2）：213-220.
+      Food Safety Commission Office of the State Council，Ministry of
+                                                                           ［18］ ADHIKARI B. Book review： physical processing technologies
+      Public Security of the People’s Republic of China，Ministry of
+                                                                                  with high efficiency & quality for prepared foods［J］. Future
+      Agriculture and Rural Affairs， et al. Notice on launching a
+                                                                                  Foods，2021，3：100015.
+      special rectification campaign to severely crack down on illegal
+                                                                           ［19］ LIN X，XIONG Y，WANG Y，et al. The influence of consumer
+      activities involving meat products［EB/OL］.（2024-03-29）
+                                                           ［2026-
+                                                                                  ethnocentrism and cosmopolitanism on purchase intentions of
+      02-05］. https：//www.gov.cn/zhengce/zhengceku/202404/content_
+                                                                                  Chinese pre-made dishes［J］. Journal of Retailing and Consumer
+      6943015.htm.
+                                                                                  Services，2025，82：104132.
+［11］ 李 航 ，赵 蕾 ，杨 培 文 ，等 . 基 于 LDA 模 型 和 语 义 共 现 网 络 的
+      预制菜网络舆情分析［J］. 现代商业，2024，24：36-39.                                                                               （本文编辑：黄正华）

@@ -1,0 +1,1657 @@
+SOURCE_PDF: 1.3_文献不足/补充文献_16篇/PDF全文/07_Jianhua_Wang_2018_Urban_Chinese_Consumers_Willingness_to_Pay_for_Pork_with_Certified_Labels_A_Discrete_Choic.pdf
+EXTRACTION_STATUS: ok
+PAGES: 14
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+sustainability
+
+Article
+Urban Chinese Consumers’ Willingness to Pay for
+Pork with Certified Labels: A Discrete
+Choice Experiment
+Jianhua Wang 1,2, *, Jiaye Ge 1 and Yuting Ma 3,4
+ 1    School of Business, Jiangnan University, Wuxi 214122, China; 6150909006@vip.jiangnan.edu.cn
+ 2    Food Safety Research Base of Jiangsu Province, Jiangnan University, Wuxi 214122, China
+ 3    School of Economics and Management, Wuhan University, Wuhan 430072, China; jade1016@whu.edu.cn
+ 4    Economic Development Research Center, Wuhan University, Wuhan 430072, China
+ *    Correspondence: jianhua.w@jiangnan.edu.cn
+
+ Received: 23 December 2017; Accepted: 21 February 2018; Published: 27 February 2018
+
+ Abstract: The paper aims to investigate Chinese consumers’ willingness-to-pay (WTP) for pork
+ characterized by four attributes, namely food safety certification labels, location-of-origin, “free from
+ veterinary drug residues” label, and price, based on a choice experiment conducted among
+ 844 consumers from Jiangsu and Anhui provinces, China. A Random Parameter Logit model
+ was estimated to elicit consumers’ WTP. The results showed that Jiangsu consumers’ WTP for pork
+ with a “Organic Food” certification (26.78 Yuan) was the highest among all attributes, followed by
+ “Green Food” certification (20.22 Yuan), “free from veterinary drug residues” label (23.18 Yuan),
+ and location-of-origin (12.77 Yuan). However, there was only a moderate preference for “Safe Food”
+ certification (8.10 Yuan). In addition, respondents from the more developed region (i.e., Jiangsu) had
+ significantly higher WTP for all attributes than respondents from Anhui, a less developed region.
+ The Random Parameter Logit model shows that better educational attainment and higher income
+ were two factors that were associated with a higher WTP. The main policy recommendations are that
+ public awareness of the different types of verifications should be improved and that authorization of
+ certification logos should be enforced strictly so that food with certification logos are always reflective
+ of the standard being followed.
+
+ Keywords: Discrete Choice Experiment; willingness to pay; food safety
+
+
+
+
+1. Introduction
+      Food safety is one of the most crucial issues faced by the agricultural sector. Consumers residing in
+the developing countries are paying an increasing attention to health, the environment, as well as food
+safety [1,2]. Meat consumption in China has been continuously increasing from 37.1 g per day in 1992
+to 64.3 g per day in 2012 [3]. China currently consumes half of pork worldwide, making China world’s
+largest pork consumer [4]. However, a series of recent food safety scandals in China (i.e., contaminated
+baby milk formula and pork produced using clenbuterol), have aroused tremendous attention among
+the media and the public. China’s pork industry has been facing food safety challenges in its various
+stages of the supply chain. In response to those events, improving food safety has been a priority of
+the Chinese government.
+      Food safety risk is a result of information asymmetry where producers owning full information
+induce consumers to purchase their products, a purchase which would not have happened if the
+full information was exposed [5]. The quality of a food product is represented by its attributes,
+e.g., color, smell, taste, production process, nutritional status, and price etc. If these attributes
+can be exposed to consumers before the purchase by labeling on the package, the disadvantaged
+
+
+Sustainability 2018, 10, 603; doi:10.3390/su10030603                     www.mdpi.com/journal/sustainability
+
+===== PAGE 2 =====
+Sustainability 2018, 10, 603                                                                       2 of 14
+
+
+
+position that consumers are put in as a result of information asymmetry can be eliminated [6,7].
+Consequently, labeling the quality of a food product is an important marketing strategy for producers
+to increase consumers’ willingness to pay for foods with certified logos [8]. From the perspective of
+improving food safety, a well understanding of consumers’ needs is necessary so that food producers
+will respond to consumers’ needs by producing safe foods [9]. However, one should note that the price
+of a food product is expected to increase as a result of meeting the requirements of meeting specific
+standards (such as organic). Different consumers are likely to respond differently to certified-label
+products because they are heterogeneous in terms of their incomes, awareness of the certification labels,
+and perceived risks of food safety [10]. How to predict consumers’ preferences and willingness to pay
+for label information is of interest only to food producers but also to academics as well as government
+policymakers [11].
+      Several studies have investigated consumers’ willingness to pay for certified labels in the
+Chinese context. For instance, based on a survey of 257 consumers in Beijing, Ortega et al. (2016)
+investigated consumers’ willingness to pay for beef with four attributes reflecting beef quality, namely
+food safety claims (WTP: 116 Yuan or $19.14), following animal welfare practice (no significant higher
+WTP), “Green Food” certification (WTP: 69 Yuan or $11.22), and “Organic Food” certification (25 Yuan or
+$4.13) [12]. Yu et al. (2014) surveyed 408 consumers from Hebei and Tianjin and reported that consumers
+were willing to pay an extra price of 47% for the vegetables with “Green Food” logo compared to
+conventional products, whereas the meat with “Green Food” logo received 40% more WTP [13]. Next,
+Liu et al. (2017) utilized an choice experiment to measure 435 Chinese consumers’ preferences for
+eco-labeled rice and reported that the WTP for the four attributes of interest were: 1.11 Yuan/500 g
+for national branded rice compared to none, 2.35 Yuan/500 g for “Green Food” logo compared to no
+label, 2.97 Yuan/500 g for “Organic Food” logo compared to no label, and 2.31 Yuan/500 g for labelled
+geographical origin compared to without [14]. Furthermore, a WTP study on pork traceability information
+by Wu et al. (2016) reported that consumers from Wuxi, China were WTP 4.38 Yuan/500 g for the
+pork with traceable farming information, 1.57 Yuan/500 g for slaughter and processing information,
+1.07 for distribution and marketing information, and 4.93 Yuan/500 g for government certification [15].
+However, the studies did not investigate consumers’ willingness to pay for a specific type of government
+certification, nor did they look at the WTP difference of residents from regions with different levels of
+economic development.
+      To fill this gap, the main objective of the paper is to investigate consumers’ willingness to pay
+for three types of government certifications available on the market, as well as the location of origin,
+“free from veterinary drug residues” label, among 844 Chinese consumers surveyed in Jiangsu, a more
+economically developed province, and Anhui province, a less developed province. The rest of the
+paper is organized as follows. Section 2 reviews the literature on the design of attributes on meat
+products. Section 3 describes the method, i.e., choice experiment. Sample selection and data were
+introduced in Section 4 and results reported in Section 5. Policy recommendations and discussed are
+given in Section 6.
+
+2. Literature Review
+     Certification provides a signal to consumers to eliminate the uncertainty that consumers are facing
+when purchasing food products [8,16,17]. Consequently, it is considered as a useful instrument to
+prevent unsafe foods. And consumers often trust it as a sign of a good-quality product [6,18]. Based on
+a survey of 1077 US consumers, Gao and Schroeder (2009) found that consumers’ willingness to pay for
+the “Certified U.S. Product” beef steak attribute was significantly higher than that of other attributes
+such as guaranteed tender, guaranteed lean, and enhanced nutrition [11]. Similarly, Van Loo et al.
+(2011) reported that the willingness to pay of US consumers for organic chicken was much higher
+when the product had a “USDA certified organic” label than that of a general organic label [19]. In a
+study on the willingness to pay for organic yogurt, De Marchi et al. (2016) observed that, among
+the 173 US consumers surveyed, the willingness to pay for healthy and environmentally-friendly
+
+===== PAGE 3 =====
+Sustainability 2018, 10, 603                                                                          3 of 14
+
+
+
+food labels was the highest for the “USDA organic” logo, followed by the willingness to pay for
+health attributes, i.e., diets low in saturated fat and cholesterol, and the environmentally-friendly
+label, i.e., carbon trust label [20]. In contrast, a sample of 334 Belgium surveyed consumers were not
+prepared to pay a higher price premium for a beer with an organic label, compared to a similar beer
+without the label [21]. Thus, we consider government certification labels as the main focus of the study.
+      Country-of-origin traceability of a product also plays an important role in consumers’
+decision-making during their purchase of products. In developed countries like the US, it is required
+to provide country-of-origin of food products such as shells, fresh vegetables, and fruits [17]. Loureiro
+and Umberger (2007) reported that US consumers were prepared to pay an extra of 1.90 dollars per
+lb. for the steak with a country-of-origin logo than without [22]. It was also reported that consumers
+were more inclined to purchase local products than products produced elsewhere [23,24]. For instance,
+Gracia (2014) found that Spanish consumers were prepared to pay 9% higher price for fresh lamb
+with a “locally grown” logo than without [25]. Wägeli et al. (2016) revealed that German consumers
+were willing to pay a price premium of 41–56% for local organic animal products produced with local
+feed [26]. The rationale behind this motivation is that the production processes are often transparent
+to consumers and that the short transportation distance ensures the freshness of the foods [27].
+Another reason is that consumers are often included to support the local economy by purchasing foods
+produced locally [26]. However, a study in the Chinese context revealed that consumers were prepared
+to pay more for imported than domestic beef, although the willingness to pay for beef imported from
+countries suffered from bovine spongiform encephalopathy (BSE) outbreak was much lower [12].
+      Livestock feed is an important attribute to determine the quality of meat products, however,
+a few studies have taken it as an attribute in choice experiments. Although not a choice experiment
+study, Bernués et al. (2003) is an exemption who investigated consumers’ preferences for proper
+animal feeding and found that it was even more important than the preference for origin/region of
+production [28]. Another study is Font i Furnols et al. (2011) who found that a proper feeding system
+was an important cue to determine a consumer’s purchasing intention whereas price information
+was a minor factor for 391 European consumers [29]. Despite the little evidence, we argue that feed
+information is an important attribute in the Chinese context. This is because several notorious food
+safety outbreaks happened in China, i.e., the scandals that baby milk formula was contaminated
+by melamine, and that fresh pork contaminated by clenbuterol [30,31]. Other studies conducted in
+developed societies have also focused on animal welfare. For instance, Bernués et al. (2003) discovered
+that European consumers demanded information on animal welfare when purchasing meat. Based on
+data from 449 UK consumers [28], Erdem (2015) found that welfare-improved chickens received
+approximately seven times more WTP for better animal welfare than for conventional chickens [32].
+However, we argue that Chinese consumers generally have a low awareness of animal welfare [33]
+and thus did not consider it as an attribute.
+
+3. Methods: Discrete Choice Experiment
+    Lancaster (1966)’s Random Utility Theory suggested that a consumer’s utility from a product is a
+function of attributes of the product [34]. Consumers subject to a budget constraint are expected to
+choose the set of attributes that maximize their utilities [35]. Following this rationale, consumers are
+hypothesized to maximize their utilities by making tradeoffs between the attributes of a pork product.
+Assuming a linear function, the utility of a consumer can be expressed as:
+
+                                             Uij = β Xijk + ε ij                                         (1)
+
+where Uij represents the ith consumer’s utility from pork j, Xijk represents the kth attribute of pork j for
+consumer i, β is a vector of coefficients which are homogenous across consumers, and ε ij is assumed to
+
+===== PAGE 4 =====
+Sustainability 2018, 10, 603                                                                        4 of 14
+
+
+
+be an i.i.d. type I extreme value (EV1) distributed error term. Then, a consumer’s utility associated
+with the alternative j can be written as:
+                                             Uij = Vij + ε ij                                      (2)
+
+where Vij represents the utility determined by the pork attributes and ε ij is a stochastic element.
+The probability that the alternative j is preferred by consumer i is expressed as:
+
+                               Pij = prob(Vij + ε ij > Vis + ε is ; ∀s, j ∈ Ti , ∀s 6= j)              (3)
+
+where Ti = {t1 , t2 , . . . t T } represents the choice occasions faced by respondent i.
+     According to Loureiro and Umberger (2007) [22], the probability of consumer i choosing
+alternative j can be expressed by the multinomial logit (MNL) model:
+
+                                                                         eVij
+                                                       Pij =         J
+                                                                                                       (4)
+                                                                   ∑ j=1 eVik
+
+     Note that the MNL assumes that all consumers have the same preferences, which is likely to be
+violated [36]. This assumption is relaxed in the Random Parameter Logit model (RPL) which allows
+that consumers’ preferences be heterogeneous across respondents [37,38]. In the Random Parameter
+Logit context, the deterministic component of the utility function takes the following form:
+
+                                               Vij0 = ( β0 + σi ) Xijk + ε ij                          (5)
+
+where β0 is a vector of attribute coefficients in the population level and σi is individual-specific
+deviation from the mean β0 . When an RPL is assumed, the unconditional choice probability is the
+integral of the logit formula over all possible values of random parameters:
+
+                                                                   V0
+                                                                e ij
+                                                          Z
+                                               Pij =                          g( β|θ )dβ               (6)
+                                                               K     V0
+                                                              ∑ e        ik
+                                                              k =1
+
+where g( β|θ ) denotes the joint density of random parameters. Next, the probability of consumer i’s
+choices over the T = {t1 , t2 , . . . t T } choice occasions, Pi(t ,t ,...t ) , can be expressed as [39]:
+                                                                                1 2   T
+
+                                                                                     
+                                                               T     V0
+                                                                    e ij 
+                                                          Z                
+                                     Pij(t ,t ,...t ) =
+                                         1 2    T
+                                                              ∏ K V 0  g( β|θ )dβ                  (7)
+                                                              t =1
+                                                                    ∑ e ik
+                                                                         k =1
+
+4. Experimental Design and Sample Selection
+
+4.1. Attributes
+      When it comes to the designing of a choice experiment, a reasonable number of attributes is
+necessary. Too many attributes cause fatigue and cognitive burden to respondents whereas too few
+attributes lead to attributes that are unrepresentative to a product in question [40]. The four attributes
+considered in this study include governmental certification, location-of-origin, “free from veterinary
+drug residues” label, and price. Governmental certification available in China’s food market has
+four levels: no certification (NOCERT thereafter), “Safe Food” certification (CERT1), “Green Food”
+certification (CERT2), and “Organic Food” certification (CERT3). The “Safe Food” certification logo
+is issued by local authorities to be labeled on the raw or crude food that is produced by a process
+that meets the requirement of the national standards. Note that pesticides and fertilizers are allowed
+to produce foods with “Safe Food” certification logos, however highly-toxic types of pesticides with
+
+===== PAGE 5 =====
+Sustainability 2018, 10, 603                                                                                                  5 of 14
+
+
+
+a high level of residues are not permitted. In theory, all foods sold in the market should meet this
+standard, however, in practice, this is not true. Next, foods with a “Green Food” logo indicates
+a production process with a higher safety standard and stricter quality control than “Safe Food”.
+Similar to “Safe Food”, the “Green Food” logo was closely watched by local authorities who take
+responsibilities to authorize the logos. Finally, the “Organic Food” logo, also known as “eco-foods”, is
+labeled on the foods which are purely natural, no pollution, safe, and with ample nutrition. Foods
+with this logo have to strictly comply with the standards of organic farming where synthetic fertilizers
+are not used, and foods are not permitted to be processed using industrial solvents or synthetic food
+additives, nor are genetically modified foods considered as organic. In addition, organic farming also
+takes into consideration species diversity, sustainability of resources, and the balance of the ecological
+system etc. The definitions of the three labels had been shown to respondents before they made choices.
+      ORIGIN refers to a label which shows the information on the location where the pork is produced.
+DRUG-FREE means that the product has a label that shows that pork is free from veterinary drug
+residues and clenbuterol. The foods with Organic Food labels are indeed drug-free. Nevertheless,
+we expect consumers to have a higher willingness to pay for the food with both Organic Food and
+Drug-free labels than for Organic Food alone. The reason is that the more labels a food has, the more
+likely consumers believe the food is safer. To exclude the influences of other pork characteristics that
+are irrelevant to our study, the pork considered limits to hindquarter pork only. According to our
+observation of the local markets, an ordinary hindquarter pork is sold for approximately 25 Yuan/500 g,
+which is set as a baseline. In terms of the levels for the price attribute, we considered three levels
+(for 500 g pork): 15 Yuan, 25 Yuan, and 40 Yuan. The levels of the four attributes and effect coding are
+shown in Table 1.
+
+                               Table 1. Four pork attributes, attribute levels, and effect coding.
+
+         Attributes                 Levels                    Description                          Effect Coding
+                            “Safe Food” (CERT1)                                           CERT1 = 1; CERT2 = 0; CERT3 = 0
+        Government         “Green Food” (CERT2)                                           CERT1 = 0; CERT2 = 1; CERT3 = 0
+                                                         Has a logo that shows a
+        certification     “Organic Food” (CERT3)                                          CERT1 = 0; CERT2 = 0; CERT3 = 1
+                                                          certain certification
+                              No certification
+                                                                                        CERT1 = −1; CERT2 = −1; CERT3 = −1
+                                 (NOCERT)
+                                 Yes (ORIGIN)        Has information on the location               ORIGIN = 1
+     Location-of-origin
+                                No (NOORIGIN)         where the pork is produced                 NOORIGIN = −1
+                                                     Has a label that shows that pork
+                                Yes (DRUG-FREE)                                                   DRUG-FREE = 1
+         Drug-free                                    is free from veterinary drug
+                               No (NODRUG-FREE)         residues and clenbuterol               NODRUG-FREE = −1
+                                    15 Yuan
+            Price                   25 Yuan                Price per 500 g pork          PRICE = 15; PRICE = 25; PRICE = 40
+                                    40 Yuan
+
+
+4.2. Experimental Design
+      A full factorial design results in (4 × 2 × 2 × 3)2 = 2304 combinations of choice sets, making it
+infeasible to present all choice sets to respondents. It was reported that fatigue is likely to happen after
+being presented with approximately 15–20 choice sets [41]. To avoid systematic deviation from the
+attributes considered while ensuring efficiency, a fractional factorial design was used to obtain 12 choice
+sets using JMP 11.0 (SAS Institute, North Carolina, United States), based on D-error efficiency [42].
+An example choice set is shown in Table 2. The D-efficiency value was 96.29, suggesting an acceptable
+design. Each choice set is composed of three alternatives, i.e., Option A and Option B offer a pork with
+certain levels of attributes, respectively, whereas Option C is an “opting out” choice. The design of
+an Opting C (ASC thereafter) choice makes sure that consumers are not forced to make choices which
+might not reflect their real preferences [43,44]. Respondents were also asked to answer some questions
+eliciting their socio-demographic information.
+
+===== PAGE 6 =====
+Sustainability 2018, 10, 603                                                                                                                        6 of 14
+
+  FOR PEER REVIEW
+                Sustainability 2018, 10, x FOR PEER REVIEW
+                                                       Sustainability 2018, 10, x FOR PEER REVIEW
+                                                                                            6 of 14                                                                        6 of 14
+
+                                                                                  Table 2. An example choice set.
+                           Table 2. An example choice set.                     Table 2. An example choice set.   Table 2. An example choice set.
+
+ on A                             Option
+                               Option    AA B
+                                      Option                         OptionOption
+                                                                               A BC B
+                                                                           Option
+                                                                               Option                             Option C CB
+                                                                                                                    Option
+                                                                                                                     Option                                                                                  Opti
+d” certification   “Organic
+                       “OrganicFood”
+                                   No  certification
+                                   Food”certification
+                                          certification “Organic Food” NoNo   certification
+                                                                               certification
+                                                                           certification                          No certification
+rigin informationNo location-of-origin
+                     NoNo   location-of-origin
+                         location-of-origininformation
+                                                  information
+                                                       No location-of-origin
+                                             information     NoNo   location-of-origin
+                                                                                 information
+                                                                 location-of-origin        information
+                                                                                      information      No location-of-origin information
+                                                                        I chose neither                          I chose neither                                                                         I chose
+ g pork free from No label
+                      Has  showing
+                            a label  showing
+                                       pork   free
+                                                pork
+                                                   from
+                      No label showing pork free from free
+                                                       No  from
+                                                           label
+                                                              Has showing
+                                                                    a label
+                                                               Has a label   showing
+                                                                             pork
+                                                                            showing free pork
+                                                                                          from
+                                                                                       pork     free
+                                                                                             free    from
+                                                                                                       Has a label
+                                                                                                        I chose     showing
+                                                                                                                neither      pork
+                                                                                                                        Option A orfree from
+                                                                          Option A or                              OptionBA or
+                                                                                                                  Option
+                                                                                                                                                                                                           Option
+ g residues and    veterinary
+                          veterinary
+                                drug   residues
+                                        drug   residues
+                          veterinary drug residuesand    and
+                                                         veterinary
+                                                                  veterinary
+                                                                      drug   residues
+                                                                                drug   residues
+                                                                                         and
+                                                              from veterinary drug residues        and    veterinary  drug  residues  and
+                                                                           Option B                                 Option B                                                                                Opti
+ uterol                        and  clenbuterol
+                              clenbuterol
+                                     clenbuterol                       and  clenbuterol
+                                                                    clenbuterol
+                                                                             clenbuterol                            clenbuterol
+Yuan/500 g              Price:  Price:
+                                40 40
+                            Price: Yuan/500
+                                       25 Yuan/500
+                                      Yuan/500  gg g          Price:Price:
+                                                                      40Price:
+                                                                          Yuan/500
+                                                                               25 Yuan/500
+                                                                           25 Yuan/500 g g g                   Price: 25 Yuan/500 g
+
+
+
+                        4.3. 4.3.
+                             DataData                                    4.3. Data
+  conducted in JiangsuA survey
+                            and    Anhui
+                            A survey  waswas   conducted
+                                               provinces,
+                                                    conducted   in
+                                                                 which
+                                                                     Jiangsu
+                                                                      in A  are
+                                                                              survey
+                                                                          Jiangsu  and
+                                                                                   locatedAnhui
+                                                                                           wasin
+                                                                                         and       conducted
+                                                                                                    eastern
+                                                                                                Anhui provinces,  China,
+                                                                                                            provinces,inwhich
+                                                                                                                          Jiangsu
+                                                                                                                               whichareand
+                                                                                                                                         located
+                                                                                                                                         are  Anhui
+                                                                                                                                               locatedin provinces,
+                                                                                                                                                          eastern
+                                                                                                                                                             in easternChina,
+                                                                                                                                                                            which
+                                                                                                                                                                             China,are located in east
+ovince more economically
+                with   the the
+                    with      former
+                                   developed
+                                   former province    than
+                                                province more the with
+                                                               moreeconomically
+                                                                    latter.theWe former
+                                                                        economically  onlydeveloped
+                                                                                              province
+                                                                                               focused
+                                                                                                developed    than
+                                                                                                             on
+                                                                                                              moreurban
+                                                                                                                      the
+                                                                                                                   than  economically
+                                                                                                                            latter.
+                                                                                                                            the       We We
+                                                                                                                                  latter.    only
+                                                                                                                                              developed
+                                                                                                                                                     focused
+                                                                                                                                                  only          than
+                                                                                                                                                           focused on urban
+                                                                                                                                                                         theurban
+                                                                                                                                                                         on   latter. We only focused
+markets are mature.
+                areas,   where
+                    areas,To where
+                               takefoodinto
+                                          foodmarkets
+                                                consideration
+                                                   markets  are are
+                                                                  mature.
+                                                                  areas,
+                                                                      the    geographical
+                                                                             where
+                                                                       mature.  To take
+                                                                                      Tofood  into
+                                                                                            take  markets
+                                                                                                    location
+                                                                                                      consideration
+                                                                                                    into         are
+                                                                                                                  of mature.
+                                                                                                                        the the the
+                                                                                                            consideration           geographical
+                                                                                                                                     To geographical
+                                                                                                                                          take into consideration
+                                                                                                                                                          location
+                                                                                                                                                                locationof theofthe
+                                                                                                                                                                                  thegeographical loca
+ties (i.e., Suzhou,
+                provinces,
+                     Wuxi, and
+                    provinces,   three Changzhou)
+                                      threecities   (i.e.,(i.e.,
+                                                 cities     Suzhou,
+                                                             from provinces,
+                                                                      northern
+                                                                  Suzhou,  Wuxi,     three
+                                                                                 Wuxi, Jiangsu
+                                                                                       andand Changzhou)
+                                                                                               citieswere(i.e.,selected,
+                                                                                                    Changzhou)   Suzhou,
+                                                                                                                     from     northern
+                                                                                                                           from Wuxi,      and
+                                                                                                                                    northern Jiangsu
+                                                                                                                                                  Changzhou)
+                                                                                                                                                   Jiangsuwere      selected,
+                                                                                                                                                                 were   from     northern Jiangsu wer
+                                                                                                                                                                          selected,
+antong, Yangzhou,
+                three  and
+                        cities
+                    three      Taizhou)
+                                  (i.e.,(i.e.,
+                              cities      Nantong,
+                                               from
+                                                Nantong,middle
+                                                           Yangzhou,
+                                                                  three
+                                                                     Jiangsu
+                                                                Yangzhou,   cities
+                                                                              andwere Taizhou)
+                                                                                      (i.e.,Taizhou)
+                                                                                    and      selected,
+                                                                                              Nantong,from  and
+                                                                                                            fromYangzhou,
+                                                                                                                middle
+                                                                                                                    three
+                                                                                                                     middle  Jiangsu
+                                                                                                                                   and were
+                                                                                                                                  Jiangsu Taizhou)
+                                                                                                                                               wereselected,
+                                                                                                                                                         from and
+                                                                                                                                                        selected,  middle three
+                                                                                                                                                                        and    Jiangsu were selected,
+                                                                                                                                                                               three
+ Suqian, and Xuzhou)
+                cities  (i.e.,
+                    cities from Huaian,
+                              (i.e.,south
+                                     Huaian,   Suqian,
+                                               Jiangsu
+                                                    Suqian,and
+                                                           were   cities
+                                                                  Xuzhou)
+                                                                 andselected.
+                                                                            (i.e.,from
+                                                                        Xuzhou)     Huaian,
+                                                                                    Forfromthe
+                                                                                           south Anhui
+                                                                                                   Suqian,
+                                                                                                 southJiangsuprovince,
+                                                                                                                and
+                                                                                                           Jiangsu were Xuzhou)
+                                                                                                                            selected.
+                                                                                                                          were        from
+                                                                                                                                  selected.Forsouth
+                                                                                                                                                 the the
+                                                                                                                                                For    Anhui
+                                                                                                                                                        Jiangsu
+                                                                                                                                                              Anhuiprovince,
+                                                                                                                                                                      were     selected. For the Anhu
+                                                                                                                                                                         province,
+bu) from the northern
+                oneone
+                     citypart(i.e.,(i.e.,
+                            city   of
+                                    Bengbu)
+                                       theBengbu)
+                                              province,
+                                                   fromfrom the
+                                                              oneone
+                                                                  northern
+                                                                     (i.e.,
+                                                                    the  cityHefei)
+                                                                                (i.e.,
+                                                                                  partfrom
+                                                                           northern      Bengbu)
+                                                                                          of  thethe
+                                                                                           part      province,
+                                                                                                    of  from
+                                                                                                        middle,  theone
+                                                                                                         the province, and
+                                                                                                                        northern
+                                                                                                                             (i.e.,
+                                                                                                                                one Hefei)
+                                                                                                                                      part
+                                                                                                                                        (i.e.,of
+                                                                                                                                               from
+                                                                                                                                                  the the
+                                                                                                                                                Hefei)  province,
+                                                                                                                                                               middle,
+                                                                                                                                                            from    theone  and(i.e., Hefei) from the m
+                                                                                                                                                                            middle,
+ rom the southone were(Xuancheng)
+                          selected.       Allfromenumerators
+                                                      the   south one had
+                                                                       were
+                                                                         (Xuancheng)
+                                                                               been
+                                                                                 selected.
+                                                                                        trained  from
+                                                                                                 All  toenumerators
+                                                                                                          the
+                                                                                                          familiarize
+                                                                                                                 south
+                    and one (Xuancheng) from the south were selected. All enumerators had been trained to familiarize       were
+                                                                                                                              had    selected.
+                                                                                                                                     been     trained
+                                                                                                                                                    All    enumerators
+                                                                                                                                                            to   familiarize     had been trained to
+ e questionnairethemselves
+                  prior    to the
+                    themselves    with
+                                     survey.
+                                      with thethequestionnaire
+                                                   Face-to-face
+                                                    questionnaire themselves
+                                                                       surveys
+                                                                        prior
+                                                                           prior  toto
+                                                                                     were
+                                                                                      with
+                                                                                      the
+                                                                                        thesurvey.
+                                                                                              the
+                                                                                               conducted
+                                                                                              survey.questionnaire
+                                                                                                          Face-to-face
+                                                                                                                 in July prior
+                                                                                                           Face-to-face        surveysto thewere
+                                                                                                                                            weresurvey.
+                                                                                                                                                     conducted
+                                                                                                                                                    conducted Face-to-face
+                                                                                                                                                                     ininJuly
+                                                                                                                                                                            July2017
+                                                                                                                                                                                 surveys were conduc
+ upermarkets, traditional
+                2017randomly
+                       randomly  foodininmarkets,
+                                             supermarkets,
+                                          supermarkets,and stores 2017
+                                                                    traditional
+                                                                          etc.
+                                                                          randomly
+                                                                  traditional   (We    food
+                                                                                     fooddoinnotmarkets,
+                                                                                                 supermarkets,
+                                                                                                     anticipate
+                                                                                              markets,          andstores
+                                                                                                              and      that
+                                                                                                                        stores
+                                                                                                                          traditional
+                                                                                                                                  etc. (We
+                                                                                                                                etc.    (Wefooddonot
+                                                                                                                                              do   markets,
+                                                                                                                                                    not anticipate
+                                                                                                                                                          anticipate
+                                                                                                                                                                  and storesthat the
+                                                                                                                                                                           that    etc. (We do not anti
+aphic characteristics
+                the socio-demographic
+                      socio-demographic
+                           of participantscharacteristics
+                                                       surveyed
+                                                        characteristics
+                                                                  the in  socio-demographic
+                                                                            ofone of specific
+                                                                                        participants
+                                                                                participants           location
+                                                                                                             characteristics
+                                                                                                      surveyed surveyed
+                                                                                                                      inare      in one
+                                                                                                                          one specificof participants
+                                                                                                                                              specific are
+                                                                                                                                             location         location
+                                                                                                                                                                  surveyed   are in one specific lo
+                                                                                                                                                                 systematically
+ erentiated thansystematically
+                     participants differentiated
+                    differentiated         from      the other
+                                            than participants    than
+                                                                  systematically
+                                                                       locations.).
+                                                                           participants
+                                                                        from     the other  Interviewees
+                                                                                             differentiated
+                                                                                                  from      the other
+                                                                                                  locations.).      were
+                                                                                                                      than locations.).
+                                                                                                                                participants
+                                                                                                                     Interviewees          were Interviewees
+                                                                                                                                                     from theapproached
+                                                                                                                                                   randomly            other
+                                                                                                                                                                          werelocations.). Interview
+hed at differentrandomly
+                  times    of the
+                    at differentapproached
+                                     day
+                                       times  and ofat
+                                                    were
+                                                     thedifferent
+                                                             asked
+                                                           day    randomly
+                                                                  andtimes
+                                                                        whether
+                                                                         wereof     approached
+                                                                                      the
+                                                                                       theyday
+                                                                                   asked        areand
+                                                                                              whether theatwere
+                                                                                                             ones
+                                                                                                             different
+                                                                                                             they    asked
+                                                                                                                     whothe
+                                                                                                                     are     times
+                                                                                                                                whether
+                                                                                                                                 ones ofwho
+                                                                                                                                          thethey
+                                                                                                                                                day
+                                                                                                                                                 oftenare
+                                                                                                                                                       and  the
+                                                                                                                                                          buy  were
+                                                                                                                                                                  onesasked
+                                                                                                                                                                  pork     who
+                                                                                                                                                                           for    whether they are the
+                                                                                                                                                                                their
+r their families.
+                often
+                   Each  buyinterview
+                    families.    pork
+                                   Eachfor    took
+                                                 theirabout
+                                             interview   families.
+                                                             took20–30
+                                                                  often Each
+                                                                     about  min.
+                                                                             buy   interview
+                                                                                    pork
+                                                                                20–30A total
+                                                                                          min.fornumber
+                                                                                                   Atook
+                                                                                                     their
+                                                                                                       totalabout
+                                                                                                              families.
+                                                                                                                  of 984
+                                                                                                                number   20–30Each
+                                                                                                                              of 984min.
+                                                                                                                                       interview
+                                                                                                                                            A total took
+                                                                                                                                        consumers       number
+                                                                                                                                                          were   about of 20–30
+                                                                                                                                                                             984 min. A total num
+                                                                                                                                                                   interviewed,
+ terviewed, among
+                consumers
+                      whichwhich
+                    among         844
+                                  werequestionnaires
+                                           interviewed,
+                                           844 questionnaires  among
+                                                                (475
+                                                                  consumers
+                                                                        from
+                                                                         (475whichJiangsu
+                                                                                 fromwere
+                                                                                        844   interviewed,
+                                                                                               questionnaires
+                                                                                               province
+                                                                                          Jiangsu      province andamong369
+                                                                                                                         (475
+                                                                                                                       and   369from
+                                                                                                                                 which
+                                                                                                                                   fromJiangsu
+                                                                                                                                            844 questionnaires
+                                                                                                                                           Anhui      province
+                                                                                                                                                      province)and    were  (475
+                                                                                                                                                                             369  from Jiangsu provin
+                                                                                                                                                                              intact
+ ce) were intactfrom
+                 and   considered
+                       Anhui       province)
+                                          as   valid
+                                                   wereresponses
+                                                            intactfromand
+                                                                        (a Anhui
+                                                                             response
+                                                                              considered
+                    and considered as valid responses (a response rate of 85.77%).     province)
+                                                                                             rateas ofvalid
+                                                                                                        were
+                                                                                                        85.77%).
+                                                                                                               responses
+                                                                                                                 intact    and  (a considered
+                                                                                                                                    response       rate
+                                                                                                                                                    as  valid
+                                                                                                                                                         of    85.77%).
+                                                                                                                                                                  responses       (a  response rate of 85
+
+  ristics               4.4. 4.4. Sample
+                             Sample      Characteristics
+                                     Characteristics                     4.4. Sample Characteristics
+ the socio-demographic      Table
+                        Table        3 shows
+                              characteristics
+                                3 shows         the the of socio-demographic
+                                                      socio-demographic
+                                                           the sample.       Table
+                                                                               Female          characteristics
+                                                                                       3characteristics
+                                                                                           shows
+                                                                                               respondents                of the
+                                                                                                         the socio-demographic
+                                                                                                                     ofaccount
+                                                                                                                         the   sample.sample.  FemaleFemale      respondents
+                                                                                                                                                   characteristics
+                                                                                                                                                            respondents      of the    accountFemale responden
+                                                                                                                                                                                  account
+                                                                                                                                                                                      sample.
+ tal number surveyed  for 57.26%
+                 for 57.26%in Jiangsuof the
+                                 of the     totaltotal
+                                             province    number
+                                                     number            surveyed
+                                                             andsurveyed
+                                                                    for
+                                                                    54.47% 57.26%       in
+                                                                                  ininAnhui,
+                                                                                        of   Jiangsu
+                                                                                         Jiangsu
+                                                                                             the total      province
+                                                                                                      respectively.
+                                                                                                          province
+                                                                                                               number       and
+                                                                                                                          and        54.47%in
+                                                                                                                              surveyed
+                                                                                                                              The 54.47%          inJiangsu
+                                                                                                                                                 in   Anhui, respectively.
+                                                                                                                                                     Anhui,      respectively.
+                                                                                                                                                                 province andThe        The   fact in Anhui, respec
+                                                                                                                                                                                         54.47%
+more female than      that
+                 factmale   there
+                             thereare
+                       thatrespondentsaremoremore     female
+                                                  is infemale     than
+                                                          line withthan
+                                                                    factthemale
+                                                                            that
+                                                                            male    respondents
+                                                                                reality
+                                                                                   there
+                                                                                     respondents
+                                                                                              in      moreis
+                                                                                               areChina        is in
+                                                                                                                   in line
+                                                                                                                that
+                                                                                                                 femaleline
+                                                                                                                       femaleswith
+                                                                                                                              than
+                                                                                                                               withmale  the
+                                                                                                                                         the reality
+                                                                                                                                               reality    in
+                                                                                                                                                          in China
+                                                                                                                                                 respondents  China   is that
+                                                                                                                                                                           in linefemales
+                                                                                                                                                                                      with the are reality in China th
+ n males to do are    more
+                  shopping    likely
+                       more likely      than
+                                for their         males
+                                         thanfamilies.       to  do
+                                                   males toRespondents
+                                                                  do   shopping
+                                                                    areshopping
+                                                                           more likely   for
+                                                                                       aged      their
+                                                                                          for theirthan    families.
+                                                                                                   30 orfamilies.
+                                                                                                            males
+                                                                                                             younger        Respondents
+                                                                                                                        to Respondents
+                                                                                                                            doand shopping for their aged     30
+                                                                                                                                                              30 oror  younger
+                                                                                                                                                                    families.
+                                                                                                                                                                        younger        and
+                                                                                                                                                                                    Respondents
+                                                                                                                                                                                        and    the     aged 30 or yo
+ ed 40–49 accountthe respondents
+                       respondents
+                       for more than      aged
+                                           agedhalf40–49
+                                                     40–49
+                                                       of totalaccount
+                                                                account      for
+                                                                              formore
+                                                                    respondents,
+                                                                    the respondents  moreathan   than
+                                                                                                 figure
+                                                                                                     agedhalf
+                                                                                                           half   ofoftotal
+                                                                                                              consistent
+                                                                                                               40–49     total respondents,
+                                                                                                                          accountin        for morea athan
+                                                                                                                                  respondents,             figure
+                                                                                                                                                             figure   consistent
+                                                                                                                                                                   half     of total in
+                                                                                                                                                                         consistent        inboth
+                                                                                                                                                                                         respondents,      a figure co
+  terms of educationalprovinces.
+                 both provinces.     In
+                              attainment,  terms
+                                           In terms   of
+                                                   both ofeducational
+                                                            provinces
+                                                                 educational  attainment,
+                                                                    both provinces.
+                                                                               haveattainment,
+                                                                                          similar     both    provinces
+                                                                                                     In percentages
+                                                                                                          terms bothofprovinces have
+                                                                                                                           educational
+                                                                                                                                 of         similar
+                                                                                                                                               have    percentages
+                                                                                                                                                   attainment,
+                                                                                                                                                        similar percentages  of  respondents
+                                                                                                                                                                       both provinces      of have similar perc
+secondary-school      with
+                 respondents secondary-school
+                       education     with
+                                       or lower            education
+                                               secondary-school
+                                                         (about      28%),or
+                                                                    respondents   lowerwith
+                                                                              education
+                                                                                followed       (about
+                                                                                                    or      28%),(about
+                                                                                                    bysecondary-school
+                                                                                                         lower
+                                                                                                          high-school  followed  or
+                                                                                                                                  28%),   by   high-school
+                                                                                                                                           education
+                                                                                                                                               followedorby       orhigh-school
+                                                                                                                                                                 lower vocational
+                                                                                                                                                                              (about 28%),school
+                                                                                                                                                                                           or      followed by high
+26%), and college     (26%), and
+                 vocational
+                      education      college
+                                 school
+                                     or   higher
+                                             (26%),education
+                                                       (30%).
+                                                         and collegeor   higher
+                                                                 Respondents
+                                                                    vocational      (30%).
+                                                                             education  school    Respondents
+                                                                                          in Jiangsu
+                                                                                                 or   (26%),
+                                                                                                       higher  tended
+                                                                                                                   and
+                                                                                                                    (30%).intoJiangsu
+                                                                                                                          college
+                                                                                                                               Respondents
+                                                                                                                                 be education tendedinto  or be  richer
+                                                                                                                                                            Jiangsu
+                                                                                                                                                              higher         with 35.16%
+                                                                                                                                                                         tended
+                                                                                                                                                                            (30%).    to   be of
+                                                                                                                                                                                      Respondents        in Jiangsu te
+ of respondentsricher respondents
+                   had awithhousehold    had
+                                  35.16% income  a  household
+                                                of respondents
+                                                            higher    income
+                                                                    richer
+                                                                         than
+                                                                          hadwith  higher
+                                                                                 100,000
+                                                                                 a household
+                                                                                         35.16%   than
+                                                                                                 Yuan,     100,000
+                                                                                                         ofincome
+                                                                                                             in
+                                                                                                             respondents Yuan,
+                                                                                                                  contract
+                                                                                                                         higher      in
+                                                                                                                                 tohad    contract
+                                                                                                                                       thana 100,000   to
+                                                                                                                                                household   Anhui
+                                                                                                                                                             Yuan,     with
+                                                                                                                                                                   income       a
+                                                                                                                                                                        in contractpercentage
+                                                                                                                                                                                 higherto    than 100,000 Yuan, in
+ ntage of 25.75%.Anhuiof 25.75%.
+                      This with
+                            is inaline This
+                                     percentage
+                                            withis intheline
+                                                          of   with
+                                                           economic
+                                                              25.75%.
+                                                                    Anhuithestatus
+                                                                               economic
+                                                                             This
+                                                                                with isof in
+                                                                                           a the    status
+                                                                                              percentage
+                                                                                                line  two
+                                                                                                        with    ofthetheeconomic
+                                                                                                              provinces.
+                                                                                                                     of    twoAprovinces.
+                                                                                                                         25.75%.         This
+                                                                                                                                            status
+                                                                                                                                                 is inofAline
+                                                                                                                                                            percentage
+                                                                                                                                                           the  with     the of
+                                                                                                                                                                two provinces.      53.26%
+                                                                                                                                                                                 economic   A ofstatus of the two pr
+ % of respondents     respondents
+                 percentage
+                       from Jiangsu      from
+                                  of 53.26%  had Jiangsu
+                                                    of
+                                                     children    had
+                                                        respondentsunder children
+                                                                    percentagefrom
+                                                                               18, whichunder
+                                                                                        Jiangsu
+                                                                                         of 53.26%  is18,   which
+                                                                                                        higher
+                                                                                                         had ofchildren is higher
+                                                                                                                  respondents
+                                                                                                                     than     that
+                                                                                                                                 under     than
+                                                                                                                                              18,that
+                                                                                                                                           from     which of Anhui
+                                                                                                                                                    Jiangsu   ishad
+                                                                                                                                                                  higher   (43.36%).
+                                                                                                                                                                         children
+                                                                                                                                                                                than that  In the18, which is highe
+                                                                                                                                                                                        under
+ In the Discreteof    Discrete
+                   Choice
+                     Anhui         Choice In
+                            Experiment
+                              (43.36%).         Experiment
+                                                  analysis,
+                                                    the Discrete    analysis,
+                                                                 Gender
+                                                                    of Choice
+                                                                          Anhui
+                                                                              was  Gender
+                                                                                      codedwas
+                                                                                     (43.36%).
+                                                                                      Experiment     asIn 1 coded
+                                                                                                            if
+                                                                                                             the
+                                                                                                              analysis, as 1Gender
+                                                                                                                 a consumer
+                                                                                                                     Discrete  if aChoice
+                                                                                                                                       consumer
+                                                                                                                                              was       is a male,
+                                                                                                                                                  Experiment
+                                                                                                                                                     coded             ifand
+                                                                                                                                                               as 1analysis,     0 if Gender
+                                                                                                                                                                            a consumera female.  was coded as 1 if a
+a female. Age is was aAge
+                       male,was
+                        coded  andascoded
+                                      10 ifif aaas   1 if a consumer
+                                                 consumer
+                                                  female.      Age was
+                                                                    is was      wasand
+                                                                         a younger
+                                                                            male,
+                                                                               coded     younger
+                                                                                            than
+                                                                                            as01ifif   30  than
+                                                                                                        aafemale.
+                                                                                                            years
+                                                                                                             consumer30   years
+                                                                                                                       old,
+                                                                                                                          Age     ifold,
+                                                                                                                               2was
+                                                                                                                                  was         2 if between
+                                                                                                                                          younger
+                                                                                                                                            coded     asthan      a31–39,
+                                                                                                                                                            1 if 30    years3old,
+                                                                                                                                                                     consumer      if between
+                                                                                                                                                                                       was
+                                                                                                                                                                                         2 if younger than 30 yea
+  between 40–49,    4 40–49,
+                 between
+                       if 50–59,4 ifand
+                              31–39, 50–59,        and 5than
+                                        3 5ififbetween
+                                                  older      if40–49,
+                                                                older
+                                                                    betweenthan
+                                                                    60 years        60
+                                                                           4 if 50–59,
+                                                                                    old. years
+                                                                                    31–39,   Education
+                                                                                               and3 ifold. if Education
+                                                                                                        5between
+                                                                                                               older
+                                                                                                                  attainment
+                                                                                                                         than
+                                                                                                                          40–49,  attainment
+                                                                                                                                  604years         old.isand
+                                                                                                                                           if 50–59,       denoted
+                                                                                                                                                          Education
+                                                                                                                                                               5 if older  by   EDU,
+                                                                                                                                                                             attainment
+                                                                                                                                                                                 than 60  which
+                                                                                                                                                                                              years old. Education
+  which equals is 1 ifequals
+                    denoted     1byifEDU,
+                       a consumer      a had
+                                          consumer
+                                                 which
+                                                  secondary  had education
+                                                            equals   secondary
+                                                                    is  1denoted
+                                                                           if a consumer
+                                                                                      or education
+                                                                                        by lower,
+                                                                                              EDU,    had     orhigh-school
+                                                                                                         2which     lower,
+                                                                                                            ifsecondary
+                                                                                                                      equals    2education
+                                                                                                                                   1if ifhigh-school
+                                                                                                                                           a consumer        or
+                                                                                                                                                     or lower,hadvocational
+                                                                                                                                                                    2secondary
+                                                                                                                                                                       if high-schoolschool,
+                                                                                                                                                                                        education3 or lower, 2 if h
+ l, 3 if vocational   if vocational
+                 or college,
+                     vocational 4 ifschool,college,
+                                      bachelors’          4 if bachelors’
+                                                   3 if vocational
+                                                          degree    or
+                                                                     and     5 if degree
+                                                                          vocational
+                                                                            college,
+                                                                                   Master’s       and
+                                                                                          4 school,
+                                                                                              if bachelors’53ifif Master’s
+                                                                                                      degree            higher.degree
+                                                                                                                   vocational
+                                                                                                                    ordegree        and      5 ifor
+                                                                                                                                        college,     4higher.
+                                                                                                                                                   Master’s        Household
+                                                                                                                                                        if bachelors’
+                                                                                                                                                                degree         degree   income
+                                                                                                                                                                               or higher. and 5 if Master’s degree
+                      of a consumer
+ of a consumer Household
+                  is denoted     by
+                                  income
+                                     INCOME    is
+                                                ofdenoted
+                                                        which by
+                                                    a consumer         INCOME
+                                                                  equals
+                                                                    Household
+                                                                        is denoted
+                                                                              1 if his/herwhich
+                                                                                         income
+                                                                                           by INCOME    equals
+                                                                                                    household
+                                                                                                         of a consumer1 income
+                                                                                                                         if his/her
+                                                                                                                     which      equals
+                                                                                                                                   is denotedhousehold
+                                                                                                                                              1 if his/her
+                                                                                                                                                      by INCOMEincomewhich
+                                                                                                                                                               household      is lower
+                                                                                                                                                                                   income
+                                                                                                                                                                                       equalsthan1 if his/her househo
+                      50,000than
+00 Yuan, 2 if 50,000–80,000
+                 is lower      Yuan, Yuan,2 if 50,000–80,000
+                                      50,000      3Yuan,
+                                                     if 80,001–100,000    Yuan, Yuan,
+                                                               2 ifis50,000–80,000
+                                                                         lower     3than
+                                                                                      if 80,001–100,000
+                                                                                               50,000
+                                                                                                 Yuan,
+                                                                                                 and 4 Yuan,  if
+                                                                                                              3 ifmore  Yuan,      and 4 if more
+                                                                                                                      80,001–100,000
+                                                                                                                         2 ifthan50,000–80,000             than
+                                                                                                                                                   Yuan,Yuan,and100,000
+                                                                                                                                                                     43 ifif more Yuan.
+                                                                                                                                                                              80,001–100,000
+                                                                                                                                                                                       than          Yuan, and 4 if
+                 100,000 Yuan.                                      100,000 Yuan.
+
+===== PAGE 7 =====
+Sustainability 2018, 10, 603                                                                              7 of 14
+
+
+
+                                        Table 3. Sample characteristics.
+
+                                                                             Jiangsu          Anhui
+                Variables                  Characteristics
+                                                                           N       %      N           %
+                                                Male                       203    42.74   168     45.53
+                 Gender
+                                               Female                      272    57.26   201     54.47
+                                                 ≤30                       141    29.68   114     30.89
+                                                30–39                       91    19.16    60     16.26
+                   Age                          40–49                      127    26.74    96     26.02
+                                                50–59                       74    15.58    60     16.26
+                                                 ≥60                        42     8.84    39     10.57
+                                         Secondary school                  137    28.84   111     30.08
+                                  High school or vocational school         120    25.26   100     27.10
+         Education attainment            Vocational college                 62    13.05    53     14.36
+                                         Bachelor’s degree                 130    27.37    90     24.39
+                                    Master’s degree and higher              26     5.47    15      4.07
+                                            <50,000 Yuan                    64    13.47   48      13.01
+                                         50,000–80,000 Yuan                116    24.42    98     26.56
+          Household income
+                                         80,001–10,000 Yuan                128    26.95   128     34.69
+                                           >100,000 Yuan                   167    35.16    95     25.75
+        Whether the household                    Yes                       253    53.26   160     43.36
+        has children (age < 18)                  No                        222    46.74   209     56.64
+
+
+5. Results
+     The estimation followed three stages. In the first stage, it was estimated a main effect model
+which did not include the interaction terms between attributes and the socio-demographics. In the
+next stage, a PRL model with interaction terms was estimated. Finally, the overall WTP for each of
+the attributes as well as the WTP estimates for sub-groups categorized by income and education were
+calculated and reported.
+
+5.1. Main Effect Models
+     The Nlogit 5.0 software was used to estimate the RPL model. Because of the heterogeneity
+of the sample from the two provinces, two separate models were estimated respectively for each
+province. Table 4 presents the main effect model where interaction terms are absent. All attributes
+had significant coefficients, although the level of the coefficients differs. It can be seen that CERT3
+has the largest coefficient (0.6448) among all three types of certification, which is slightly higher than
+CERT2 (0.6356) and much higher than CERT1 (0.3294). This suggests that respondents in Jiangsu have
+similar preferences for CERT2 and CERT3. In contrast, respondents from Anhui have a high preference
+for CERT2 (0.6202), which is significantly higher than CERT1 (0.1133) and slightly higher than CERT3
+(0.5607). Next, ORIGIN received a modest preference from respondents in both provinces (0.4040 and
+0.4330, respectively), which was lower than DRUG-FREE (0.6451 for Jiangsu and 0.6574 for Anhui).
+These results suggest that DRUG-FREE is more preferred than ORIGIN.
+
+5.2. RPL Model with Interaction Terms
+     In this section, the interaction terms between attributes and socio-demographic variables were
+added to the RPL model and results are reported in Table 5. It can be seen that the Pseudo R2 is higher
+in the models with interaction terms (0.2271 in the Jiangsu model and 0.2037 in the Anhui model) than
+without (0.2214 in the Jiangsu model and 0.2007 in the Anhui model), suggesting that the inclusion of
+interaction terms has increased model fit of both models. As a result, the prediction of WTP is based
+on the results in Table 5.
+
+===== PAGE 8 =====
+Sustainability 2018, 10, 603                                                                                           8 of 14
+
+
+
+                                          Table 4. Estimated RPL model (main effects).
+
+                                                            Jiangsu                       Anhui
+                                   Attributes
+                                                    Coefficients        S.E.     Coefficients       S.E.
+                                    PRICE           −0.0474 ***       0.0023     −0.0481 ***       0.0026
+                                     ASC            −2.0211 ***       0.0681     −1.9077 ***       0.0755
+                                    CERT1           0.3294 ***        0.0438      0.1133 **        0.0506
+                                    CERT2           0.6356 ***        0.0423     0.6202 ***        0.0450
+                                    CERT3           0.6448 ***        0.0432     0.5607 ***        0.0423
+                                   ORIGIN           0.4040 ***        0.0271     0.4330 ***        0.0253
+                                  DRUG-FREE         0.6451 ***        0.0254     0.6574 ***        0.0352
+                               Standard Deviation
+                                    CERT1            0.4070 ***       0.0702      0.5062 ***       0.0691
+                                    CERT2              0.1880         0.1363        0.0005         0.3449
+                                    CERT3            0.4747 ***       0.0589      0.2326 **        0.0935
+                                    ORIGIN           0.3495***        0.0321        0.1100         0.0704
+                                  DRUG-FREE          0.1358 **        0.0597      0.4148 ***       0.0388
+                                   Sample size                475                          369
+                                  log likelihood          −4875.4582                   −3888.1100
+                               McFadden Pseudo R2           0.2214                       0.2007
+                                        AIC                 9774.9                       7800.2
+                     Note: ***, and ** indicate statistical significance at the 1%, and 5% levels, respectively.
+
+
+                                           Table 5. RPL model with interaction terms.
+
+                                                              Jiangsu                           Anhui
+                                 Attributes
+                                                     Coefficients         S.E.     Coefficients            S.E.
+                                  PRICE              −0.0474 ***        0.0023      −0.0483 ***         0.0026
+                                   ASC               −2.0198 ***        0.0681      −1.9115 ***         0.0756
+                                  CERT1                0.1921           0.1929        0.1739            0.2912
+                                  CERT2              0.4793 ***         0.1808       0.4254 *           0.2529
+                                  CERT3              0.6350 ***         0.1809       0.4570 **          0.2301
+                                 ORIGIN              0.3027 ***         0.1171       0.2653 *           0.1426
+                                DRUG-FREE            0.5496 ***         0.1058       0.3716 *           0.1938
+                           Standard Deviation
+                                CERT1                 0.3971 ***        0.0715       0.4936 ***         0.0699
+                                CERT2                   0.1401          0.1653         0.0033           0.3130
+                                CERT3                 0.4401 ***        0.0605        0.2150*           0.0992
+                                ORIGIN                0.3254 ***        0.0324         0.1060           0.0728
+                              DRUG-FREE               0.1327 ***        0.0604       0.4032 ***         0.0389
+                          Interaction terms
+                         CERT1 × GENDER               −0.0389           0.0862         0.0133           0.1005
+                           CERT1 × AGE                 0.0279           0.0384        −0.0445           0.0500
+                           CERT1 × EDU                0.0745 *          0.0412       −0.0949 *          0.0522
+                         CERT1 × INCOME               −0.0365           0.0430        0.0985 *          0.0505
+                         CERT2 × GENDER                0.0397           0.0810        −0.0534           0.0878
+                           CERT2 × AGE                −0.0586           0.0358         0.0115           0.0435
+                           CERT2 × EDU                −0.0304           0.0389         0.0165           0.0454
+                         CERT2 × INCOME              0.1324 ***         0.0401         0.0488           0.0437
+                         CERT3 × GENDER                0.0590           0.0806        −0.0195           0.0797
+                           CERT3 × AGE               −0.0948 ***        0.0360        −0.0294           0.0397
+                           CERT3 × EDU                 0.0233           0.0385        −0.0310           0.0412
+                         CERT3 × INCOME                0.0583           0.0402       0.0900 **          0.0398
+                        ORIGIN × GENDER                0.0218           0.0524         0.0005           0.0495
+                           ORIGIN × AGE              −0.0599 **         0.0233         0.0128           0.0246
+                           ORIGIN × EDU              −0.0499 **         0.0251         0.0301           0.0256
+                        ORIGIN × INCOME              0.1318 ***         0.0262         0.0187           0.0248
+                       DRUG-FREE × GENDER             −0.0078           0.0472        −0.0491           0.0671
+                        DRUG-FREE × AGE                0.0096           0.0210        −0.0115           0.0334
+                        DRUG-FREE × EDU               −0.0098           0.0225         0.0015           0.0346
+                       DRUG-FREE × INCOME              0.0355           0.0235       0.1107 ***         0.0336
+                             Sample size                       475                            369
+                            log likelihood                  −4840.1524                     −3873.6442
+                         McFadden Pseudo R2                   0.2271                         0.2037
+                                  AIC                         9744.3                         7811.3
+                 Note: ***, **, and * indicate statistical significance at the 1%, 5%, and 10% levels, respectively.
+
+===== PAGE 9 =====
+Sustainability 2018, 10, 603                                                                              9 of 14
+
+
+
+     Among the Jiangsu respondents, the interaction terms with Age which had significantly
+negative coefficients were CERT3 × AGE (−0.0948) and ORIGIN × AGE (−0.0599), suggesting that
+younger consumers had stronger preferences for CERT3 and ORIGIN. Next, CERT1 × EDU had
+a positive and significant coefficient (0.0745), indicating that better-educated consumers tended
+to prefer CERT1 over no certification. However, ORIGIN × EDU had a negative and significant
+coefficient (−0.0499), which means that education was associated with a weaker preference for ORIGIN.
+Additionally, both CERT2 × INCOME (0.1324) and ORIGIN × INCOME (0.1318) had positive and
+significant coefficients, suggesting that richer consumers were more likely to prefer CERT2 and
+ORIGIN. Finally, all attributes interacting with gender had insignificant coefficients, indicating that the
+preferences for all attributes do not vary with gender. Next, we discuss the results based on the Anhui
+sample. We observed that Income played an important role. The coefficients of CERT1 × INCOME
+(0.0985), CERT3 × INCOME (0.0900), and DRUG-FREE × INCOME (0.1107) were all significant,
+suggesting that richer consumers from Anhui preferred CERT1 and CERT3 over no certification and
+that DRUG-FREE was preferred to no label. However, CERT1 × EDU had a significantly negative
+coefficient (−0.0949), in contrast with the results reported using the Jiangsu data. Again, the attributes
+interacting with Gender had insignificant coefficients.
+
+5.3. WTP Estimates
+     Based on the results in Table 6, the willingness to pay for a certain attribute is calculated using the
+following formula (Lim et al., 2013):
+                                                           β
+                                            WTPk = −2 k                                                   (8)
+                                                         β price
+where β k represents the main effect of the attribute k and β price is the coefficient for Price. Because of the
+fact that effect coding was used, the formula was multiplied by 2 [42,43]. The 95% confidence interval
+was calculated by Krinsky and Robb (1986)’s parametric bootstrapping technique [44]. The results on
+WTP are reported in Table 6.
+
+                                    Table 6. WTP (Yuan) for the three attributes.
+
+                                                Jiangsu                        Anhui
+                       Attributes
+                                        WTP           95% CI           WTP            95% CI
+                        CERT1           8.10         [7.37, 8.73]      7.21          [6.18, 8.43]
+                        CERT2           20.22       [20.11, 20.29]     17.63        [17.62, 17.63]
+                        CERT3           26.78       [25.94, 27.73]     18.94        [18.65, 19.18]
+                       ORIGIN           12.77       [12.12, 13.59]     10.99        [10.86, 11.08]
+                      DRUG-FREE         23.18       [23.04, 23.31]     15.40        [14.28, 16.50]
+
+
+     In general, consumers from Jiangsu province had higher WTP for all attributes than consumers
+from Anhui. This is in line with the income gap favoring respondents from Jiangsu. It can also be
+seen that consumers’ WTP for certification matches the levels of standards. For instance, CERT3
+received higher WTP (26.78) than CERT2 (20.22), which in turn received higher WTP than CERT1
+(8.10). A similar trend holds for Anhui: CERT3 (18.94), CERT2 (17.63), and CERT1 (7.21). This indicates
+that consumers had a clear idea about what three certification logos were indicating and the food safety
+standards behind the certifications. This is in line with the results reported in Liu et al. (2013) [45].
+Next, the pork with DRUG-FREE received an additional WTP of 23.18 (Jiangsu) and 15.40 (Anhui),
+which is close to the WTP figure for CERT3. This finding is probably because of the food scandals
+associated with pork happened in China in the past years. Additionally, consumers are willing to pay
+an extra of 12.77 (Jiangsu) and 10.99 (Anhui) for ORIGIN.
+
+===== PAGE 10 =====
+Sustainability 2018, 10, 603                                                                                           10 of 14
+
+
+
+5.4. Sub-Group Analysis
+     Recall that several attributes interacting with income and education had significant coefficients
+(see Table 5), we now calculate the WTP for each of the attributes by sub-groups categorized by income
+and education. Following Lim et al. (2013) [46], the WTP for the kth attribute from sub-group g can be
+calculated as follows:
+                                                  β k + β k× g
+                               WTPk,g = −2(                    ), where g = [ EDU, I NCOME]                                (9)
+                                                     β price
+
+where β k is the main effect, β k× g is the coefficients of an interaction term between EDU (INCOME) and
+attribute k, and β price is the coefficient for Price. Krinsky and Robb (1986)’s parametric bootstrapping
+technique was again used to calculate the 95% confidence intervals of the WTP estimates [47].
+      Tables 7 and 8 show the WTP for pork attributes among sub-groups in Jiangsu and Anhui,
+respectively. The high-income group had higher WTP for CERT1 than the middle and low-income
+groups, among the highly educated and low educated respondents. In contrast, low-income
+respondents from the middle-educated group had higher WTP for CERT1 than the middle and
+high-income respondents. For CERT2, high-income respondents from the high-education and
+middle-education groups had much higher WTP than their middle and low-income counterparts.
+However, the low-income respondents from the low-education group had much higher WTP than the
+middle and high-income respondents from the same group. For CERT3, high-income respondents
+from the high-education group, middle-income respondents from the middle-education group,
+and low-income respondents from the low-income group had much higher WTP than their counterparts
+from the corresponding sub-groups, respectively. For ORIGIN, high-income respondents in the
+middle-education group had the highest WTP (10.78 Yuan). Next, low-income respondents from the
+low-education group had the highest WTP (20.95 Yuan) for DRUG-FREE among all sub-groups.
+
+                         Table 7. WTP (Yuan) for pork attributes among sub-groups (Jiangsu).
+
+                 Sub-Groups         CERT1             CERT2            CERT3           ORIGIN         DRUG-FREE
+                                                   Highly-Educated Sub-Group
+                                      10.17            14.89            25.36            9.56             17.01
+                High-income
+                                  [9.44, 10.80]    [14.78, 14.96]   [24.52, 26,29]   [9.06, 10.19]    [16.87, 17.14]
+                                      8.10              3.96            16.27             5.49            10.09
+               Middle-income
+                                  [7.37, 8.73]      [3.86, 4.03]    [15.44, 17.20]    [5.05, 6.06]    [9.97, 10.23]
+                                      5.37              4.33            15.94            10.68            11.27
+                 Low-income
+                                  [4.65, 6.01]      [4.23, 4.40]    [15.10, 16.88]   [10.22, 11.28]   [11.13, 11.41]
+                                                   Middle Education Sub-Group
+                                      4.31             11.16            17.78            10.78            15.93
+                High-income
+                                  [3.59, 4.95]     [11.06, 11.23]   [16.94, 18.70]   [10.30, 11.40]   [15.83, 16.04]
+                                      7.02              9.02            18.91             8.53            16.98
+               Middle-income
+                                  [6.29, 7.65]      [8.91, 9.09]    [18.07, 19.83]    [7.98, 9.22]    [16.82, 17.18]
+                                      10.33             5.24            15.93             8.61            12.57
+                 Low-income
+                                  [9.60, 10.96]     [5.13, 5.31]    [15.09, 16.88]    [8.16, 9.18]    [12.43, 12.71]
+                                                    Low Education Sub-Group
+                                      4.16             −1.28             8.64             4.21             9.62
+                High-income
+                                  [3.43, 4.79]     [−1.39, −1.21]    [7.95, 9.37]     [3.78, 4.76]     [9.48, 9.75]
+                                      3.64              4.05            11.84            9.73             13.76
+               Middle-income
+                                  [2.91, 4.27]      [3.95, 4.13]    [11.14, 12.58]   [9.19, 10.38]    [13.62, 13.90]
+                                      4.08             14.52            19.54             2.63            20.95
+                 Low-income
+                                  [3.36, 4.72]     [14.42, 14.60]   [18.71, 20.46]    [2.13, 3.25]    [20.81, 21.08]
+      Notes: High-income refers to the households whose income was larger than 100,000 Yuan, Middle-income refers to
+      the households whose income was between 50,000 and 80,000, and the Low-income group refers to the households
+      whose income was less than 50,000 Yuan. A respondent is defined to have received high-education if the years of
+      schooling is more than 12 years, Middle-educated if 9–12 years, and Low-educated if less than 9 years.
+
+===== PAGE 11 =====
+Sustainability 2018, 10, 603                                                                                       11 of 14
+
+
+
+                          Table 8. WTP (Yuan) for pork attributes among sub-groups (Anhui).
+
+                Sub-Groups         CERT1            CERT2            CERT3         ORIGIN         DRUG-FREE
+                                                  High Education Sub-Group
+                                     7.91            12.51            15.17            6.26            10.18
+                High-income
+                                 [6.93, 9.02]    [12.50, 12.51]   [14.89, 15.42]   [6.13, 6.35]    [9.34, 11.06]
+                                     5.18             0.41             8.22            7.55            6.15
+               Middle-income
+                                 [4.15, 6.40]     [0.40, 0.41]     [7.93, 8.47]    [7.43, 7.61]    [5.24, 7.08]
+                                     6.13             0.22             8.16            6.08            5.89
+                Low-income
+                                 [5.10, 7.34]     [0.21, 0.22]     [7.87, 8.40]    [5.95, 6.16]    [5.12, 6.70]
+                                                 Middle Education Sub-Group
+                                    11.14             12.81           16.48            4.45           14.30
+                High-income
+                                [10.12, 12.37]    [12.80,12.81]   [16.19, 16.73]   [4.32, 4.53]   [13.28, 15.22]
+                                     8.65             6.18            10.89            3.37            6.71
+               Middle-income
+                                 [7.74, 9.68]      [6.17,6.18]    [10.60, 11.13]   [3.26, 3.41]    [5.80, 7.75]
+                                     7.94             13.89           13.16            5.47            5.30
+                Low-income
+                                 [7.11, 8.89]     [13.88,13.89]   [12.87, 13.41]   [5.34, 5.55]    [4.72, 5.95]
+                                                  Low Education Sub-Group
+                                    10.37            −7.34             2.04            3.60           −4.49
+                High-income
+                                [9.43, 11.53]    [−7.33, −7.34]    [1.75, 2.29]    [3.47, 3.68]   [−5.25, −3.70]
+                                    11.60             6.05            11.64            5.49            2.88
+               Middle-income
+                                [10.61, 12.79]    [6.04, 6.05]    [11.35, 11.88]   [5.37, 5.55]    [1.90, 3.89]
+                                    12.59             4.10            12.11            5.41            8.39
+                Low-income
+                                [11.61, 13.79]    [4.09, 4.10]    [11.82, 2.35]    [5.27, 5.49]    [7.49, 9.31]
+
+
+     Now we discuss the results of the Anhui sample. We observed that the results are much more
+consistent in a way that high-income respondents from the high-educated respondents had reported
+consistently higher WTP for all certification attributes than the middle- and low-educated respondents.
+The same trend holds for the middle-education sub-group where high-income respondents and higher
+WTP for CERT1 and CERT3 than their middle- and low-income counterparts.
+
+6. Conclusions and Policy Recommendations
+     Chinese consumers are paying an increasing attention to food safety issues, thus it is important to
+understand their willingness to pay for safe foods. This paper investigates consumer’s WTP for pork
+with four attributes, namely government-certification, location-of-origin, “free from veterinary drug
+residues” label, and price, based on a choice experiment conducted among 844 consumers from Jiangsu
+and Anhui provinces in China. A Random Parameter Logit model was estimated to elicit consumers’
+WTP for the four attributes. The main conclusions are as follows.
+     Consumers have relatively high WTP for organic pork. In particular, respondents from Jiangsu
+had the highest WTP for pork with a “Organic Food” logo, followed by a “free from veterinary drug
+residues” logo, and a “Green Food” logo. Respondents from Anhui were prepared to pay a similar
+amount for pork with “Organic Food” and “Green Food” logos and a much lower amount for the
+“Safe Food” logo. We found that respondents from Jiangsu generally were willing to pay more for
+the four attributes than respondents from Anhui would. We argue that this is a result of the gap in
+economic development disadvantaging Anhui. Next, we also found that the WTP difference between
+“Organic Food” and “Green Food” labels among respondents from Jiangsu was much higher than
+that of respondents from Anhui. This indicates that Jiangsu consumers were aware of the difference
+between “Organic Food” and “Green Food” whereas Anhui respondents could not tell the difference
+between the two. The policy implications are that policymakers need to increase public awareness of
+the different types of verifications (especially in the less economically developed regions) which can be
+done by the dissemination using social media channels (e.g., Wechat) because of its high reachability
+to Chinese consumers. The authorization of certification logos should be enforced strictly so that food
+with certification logos are always reflective of the standard being followed. This is important to build
+
+===== PAGE 12 =====
+Sustainability 2018, 10, 603                                                                                12 of 14
+
+
+
+trust among consumers such that a higher price is always associated with a better quality, i.e., no
+pesticides residues and organic, etc.
+       We found that consumers in both provinces were prepared to pay for labels showing
+location-of-origin and “free from veterinary drug residues”. However, consumers’ WTP for the
+two attributes are significantly less than that of “Organic Food”. Next, we found that consumers had a
+small WTP for “Safe Food” in both provinces. The reason is that the standard for obtaining a “Safe
+Food” is relatively low, causing an impression to consumers that pork with a “Safe Food” logo has
+little difference with no certification. It could also be that the recent food scandals happened in Hebei
+where vegetables with “Safe Food” logos were found to have residues of highly-poisonous pesticides.
+The trust of the public may have been hampered by those events. It was also reported that the two
+socio-demographic variables associated with a higher WTP are income and education attainment.
+Labels to reflect “free from veterinary drug residues” and location-of-origin should be used to allow a
+transparent traceability to how the pork is produced. One possible drawback of the current study is
+that choice experiment is a stated preference method which might suffer from hypothetical bias. Future
+research should design incentive-compatible instrument, e.g., actions, to elicit consumers’ willingness
+to pay estimates in real-life settings.
+
+Acknowledgments: The research presented in this paper is supported by the National Natural Science Foundation
+of China (Project Approval Nos. 71673115, 71633002 and 71540008).
+Author Contributions: Jianhua Wang and Jiaye Ge conceived and designed the experiments; Yuting Ma performed
+the experiments; Jiaye Ge and Yuting Ma analyzed the data; Jianhua Wang wrote the paper.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+1.    Alimi, B.A.; Workneh, T.S. Consumer awareness and willingness to pay for safety of street foods in
+      developing countries: A review. Int. J. Consum. Stud. 2016, 40, 242–248. [CrossRef]
+2.    Zhou, J.; Liu, Q.; Mao, R.; Yu, X. Habit spillovers or induced awareness: Willingness to pay for eco-labels of
+      rice in China. Food Policy 2017, 71, 62–73. [CrossRef]
+3.    He, Y.; Yang, X.; Xia, J.; Zhao, L.; Yang, Y. Consumption of meat and dairy products in China: A review.
+      Proc. Nutr. Soc. 2016, 75, 385–391. [CrossRef] [PubMed]
+4.    Verbeke, W.; Liu, R. The impacts of information about the risks and benefits of pork consumption on
+      Chinese consumers’ perceptions towards, and intention to eat, pork. Meat Sci. 2014, 98, 766–772. [CrossRef]
+      [PubMed]
+5.    Darby, M.R.; Karni, E. Free competition and the optimal amount of fraud. J. Law Econ. 1973, 16, 67–88.
+      [CrossRef]
+6.    Gao, Z.; Schroeder, T.C.; Yu, X. Consumer willingness to pay for cue attribute: The value beyond its own.
+      J. Int. Food Agribus. Mark. 2010, 22, 108–124. [CrossRef]
+7.    Risius, A.; Hamm, U. The effect of information on beef husbandry systems on consumers’ preferences and
+      willingness to pay. Meat Sci. 2017, 124, 9–14. [CrossRef] [PubMed]
+8.    Janssen, M.; Hamm, U. Product labelling in the market for organic food: Consumer preferences and
+      willingness-to-pay for different organic certification logos. Food Qual. Pref. 2012, 25, 9–22. [CrossRef]
+9.    Hoek, A.C.; Pearson, D.; James, S.W.; Lawrence, M.A.; Friel, S. Healthy and environmentally sustainable
+      food choices: Consumer responses to point-of-purchase actions. Food Qual. Pref. 2017, 58, 94–106. [CrossRef]
+10.   Wier, M.; O’doherty Jensen, K.; Andersen, L.M.; Millock, K. The character of demand in mature organic food
+      markets: Great Britain and Denmark compared. Food Policy 2008, 33, 406–421. [CrossRef]
+11.   Gao, Z.; Schroeder, T.C. Effects of label information on consumer willingness-to-pay for food attributes.
+      Am. J. Agric. Econ. 2009, 91, 795–809. [CrossRef]
+12.   Ortega, D.L.; Hong, S.J.; Wang, H.H.; Wu, L. Emerging markets for imported beef in China: Results from a
+      consumer choice experiment in Beijing. Meat Sci. 2016, 121, 317–323. [CrossRef] [PubMed]
+13.   Yu, X.; Gao, Z.; Zeng, Y. Willingness to pay for the “Green Food” in China. Food Policy 2014, 45, 80–87.
+      [CrossRef]
+
+===== PAGE 13 =====
+Sustainability 2018, 10, 603                                                                                 13 of 14
+
+
+
+14.   Liu, Q.; Yan, Z.; Zhou, J. Consumer choices and motives for eco-labeled products in China: An empirical
+      analysis based on the choice experiment. Sustainability 2017, 9, 331. [CrossRef]
+15.   Wu, L.; Wang, H.; Zhu, D.; Hu, W.; Wang, S. Chinese consumers’ willingness to pay for pork traceability
+      information—The case of Wuxi. Agric. Econ. 2016, 47, 71–79. [CrossRef]
+16.   Zhang, M.; Jin, Y.; Qiao, H.; Zheng, F. Product quality asymmetry and food safety: Investigating the “one
+      farm household, two production systems” of fruit and vegetable farmers in China. China Econ. Rev. 2017, 45,
+      232–243. [CrossRef]
+17.   Xie, J.; Gao, Z.; Swisher, M.; Zhao, X. Consumers’ preferences for fresh broccolis: Interactive effects between
+      country of origin and organic labels. Agric. Econ. 2016, 47, 181–191. [CrossRef]
+18.   Teas, R.K.; Agarwal, S. The effects of extrinsic product cues on consumers’ perceptions of quality, sacrifice,
+      and value. J. Acad. Mark. Sci. 2000, 28, 278–290. [CrossRef]
+19.   Van Loo, E.J.; Caputo, V.; Nayga, R.M.; Meullenet, J.F.; Ricke, S.C. Consumers’ willingness to pay for organic
+      chicken breast: Evidence from choice experiment. Food Qual. Pref. 2011, 22, 603–613. [CrossRef]
+20.   De Marchi, E.; Caputo, V.; Nayga, R.M.; Banterle, A. Time preferences and food choices: Evidence from a
+      choice experiment. Food Policy 2016, 62, 99–109. [CrossRef]
+21.   Poelmans, E.; Rousseau, S. Beer and organic labels: Do belgian consumers care? Sustainability 2017, 9, 1509.
+      [CrossRef]
+22.   Loureiro, M.L.; Umberger, W.J. A choice experiment model for beef: What US consumer responses tell us
+      about relative preferences for food safety, country-of-origin labeling and traceability. Food Policy 2007, 32,
+      496–514. [CrossRef]
+23.   Zander, K.; Hamm, U. Consumer preferences for additional ethical attributes of organic food. Food Qual. Pref.
+      2010, 21, 495–503. [CrossRef]
+24.   Denver, S.; Jensen, J.D. Consumer preferences for organically and locally produced apples. Food Qual. Pref.
+      2014, 31, 129–134. [CrossRef]
+25.   Gracia, A. Consumers’ preferences for a local food product: A real choice experiment. Empir. Econ. 2014, 47,
+      111–128. [CrossRef]
+26.   Wägeli, S.; Janssen, M.; Hamm, U. Organic consumers’ preferences and willingness-to-pay for locally
+      produced animal products. Int. J. Consum. Stud. 2016, 40, 357–367. [CrossRef]
+27.   Feldmann, C.; Hamm, U. Consumers’ perceptions and preferences for local food: A review. Food Qual. Pref.
+      2015, 40, 152–164. [CrossRef]
+28.   Bernués, A.; OlAazola, A.; Corcoran, K. Labelling information demanded by European consumers and
+      relationships with purchasing motives, quality and safety of meat. Meat Sci. 2003, 65, 1095–1106. [CrossRef]
+29.   I Furnols, M.F.; Realini, C.; Montossi, F.; Sanudo, C.; Campo, M.M.; Oliver, M.A.; Nute, G.R.; Guerrer-o, L.
+      Consumer’s purchasing intention for lamb meat affected by country of origin, feeding system and meat
+      price: A conjoint study in Spain, France and United Kingdom. Food Qual. Pref. 2011, 22, 443–451. [CrossRef]
+30.   Zhang, L.; Wu, L.L.; Wang, Y.P.; Liu, A.M.; Zou, C.C.; Zhao, Z.Y. Melamine-contaminated milk products
+      induced urinary tract calculi in children. World J. Pediatr. 2009, 5, 31–35. [CrossRef] [PubMed]
+31.   Qiao, G.; Guo, T.; Klein, K.K. Melamine and other food safety and health scares in China: Comparing
+      households with and without young children. Food Control 2012, 26, 378–386. [CrossRef]
+32.   Erdem, S. Consumers’ preferences for nanotechnology in food packaging: A discrete choice experiment.
+      J. Agric. Econ. 2015, 66, 259–279. [CrossRef]
+33.   You, X.; Li, Y.; Zhang, M.; Yan, H.; Zhao, R. A survey of chinese citizens’ perceptions on farm animal welfare.
+      PLoS ONE 2014, 9, e109177. [CrossRef] [PubMed]
+34.   Lancaster, K.J. A new approach to consumer theory. J. Political Econ. 1966, 74, 132–157. [CrossRef]
+35.   Viegas, I.; Nunes, L.C.; Madureira, L.; Fontes, M.A.; Santos, J.L. Beef credence attributes: Implications of
+      substitution effects on consumers’ WTP. J. Agric. Econ. 2014, 65, 600–615. [CrossRef]
+36.   Hensher, D.A.; Greene, W.H. The mixed logit model: The state of practice. Transportation 2003, 30, 133–176.
+      [CrossRef]
+37.   Chen, Q.; Anders, S.; An, H. Measuring consumer resistance to a new food technology: A choice experiment
+      in meat packaging. Food Qual. Pref. 2013, 28, 419–428. [CrossRef]
+38.   Mcfadden, D.; Train, K. Mixed MNL models for discrete response. J. Appl. Econ. 2000, 15, 447–470. [CrossRef]
+39.   Train, K.E. Discrete Choice Methods with Simulation; Cambridge University Press: Cambridge, UK, 2009.
+
+===== PAGE 14 =====
+Sustainability 2018, 10, 603                                                                                    14 of 14
+
+
+
+40.   Verbeke, W. Consumer acceptance of functional foods: Socio-demographic, cognitive and attitudinal
+      determinants. Food Qual. Pref. 2005, 16, 45–57. [CrossRef]
+41.   Allenby, G.M.; Rossi, P.E. Marketing models of consumer heterogeneity. J. Econ. 1998, 89, 57–78. [CrossRef]
+42.   Ferrini, S.; Scarpa, R. Designs with a priori information for nonmarket valuation with choice experiments:
+      A monte carlo study. J. Environ. Econ. Manag. 2007, 53, 342–363. [CrossRef]
+43.   Lusk, J.L.; Schroeder, T.C. Are choice experiments incentive compatible? A test with quality differentiated
+      beef steaks. Am. J. Agric. Econ. 2004, 86, 467–482. [CrossRef]
+44.   Hole, A.R. A comparison of approaches to estimating confidence intervals for willingness to pay measures.
+      Health Econ. 2007, 16, 827–840. [CrossRef] [PubMed]
+45.   Liu, R.; Pieniak, Z.; Verbeke, W. Consumers’ attitudes and behaviour towards safe food in China: A review.
+      Food Control 2013, 33, 93–104. [CrossRef]
+46.   Lim, K.H.; Hu, W.; Maynard, L.J.; Goddard, E.U.S. consumers’ preference and willingness to pay for
+      country-of-origin-labeled beef steak and food safety enhancements. Can. J. Agric. Econ. 2013, 61, 93–118.
+      [CrossRef]
+47.   Krinsky, I.; Robb, A.L. On approximating the statistical properties of elasticities. Rev. Econ. Stat. 1986, 68,
+      715–719. [CrossRef]
+
+                               © 2018 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+                               article distributed under the terms and conditions of the Creative Commons Attribution
+                               (CC BY) license (http://creativecommons.org/licenses/by/4.0/).

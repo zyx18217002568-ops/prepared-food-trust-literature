@@ -1,0 +1,869 @@
+SOURCE_PDF: 1.3_文献不足/补充文献_16篇/PDF全文/01_Wen_Wu_2021_Consumer_Trust_in_Food_and_the_Food_System_A_Critical_Review.pdf
+EXTRACTION_STATUS: ok
+PAGES: 15
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+Review
+
+Consumer Trust in Food and the Food System:
+A Critical Review
+Wen Wu 1,*, Airong Zhang 2, Rieks Dekker van Klinken 2, Peggy Schrobback 3 and Jane Marie Muller 2
+
+                                       1 Data61, The Commonwealth Scientific and Industrial Research Organisation (CSIRO),
+                                         Brisbane 4102, Australia
+                                       2 Health and Biosecurity, The Commonwealth Scientific and Industrial Research Organisation (CSIRO),
+
+                                         Brisbane 4102, Australia; airong.zhang@csiro.au (A.Z.); rieks.vanklinken@csiro.au (R.D.v.K.);
+                                         jane.muller@csiro.au (J.M.M.)
+                                       3 Agriculture and Food, The Commonwealth Scientific and Industrial Research Organisation (CSIRO),
+
+                                         Brisbane 4067, Australia; peggy.schrobback@csiro.au
+                                       * Correspondence: drwenwu.uq@gmail.com
+
+
+                                       Abstract: Increased focus towards food safety and quality is reshaping food purchasing decisions
+                                       around the world. Although some food attributes are visible, many of the attributes that consumers
+                                       seek and are willing to pay a price premium for are not. Consequently, consumers rely on trusted
+                                       cues and information to help them verify the food quality and credence attributes they seek. In this
+                                       study, we synthesise the findings from previous research to generate a framework illustrating the
+                                       key trust influencing factors that are beyond visual and brand-related cues. Our framework identi-
+                                       fies that consumer trust in food and the food system is established through the assurances related
+ Citation: Wu, W.; Zhang, A.;
+                                       to individual food products and the actors of the food system. Specifically, product assurance builds
+ van Klinken, R.D.; Schrobback,
+                                       consumer trust through food packaging labels communicating food attribute claims, certifications,
+ P.; Muller, J.M. Consumer Trust
+ in Food and the Food System: A
+                                       country or region of origin, and food traceability information. In addition, producers, processors,
+ Critical Review. Foods 2021, 10,      and retailers provide consumers with food safety and quality assurances, while government agen-
+ 2490. https://doi.org/10.3390/        cies, third-party institutions, advocacy groups, and the mass media may modify how labelling in-
+ foods10102490                         formation and food operators are perceived by consumers. We hope our framework will guide fu-
+                                       ture research efforts to test these trust factors in various consumer and market settings.
+ Academic Editor: Pascal Schlich
+                                       Keywords: assurance; food actor; packaging label; traceability; supply chain operator; food
+ Received: 14 September 2021           industry influencer
+ Accepted: 14 October 2021
+ Published: 18 October 2021
+
+
+ Publisher’s Note: MDPI stays
+                                       1. Introduction
+ neutral with regard to jurisdic-
+ tional claims in published maps            The globalisation of food supply chains and the increasing complexity of modern
+ and institutional affiliations.       food systems are changing the relationship consumers have with food. Enhanced focus
+                                       towards food safety and quality has reshaped the way contemporary consumers evaluate
+                                       food and make purchase decisions. Specifically, several serious food safety incidents,
+                                       cases of food fraud, and changes in food production practices have violated consumer
+ Copyright: © 2021 by the au-          trust across the globe [1–5]. While not all of these incidents have directly imposed risks to
+ thors. Licensee MDPI, Basel,          public health and safety, they do represent a breach of consumer trust and have reduced
+ Switzerland. This article is an       consumer confidence in the integrity of the food system [1,2,6–9].
+ open access article distributed            As food supply chains become increasingly globalised, there is a need to understand
+ under the terms and conditions        the range of cues and information that consumers trust and rely on when navigating the
+ of the Creative Commons Attrib-       complexities of the modern food system. Consumers with high levels of trust have confi-
+ ution     (CC      BY)      license
+                                       dence in the quality of the food items they are purchasing, and that the food operators
+ (https://creativecommons.org/li-
+                                       who produce, distribute, and sell food are meeting relevant standards [10]. Food quality
+ censes/by/4.0/).
+                                       refers to the tangible sensory characteristics of food, such as taste, flavour, freshness, juic-
+
+
+
+
+Foods 2021, 10, 2490. https://doi.org/10.3390/foods10102490                                                        www.mdpi.com/journal/foods
+
+===== PAGE 2 =====
+Foods 2021, 10, 2490                                                                                         2 of 15
+
+
+
+
+                       iness, and appearance [11]. Food quality can also incorporate less tangible credence attrib-
+                       utes including nutritional value, functional quality, and convenience aspect of food, as
+                       well as ethical and environmental considerations. In some instances, food quality repre-
+                       sents prestige, and an individual’s social status and wealth [12,13] Food safety can also be
+                       considered as an attribute of food quality, and it refers to the safe handling and storing of
+                       food [14,15]. Safe foods are free from harmful biological, chemical, or physical agents.
+                             Growth in income and awareness of the health, social, and environmental conse-
+                       quences of food choices has increased global demand for diverse, safe, and premium foods
+                       with specific attributes (e.g., organic, eco-friendly, nutritious) [16–20]. Consumers com-
+                       monly use direct visual and physical cues related to individual food items (e.g., colour,
+                       firmness, size, and price) when assessing food quality. For example, consumers from Asia
+                       tend to assess meat quality based on the colour of the meat and its level of intramuscular
+                       fat [21,22]. However, there are a growing number of credence attributes that consumers
+                       consider in their purchasing decisions that cannot be directly inferred through search or
+                       experience, such as safety, nutrition, environmental protection, and animal welfare. Tra-
+                       ditionally, branding, marketing, and advertising have been used to communicate such
+                       credence attributes of certain food items and influence consumer choice [23,24]. Over the
+                       past decades, however, the growing complexity and globalised scale of the food system
+                       have presented increased opportunities for fraud and food safety incidents to occur
+                       [25,26]. Consequently, consumers must rely on additional cues and information to help
+                       them assess the full suite of credence attributes they seek [16]. Thus, the scope of this re-
+                       view is focused towards outlining the cues and information beyond product branding and
+                       marketing that consumers trust for verifying the less visible food attributes.
+                             Extensive research has examined various factors that influence consumer trust, in-
+                       cluding trust in supply chain actors, assurance and regulatory systems, and the economic
+                       development status of the producing country [14,16,17,27–30]. While these efforts have
+                       advanced our understanding of consumer trust, much of the previous studies have fo-
+                       cused on particular aspects of trust in food and the food system, with some findings being
+                       country and culture specific [31,32]. As a result, the factors influencing consumer trust
+                       identified in the literature are often fragmented, and at times, contradictory.
+                             In this study, we critically review the literature to generate a framework showing the
+                       diverse range of factors that influence consumer trust in food and the food system. We use
+                       this framework and review to discuss the trust-influencing factors that are well-supported
+                       by previous research, as well as areas that future research could further explore.
+
+                       2. Materials and Methods
+                             Given the vast amount of existing research examining consumer trust, we aim to crit-
+                       ically synthesise the main themes discussed in the literature and construct a framework
+                       outlining the key factors influencing consumer trust (Figure 1).
+
+
+
+
+                       Figure 1. A flowchart illustrating the methodology steps.
+
+===== PAGE 3 =====
+Foods 2021, 10, 2490                                                                                            3 of 15
+
+
+
+
+                             An exploratory search was conducted to incorporate literature examining trust indi-
+                       cators used by consumers, food-related attributes that attract a price premium, consumer
+                       trust in the food supply chain, consumer trust in product credentials and verification sys-
+                       tems, and consumer use of food verification information. The selection criteria for studies
+                       to be considered in our review include that the study is written in English, the study is
+                       published in a peer-reviewed journal, and the study is published between 2000 and 2021.
+                             For the literature search, we used search terms related to ‘consumer trust’, ‘purchas-
+                       ing behaviour’, and ‘trusted food indicators’ to explore the key attributes that consumers
+                       look for and rely on when purchasing food items to ensure that the food is safe and of
+                       high quality. Search terms related to ‘willingness to pay’ for food with added attributes
+                       were included as well. In addition, ‘trust in food certification’, ‘trust in food traceability
+                       systems’, and ‘valued information used to verify food credentials’ were used to evaluate
+                       what information consumers rely on when verifying food attributes. Lastly, terms related
+                       to ‘trust in the food supply chain’ were used to support the analysis of consumer trust in
+                       supply chain actors. The search terms were applied as keywords in the titles, abstracts,
+                       and body of the journal articles in academic databases, including Emerald Insights, PLoS
+                       ONE, MDPI, Wiley Online Library, Springer Link, ProQuest, Taylor and Francis Online,
+                       Oxford Academic, and ScienceDirect.
+                             Our search identified 133 relevant articles examining factors influencing consumer
+                       trust in food and the food system. Of the reviewed journal articles, approximately 40 per-
+                       cent evaluated trust in domestic foods, 40 percent examined both domestic and imported
+                       foods, and 10 percent assessed imported foods only. Food categories investigated in these
+                       studies included liquid milk, infant milk powder, eggs, cheese, meats, organic food, fruit,
+                       vegetables, rice, cooking oil, Fairtrade products, and sustainable foods. Because this re-
+                       view aims to summarise the range of factors shaping consumer trust, we took the con-
+                       sumer perspective and only included articles that investigated cues and information that
+                       are visible to the consumer.
+
+                       3. Results and Discussion
+                             We developed a framework that summarises the range of diverse trust-influencing
+                       factors reported in the literature that help consumers verify the less visible food attributes
+                       they seek (Figure 2). Our first step was to list all the factors, identified from our review,
+                       that influence consumer trust in food and the food system. We then grouped the different
+                       factors according to how they are perceived by the consumer and incorporated them into
+                       the framework.
+
+
+
+
+                       Figure 2. A framework summarising the range of factors that influence consumer trust in food and
+                       the food system.
+
+===== PAGE 4 =====
+Foods 2021, 10, 2490                                                                                          4 of 15
+
+
+
+
+                             Our review showed that the identified factors influence consumer trust in two dis-
+                       tinct ways: either at the product level through labelling, or indirectly through actors of the
+                       food system. Providing direct assurance on the safety and quality of food items through
+                       food attribute claims, certifications, country and region of origin, and food traceability
+                       information, builds consumer confidence and trust. Because these factors related to prod-
+                       uct assurance are mainly made accessible to consumers through printed labels on food
+                       packaging, they were summarised in the framework as factors related to food packaging
+                       labels that consumers trust. Our description of food packaging labels also incorporates
+                       product related information that appear on information boards in physical retail stores,
+                       especially for nonpacked foods, or on a webpage of an online retail store. In addition, we
+                       found two separate groups of food system actors who play a role in influencing consumer
+                       trust. While consumers trust producers, processors, and retailers for supplying high qual-
+                       ity foods, government agencies, third-party institutions, advocacy groups, and the mass
+                       media are positioned to modify how labelling information and food operators are as-
+                       sessed by consumers.
+                             We present the key factors related to product assurance and food system actors that
+                       influence consumer trust. Differences in findings are also discussed from the perspectives
+                       of culture and economic development.
+
+                       3.1. Product Assurance
+                            Product assurance aims to enhance consumer confidence in food and demonstrate
+                       that it is authentic and meets relevant industry standards for safety and quality. Because
+                       food items are often accompanied with printed labels that describe various credence at-
+                       tributes that consumers are seeking, food packaging labels are the primary tangible cues
+                       that consumers have access to and use at the time of purchase to validate product attrib-
+                       utes and assurance claims (Figure 2).
+
+                       Food Packaging Labels
+                             Product labelling is the written information on the packaging of a food product that
+                       informs consumers about its unique attributes, quality certifications, country of origin,
+                       and production region. It also enables access to food traceability information. Labelling
+                       information, and links to traceability information, can also be presented on information
+                       boards in physical retail stores, as well as appear on a webpage when consumers are shop-
+                       ping online. Labels act as a direct communication channel from producers, retailers, reg-
+                       ulators, and third-party certifiers to consumers [33]. They can also display branding and
+                       marketing information, food safety and quality information, as well as information in-
+                       cluding ingredients, instruction, and uses. Food packaging labels, therefore, are posi-
+                       tioned at the interface between consumers, food, and the food system. From our analysis
+                       of the various factors influencing consumer trust, we consider food packaging labels that
+                       communicate food attribute claims, certifications, country and region of origin, and food
+                       traceability information to be the most tangible information sources that consumers can
+                       rely on for identifying and validating the different credence attributes they seek.
+                             Food attribute claims. Food attribute claims mostly include quality related characteris-
+                       tics that cannot be visually or physically examined by the consumer at the time of pur-
+                       chase. These quality characteristics include, for example, taste, ingredients, and produc-
+                       tion methods. Ethical and environmental considerations, as well as the nutritional value,
+                       functional quality, and convenience aspects of food, among others, are also less tangible
+                       and require labelling for consumers to distinguish. While food attribute labels can include
+                       a variety of information and vary from product to product, research shows that consumers
+                       tend to prefer simple and clearly presented food attributes on packaging, such as ‘free-
+                       from’, ingredients, nutritional information, and expiry date [16,17,34–37]. For example,
+                       Australian consumers tend to look for simple labels describing the specific cut of meat to
+                       help assess its eating quality. Asian consumers, on the other hand, tend to value a variety
+
+===== PAGE 5 =====
+Foods 2021, 10, 2490                                                                                           5 of 15
+
+
+
+
+                       of different labelling information, including country and region of origin, attributes asso-
+                       ciated with improved health, and the personal quality of producers [37].
+                             Certifications. Food labels can also display certification information that supports spe-
+                       cific credence claims that are otherwise un-observable, such as organic, Halal, free-range,
+                       animal welfare, environmental sustainability, or Fairtrade. Certification labels help con-
+                       sumers validate authenticity and support their confidence in food. Studies of certification
+                       labelling show that scientifically certified expert labels are the most trusted. A study of
+                       10,000 consumers from Japan, the United States, Germany, China, and Thailand showed
+                       that consumers trusted certified labels endorsed by scientific experts more than those sup-
+                       ported by producers, the government, and consumers [38]. Trust in scientific experts in-
+                       dicates the value of scientific testing for food quality and safety assurance.
+                             Increased food scares and incidents across many developing countries have moti-
+                       vated consumers from these regions to trust international certifications more than domes-
+                       tic equivalents [14,35,39–43]. However, there is contradictory evidence suggesting that
+                       some consumers can be discouraged from purchasing internationally certified food prod-
+                       ucts [22,27,29,42,44,45]. These findings could relate to consumers in developing countries
+                       being less familiar with international certification labels, or perceiving offshore certifica-
+                       tion as more costly than domestic certification [22,27,29,42,44]. Another variation to the
+                       general preference in developing countries for international certification is associated
+                       with the certification of foods related to a specific cultural domain, such as Halal. For ex-
+                       ample, Malaysian consumers tend to prefer and trust Halal certified food products from
+                       Muslim countries, such as Saudi Arabia, Pakistan or Brunei, over certifications from non-
+                       Muslim countries such as China, New Zealand, European countries, and Thailand [45].
+                             Country and region of origin. Geographical labels are often used as an important dif-
+                       ferentiating tool for assessing food safety, quality, and authenticity [46]. Specifically, con-
+                       sumers use geographical labels as the main differentiation tool for high-value products,
+                       such as wine [46]. Moreover, geographical labels are sometimes presented alongside other
+                       attributes, such as eco labels, for consumers to develop brand associations [47]. The liter-
+                       ature indicates that geographical labels are valued by all consumer segments regardless
+                       of culture [21,37,48].
+                             Country image. Globalisation of the food industry enables consumers to access a di-
+                       verse range of foods from countries and regions around the world. Studies indicate that
+                       consumers often rely on their general perception, or the country image, of the producing
+                       country as an indication of food safety and quality [49,50]. The perceived ‘image’ or over-
+                       all impression a consumer has about a country creates a ‘halo effect’ of positive or negative
+                       feelings towards products that are produced from that country or place [14,51–53].
+                             In general, positive feelings about an exporting country being warm and friendly
+                       build trust [49,54,55]. Positive feelings derived from a perceived ‘clean and green’ image
+                       of an exporting country also play a role in influencing consumer trust. The degree to
+                       which a country is perceived to have a naturally beautiful and unspoiled environment has
+                       been shown to increase consumers’ willingness to purchase imported foods from that
+                       country [49,56]. For example, consumers in France perceived eco-labelled products less
+                       favourably when associated with a country that tends to portray less of an eco-friendly
+                       image than when the same products were associated with a country perceived as envi-
+                       ronmentally friendly [57].
+                             The economic development of a country, and its perceived competence, also act as
+                       an important cue for food safety and quality [17,28,49]. In general, food safety incidents
+                       across Asia have resulted in many consumers preferring imported foods from economi-
+                       cally developed countries over domestic foods. For example, consumers in China rated
+                       genetically modified orange juice coming from Australia and the United States as higher
+                       quality than genetically modified juice from China, Brazil, and Israel [58]. Increased trust
+                       towards economically developed countries for producing genetically engineered foods
+                       seems to suggest an existing perception among consumers that these countries have better
+
+===== PAGE 6 =====
+Foods 2021, 10, 2490                                                                                          6 of 15
+
+
+
+
+                       regulatory systems in place, and are more advanced in implementing agricultural tech-
+                       nologies and biotechnologies [58].
+                              In contrast, European consumers prefer food products from countries that are geo-
+                       graphically closer in distance [29,59]. Even in Albania and Kosovo where food safety in-
+                       cidents related to domestic production are prevalent, consumers still consider domestic
+                       food to be safer and of higher quality than imported foods [34]. A study of consumer pref-
+                       erence for the origin of seafood in Europe showed consumers to value domestic, local, and
+                       European production over foreign imports [60]. In addition, consumers in Denmark con-
+                       sider geographical origin as more important than whether or not the food is organic or
+                       the size of the production company [61]. European consumers believe that locally pro-
+                       duced foods are fresher, require less transport, and are better regulated than foreign foods
+                       [62]. They also value the economic benefits associated with purchasing locally produced
+                       foods [61]. Across other developed economies, similar domestic and local preference has
+                       been found among consumers in the United States and in Australia [63,64].
+                              Food traceability information. Food traceability systems capture information related to
+                       the origin of food products and document their journey across the supply chain [3]. These
+                       systems play an important role in supporting food safety and quality by providing in-
+                       creased transparency across the food supply chain [65]. While food traceability has histor-
+                       ically been used as a supply chain risk management tool by agribusinesses and retailers,
+                       it is increasingly applied to enhance consumer confidence in food authenticity, safety, and
+                       quality. Traceability data is made accessible to consumers through barcodes, Quick Re-
+                       sponse (QR) codes, radio-frequency identification, and online links printed on food pack-
+                       aging [3,66,67]. Supported by cloud computing, storage technologies, and more recently
+                       decentralised blockchain networks, food traceability information made available to con-
+                       sumers reduces information asymmetry and increases trust [3,68–70]. Food traceability
+                       systems offer consumers reassurances on the origin and history of food products, raise the
+                       standards of food safety and quality across the international markets, and help build con-
+                       sumer confidence and trust in the traced food products [71–74].
+                              Traceability information that verifies where the food product was produced, and
+                       how it was processed and grown, reassures consumers about the food’s authenticity, and
+                       provides substantial value in assisting the management of food incidents [8,75–83]. Across
+                       the developing countries, increased food safety instances and fraud have intensified con-
+                       sumer demand for detailed information about origin, manufacturing processes, and agri-
+                       cultural inputs [72,84–89]. Studies show that consumers from China, Vietnam, Malaysia,
+                       and Brazil value food traceability and are willing to pay a price premium for traced foods
+                       [37,44,72,90–95].
+                              However, in developed countries where there have been fewer food safety incidents,
+                       studies show consumers engage less with food traceability information. Interviews with
+                       the major Australian retailers revealed that time-poor consumers often have little interest
+                       in the mechanics of the food supply chain [68]. Others have found that, while Australian
+                       consumers put more emphasis on having imported food traced, their trust in the infor-
+                       mation provided by the traceability system of imported food products was low [96]. Thus,
+                       more work may be needed to establish strategies to increase consumer knowledge about
+                       food traceability systems across the globe and their engagement with the tracked data
+                       [96,97].
+                              While traceability systems designed to improve consumer confidence through in-
+                       creased transparency are promising, consumers trust in traceability systems and infor-
+                       mation is less clear. Emerging evidence suggests that traceability information that is vali-
+                       dated by an independent party helps to build consumer trust. Through a discrete choice
+                       experiment with Fuji apple in China, Liu et al. (2020) found that the majority of Chinese
+                       consumers regarded traceability validation as far more important than the traceability it-
+                       self. In addition, they placed the highest value on government validation and were willing
+                       to pay a price premium for apples validated by the government compared to those vali-
+                       dated by domestic or international third-party certifiers.
+
+===== PAGE 7 =====
+Foods 2021, 10, 2490                                                                                         7 of 15
+
+
+
+
+                       3.2. Food System Actors
+                            While providing product assurance through food packaging labels directly supports
+                       consumer confidence in food products, food system actors also play an important role in
+                       influencing consumer confidence and trust in food and the food system. Food system ac-
+                       tors are those who are directly involved in the production and distribution of food, in-
+                       cluding farmers and producers, manufactures and processors, and retailers. On a day-to-
+                       day basis, consumers have the greatest opportunity to develop face-to-face reciprocal re-
+                       lationships with retailers. Their engagement with the upstream food operators, such as
+                       producers and food companies, tends to be minimal. In the event of food incidents, how-
+                       ever, upstream food actors often become more of a focus for consumers [88,98,99]. Food
+                       system actors also include industry influencers who assure or monitor food safety and
+                       quality, including government agencies and third-party institutions, consumer advocacy
+                       groups, and the mass media. Although industry influencers are not directly responsible
+                       for the production and distribution of food, they are positioned to influence how food is
+                       governed and certified, and can directly communicate with the public about food safety
+                       and quality. In the remaining of the Results and Discussions section, we outline the actors
+                       along the supply chain, including food industry influencers, to whom consumers trust
+                       and assign responsibility for ensuring food safety and quality.
+
+                       Food Supply Chain Operators
+                             Globalisation and the complexity of the food supply chain is increasing the physical
+                       distance between consumers and industry operators who produce, process, manufacture,
+                       distribute, and sell food [25,100]. Consequently, consumers often have limited knowledge
+                       about where their food has been grown and produced, and how it has been processed and
+                       distributed along the supply chain [98,101]. Research suggests that consumers tend to put
+                       more trust in the operators from the downstream parts of the food supply chain, such as
+                       retailers, than those from upstream [48].
+                             Farmers and producers. Consumer trust in the supply chain operators who directly
+                       grow and produce food differs around the world. Consumers from countries that experi-
+                       ence limited food safety scares and rely on local produce tend to put more trust in famers
+                       [98,102]. For example, Henderson et al. (2011) found that consumers in Australia display
+                       high levels of trust towards farmers. Similarly, consumers across Europe, especially those
+                       from France, Poland, and Italy, tend to base their purchasing decisions on the farmer who
+                       produced the food [31,103]. Consumers from developing countries, on the other hand,
+                       tend to trust farmers the least. For example, food scares and fraudulent practices across
+                       many cities of China have reduced trust among urban consumers in local farmers and
+                       producers [38,104]. However, consumers from rural China who are able to source food
+                       directly from farmers tend to put more trust in local farmers who also produce for their
+                       own consumption [27,32].
+                             Manufactures and processors. In general, consumers’ connection with and trust to-
+                       wards food manufactures and processors tends to be low [3,31]. During food safety inci-
+                       dents, consumers tend to direct the responsibility for re-building and maintaining trust
+                       towards these actors. An online survey of consumers in France, Germany, Poland, Spain,
+                       and the United Kingdom showed that trust is established by consumers’ belief that supply
+                       chain actors, especially manufactures, are competent, caring, and open [31]. Consumer
+                       trust in domestic food manufactures tends to be low in China [42]. However, there are
+                       indications that the introduction of new food safety laws, following food product scan-
+                       dals, has improved some Chinese consumers’ confidence and trust in manufactures for
+                       ensuring food safety and quality [105].
+                             Retailers. As consumers become more disconnected from food supply chain opera-
+                       tors, especially those from the upstream producers, processors, and manufactures, they
+                       increasingly rely on retailers to ensure food safety and quality. Both traditional and online
+
+===== PAGE 8 =====
+Foods 2021, 10, 2490                                                                                          8 of 15
+
+
+
+
+                       retailers build trust through developing ongoing consumer–retailer relationships, ensur-
+                       ing all economic transactions are secure, and fostering positive consumer feedback [106–
+                       109]. Traditional retailers with a physical presence, such as supermarkets, grocery stores,
+                       butchers, and farmers’ markets, build trust through direct consumer–retailer relationships
+                       and food networks [3]. Personal trust developed between the consumer and retailer acts
+                       as a cue for food quality and safety [34]. For example, consumers from Albania indicated
+                       that their main source of trust when evaluating food quality and safety is knowing the
+                       butcher or seller [110]. Across China, where food fraud and safety incidents are common,
+                       consumers reported the highest level of trust in large reputable international retailers sell-
+                       ing imported foods from developed countries [27,32,104]. Despite a price premium on
+                       imported foods from reputable stores, these retailers are perceived to offer greater assur-
+                       ances on product authenticity and operate within the regulatory control of the govern-
+                       ment [37,111]. Chinese consumers tend to perceive smaller independent retailers and
+                       street vendors as more risky and likely to be involved in fraudulent practices [32].
+                            Compared to traditional face-to-face retailers who physically operate in a commercial
+                       location, consumer trust in online e-retailers can be more fragile and difficult to establish
+                       [112]. E-retailers need to use more indirect approaches to build trust with their customers,
+                       such as the look of their website and online reviews. A study of Chinese consumers found
+                       organic food information presented on a media-rich website reduced perceived risk and
+                       improved trust in the retailer [113]. Another study of 420 mobile shopping app users in
+                       India showed that online trust can be highly influenced by the visual attractiveness of the
+                       mobile shopping app [114]. Innovative website features have also been shown to build
+                       trust towards online shopping sites and increase consumers’ repurchasing intentions
+                       [109]. In particular, e-retailer sites with added human and social elements strengthened
+                       trust through providing consumers with an indirect sense of personalness and warmth
+                       [115–117]. Online reviews also enable consumers to indirectly access product quality and
+                       safety information through the lived experiences of other consumers [113]. Long reviews
+                       with more detailed information of a product are perceived as higher quality and more
+                       useful than simpler reviews [118]. In addition, positive or factual reviews, and reviews
+                       appearing on social networks, are often perceived as more trustworthy than negative or
+                       emotional reviews, and reviews appearing on retailer sites [118].
+
+                       Food Industry Influencers
+                             Food industry influencers are in a position to confirm or challenge the legitimacy of
+                       the food attribute claims made by food actors, and to shape consumers’ perception of the
+                       risks related to food safety and quality. While government agencies and third-party insti-
+                       tutions influence consumer trust through certification labelling that validates certain food
+                       attribute claims, consumer advocacy groups and the mass media influence trust through
+                       directly communicating with consumers about the trustworthiness of food operators.
+                       There are some minor cultural differences in who consumers trust for communicating the
+                       relevant information relating to food safety and quality.
+                             Government agencies and third-party institutions. Government regulatory agencies and
+                       third-party institutions can enhance consumer confidence through providing independ-
+                       ent validation and certification of the credence attributes claimed by food producers, pro-
+                       cessors, and manufactures. The validation provided by these influencers can be commu-
+                       nicated to consumers through product labelling. As a consequence of increased food inci-
+                       dents across many developing countries, consumers from these regions trust government
+                       authorities and third-party institutions, over food supply chain operators, for ensuring
+                       the safety and quality of domestically produced food products [111,119]. For example,
+                       consumers in Taiwan display higher levels of trust and preference towards government-
+                       supported food inspections over those conducted by operators [119]. Chinese consumers
+                       hold high levels of trust towards independent institutions for providing quality and safety
+                       guarantees of domestically produced foods [105]. They generally perceive government
+                       and third-party institutions (e.g., research institutes and consumer associations) to be
+
+===== PAGE 9 =====
+Foods 2021, 10, 2490                                                                                        9 of 15
+
+
+
+
+                       knowledgeable and accurate in their communication of food safety and quality infor-
+                       mation, and care about the health and wellbeing of the public [111,119].
+                             Advocacy groups and the mass media. As consumer demand for ethical food production
+                       and consumption increases across the developed countries, advocacy groups who com-
+                       municate directly with consumers about the trustworthiness of food operators for pro-
+                       ducing ethical foods are playing an increasing role in influencing consumer trust [120].
+                       The mass media, in particular traditional news channels and social media, has been an
+                       important portal for advocacy groups to rapidly expose poor behind-the-scenes practices,
+                       food fraud, and food safety incidents [32,111,119]. Media representation can powerfully
+                       influence consumer perceptions of food-related issues, especially those with which the
+                       general public have limited direct experience [120]. For example, animal welfare activists
+                       exposed industry wrong doings within the live export industry through broadcasting
+                       video footage of animal mistreatment in the slaughterhouse of the importing countries,
+                       and poor welfare conditions within intensive piggeries and broiler sheds [120]. The wide-
+                       spread broadcast of these videos across the mass media led to the suspension of Austral-
+                       ian cattle exports to countries exposed for mistreating animals and the closure of Austral-
+                       ian operations with poor animal welfare. The work of advocacy groups has given rise to
+                       dramatic changes in consumer attitudes towards animal production and welfare [121].
+                       Bray and Ankeny (2017) found that Australian consumers perceive free-range and cage-
+                       free eggs as better quality, more nutritious, safer, and tastier than caged eggs. These
+                       changes have accelerated consumer demand for ethical foods and have pushed many re-
+                       tailers across the developed countries to establish new animal welfare standards for pro-
+                       ducers [120].
+
+                       4. Conclusions
+                             Income growth, increased awareness of health benefits of foods, and ongoing food
+                       safety incidents are accelerating consumer demand for safe and quality foods that cannot
+                       easily be distinguished based on visual and physical cues. Although branding and mar-
+                       keting strategies are widely used to communicate the credence attributes of food products,
+                       the complex, fragmented, and globalised modern food system presents growing opportu-
+                       nities for food incidents, fraud, and poor practices to occur. Consequently, agribusinesses
+                       and supply chain stakeholders have taken various approaches to address consumer con-
+                       cerns and secure their confidence in food safety and quality.
+                             The present review developed a food trust framework and revealed that consumer
+                       trust can be built through product assurance and food system actors. Our findings show
+                       that product assurance through food packaging labels that communicate food attributes,
+                       certifications, country or region of origin, and food traceability are one important set of
+                       tangible cues and sources of information that consumers trust when assessing food safety
+                       and quality at the time of purchase. In addition, food system actors, particularly retailers
+                       and food industry influencers, who detect or directly communicate with the public about
+                       food safety and quality, also play a crucial role in influencing consumer trust.
+                             While there are similarities in the cues and information consumers trust and rely on
+                       for ensuring food safety and quality across the globe, the specific ways in which these
+                       factors operate can vary between countries and cultures. For example, geographical labels
+                       indicating the country and region from which the food was produced tend to be valued
+                       by all consumers. However, consumers from Europe tend to primarily rely on geograph-
+                       ical origin for evaluating food safety and quality, while consumers in Asia tend to rely on
+                       more detailed labelling information that includes origin, but also health related attributes
+                       and personal qualities of producers.
+                             Ongoing food safety incidents seem to have motivated consumers across developing
+                       countries to prefer imported foods and quality certifications from economically developed
+                       countries over domestic equivalents. Despite a price premium on foods, consumers from
+                       developing countries appear to trust reputable international retailers and manufactures
+                       over local producers. They tend to trust government authorities and third-party institutes
+
+===== PAGE 10 =====
+Foods 2021, 10, 2490                                                                                                   10 of 15
+
+
+
+
+                       for regulating and validating food safety and quality over advocacy groups and the mass
+                       media. In many of the developed countries, however, there is a general preference for
+                       domestic food products over foreign imports, even in countries where food safety inci-
+                       dents related to domestic production are prevalent. Consumers from developed countries
+                       with fewer experiences of food incidents tend to put more trust in local farmers and re-
+                       tailers who sell local produce than food manufactures. Compared to consumers from de-
+                       veloping countries, the purchasing decisions of those from developed countries tend to
+                       be influenced more by the advocacy movements championing animal warfare and ethical
+                       consumption.
+                             Our findings also suggest that consumers may have greater confidence in product
+                       assurance systems that are supported by the food system actors they trust. While food
+                       packaging labels help consumers validate credence attributes, food system actors provide
+                       consumers with an added layer of safety and quality assurance. To contrast consumers
+                       from developed countries, those from developing countries tend to trust government au-
+                       thorities and third-party institutions (e.g., research institutes and consumer associations)
+                       over food supply chain operators for validating food traceability information and ensur-
+                       ing the safety and quality of domestic food products. While digital and traceability sys-
+                       tems present opportunities for food system actors to provide consumers with added trans-
+                       parency and assurance across the food supply chain, research investigating consumer
+                       trust in traceability information appears limited at present. Future research needs to es-
+                       tablish a better understanding of what traceability information consumers value and the
+                       validation that they trust. It should also be noted that there appears to be a disconnect
+                       between what consumers state they trust under experimental settings and their actual
+                       purchase behaviour at the time of purchase [23]. Improved methods need to be developed
+                       that better capture actual consumer behaviour under experimental settings.
+                             Overall, our framework offers the first step in understanding the key drivers of con-
+                       sumer trust and how those may be influenced by culture. While our framework highlights
+                       the individual importance of food packaging labels, supply chain actors, and industry in-
+                       fluencers when evaluating consumer trust, more work is required to establish their rela-
+                       tive importance. Knowing the relative importance of these main factors influencing con-
+                       sumer trust has implications for the design and further development of credentialing and
+                       traceability systems. We hope our framework will guide future research and food indus-
+                       try efforts to test these trust factors in various consumer and market settings, and develop
+                       systems and strategies for building and maintaining consumer trust.
+
+                       Author Contributions: W.W.: Conceptualization, Formal analysis, Investigation, Writing—Original
+                       draft, Visualization, Project administration; A.Z.: Conceptualization, Validation, Writing—Review
+                       & Editing; R.D.v.K.: Conceptualization, Validation, Writing—Review & Editing; P.S.: Conceptual-
+                       ization, Validation, Writing—Review & Editing, J.M.M.: Conceptualization, Validation, Writing—
+                       Review & Editing. All authors have read and agreed to the published version of the manuscript.
+                       Funding: This research was supprted by the Commonwealth Scientific and Industrial Research Or-
+                       ganisation as part of the Trusted Agrifood Exports Mission.
+                       Institutional Review Board Statement: Not applicable.
+                       Informed Consent Statement: Not applicable.
+                       Data Availability Statement: Not applicable.
+                       Acknowledgments: A special thanks to Ryan McAllister for contributing his valuable time and ex-
+                       pertise in supporting the thinking behind this paper and proofreading the article.
+                       Conflicts of Interest: The authors declare no conflict of interest. The funders had no role in the
+                       design of the study; in the collection, analyses, or interpretation of data; in the writing of the manu-
+                       script, or in the decision to publish the results.
+
+===== PAGE 11 =====
+Foods 2021, 10, 2490                                                                                                              11 of 15
+
+
+
+
+References
+1.    Henderson, J.; Ward, P.R.; Coveney, J.; Meyer, S.B. What are the important issues around food safety and nutrition? Findings
+      from a media analysis and qualitative study of consumer trust. Australas. Med. J. 2010, 3, 164–169.
+2.    Esteki, M.; Regueiro, J.; Simal-Gándara, J. Tackling fraudsters with global strategies to expose fraud in the food chain. Compr.
+      Rev. Food Sci. Food Saf. 2019, 18, 425–440.
+3.    Kendall, H.; Clark, B.; Rhymer, C.; Kuznesof, S.; Hajslova, J.; Tomaniova, M.; Brereton, P.; Frewer, L. A systematic review of
+      consumer perceptions of food fraud and authenticity: A European perspective. Trends Food Sci. Technol. 2019, 94, 79–90.
+4.    Agnoli, L.; Capitello, R.; De Salvo, M.; Longo, A.; Boeri, M. Food fraud and consumers’ choices in the wake of the horsemeat
+      scandal. Br. Food J. 2016, 118, 1898–1913.
+5.    Thomson, B.; Poms, R.; Rose, M. Incidents and impacts of unwanted chemicals in food and feeds. Qual. Assur. Saf. Crop. Foods
+      2012, 4, 77–92.
+6.    Zachmann, K.; Østby, P. Food, technology, and trust: An introduction. Hist. Technol. 2011, 27, 1–10.
+7.    Tonkin, E.; Wilson, A.; Coveney, J.; Henderson, J.; Meyer, S.B.; McCarthy, M.B.; O’Reilly, S.; Calnan, M.; McGloin, A.; Kelly, E;
+      et al. Food-system actors’ perspectives on trust: An international comparison. Br. Food J. 2019, 121, 561–573, doi:10.1108/BFJ-05-
+      2018-0291.
+8.    Yamoah, F.; Yawon, D. Assessing supermarket food shopper reaction to horsemeat scandal in the UK. Int. Rev. Manag. Mark.
+      2014, 4, 98–107.
+9.    ABC News. Strawberry Needle Contamination Scare: Queensland Woman Charged after Months-long Investigation. 2018;
+      Available online: https://www.abc.net.au/news/2018-11-11/strawberry-needle-scare-woman-arrested-in-queensland/10486418
+      (accessed on 1 March 2021).
+10.   Bozic, B. Consumer trust repair: A critical literature review. Eur. Manag. J. 2017, 35, 538–547.
+11.   Yu, H.; Neal, J.A.; Sirsat, S.A. Consumers’ food safety risk perceptions and willingness to pay for fresh-cut produce with lower
+      risk of foodborne illness. Food Control 2018, 86, 83–89.
+12.   Nuttavuthisit, K.; Thøgersen, J. Developing-Economy preferences for imported organic food products. J. Int. Consum. Mark.
+      2019, 31, 225–249.
+13.   Batra, R.; Ramaswamy, V.; Alden, D.; Steenkamp, J.B.E.M.; Ramachander, S. Effects of brand local and nonlocal origin on con-
+      sumer attitudes in developing countries. J. Consum. Psychol. 2000, 9, 83–95.
+14.   Manning, L.; Soon, J.M. Food Safety, Food Fraud, and Food Defense: A Fast Evolving Literature. J. Food Sci. 2016, 81, R823–
+      R834.
+15.   Röhr, A.; Lüddecke, K.; Drusch, S.; Müller, M.J.; Alvensleben, R.V. Food quality and safety––Consumer perception and public
+      health concern. Food Control 2005, 16, 649–655.
+16.   Yeh, C.-H.; Menozzi, D.; Török, Á. Eliciting egg consumer preferences for organic labels and omega 3 claims in Italy and Hun-
+      gary. Foods 2020, 9, 1212.
+17.   Thøgersen, J.; Pedersen, S.; Aschemann-Witzel, J. The impact of organic certification and country of origin on consumer food
+      choice in developed and emerging economies. Food Qual. Prefer. 2019, 72, 10–30.
+18.   Maehle, N.; Iversen, N.; Hem, L.; Otnes, C. Exploring consumer preferences for hedonic and utilitarian food attributes. Br. Food
+      J. 2015, 117, 3039–3063.
+19.   Van Rijswijk, W.; Frewer, L.J. Consumer perceptions of food quality and safety and their relation to traceability. Br. Food J. 2008,
+      110, 1034–1046.
+20.   Zhang, A.; Jakku, E. Australian Consumers’ Preferences for Food Attributes: A Latent Profile Analysis. Foods 2021, 10, 56.
+21.   Hastie, M.; Ashman, H.; Torrico, D.; Ha, M.; Warner, R. A Mixed Method Approach for the Investigation of Consumer Re-
+      sponses to Sheepmeat and Beef. Foods 2020, 9, 126.
+22.   Wu, L.; Wang, S.; Zhu, D.; Hu, W.; Wang, H. Chinese consumers’ preferences and willingness to pay for traceable food quality
+      and safety attributes: The case of pork. China Econ. Rev. 2015, 35, 121–136.
+23.   Joshi, Y.; Rahman, Z. Factors Affecting Green Purchase Behaviour and Future Research Directions. Int. Strateg. Manag. Rev. 2015,
+      3, 128–143.
+24.   Seo, S.S.; Kim, K.; Nurhidayati, V.A. Satisfaction and purchase intention of imported fresh fruits based on familiarity: A case of
+      Korean pears in Taiwan. Br. Food J. 2020, 122, 2895–2910, doi:10.1108/BFJ-08-2019-0639.
+25.   Giampietri, E.; Verneau, F.; Giudice, T.D.; Carfora, V.; Finco, A. A Theory of Planned behaviour perspective for investigating
+      the role of trust in consumer purchasing decision related to short food supply chains. Food Qual. Prefer. 2018, 64, 160–166.
+26.   Kjærnes, U. Ethics and action: A relational perspective on consumer choice in the European politics of food. J. Agric. Environ.
+      Ethics 2012, 25, 145–162.
+27.   Kendall, H.; Kuznesof, S.; Dean, M.; Chan, M.Y.; Clark, B.; Home, R.; Stolz, H.; Zhong, Q.; Liu, C.; Brereton, P.; et al. Chinese
+      consumer’s attitudes, perceptions and behavioural responses towards food fraud. Food Control 2019, 95, 339–351.
+28.   Schjøll, A. Country-of-origin preferences for organic food. Org. Agric. 2017, 7, 315–327.
+29.   Ortega, D.L.; Hong, S.J.; Wang, H.H.; Wu, L. Emerging markets for imported beef in China: Results from a consumer choice
+      experiment in Beijing. Meat Sci. 2016, 121, 317–323.
+30.   Mirosa, M.; Mangan-Walker, E. Young Chinese and functional foods for mobility health: Perceptions of importance, trust, and
+      willingness to purchase and pay a premium. J. Food Prod. Mark. 2018, 24, 216–234.
+
+===== PAGE 12 =====
+Foods 2021, 10, 2490                                                                                                            12 of 15
+
+
+
+
+31.   Macready, A.L.; Hieke, S.; Klimczuk-Kochańska, M.; Szumial, S.; Vranken, L.; Grunert, K.G. Consumer trust in the food value
+      chain and its impact on consumer confidence: A model for assessing consumer trust and evidence from a 5-country study in
+      Europe. Food Policy 2020, 92, 101880.
+32.   Soon, J.M.; Liu, X. Chinese consumers’ risk mitigating strategies against food fraud. Food Control 2020, 115, 107298.
+33.   Tonkin, E.; Webb, T.; Coveney,J.; Meyer, S.B.; Wilson, A.M. Consumer trust in the Australian food system–the everyday erosive
+      impact of food labelling. Appetite 2016, 103, 118–127.
+34.   Haas, R.; Imami, D.; Miftari, I.; Ymeri, P.; Grunert, K.; Meixner, O. Consumer Perception of Food Quality and Safety in Western
+      Balkan Countries: Evidence from Albania and Kosovo. Foods 2021, 10, 160.
+35.   Dang, A.K.; Tran, B.X.; Nguyen, C.T.; Le, H.T.; Do, H.T.; Nguyen, H.D.; Nguyen, L.H.; Nguyen, H.T.; Mai, H.T.; Tran, T.D.; et
+      al. Consumer preference and attitude regarding online food products in Hanoi, Vietnam. Int. J. Environ. Res. Public Health 2018,
+      15, 981.
+36.   Hartmann, C.; Hieke, S.; Taper, C.; Siegrist, M. European consumer healthiness evaluation of ‘Free-from’labelled food products.
+      Food Qual. Prefer. 2018, 68, 377–388.
+37.   El Benni, N.; Stolz, H.; Home, R.; Kendall, H.; Kuznesof, S.; Clark, B.; Dean, M.; Brereton, P.; Frewer, L.J.; Chan, M.Y; et al.
+      Product attributes and consumer attitudes affecting the preferences for infant milk formula in China—A latent class approach.
+      Food Qual. Prefer. 2019, 71, 25–33.
+38.   Rupprecht, C.D.D.; Fujiyoshi, L.; McGreevy, S.R.; Tayasu, I. Trust me? Consumer trust in expert information on food product
+      labels. Food Chem. Toxicol. 2020, 137, 111170.
+39.   Wu, L.; Yin, S.; Xu, Y.; Zhu, D. Effectiveness of China’s organic food certification policy: Consumer preferences for infant milk
+      formula with different organic certification labels. Can. J. Agric. Econ. 2014, 62, 545–568.
+40.   Yin, S.; Chen, M.; Xu, Y.; Chen, Y. Chinese consumers’ willingness-to-pay for safety label on tomato: Evidence from choice
+      experiments. China Agric. Econ. Rev. 2017, 141–155.
+41.   Nuttavuthisit, K.; Thøgersen, J. The importance of consumer trust for the emergence of a market for green products: The case
+      of organic food. J. Bus. Ethics 2017, 140, 323–337.
+42.   Wang, J.; Tao, J.; Chu, M. Behind the label: Chinese consumers’ trust in food certification and the effect of perceived quality on
+      purchase intention. Food Control 2020, 108, 106825.
+43.   Moruzzo, R.; Riccioli, F.; Boncinelli, F.; Zhang, Z.; Zhao, J.; Tang, Y.; Tinacci, L.; Massai, T.; Guidi, A. Urban Consumer Trust
+      and Food Certifications in China. Foods 2020, 9, 1153.
+44.   Liu, R.; Gao, Z.; Snell, H.A.; Ma, H. Food safety concerns and consumer preferences for food safety attributes: Evidence from
+      China. Food Control 2020, 112, 107157.
+45.   Rezai, G.; Mohamed, Z.; Shamsudin, M.N. Assessment of consumers’ confidence on halal labelled manufactured food in Ma-
+      laysia. Pertanika J. Soc. Sci. Humanit. 2012, 20, 33–42.
+46.   Santeramo, F.G.; Lamonaca, E. Evaluation of geographical label in consumers’ decision-making process: A systematic review
+      and meta-analysis. Food Res. Int. 2020, 131, 108995.
+47.   Song, Y.; Qin, Z.; Yuan, Q. The impact of eco-label on the young Chinese generation: The mediation role of environmental
+      awareness and product attributes in green purchase. Sustainability 2019, 11, 973.
+48.   Van Wezemael, L.; Verbeke, W.; Kügler, J.O.; de Barcellos, M.D.; Grunert, K.G. European consumers and beef safety: Percep-
+      tions, expectations and uncertainty reduction strategies. Food Control 2010, 21, 835–844.
+49.   Feng, N.; Zhang, A.; Van Klinken, R.D.; Cui, L. An integrative model to understand consumers’ trust and willingness to buy
+      imported fresh fruit in urban China. Br. Food J. 2021, 123, 2216–2234, doi:10.1108/BFJ-07-2020-0575.
+50.   Yeh, C.-H.; Chen, C.-I.; Sher, P.J. Investigation on perceived country image of imported food. Food Qual. Prefer. 2010, 21, 849–
+      856.
+51.   Andéhn, M.; Nordin, F.; Nilsson, M.E. Facets of country image and brand equity: Revisiting the role of product categories in
+      country-of-origin effect research. J. Consum. Behav. 2016, 15, 225–238.
+52.   Pedersen, S.; Aschemann-Witzel, J.; Thøgersen, J. Consumers’ evaluation of imported organic food products: The role of geo-
+      graphical distance. Appetite 2018, 130, 134–145.
+53.   Gorostidi-Martinez, H.; Xu, W.; Zhao, X. A review of Spanish consumers’ product-country image of China. Asia Pac. J. Mark.
+      Logist. 2017, doi:10.1108/APJML-09-2016-0160.
+54.   Halkias, G.; Davvetas, V.; Diamantopoulos, A. The interplay between country stereotypes and perceived brand globalness/lo-
+      calness as drivers of brand preference. J. Bus. Res. 2016, 69, 3621–3628.
+55.   Chen, C.Y.; Mathur, P.; Maheswaran, D. The effects of country-related affect on product evaluations. J. Consum. Res. 2014, 41,
+      1033–1046.
+56.   Costa, C.; Carneiro, J.; Goldszmidt, R. A contingent approach to country-of-origin effects on foreign products evaluation: Inter-
+      action of facets of country image with product classes. Int. Bus. Rev. 2016, 25, 1066–1075.
+57.   Dekhili, S.; Achabou, M.A. Towards greater understanding of ecolabel effects: The role of country of origin. J. Appl. Bus. Res.
+      2014, 30, 433–438.
+58.   Gao, Z.; Yu, X.; Li, C.; McFadden, B.R. The interaction between country of origin and genetically modified orange juice in urban
+      China. Food Qual. Prefer. 2019, 71, 475–484.
+59.   McCarthy, B.L. Trends in organic and green food consumption in China: Opportunities and challenges for regional Australian
+      exporters. J. Econ. Soc. Policy 2015, 17, 6.
+
+===== PAGE 13 =====
+Foods 2021, 10, 2490                                                                                                            13 of 15
+
+
+
+
+60.   Zander, K.; Feucht, Y. Consumers’ willingness to pay for sustainable seafood made in Europe. J. Int. Food Agribus. Mark. 2018,
+      30, 251–275.
+61.   Denver, S.; Jensen, J.D.; Olsen, S.B.; Christensen, T. Consumer preferences for ‘Localness’ and organic food production. J. Food
+      Prod. Mark. 2019, 25, 668–689.
+62.   Meyerding, S.G.; Trajer, N.; Lehberger, M. What is local food? The case of consumer preferences for local food labeling of to-
+      matoes in Germany. J. Clean. Prod. 2019, 207, 30–43.
+63.   Ariyawardana, A.; Ganegodage, K.; Mortlock, M.Y. Consumers’ trust in vegetable supply chain members and their behavioural
+      responses: A study based in Queensland, Australia. Food Control 2017, 73, 193–201.
+64.   Alfnes, F.; Sharma, A. Locally produced food in restaurants: Are the customers willing to pay a premium and why? Int. J.
+      Revenue Manag. 2010, 4, 238–258.
+65.   Behnke, K.; Janssen, M. Boundary conditions for traceability in food supply chains using blockchain technology. Int. J. Inf.
+      Manag. 2020, 52, 101969.
+66.   Daoud, M.K.; Trigui, I.T. Smart Packaging: Consumer’s Perception and Diagnostic of Traceability Information. In International
+      Conference on Digital Economy; Springer: Berlin/Heidelberg, Germany, 2019.
+67.   Cao, S.; Powell, W.; Foth, M.; Natanelov, V.; Miller, T.; Dulleck, U. Strengthening consumer trust in beef supply chain traceabil-
+      ity with a blockchain-based human-machine reconcile mechanism. Comput. Electron. Agric. 2021, 180, 105886.
+68.   Meat and Livestock Australia. Commercial Application of Supply Chain Integrity and Shelf Life Systems; Meat and Livestock Aus-
+      tralia: Sydney, Australia, 2020.
+69.   Sander, F.; Semeijn, J.; Mahr, D. The acceptance of blockchain technology in meat traceability and transparency. Br. Food J. 2018,
+      doi:10.1108/BFJ-07-2017-0365.
+70.   Bumblauskas, D.; Mann, A.; Dugan, B.; Rittmer, J. A blockchain use case in food distribution: Do you know where your food
+      has been? Int. J. Inf. Manag. 2020, 52, 102008.
+71.   Benson, T.; Benson, T.; Lavelle, F.; Spence, M.; Elliott, C.T.; Dean, M. The development and validation of a toolkit to measure
+      consumer trust in food. Food Control 2020, 110, 106988.
+72.   Liu, R.; Gao, Z.; Nayga Jr., R.M.; Snell, H.A.; Ma, H. Consumers’ valuation for food traceability in China: Does trust matter?
+      Food Policy 2019, 88, 101768.
+73.   Menozzi, D.; Halawany-Darson, R.; Mora, C.; Giraud, G. Motives towards traceable food choice: A comparison between French
+      and Italian consumers. Food Control 2015, 49, 40–48.
+74.   Wu, L.; Wang, H.; Zhu, D.; Hu, W.; Wang, S. Chinese consumers’ willingness to pay for pork traceability information—The case
+      of Wuxi. Agric. Econ. 2016, 47, 71–79.
+75.   Matzembacher, D.E.; Stangherlin, I.D.C.; Slongo, L.A.; Cataldi, R. An integration of traceability elements and their impact in
+      consumer’s trust. Food Control 2018, 92, 420–429.
+76.   Regan, Á.; Raats, M.; Shan, L.C.; Wall, P.G.; McConnon, Á. Risk communication and social media during food safety crises: A
+      study of stakeholders’ opinions in Ireland. J. Risk Res. 2016, 19, 119–133.
+77.   Arnot, C. Perspective-Building Consumer Trust in the Food System. Food Technol. 2011, 65, 132.
+78.   Anderson, W.A. The future relationship between the media, the food industry and the consumer. Br. Med. Bull. 2000, 56, 254–
+      268.
+79.   Tonkin, E.; Wilson, A.M.; Coveney, J.; Meyer, S.B.; Henderson, J.; McCullum, D.; Webb, T.; Ward, P.R. Consumers respond to a
+      model for (re) building consumer trust in the food system. Food Control 2019, 101, 112–120.
+80.   Jensen, K.K. BSE in the UK: Why the risk communication strategy failed. J. Agric. Environ. Ethics 2004, 17, 405–423.
+81.   Jacob, C.J.; Lok, C.; Morley, K.; Powell, D.A. Government management of two media-facilitated crises involving dioxin contam-
+      ination of food. Public Underst. Sci. 2011, 20, 261–269.
+82.   Wilson, A.M.; Withall, E.; Coveney, J.; Meyer, S.B.; Henderson, J.; McCullum, D.; Webb, T.; Ward, P.R. A model for (re) building
+      consumer trust in the food system. Health Promot. Int. 2017, 32, 988–1000.
+83.   Falkheimer, J.; Heide, M. Trust and brand recovery campaigns in crisis: Findus Nordic and the horsemeat scandal. Int. J. Strateg.
+      Commun. 2015, 9, 134–147.
+84.   Hou, B.; Wu, L.; Chen, X.; Zhu, D.; Ying, R.; Tsai, F.S. Consumers’ Willingness to Pay for Foods with Traceability Information:
+      Ex-Ante Quality Assurance or Ex-Post Traceability? Sustainability 2019, 11, 1464.
+85.   Jin, S.; Zhang, Y.; Xu, Y. Amount of information and the willingness of consumers to pay for food traceability in China. Food
+      Control 2017, 77, 163–170.
+86.   Liu, C.; Li, J.; Steele, W.; Fang, X. A study on Chinese consumer preferences for food traceability information using best-worst
+      scaling. PLoS ONE 2018, 13, e0206793.
+87.   Lu, J.; Wu, L.; Wang, S.; Xu, L. Consumer preference and demand for traceable food attributes. Br. Food J. 2016, 118, 2140–2156,
+      doi:10.1108/BFJ-12-2015-0461.
+88.   Papadopoulos, A.; Sargeant, J.M.; Majowicz, S.E.; Sheldrick, B.; McKeen, C.; Wilson, J.; Dewey, C.E. Enhancing public trust in
+      the food safety regulatory system. Health Policy 2012, 107, 98–103.
+89.   Hoque, M.Z.; Alam, M. What determines the purchase intention of liquid milk during a food security crisis? The role of per-
+      ceived trust, knowledge, and risk. Sustainability 2018, 10, 3722.
+90.   Zhang, C.; Bai, J.; Wahl, T.I. Consumers’ willingness to pay for traceable pork, milk, and cooking oil in Nanjing, China. Food
+      Control 2012, 27, 21–28.
+
+===== PAGE 14 =====
+Foods 2021, 10, 2490                                                                                                             14 of 15
+
+
+
+
+91.  Yin, S.; Li, Y.; Xu, Y.; Chen, M.; Wang, Y. Consumer preference and willingness to pay for the traceability information attribute
+     of infant milk formula: Evidence from a choice experiment in China. Br. Food J. 2017, 119, 1276–1288.
+92. Wu, L.; Gong, X.; Qin, S.; Chen, X.; Zhu, D.; Hu, W.; Li, Q. Consumer preferences for pork attributes related to traceability,
+     information certification, and origin labeling: Based on China’s Jiangsu Province. Agribusiness 2017, 33, 424–442.
+93. Kendall, H.; Naughton, P.; Kuznesof, S.; Raley, M.; Dean, M.; Clark, B.; Stolz, H.; Home, R.; Chan, M.Y.; Zhong, Q.; et al. Food
+     fraud and the perceived integrity of European food imports into China. PLoS ONE 2018, 13, e0195817.
+94. My, N.H.D.; Demont, M.; Van Loo, E.J.; De Guia, A.; Rutsaert, P.; Tuan, T.H.; Verbeke, W; et al. What is the value of sustainably-
+     produced rice? Consumer evidence from experimental auctions in Vietnam. Food Policy 2018, 79, 283–296.
+95. Nawi, N.M.; Basri, H.N.; Kamarulzaman, N.H.; Shamsudin, M.N. Factors influencing consumers’ preferences towards meat
+     and meat products with traceability systems in Malaysia. Int. Food Res. J. 2018, S157–S164.
+96. Zhang, A.; Mankad, A.; Ariyawardana, A. Establishing confidence in food safety: Is traceability a solution in consumers’ eyes?
+     J. Consum. Prot. Food Saf. 2020, 15, 99–107.
+97. Yuan, C.; Wang, S.; Yu, X. The impact of food traceability system on consumer perceived value and purchase intention in China.
+     Ind. Manag. Data Syst. 2020, 120, 810–824.
+98. Henderson, J.; Coveney, J.; Ward, P.R.; Taylor, A.W. Farmers are the most trusted part of the Australian food chain: Results
+     from a national survey of consumers. Aust. N. Z. J. Public Health 2011, 35, 319–324.
+99. Tonkin, E.; Henderson, J.; Meyer, S.B.; Coveney, J.; Ward, P.R.; McCullum, D.; Webb, T.; Wilson, A.M. Expectations and every-
+     day opportunities for building trust in the food system. Br. Food J. 2020, 123, 702–719.
+100. Richards, C.; Lawrence, G.; Burch, D. Supermarkets and agro-industrial foods: The strategic manufacturing of consumer trust.
+     Food Cult. Soc. 2011, 14, 29–47.
+101. Henderson, J.; Ward, P.; Coveney, J.; Meyer, S. Trust in the Australian food supply: Innocent until proven guilty. Health Risk
+     Soc. 2012, 14, 257–272.
+102. Lupton, D.A. Lay discourses and beliefs related to food risks: An Australian perspective. Sociol. Health Illn. 2005, 27, 448–467.
+103. Carfora, V.; Cavallo,C.; Caso, D.; Giudice, T.D.; Devitiis, B.D.; Viscecchia, R.; Nardone, G.; Cicia, G. Explaining consumer pur-
+     chase behavior for organic milk: Including trust and green self-identity within the theory of planned behavior. Food Qual. Prefer.
+     2019, 76, 1–9.
+104. Zhang, L.; Zhang, L.; Xu, Y.; Oosterveer, P.; Mol, A.P.J. Consumer trust in different food provisioning schemes: Evidence from
+     Beijing, China. J. Clean. Prod. 2016, 134, 269–279.
+105. Li, S.; Sijtsema, S.J.; Kornelis, M.; Liu, Y.; Li, S. Consumer confidence in the safety of milk and infant milk formula in China. J.
+     Dairy Sci. 2019, 102, 8807–8818.
+106. Zhu, B.; Kowatthanakul, S.; Satanasavapak, P. Generation Y consumer online repurchase intention in Bangkok: Based on Stim-
+     ulus-Organism-Response (SOR) model. Int. J. Retail. Distrib. Manag. 2019, doi:10.1108/IJRDM-04-2018-0071.
+107. Frasquet, M.; Descals, A.M.; Ruiz-Molina, M.E. Understanding loyalty in multichannel retailing: The role of brand trust and
+     brand attachment. Int. J. Retail. Distrib. Manag. 2017, 45, 608–625, doi:10.1108/IJRDM-07-2016-0118.
+108. Osman, H.; D’Acunto, D.; Johns, N. Home and away: Why do consumers shy away from reporting negative experiences in the
+     peer-to-peer realms? Psychol. Mark. 2019, 36, 1162–1175.
+109. Ye, C.; Hofacker, C.F.; Peloza, J.; Allen, A. How online trust evolves over time: The role of social perception. Psychol. Mark. 2020,
+     37, 1539–1553.
+110. Zhllima, E.; Imami, D.; Canavari, M. Consumer perceptions of food safety risk: Evidence from a segmentation study in Albania.
+     J. Integr. Agric. 2015, 14, 1142–1152.
+111. Liu, R.; Pieniak, Z.; Verbeke, W. Food-related hazards in China: Consumers’ perceptions of risk and trust in information sources.
+     Food Control 2014, 46, 291–298.
+112. Bauman, A.; Bachmann, R. Online consumer trust: Trends in research. J. Technol. Manag. Innov. 2017, 12, 68–79.
+113. Yue, L.; Liu, Y.; Wei, X. Influence of online product presentation on consumers’ trust in organic food. Br. Food J. 2017,
+     doi:10.1108/BFJ-09-2016-0421.
+114. Chopdar, P.K.; Balakrishnan, J. Consumers response towards mobile commerce applications: SOR approach. Int. J. Inf. Manag.
+     2020, 53, 102106.
+115. Van Doorn, J.; Mende, M.; Noble, S.M.; Hulland, J.; Ostrom, A.L.; Grewal, D.; Petersen, J.A. Domo arigato Mr. Roboto: Emer-
+     gence of automated social presence in organizational frontlines and customers’ service experiences. J. Serv. Res. 2017, 20, 43–58.
+116. Lu, B.; Fan, W.; Zhou, M. Social presence, trust, and social commerce purchase intention: An empirical research. Comput. Hum.
+     Behav. 2016, 56, 225–237.
+117. Lin, X.; Wang, X.; Hajli, N. Building e-commerce satisfaction and boosting sales: The role of social commerce trust and its ante-
+     cedents. Int. J. Electron. Commer. 2019, 23, 328–363.
+118. Dong, B.; Li, M.; Sivakumar, K. Online review characteristics and trust: A cross-country examination. Decis. Sci. 2019, 50, 537–
+     566.
+119. Chen, M.F. Consumer trust in food safety—A multidisciplinary approach and empirical evidence from Taiwan. Risk Anal. Int.
+     J. 2008, 28, 1553–1569.
+
+===== PAGE 15 =====
+Foods 2021, 10, 2490                                                                                                        15 of 15
+
+
+
+
+120. Buddle, E.A.; Bray, H.J. How farm animal welfare issues are framed in the Australian media. J. Agric. Environ. Ethics 2019, 32,
+     357–376.
+121. Bray, H.J.; Ankeny, R.A. Happy chickens lay tastier eggs: Motivations for buying free-range eggs in Australia. Anthrozoös 2017,
+     30, 213–226.

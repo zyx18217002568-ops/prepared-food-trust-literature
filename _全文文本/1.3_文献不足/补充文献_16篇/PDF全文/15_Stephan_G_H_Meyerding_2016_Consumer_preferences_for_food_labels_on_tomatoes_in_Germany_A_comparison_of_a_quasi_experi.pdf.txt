@@ -1,0 +1,761 @@
+SOURCE_PDF: 1.3_文献不足/补充文献_16篇/PDF全文/15_Stephan_G_H_Meyerding_2016_Consumer_preferences_for_food_labels_on_tomatoes_in_Germany_A_comparison_of_a_quasi_experi.pdf
+EXTRACTION_STATUS: ok
+PAGES: 16
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+1   Consumer Preferences for Food Labels on Tomatoes in Germany – A
+ 2   Comparison of a Quasi-Experiment and Two Stated Preference
+ 3   Approaches
+ 4
+ 5   Appetite (in press). DOI: 10.1016/j.appet.2016.03.025
+ 6
+ 7   Stephan Meyerding
+ 8   Center for Business Management in Horticulture and Applied Research
+ 9   Institute of Horticultural Production Systems, Leibniz University Hanover
+10   Herrenhaeuser Str. 2
+11   30419 Hannover
+12   Germany
+13   Tel.: +49511/762-2669
+14   Fax: +49511/762-19245
+15   Email: meyerding@zbg.uni-hannover.de
+16
+17   Highlights
+18   ► The results support the assumption of a social desirability effect, as results differ
+19     between the quasi-experiment and the two stated preference approaches.
+20   ► The use of a combination of methods to get an understanding of the true behavior of
+21     consumers is important as demonstrated by this paper.
+22   ► The participants in the quasi-experiment preferred tomatoes without a label to those
+23     with carbon footprint labels.
+24   ► The characteristic “grown locally” shows the highest utility in the quasi-experiment
+25     after price, indicating that local origin is preferred to organic production.
+26
+27   Keywords: conjoint analysis, consumer marketing, sustainability, social desirability,
+28     purchasing behavior, carbon footprint label, local production
+29
+30   Abstract
+31          In many studies, consumer preferences are determined by using direct
+32   surveys. For this method social desirability is problematic. This leads to the effect
+33   that participants answer in a way that they perceive as desired by society. This leads
+34   to the stated importance of certain features in these studies not being reflected in
+35   real purchasing decisions. Therefore, the aim of the study is to compare consumer
+36   preferences measured by a quasi-experiment to those quantified by direct questions.
+37   Another objective is to quantify the part-worth utilities of product characteristics
+38   such as origin, price and food labels. Part-worth utilities are estimated on an interval
+39   scale with an arbitrary origin and are a measure for preferences. The real
+40   purchasing situation was simulated in a quasi-experiment using a choice-based
+41   conjoint analysis. The part-worth utilities were then compared with the results of a
+42   conventional preference assessment (Likert scale). For this purpose, 645 consumers
+43   from all over Germany were surveyed in 2014. The participants were on average 44
+44   years old and 63% were women. The results of the conjoint analysis report the
+45   highest part-worth utility (2.853) for the lowest price (1.49€), followed by the
+46   characteristic “grown locally” (2.157). For the labels, the German organic label
+47   shows the highest part-worth utility (0.785) followed by Fairtrade/“A heart for the
+
+
+
+
+                                                 1
+
+===== PAGE 2 =====
+48   producer” (0.200). It is noticeable that the carbon footprint labels have negative
+49   part-worth utilities compared to tomatoes without a label (-0.130 with CO2
+50   indication, -0.186 without CO2 indication). The price is ranked 12th in the
+51   importance of the characteristics of purchasing tomatoes in the survey with a Likert
+52   scale, whereas it is first in the evaluation of the quasi-experiment (conjoint analysis),
+53   which supports the assumption of a social desirability bias.
+54
+55   INTRODUCTION
+56            Changing consumer preferences is the second most frequently mentioned cause of
+57   fundamental changes in German horticultural companies expected for the next decade.
+58   Trends in consumer preferences for horticultural products, especially for fruits and
+59   vegetables, are convenience, functional and natural food. Natural food includes aspects
+60   such as food safety, consumption with quiet conscience (sustainability) and organic
+61   products. One way of communicating these characteristics to the customer is by labeling
+62   the product.
+63            The carbon footprint label is one of the most recent efforts to characterize a
+64   product in terms of climate friendliness. There is a variety of studies that claim to show
+65   the market potential of climate-friendly products using a carbon footprint label (Laroche,
+66   Bergeron, & Barbaro‐Forleo, 2001; Dirks, Kaiser, Klose, Pfeiffer, & Backhaus, 2010;
+67   Schlich, 2012; Vanclay et al., 2011; lal Bhardwaj, 2012). The same applies also for
+68   organic food labels (Stolz, Stolze, Janssen, & Hamm, 2011; Janssen & Hamm, 2014;
+69   Hempel & Hamm, 2016) and the Fairtrade label (Andorfer & Liebe, 2015; Ladhari &
+70   Tchetgna, 2015; Rousseau, 2015). In these surveys, participants are asked about, for
+71   example, the importance of climate change in general or about the importance of a
+72   climate-friendly production (Stocke, 2004; Dirks et al., 2010, p. 21). However, this is not
+73   reflected in buying decisions. For example, Tesco, the world’s third largest retailer,
+74   stopped its carbon-labeling program in 2012 after five years due to insufficient demand.
+75            One reason for the gap between some results of consumer research and observed
+76   buying behavior could be the effect of social desirability. Social desirability refers to the
+77   tendency of individuals to behave or respond in a way they believe society considers
+78   desirable (Crowne & Marlowe, 1960). This effect leads to the problem that the potential
+79   consumer says he/she would prefer climate-friendly products, but does not show this
+80   behavior in the real purchasing situation without being observed. One approach to solve
+81   the problem of social desirability is to perform an experiment with real purchase
+82   decisions. While the realization of an experiment is very time-consuming and cost-
+83   intensive, it also faces some legal issues and retailers would have to agree with it. Another
+84   way is to simulate an experiment. Conjoint analysis is one way to implement such a
+85   simulated experiment (Green & Srinivasan, 1978; Green & Srinivasan, 1990; Green,
+86   Krieger, & Wind, 2001).
+87            Basically, conjoint analysis is a multivariate method for the analysis of
+88   preferences and benefit structures of individuals. It works with decompositional processes
+89   in which the product is first judged completely (considered jointly). Starting from this
+90   overall assessment, the importance of individual characteristics of the product is
+91   determined. Thus, the overall analysis of the products is divided into so-called part-worth
+92   utilities, which reflect the relevance of a product’s characteristics for consumers. The
+93   participants are presented with a selection of products in a category (for example,
+94   tomatoes), each of which possesses different properties (characteristic values). These are
+
+
+
+
+                                                  2
+
+===== PAGE 3 =====
+95   generally referred to as “stimuli.” Participants are then requested to choose one from
+ 96   among these alternatives.
+ 97            There are some widely recognized shortcomings of conjoint methods in general.
+ 98   One example is that respondents sometimes use simplification strategies to answer
+ 99   difficult full-profile tasks. Respondents may consider only the most important attributes;
+100   this would result in exaggerated differences in importance between the most and least
+101   important factors. Particularly in high-involvement purchases, respondents exert more
+102   effort making real-world decisions than they do making judgments in a conjoint online
+103   survey. However, for an everyday purchase decision on comparatively low-value (and
+104   low-involvement) products such as tomatoes, the effort will be limited also in real
+105   purchase decisions. Thus, the hypothetical choice will not differ that strongly in our case
+106   as for high-involvement purchases.
+107            The aim of the study is to compare consumer preferences measured by a quasi-
+108   experiment to those quantified by direct questions to examine the assumption of social
+109   desirability and to quantify the part-worth utilities of product characteristics such as
+110   origin, price and food labels. As there is a wide discussion about the use of the relatively
+111   new carbon footprint label in Germany, this label is under special consideration in the
+112   present study.
+113            This paper presents a study with 645 consumers participating in a quasi-
+114   experiment using a choice-based conjoint analysis, to identify the part-worth utilities of
+115   different food labels and compare them to those of other characteristics such as the price
+116   and the origin of the vegetable (in this case tomatoes). In this study design the participant
+117   has to choose between products with different characteristics, in this case origin, price and
+118   a variety of food labels. He/she may also choose not to buy any of the products. The part-
+119   worth utilities of the characteristics are then calculated based on the decisions of all
+120   participants. Participants were also asked to rate the characteristics on Likert scales and to
+121   sort the labels according to their importance for the purchasing decision. The findings
+122   show differences between the results of the choice-based conjoint analysis and the other
+123   elicitation methods, which are possibly caused by socially desirable answering behavior.
+124
+125   MATERIALS AND METHODS
+126           Vine tomatoes were used as an example product in the quasi-experiment, because
+127   they are a common vegetable in Germany and are produced both domestically and
+128   abroad. The current investigation involved a survey with (in this order) 25 choice sets to
+129   perform a choice-based conjoint analysis and measures such as a ranking task and the
+130   evaluation of different product characteristics on a Likert scale (Likert, 1932) to evaluate
+131   the importance of product characteristics such as price, the origin of the product and
+132   different food labels. In addition, participants were asked to provide some
+133   sociodemographic data, such as their current employment situation, the number of adults
+134   as well as number of children under 12 living in the household, the place of residence, net
+135   household income, gender, age, level of education and the residential neighborhood
+136   (urban or rural).
+137
+138   Description of the Sample
+139           To evaluate consumer preferences for purchasing vine tomatoes, a questionnaire
+140   with 40 questions was provided in both paper-and-pencil and web-based formats. The
+141   questionnaire was distributed through social media, personal contacts and several e-mail
+142   lists, and was also administered in personal interviews. About 300 participants were
+
+
+
+
+                                                    3
+
+===== PAGE 4 =====
+143   recruited via social media and through personal contacts. Approximately 500 participants
+144   were recruited via the e-mail lists, which included about 7,000 e-mail addresses from
+145   German households; the participants from this channel were mainly women. Around 100
+146   interviews with mainly older participants were performed personally. This was done to
+147   collect data from older people, who are generally less familiar with online surveys and/or
+148   not able to handle an online questionnaire. Another point was that older people could not
+149   easily be reached through social media and e-mail channels. The participants were not
+150   compensated for participating in this study. The survey was conducted from June to
+151   December 2014 in Germany.
+152           In total, 925 consumers participated in the study. As conjoint analysis can be
+153   performed only on complete data sets, all reported data/results including the sample
+154   description and also the ranking task and Likert scale parts are based on the sample of 645
+155   choice set completers. No significant differences, in terms of socio-demographic
+156   characteristics, were found between completers and non-completers of the quasi-
+157   experiment (choice sets). For the sample of completers the socio-demographic
+158   characteristics shown in Table 1 apply. Among the choice set completers, the majority
+159   were female. The average age of the completers was 44.1 years, which is very close to the
+160   population mean of 44.9 years in 2011. The bulk of the completers came from western
+161   and northern Germany. Lower Saxony is overrepresented in this study. A proportion of
+162   38.3% of the completers graduated from a technical college or university, which is more
+163   than twice the proportion of the total population in 2012 (14.7%).
+164           Fifty-two percent of the completers were living in larger cities. Most of completers
+165   were fully employed. The proportions of employment status reported in Table 1 are very
+166   close to the total population. Most of the completers lived in households consisting of two
+167   persons. In the majority of cases there were no children under 12 in the household. In the
+168   present study, the main share had, as in the entire German population, a net household
+169   income of between 2,600 and 4,500 €. The distribution is also comparable.
+170           Some 77.8% (1.1% are missing) of the completers bought vine tomatoes in the last
+171   two weeks. Most completers buy less than 500 g or 500–1,000 g vine tomatoes within a
+172   fortnight. Most completers buy their vine tomatoes at discount stores, followed by
+173   supermarkets, farmers’ markets and wholefood shops.
+174
+175   Choice-Based Conjoint Analysis
+176           Among the two existing standard methods, the traditional conjoint analysis (TCA)
+177   or preference-based conjoint analysis and the choice-based conjoint analysis (CBCA) are
+178   distinguished. The TCA directly asks for preferences, whereas the CBCA mimics the
+179   consumer’s purchase decision more realistically by observing a number of selection
+180   decisions (Green & Srinivasan, 1978; Green & Srinivasan, 1990; Green, Krieger, &
+181   Wind, 2001).
+182           For the implementation of the CBCA in this study seven steps had to be
+183   performed: design of the stimuli, design of the selection situation, specification of a utility
+184   model, specification of a selection model, estimation of the utilities, interpretation and
+185   implementation and disaggregation of the utilities.
+186           The combination of the characteristics and their specifications shown in Table 2
+187   finally result in 125 (53) different stimuli (characteristic profiles). The characteristics used
+188   in the conjoint analysis are those that are usually shown on the display on the packages of
+189   vine tomatoes in Germany. The grade of goods (Klasse 1) and the amount of 500 g were
+190   fixed to limit the combinations of characteristics. The countries of origin in the study
+
+
+
+
+                                                     4
+
+===== PAGE 5 =====
+191   were chosen to reflect the actual choices the consumer has in Germany. Most tomatoes in
+192   Germany are imported from other European countries. More than the half of imports in
+193   2012/2013 came from the Netherlands (56%) and Spain (26%). Most tomatoes from non-
+194   European countries were imported from Morocco (6%) in 2012/2013. Only about 9% of
+195   all tomatoes on the German market are grown in Germany. The labels used in the study
+196   reflect different categories of labels available. In terms of organic labeling, there are many
+197   organic labels in Germany, some of them are from nongovernmental organizations such
+198   as Demeter, Naturland or Bioland, others are state-controlled like the European organic
+199   label and the German organic label. The best-known (72%) and most trusted (54%, Eberle
+200   et al., 2011) is the German organic label, which was also used in the present study.
+201   Organic vegetables have a market share of 14% in the fresh vegetable segment in
+202   Germany (Behr, 2015, p.139). To evaluate the social dimension, the Fairtrade and “Ein
+203   Herz für den Erzeuger” (A heart for the producers) label was used. The Fairtrade label is
+204   known by 61% and trusted by 50% of the participants in a study by von Meyer-Höfer and
+205   Spiller (2013). In the case of tomatoes of German origin the Fairtrade label cannot be
+206   used and is replaced by the “Ein Herz für den Erzeuger” label, which is also well known
+207   in Germany.
+208            Tomatoes have attained the highest market share among fresh vegetables for many
+209   years in Germany. Average prices range from min. 1.47 € to max. 2.56 € (2009–2013) for
+210   500 g of organic vine tomatoes and from min. 0.65 € to max. 1.47 € (2009–2013) for
+211   500 g of conventional vine tomatoes (Behr, 2013). The prices in German stores are
+212   usually close to the 50-cent or one-euro mark, for example 1.49 € or 2.99 €, and for this
+213   reason a price range from 1.49 € to 3.49 € is used in this study to reflect real prices in
+214   stores as customers would expect them. The slightly higher price range was chosen as the
+215   focus of this study is mainly on tomatoes with special features such as the food labels, and
+216   these tomatoes are more expensive than without those features.
+217            The selection situation (step two) was designed by creating an orthogonal reduced
+218   factorial design (using SPSS, orthoplan), which lead to 25 cards. To build the final choice
+219   design the factorial design (after shifting (cyclic variation)) was loaded into SPSS and the
+220   25 choice sets were created using the plancards function. The first of these choice sets can
+221   be seen in Figure 1. After three initial questions on recent purchases and where vine
+222   tomatoes were bought, the participant was asked to perform a quasi-experiment, where he
+223   or she had to choose between five different products (stimuli) and the none option (see
+224   Figure 1).
+225            In step three (specification of a utility model), the part-worth model was used
+226   because the characteristics of origin and labels have individual benefits for each
+227   respondent and cannot be predicted. As in the CBCA, choices made by respondents are
+228   observed. In addition to the utility model, a behavior model or choice model is needed
+229   (step four). This is to describe and explain the decision-making process of a person. As is
+230   usual, we used the multidimensional logit choice model for the CBCA. In the logit choice
+231   model the selection probability is determined just by the differences in the utilities. The
+232   estimation of the utilities (step five) is done by maximizing a log-likelihood function (to
+233   estimate the parameters of a density or probability function) using a quasi-Newton
+234   method (for solving nonlinear minimization problems). Step six is the interpretation and
+235   implementation. The absolute amount of the estimated part-worth utilities and total utility
+236   values are not relevant when using the present value model. As mentioned earlier, only
+237   the differences matter. The part-worth utilities are a dimensionless measure indicating the
+238   utility of a characteristic specification relative to a base specification.
+
+
+
+
+                                                    5
+
+===== PAGE 6 =====
+239           After the survey was conducted, part-worth utilities were calculated using a Cox
+240   regression. To prepare the data for the Cox regression a variety of tasks have to be
+241   performed (Backhaus et al., 2013, pp. 227 ff.). In this procedure, a structure with the same
+242   model is used for the logit choice model, which maximizes the same likelihood function
+243   in the implementation of the layered Cox regression, as it occurs also in the CBCA.
+244           For the likelihood ratio statistic, which is chi-square distributed, the value is
+245   21,711.239 (degrees of freedom (13)). The origin “Morocco,” the price level “3.49 €” and
+246   the characteristic specification “no label” were chosen as the base categories in the Cox
+247   regression to calculate the part-worth utilities in the choice-based conjoint analysis. Their
+248   part-worth utilities are therefore set to zero. Based on these basic categories, the part-
+249   worth utilities of the other characteristics can be interpreted. With a p-value of 0.00 the
+250   estimated model is highly significant. Every part-worth utility is also highly significant
+251   (p<0.01), except for the carbon footprint with CO2 emission indication (p=0.02) and the
+252   origin Spain (p=0.36).
+253
+254   Ranking of the Labels
+255           In preference ranking, participants order characteristics (for example labels)
+256   according to their preferences from more important to less important. Ranking involves
+257   performing a succession of choices where the participant is forced to discriminate
+258   between characteristics, without, however, revealing the degree of appreciation (Hein,
+259   Jaeger, Tom Carr, & Delahunty, 2008). Rating and ranking methods have previously been
+260   compared in a number of studies (Kozak & Cliff, 2013; Lagerkvist, 2013; Villanueva,
+261   Petenate, & Da Silva, 2005), often with a general focus on mean population results
+262   comparisons (Almli, Øvrum, Hersleth, Almøy, & Næs, 2015). As described earlier, the
+263   participants were also asked to rank the labels, when buying vine tomatoes, from rank one
+264   for most important to rank four for least important; this was done when viewing the labels
+265   alone. The labels were shown in a randomized order for each participant in the online
+266   survey. Using their computer mouse the participant had to drag and drop the labels in
+267   their preferred order on the right-hand side of the question.
+268
+269   Evaluation of Consumer Preferences Using Likert Scales
+270   Another common way to determine the preferences of consumers is Likert scales. A
+271   variety of characteristics, including the characteristics also used for the CBCA, had to be
+272   rated on a scale with six items from unimportant to essential. As previously mentioned,
+273   the characteristics to be rated using Likert scales include those that were also covered by
+274   the conjoint analysis. These are origin (regional, Germany, Europe), value for money,
+275   climate and/or environmentally friendly production and labeling. These characteristics
+276   were found to be important in studies among consumers in the US (Oltman, Jervis, &
+277   Drake, 2014; Carroll, Bernard, & Pesek, Jr., 2013). Furthermore, the present study
+278   includes Likert scales for characteristics that can be observed by the customer at the point
+279   of sale, such as the size and packaging as well as the color, the smell of tomatoes and
+280   whether they are too hard or too soft. Other characteristics, e.g. the taste, the saltiness and
+281   the skin thickness, are relevant for the consumer as well (Causse et al., 2010) but cannot
+282   easily be evaluated at the point of sale and are therefore not included in the present study.
+283
+
+
+
+
+                                                    6
+
+===== PAGE 7 =====
+284   RESULTS
+285
+286   Part-Worth Utilities of Product Characteristic Specifications as a Result of the
+287   Choice-Based Conjoint Analysis
+288           The resulting part-worth utilities are presented in Figure 2. The lowest price has
+289   the highest part-worth utility of 2.853 followed by the second lowest price (1.99 €) with
+290   2.227. After the price, the origin “grown local” yields the third highest part-worth utility
+291   (2.157), followed by the origin Germany (1.575) and the price 2.49 € (1.391). Only after
+292   the prices below 2.99 € and the domestic origin does the German organic label exhibit a
+293   high part-worth utility of 0.785. As mentioned earlier, only differences matter, which
+294   means the part-worth utilities have to be interpreted in comparison to the reference value
+295   in the first place.
+296           Out of the four origins under investigation, participants prefer the local product
+297   most, followed by the domestic product. The difference between the part-worth utilities of
+298   these origins and vine tomatoes from the Netherlands is very high. Not surprisingly, the
+299   participants prefer the lowest prices of 1.49 € for 500 g vine tomatoes. When it comes to
+300   food labels, the German organic label is ranked highest, followed by Fairtrade and “Ein
+301   Herz für den Erzeuger” (Engl. “A heart for the producer”). Most remarkably, both carbon
+302   footprints (with and without a CO2 emission indication) are attributed a negative part-
+303   worth utility compared to a product without any label.
+304
+305   Resulting Order of the Ranking Task
+306           If we rank the part-worth utilities, price is the most important characteristic of vine
+307   tomatoes, followed by the domestic origin. After these characteristics the German organic
+308   label is preferred by the participants and even Fairtrade and “Ein Herz für den Erzeuger”
+309   yield a higher part-worth utility than the origin Netherlands. In a second task, participants
+310   were asked to rank the labels. Rank coefficients were calculated by multiplying the
+311   number of participants who assigned a particular label to a rank by four for the first place,
+312   three for the second, two for the third and one for the fourth place. The results of the
+313   ranking task show a different picture than the choice-based conjoint analysis. In the
+314   ranking task the highest rank coefficient is observed for Fairtrade/“Ein Herz für den
+315   Erzeuger” (1,851), followed by the German organic label (1,604), the carbon footprint
+316   without a CO2 emission indication (979) and the carbon footprint with a CO2 emission
+317   indication (790, N=534).
+318           This result is surprising as the German organic label showed a four times higher
+319   part-worth utility than the Fairtrade/“Ein Herz für den Erzeuger” label in the quasi-
+320   experiment, which might be an indicator of socially desirable behavior in the ranking
+321   task.
+322
+323   Consumer Preferences Measured by a Likert Scale Compared to Those of the Other
+324   Methods
+325           The third method used to determine consumer preferences for vine tomatoes in
+326   Germany was the classical Likert scale (1=unimportant to 6=essential) – the most
+327   commonly applied method. Figure 3 presents the results (average values) of the
+328   evaluation of characteristics preferred by consumers when purchasing vine tomatoes.
+329           The participants’ answers measured using a Likert scale are in line with the results
+330   of the choice-based conjoint analysis for the characteristics “grown locally” and domestic
+
+
+
+
+                                                    7
+
+===== PAGE 8 =====
+331   origin (marked dark gray in Figure 3). After this, the third most important characteristic is
+332   that producers get a fair (decent) price for their products (marked dark gray in Figure 3).
+333
+334   DISCUSSION
+335           As previously mentioned, both carbon footprints are attributed a negative part-
+336   worth utility compared to a product without any label, and “grown locally” showed a
+337   more than two times higher part-worth utility than the German organic label. These
+338   results support the conclusion that “local (regional) is the new organic,” but also indicate
+339   that the carbon footprint label in the current design, which is also used by Frosta and had
+340   been used by Tesco (2012), is not a suitable marketing tool (Gadema & Oglethorpe, 2011;
+341   Schlich, 2012). To put it more clearly, it is not only the design of the carbon footprint
+342   label but also the difficult interpretation (Schlich, 2012) and its unclear message
+343   (Hartikainen, Roininen, Katajajuuri, & Pulkkinen, 2014; Röös & Tjärnemo, 2011). It may
+344   also be the case that consumers prefer first and foremost an affordable, safe and healthy
+345   product and only after that are they willing to pay for social and climate issues, with the
+346   former playing a much bigger role than the latter. Respondents also might view “climate
+347   issues” as not controllable through purchasing packages of tomatoes or by reducing their
+348   carbon footprint. The negative part-worth utilities for the carbon footprint label show a
+349   clearly different picture for its market potential than the majority of other studies in this
+350   field (Dirks et al., 2010; Schlich, 2012; Vanclay et al., 2011; lal Bhardwaj, 2012). In a
+351   study by Dirks et al. (2010), consumers responded that climate issues are very important
+352   (37.8%) or important (38.4%) for their food purchase decisions, a very different picture to
+353   the present study (Figure 3) where climate-friendly production lies in the middle and the
+354   carbon footprint in the lower ranks. This might be another example of social desirability,
+355   but other possible effects might also play a role.
+356           In the present study the results of all three approaches are comparable in the case
+357   of the carbon footprint label (lowest rank in quasi-experiment, ranking task and Likert
+358   scales). But when participants are asked about the importance they attach to a climate-
+359   friendly production, the average is much higher (Figure 3). This may be due to multiple
+360   reasons, such as social desirability in the case of the importance of a climate-friendly
+361   production and/or a lack of knowledge, and understanding of or trust in the carbon
+362   footprint label.
+363           The participants’ answers measured using a Likert scale are comparable with the
+364   results of the choice-based conjoint analysis for the characteristics “grown locally” and
+365   domestic origin. After this, the third most important characteristic is that producers get a
+366   fair price. This result is comparable to the result of the ranking task, where the
+367   Fairtrade/“Ein Herz für den Erzeuger” label ranks first, but cannot be observed in the
+368   quasi-experiment (Figure 2). In the choice-based conjoint analysis this is attributed only a
+369   part-worth utility of 0.200, which is only 9% of the part-worth utility of the characteristic
+370   “grown locally” or 7% of the part-worth utility of the lowest price.
+371           Most notably, the Likert scale elicitation ranks the low price 12th (marked medium
+372   gray in Figure 3) whereas the lowest price (1.49 €) showed the highest part-worth utility
+373   in the quasi-experiment (Figure 2). At this point it can be concluded that there are major
+374   differences in the results of direct questions such as with the Likert scale or a ranking task
+375   and the quasi-experiment performing a choice-based conjoint analysis. One possible
+376   reason for these differences in the same sample is the effect of social desirability, which
+377   leads to answers to direct questions that the respondent believes to be socially favorable.
+378   The results of studies investigating consumer preferences in terms of food labels based on
+
+
+
+
+                                                    8
+
+===== PAGE 9 =====
+379   direct questions are, then, questionable. The use of a combination of methods to get an
+380   understanding of the true behavior of consumers is important, as demonstrated by this
+381   study. For examples of other methods and a discussion of conjoint analysis see Beckley,
+382   Paredes, and Lopetcharat (2012).
+383
+384   Strengths and Limitations
+385           Bearing in mind some limitations in the sample composition as mentioned above,
+386   the findings of the present study are to some extent transferable to Germany. This might
+387   not be the case for Europe as a whole given that, for example, the popularity of organic
+388   food differs a lot between countries. In Germany, organic food is popular (as well as in
+389   Denmark, Luxembourg, Austria and Switzerland) but it does not play a significant role in
+390   other European countries (e.g. in Portugal, Greece, Ireland or Turkey).
+391           One limitation for the evaluation of the carbon footprints is that only one number
+392   (600 g CO2) is shown on the carbon footprint label indicating CO2 emission, which
+393   represents an average of the results for fresh tomatoes of Tesco’s (2012) measurement.
+394   This limitation was accepted to reduce the choice sets included in the conjoint analysis.
+395   Only giving one value to the participants, however, precludes an evaluation of how
+396   people might use this label to compare across products, which might lead to an
+397   underestimation of the label’s impact.
+398           Other explanations beyond the possible social desirability effects suggest to be the
+399   main explanation of the differences between the results of the different methods need to
+400   be mentioned. For example, the choice of item wording in the Likert scale element may
+401   influence the rating.
+402           Another limitation for the quasi-experiment in this study was the relatively high
+403   number of choice sets (25), which was challenging for the participants and led to a
+404   number of noncompleters, who, however, do not differ in terms of demographic attributes
+405   from the group of completers.
+406
+407   Future Research
+408           An interesting challenge would be to evaluate the different part-worth utilities of
+409   different label designs, especially in the case of the carbon footprint label.
+410           A follow-up study might also be suggested where consumers are given either real
+411   or virtual money and asked to vote through their purchases or repeated purchases. Also,
+412   analogous studies of other types of products might be required to corroborate social
+413   desirability effects in direct preference elicitation.
+414
+415   CONCLUSION
+416           At this point it can be concluded that there are major differences in the results of
+417   direct questions such as with the Likert scale or a ranking task and the quasi-experiment.
+418   One possible reason for these differences in the same sample is the effect of social
+419   desirability. Thus results of studies investigating consumer preferences in terms of food
+420   labels that mainly use direct questions might be biased towards the preference for socially
+421   valued characteristics. The use of a combination of methods to get an understanding of
+422   the true behavior of consumers is important, as demonstrated by this study.
+423           The results show a rather different picture for the market potential of carbon
+424   footprint labels than many other studies in this field. The finding that carbon footprint
+425   labels are associated with negative part-worth utilities shows that confronted with
+426   connected choices involving price, production location etc., consumers do not find a
+
+
+
+
+                                                   9
+
+===== PAGE 10 =====
+427   benefit in such a label. This is contrary to evidence from direct measurements as reported,
+428   for example, by Dirks et al. (2010). It also implies that there may be less scope for acting
+429   on climate change when purchasing food items than is advocated by activists and media
+430   promoting carbon footprint labeling.
+431
+432   ACKNOWLEDGEMENTS
+433          Many thanks to Anne Nagelschmitz for her major part in collecting the data, and
+434   to Fabian Bruns and Bernd Hardeweg for their helpful discussions and for their support in
+435   the preparation of this article.
+436
+437   Literature Cited
+438
+439   Almli, V. L., Øvrum, A., Hersleth, M., Almøy, T., & Næs, T. (2015). Investigating
+440     individual preferences in rating and ranking conjoint experiments. A case study on
+441     semi-hard cheese. Food Quality and Preference, 39, 28–39.
+442     doi:10.1016/j.foodqual.2014.06.011
+443   Andorfer, V. A., & Liebe, U. (2015). Do information, price, or morals influence ethical
+444     consumption? A natural field experiment and customer survey on the purchase of Fair
+445     Trade coffee. Social Science Research, 52, 330–350.
+446     doi:10.1016/j.ssresearch.2015.02.007
+447   Backhaus, K., Erichson, B., & Weiber, R. (2013). Fortgeschrittene multivariate
+448     Analysemethoden: Eine anwendungsorientierte Einführung (2nd ed.). Lehrbuch
+449     [Advanced multivariate analysis: An application-oriented introduction, textbook].
+450     Berlin: Springer Gabler.
+451   Beckley, J. H., Paredes, M. D., & Lopetcharat, K. (2012). Product innovation toolbox: A
+452     field guide to consumer understanding and research. Hoboken, NJ: Wiley-Blackwell.
+453   Behr, H.-C. (2013). Deutschland: Verbraucherpreise für Bio-Strauchtomaten geringfügig
+454     gefallen [Germany: Consumer prices of organic vine tomatoes slightly fallen].
+455     Retrieved from http://www.ami-informiert.de/uploads/pics/2013_06_06_E-
+456     464_Verbraucherpreise-Strauchtomaten_D.png
+457   Behr, H.-C. (2015). AMI Markt Bilanz Gemüse 2015 [AMI Market Review Vegetables].
+458     Bonn.
+459   Bhardwaj, N. lal. (2012). Consumer buying behaviour toward carbon labelling (FMCG)
+460     in Tesco Supermarket. International Journal of Data & Network Security, 1(2), 1–11.
+461   Carroll, K. A., Bernard, J. C., & Pesek, J. D., Jr. (2013). Consumer preferences for
+462     tomatoes: The influence of local, organic, and state program promotions by purchasing
+463     venue. Journal of Agricultural and Resource Economics, 38(3), 379–396.
+464   Causse, M., Friguet, C., Coiret, C., Lépicier, M., Navez, B., Lee, M., … Grandillo, S.
+465     (2010). Consumer preferences for fresh tomato at the European scale: A common
+466     segmentation on taste and firmness. Journal of Food Science, 75(9), S531.
+467     doi:10.1111/j.1750-3841.2010.01841.x
+468   Crowne, D. P., & Marlowe, D. (1960). A new scale of social desirability independent of
+469     psychopathology. Journal of Consulting Psychology, 24(4), 349–354.
+470     doi:10.1037/h0047358
+
+
+
+
+                                                  10
+
+===== PAGE 11 =====
+471   Dirks, H. E., Kaiser, S., Klose, G., Pfeiffer, I., & Backhaus, M. (2010).
+472      Verbrauchermonitoring: Perspektiven der Verbraucher zum Klimaschutz: Mobilität &
+473      Ernährung [Consumer monitoring: Perspectives of consumers on climate change:
+474      Mobility & nutrition]. Berlin: Verbraucherzentrale Bundesverband.
+475   Eberle, U., Spiller, A., Becker, T., Heißenhuber, A., Leonhäuser, I.-U., & Sundrum, A.
+476      (2011). Politikstrategie Food Labelling (Stellungnahme) [Policy strategy food
+477      labelling (comment)]. Bonn: Bundesministeriums für Ernährung, Landwirtschaft und
+478      Verbraucherschutz.
+479   Gadema, Z., & Oglethorpe, D. (2011). The use and usefulness of carbon labelling food: A
+480      policy perspective from a survey of UK supermarket shoppers. Food Policy, 36(6),
+481      815–822. doi:10.1016/j.foodpol.2011.08.001
+482   Green, P. E., Krieger, A. M., & Wind, Y. (2001). Thirty years of conjoint analysis:
+483      Reflections and prospects. Interfaces, 31(3), 56–73. doi:10.2307/25062702
+484   Green, P. E., & Srinivasan, V. (1978). Conjoint analysis in consumer research: Issues and
+485      outlook. Journal of Consumer Research, 5(2), 103–123. doi:10.2307/2489001
+486   Green, P. E., & Srinivasan, V. (1990). Conjoint analysis in marketing: New developments
+487      with implications for research and practice. Journal of Marketing, 54(4), 3–19.
+488      doi:10.2307/1251756
+489   Hartikainen, H., Roininen, T., Katajajuuri, J.-M., & Pulkkinen, H. (2014). Finnish
+490      consumer perceptions of carbon footprints and carbon labelling of food products.
+491      Journal of Cleaner Production, 73, 285–293. doi:10.1016/j.jclepro.2013.09.018
+492   Hein, K. A., Jaeger, S. R., Tom Carr, B., & Delahunty, C. M. (2008). Comparison of five
+493      common acceptance and preference methods. Food Quality and Preference, 19(7),
+494      651–661. doi:10.1016/j.foodqual.2008.06.001
+495   Hempel, C., & Hamm, U. (2016). How important is local food to organic-minded
+496      consumers? Appetite, 96, 309–318. doi:10.1016/j.appet.2015.09.036
+497   Janssen, M., & Hamm, U. (2014). Governmental and private certification labels for
+498      organic food: Consumer attitudes and preferences in Germany. Food Policy, 49, 437–
+499      448. doi:10.1016/j.foodpol.2014.05.011
+500   Kozak, M., & Cliff, M. A. (2013). Systematic comparison of hedonic ranking and rating
+501      methods demonstrates few practical differences. Journal of Food Science, 78(8),
+502      S1257. doi:10.1111/1750-3841.12173
+503   Ladhari, R., & Tchetgna, N. M. (2015). The influence of personal values on Fair Trade
+504      consumption. Journal of Cleaner Production, 87, 469–477.
+505      doi:10.1016/j.jclepro.2014.10.068
+506   Lagerkvist, C. J. (2013). Consumer preferences for food labelling attributes: Comparing
+507      direct ranking and best–worst scaling for measurement of attribute importance,
+508      preference intensity and attribute dominance. Food Quality and Preference, 29(2), 77–
+509      88. doi:10.1016/j.foodqual.2013.02.005
+510   Laroche, M., Bergeron, J., & Barbaro‐Forleo, G. (2001). Targeting consumers who are
+511      willing to pay more for environmentally friendly products. Journal of Consumer
+512      Marketing, 18(6), 503–520. doi:10.1108/EUM0000000006155
+513   Likert, R. (1932). A technique for the measurement of attitudes. Archives of Psychology,
+514      22(140), 5–55.
+
+
+
+
+                                                 11
+
+===== PAGE 12 =====
+515   Meyer-Höfer, M. von, & Spiller, A. (2013). Anforderungen an eine nachhaltige Land-
+516      und Ernährungswirtschaft: Die Rolle des Konsumenten [Requirements for sustainable
+517      agriculture and food industry: The role of consumers]. In M. Hofmann (Ed.), KTBL-
+518      Schrift: Vol. 500. Steuerungsinstrumente für eine nachhaltige Land- und
+519      Ernährungswirtschaft. Stand und Perspektiven; KTBL-Tagung vom 10. bis 11. April
+520      2013 in Neu-Ulm [Control instruments for sustainable agriculture and food industry.
+521      Status and prospects; KTBL Conference from 10th to April 11th 2013 in Neu-Ulm]
+522      (pp. 1–9). Darmstadt: Kuratorium für Technik und Bauwesen in der Landwirtschaft.
+523   Oltman, A., Jervis, S., & Drake, M. (2014). Consumer attitudes and preferences for fresh
+524      market tomatoes. Journal of Food Science, 79(10), S2091. doi:10.1111/1750-
+525      3841.12638
+526   Rousseau, S. (2015). The role of organic and fair trade labels when choosing chocolate.
+527      Food Quality and Preference, 44, 92–100. doi:10.1016/j.foodqual.2015.04.002
+528   Röös, E., & Tjärnemo, H. (2011). Challenges of carbon labelling of food products: A
+529      consumer research perspective. British Food Journal, 113(8), 982–996.
+530      doi:10.1108/00070701111153742
+531   Schlich, M. (2012). Consumer response to the product carbon footprint (PCF). Journal of
+532      Physical Science and Application, 2(4), 95–102.
+533   Stocke, V. (2004). Entstehungsbedingungen von Antwortverzerrungen durch soziale
+534      Erwünschtheit. Ein Vergleich der Prognosen der Rational-Choice Theorie und de
+535      Modells der Frame-Selektion [Emergence conditions of response distortions caused by
+536      social desirability. A comparison of the predictions of rational choice theory and the
+537      model of frame selection]. Zeitschrift für Soziologie, 33(4), 303–320.
+538   Stolz, H., Stolze, M., Janssen, M., & Hamm, U. (2011). Preferences and determinants for
+539      organic, conventional and conventional-plus products: The case of occasional organic
+540      consumers. Food Quality and Preference, 22(8), 772–779.
+541      doi:10.1016/j.foodqual.2011.06.011
+542   Tesco (2012). Product carbon footprint summary: Issued August 2012. Cheshunt.
+543      Retrieved from
+544      http://www.tescoplc.com/assets/files/cms/Tesco_Product_Carbon_Footprints_Summar
+545      y%281%29.pdf
+546   Vanclay, J. K., Shortiss, J., Aulsebrook, S., Gillespie, A. M., Howell, B. C., Johanni, R.,
+547      … Yates, J. (2011). Customer response to carbon labelling of groceries. Journal of
+548      Consumer Policy, 34(1), 153–160. doi:10.1007/s10603-010-9140-7
+549   Villanueva, N. D., Petenate, A. J., & Da Silva, M. A. (2005). Performance of the hybrid
+550      hedonic scale as compared to the traditional hedonic, self-adjusting and ranking scales.
+551      Food Quality and Preference, 16(8), 691–703. doi:10.1016/j.foodqual.2005.03.013
+552
+
+
+
+
+                                                  12
+
+===== PAGE 13 =====
+553   Tables
+554
+555   Table 1. Summary Statistics of the 645 Choice Set Completers
+      Characteristics Characteristic specifications                Frequency   Percentage
+      Gender           Female                                      403         62.5
+                       Male                                        186         28.8
+                       Missing                                     56          8.7
+      Mean age                                                     590         44.14 (15.76)
+      Education        Did not finish graduation                   5           0.8
+                       Still pupils                                2           0.3
+                       Certificate of secondary education          56          8.7
+                       General certificate of secondary education 141          21.9
+                       High school graduation or equivalent        126         19.5
+                       Technician/specialist degree                48          7.4
+                       Technical college/university degree         247         38.3
+                       Missing                                     20          3.1
+      Residential      Rural region                                255         39.5
+      area             Urban area                                  337         52.2
+                       Missing                                     53          8.2
+      Employment       Full-time employee                          256         39.7
+      status           Part-time employee                          110         17.1
+                       In education                                112         17.4
+                       Retired/pensioner                           69          10.7
+                       Housewife/homemaker                         42          6.5
+                       Unemployed                                  8           1.2
+                       Missing                                     48          7.4
+      Mean persons in household                                    612         2.59 (2.20)
+      Mean children in household                                   532         0.21 (0.61)
+      Net household Refuse to answer                               109         16.9
+      income           < 500 €                                     31          4.8
+                       500 - 900 €                                 53          8.2
+                       900 - 1,300 €                               46          7.1
+                       1,300 - 1,700 €                             61          9.5
+                       1,700 - 2,000 €                             49          7.7
+                       2,000 - 2,600 €                             88          13.4
+                       2,600 - 4,500 €                             128         19.8
+                       > 4,500 €                                   47          7.3
+                       Missing                                     33          5.1
+      Tomatoes         < 500 g                                     225         34.9
+      bought in the    500 g - 1,000 g                             253         39.2
+      last 2 weeks     1,001 g - 1,500 g                           55          8.5
+                       > 1,500 g                                   32          5
+                       Missing                                     80          12.4
+      Place of         Supermarket                                 312         51.1
+      purchase         Discount stores                             444         72.7
+      (multiple        Farmers' markets                            119         19.5
+      choice)          Wholefood shops                             65          10.6
+                       Missing                                     34          5.3
+
+
+
+
+                                               13
+
+===== PAGE 14 =====
+556
+557   Table 2. Characteristics and Their Specifications of Vine Tomatoes Analyzed in the
+558       Choice-Based Conjoint Analysis
+      Characteristics                                Characteristic specifications
+      Origin                                         Morocco,
+                                                     Germany,
+                                                     Spain,
+                                                     the Netherlands,
+                                                     Local
+      Price                                          1.49 €,
+                                                     1.99 €,
+                                                     2.49 €,
+                                                     2.99 €,
+                                                     3.49 €
+      Label                                          German organic label,
+                                                     Fairtrade/“Ein Herz für den Erzeuger” label
+                                                     (Engl. A heart for the producer),
+                                                     no label,
+                                                     carbon footprint (with the amount of CO2
+                                                     emitted),
+                                                     carbon footprint (without the amount of
+                                                     CO2 emitted)
+559
+560
+
+
+
+
+                                                 14
+
+===== PAGE 15 =====
+561   Figures
+562
+
+
+
+
+563
+564   Figure 1. The first of the 25 choice sets in the questionnaire for the choice-based conjoint
+565      analysis.
+566
+
+
+
+
+567
+568   Figure 2. Results of the choice-based conjoint analysis.
+569
+
+
+
+
+                                                   15
+
+===== PAGE 16 =====
+570
+571   Figure 3. Results of the evaluation using a Likert scale.
+
+
+
+
+                                                   16
