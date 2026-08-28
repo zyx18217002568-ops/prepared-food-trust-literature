@@ -1,0 +1,704 @@
+SOURCE_PDF: P0-2D_信息过载与线索稀释/Warnings as a directive front-of-pack nutrition labelling scheme - comparison with GDA and traffic-light_2017.pdf
+EXTRACTION_STATUS: ok
+PAGES: 10
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+Public Health Nutrition: 20(13), 2308–2317                                                                doi:10.1017/S1368980017000866
+
+
+                            Warnings as a directive front-of-pack nutrition labelling scheme:
+                            comparison with the Guideline Daily Amount and trafﬁc-light systems
+                            Alejandra Arrúa1, Leandro Machín1, María Rosa Curutchet2, Joseline Martínez2,
+                            Lucía Antúnez3, Florencia Alcaire3, Ana Giménez3 and Gastón Ares1,3,*
+                            1
+                             Centro de Investigación Básica en Psicología (CIBPsi), Facultad de Psicología, Universidad de la República
+                            (UdelaR), Tristán Narvaja 1674, Montevideo, Uruguay: 2Instituto Nacional de Alimentación, Piedras, Montevideo,
+                            Uruguay: 3Sensometrics & Consumer Science, Instituto Polo Tecnológico de Pando, Facultad de Química,
+                            Universidad de la República, Pando, Canelones, Uruguay
+
+
+                            Submitted 9 February 2017: Final revision received 30 March 2017: Accepted 7 April 2017: First published online 19 June 2017
+
+
+                            Abstract
+                            Objective: Warnings have recently been proposed as a new type of directive
+                            front-of-pack (FOP) nutrition labelling scheme to ﬂag products with high content
+                            of key nutrients. In the present work, this system was compared with the two most
+                            common FOP nutrition labelling schemes (Guideline Daily Amounts (GDA) and
+                            trafﬁc-light system) in terms of goal-directed attention, inﬂuence on perceived
+                            healthfulness and ability to differentiate between products.
+                            Design/Setting/Subjects: Goal-directed attention to FOP labels was evaluated using
+                            a visual search task in which participants were presented with labels on a
+                            computer screen and were asked to indicate whether labels with high sodium
+                            content were present or absent. A survey with 387 participants was also carried
+                            out, in which the inﬂuence of FOP labels on perceived healthfulness and ability
+                            to identify the healthful alternative were evaluated.
+                            Results: Warnings improved consumers’ ability to correctly identify a product with
+                            high content of a key nutrient within a set of labels compared with GDA and
+                            received the highest goal-directed attention. In addition, products with high
+                            energy, saturated fat, sugar and/or sodium content that featured warnings on the
+                            label were perceived as less healthful than those featuring the GDA or trafﬁc-light
+                                                                                                                                                                         Keywords
+                            system. Warnings and the trafﬁc-light system performed equally well in the                                                        Nutrition information
+                            identiﬁcation of the most healthful product.                                                                                          Nutrition labelling
+                            Conclusions: Results from the present work suggest that warnings have potential as                                             Guideline Daily Amounts
+                            directive FOP nutrition labels to improve consumer ability to identify unhealthful                                                  Trafﬁc-light system
+                            products and highlight advantages compared with the trafﬁc-light system.                                                               Warning systems
+
+
+
+
+              Increasing consumption of ultra-processed products with                                Front-of-pack (FOP) nutrition labels have been sug-
+              high energy, fat, sodium and sugar content has been                                 gested as an effective alternative to improve consumers’
+              identiﬁed as one of the causes of the growing prevalence                            ability to ﬁnd and use nutritional information(10). Different
+              rates of obesity and other non-communicable diseases(1,2).                          formats of FOP labels have been developed, which can be
+              For this reason, public policies aimed at encouraging                               classiﬁed according to the degree to which they assist
+              consumers to change their eating patterns have been                                 consumers to draw conclusions on product healthful-
+              deemed necessary to cope with the increasing public                                 ness(11). Non-directive systems, such as the Guideline
+              health, economic and social costs associated with these                             Daily Amount (GDA) system, only provide information
+              diseases(3,4).                                                                      about nutrient content in absolute value (per portion or
+                 Nutrition labels have received considerable attention                            100 g) or as the percentage of the recommended daily
+              in the last decade as a tool to empower consumers to                                intake. Semi-directive systems also communicate infor-
+              evaluate the healthfulness of packaged products and to                              mation about the content of key nutrients but, in addition,
+              encourage more healthful food choices(5,6). However,                                indicate whether they are low, medium or high. The
+              conventional nutrition labels have failed to achieve their                          trafﬁc-light system, the most common semi-directive sys-
+              goal due to their complexity and their location on the back                         tem, uses trafﬁc lights’ colour coding (red, yellow and
+              or the side of packages(7–9).                                                       green) as an interpretational aid to classify nutrient
+
+
+              *Corresponding author: Email gares@fq.edu.uy                                                                                                 © The Authors 2017
+
+
+https://doi.org/10.1017/S1368980017000866 Published online by Cambridge University Press
+
+===== PAGE 2 =====
+Warnings as nutrition labels                                                                                                     2309
+                           (12)                                                                                   (26)
+                 content . Finally, directive systems do not convey                        nutritional information . For this reason, most recent
+                 information about nutrient content but highlight products                 studies have focused on consumers’ attention to and
+                 that meet speciﬁc nutritional criteria. The most common                   understanding of nutrition labels to provide information to
+                 directive systems are health logos, such as the Nordic                    stakeholders on which is the most efﬁcient FOP nutrition
+                 Keyhole(13), the Australian Health Star rating                            labelling scheme(8,28–33).
+                 system(14), Smart Choice(15) or Pick the Tick(16), which                     The aim of the present work was to compare warnings
+                 highlight healthful products based on predeﬁned limits                    with the two most common non-directive and semi-
+                 for speciﬁc nutrients.                                                    directive FOP nutrition labels (GDA and trafﬁc-light
+                    Research has shown that, compared with non-directive                   system, respectively) in terms of goal-directed attention,
+                 systems, directive and semi-directive systems improve                     inﬂuence on perceived healthfulness of products with
+                 consumers’ ability to ﬁnd and understand nutritional                      high energy, sugar, fat and/or sodium content, and
+                 information(17–20). Consumers tend to prefer simple FOP                   ability to differentiate between healthful and less
+                 labels and to appreciate interpretational aids, such as the               healthful products.
+                 text descriptors or colour codes(10,11,21). Consumers have
+                 been reported to ﬁnd it difﬁcult to make healthfulness
+                 judgements based on several nutrients simultaneously(22),                 Materials and methods
+                 suggesting that simple labels that provide an overall eva-
+                 luation of product healthfulness can improve consumers’                   Two studies were conducted to compare warnings with
+                 ability to differentiate between healthful and unhealthful                the GDA and trafﬁc-light systems. In a ﬁrst study, goal-
+                 products. However, health logos have been reported to be                  directed attention to FOP labels was evaluated using a
+                 likely to increase perceived healthfulness of healthful                   visual search task in which participants were presented
+                 products rather than to decrease perceived healthfulness                  with labels on a computer screen and were asked to
+                 of unhealthful products(19). This suggests that positive                  indicate whether labels with high sodium content were
+                 directive FOP labels may not be sufﬁcient to discourage                   present or absent(34). In the second study, a survey with
+                 consumption of unhealthful products.                                      387 participants was carried out in which the inﬂuence of
+                    In this context, warnings have recently been proposed                  FOP labels on perceived healthfulness and ability to
+                 as a new type of directive FOP nutrition label to ﬂag                     identify the healthful alternative were evaluated. The
+                 products with high content of key nutrients(23). This                     studies were approved by the Ethics Committee of the School
+                 system has been implemented recently in Chile and                         of Chemistry of Universidad de la República (Uruguay).
+                 recommended by the Pan American Health Organization
+                 to discourage consumption of ultra-processed pro-                         Front-of-pack nutrition labelling schemes
+                 ducts(24,25). According to Chilean legislation, products with             Three nutrition labelling schemes were considered: the
+                 high energy, sodium, sugar and/or saturated fat content                   GDA system, the trafﬁc-light system and the Chilean
+                 should include separate stop-sign-shaped black warning                    warning system. The three schemes contained information
+                 labels for each nutrient on the front of the pack(24).                    about energy, sugars, saturated fat and sodium. The trafﬁc-
+                 However, no study has been published yet evaluating                       light system classiﬁed nutrient content as low, medium or
+                 its potential to communicate product healthfulness or                     high using text descriptors and colour codes (green, yel-
+                 comparing its performance with other FOP labels.                          low and red, respectively), whereas the Chilean warning
+                    The efﬁciency of FOP labels depends on the extent to                   system indicated only high nutrient content using separate
+                 which they improve consumers’ ability to detect, read and                 black stop signs for each nutrient. The trafﬁc-light system
+                 understand nutritional information(26,27). Attention to FOP               included text descriptors and colour for energy content
+                 labels is a prerequisite for information processing that                  only when it was high. Chilean regulations were used to
+                 leads to informed food choices(26). Therefore, the more                   classify nutrient content as high, whereas the criteria of
+                 salient FOP labels are within packages and the easier it is               the UK Food Standards Agency were considered to
+                 to ﬁnd relevant information, the more likely consumers are                classify nutrient content as low(12,24).
+                 to notice them and, consequently, to take them into
+                 account in their decision-making process(28). Several
+                                                                                           Visual search study
+                 studies have used different methodologies, such as visual
+                 search, change detection and eye-tracking, to evaluate                    Participants
+                 goal-directed attention to FOP labels when consumers                      A total of thirty-two people (fourteen males and eighteen
+                 have explicit nutrition goals (e.g. ﬁnding a label with low               females, age ranging from 18 to 50 years) participated in
+                 sodium content) and attentional capture when consumers                    the study. Participants were recruited from the consumer
+                 are not explicitly asked to look for nutrition information                database of the research group who authored the study,
+                 (e.g. in a shopping scenario)(17,28–30). Once FOP labels                  based on their interest and availability to participate. All
+                 are attended to, understanding is a key determinant of                    participants had normal or corrected-to-normal vision
+                 whether consumers’ food choices can be inﬂuenced by                       and full colour vision.
+
+
+
+
+https://doi.org/10.1017/S1368980017000866 Published online by Cambridge University Press
+
+===== PAGE 3 =====
+2310                                                                                                                                        A Arrúa et al.
+              Stimuli                                                                            geometrical ﬁgures, in which squares were the distractors
+              The stimuli presented to participants were sets of labels                          and a circle the target. Participants were asked to indicate
+              with FOP nutritional information. Three independent                                if the target was on the screen or not.
+              variables were considered for label design: (i) product                                Once training sessions were completed, participants
+              category (chicken nuggets, hamburgers and instant soup);                           were asked to run the task. The task was organized in
+              (ii) sodium content (medium and high); and (iii) FOP                               three blocks of trials, one for each FOP nutrition label.
+              nutrition labelling scheme (GDA, trafﬁc-light and warning                          Blocking of trials by FOP labelling scheme was used to
+              systems). The three selected products differed in their                            simulate what would happen if they were implemented:
+              nutritional composition. Instant soup labels had low                               consumers would have to compare products with the same
+              content of sugar and saturated fat and medium/high                                 scheme. This allowed participants to use scheme-speciﬁc
+              sodium content. Meanwhile, hamburgers and chicken                                  strategies to identify labels with high content of a target
+              nuggets had low sugar content, high content of saturated                           nutrient during the visual search task. Within a block, sixty
+              fat and medium/high sodium content. This was reﬂected                              trials were presented to respondents, six dummy trials
+              in the trafﬁc-light system and the warning system: labels                          aimed at familiarizing participants with the task and ﬁfty-
+              of hamburgers and chicken nuggets with high sodium                                 four trials of the experimental design. Dummy trials were
+              content also had high saturated fat content highlighted                            excluded from further analysis. Before starting the test,
+              using red colour and a separate warning sign, respectively.                        respondents were instructed that the term ‘high sodium
+                 Labels were designed using GIMP 2.6 software (Free                              content’ corresponded to labels with a sodium content
+              Software Foundation, Boston, MA, USA) and did not                                  equal or higher than 400 mg per portion and were shown
+              correspond to products currently available in the market to                        examples of each nutrition labelling scheme.
+              avoid the inﬂuence of any previous experience with                                     Trials were presented on a personal computer screen
+              the products. Nutritional information was included on                              following a balanced rotation (Williams’ latin square)
+              the labels using the FOP labelling schemes previously                              using DirectRT software(35). Trials were displayed (one by
+              described.                                                                         one) until a key was pressed to respond. Participants
+                 For each type of FOP label and product, two types of                            were asked to indicated if any label was high in sodium
+              sets of three labels were created according to the presence                        by pressing the S key (for ‘si’, yes in Spanish) or not,
+              of a label with high salt content within the set (present v.                       by pressing the N key (for ‘no’). Participants were asked
+              absent). Within each set, the nutritional composition of the                       to respond as quickly and accurately as possible, and
+              labels and their position on the screen were randomized to                         their responses and response times were recorded by
+              avoid consumers’ familiarization during the task. The                              the software. After each block respondents were
+              nutritional composition of the labels with medium and                              encouraged to take a 5 min break before completing the
+              high sodium content for each product category is shown in                          following task.
+              Table 1. An example of one of the sets of chicken nugget
+              labels evaluated in the study is presented in Fig. 1.
+                                                                                                 Data analysis
+                                                                                                 Participants’ response time and type of response (true v.
+              Procedure                                                                          false) were registered. Consumers’ responses were classi-
+              Following standard practice in visual search tasks(34),                            ﬁed using a binary coding system; true if the participant
+              participants performed two training sessions before con-                           correctly classiﬁed the label, and false otherwise. A logistic
+              ducting the test to familiarize them with the experimental                         regression was used to evaluate the inﬂuence of nutrition
+              procedure and reduce their individual variability. Each                            labelling scheme on the probability of consumers correctly
+              training session included two tests of ninety-eight trials,                        indicating the existence of a label with high sodium
+              which were not related to food labels to avoid any                                 content in the series. A signiﬁcance level of 5 % was used
+              potential inﬂuence on the results. The tasks involved                              as the criterion for statistical signiﬁcance.
+
+
+              Table 1 Nutritional composition of the labels included in the visual search task, in which participants had to evaluate sets of three labels and
+              indicate if there was a label with high sodium content; and the levels of the nutrients classified as low, medium and high*
+
+              Product category            Energy (kcal/portion)             Sugar (g/portion)            Saturated fat (g/portion)              Sodium (mg/portion)
+              Hamburgers                         184–220                     0–0·5         Low           6·5–7·1            High               440–520          High
+                                                 194–200                     0–0·2         Low           6·3–6·7            High               272–380          Medium
+              Chicken nuggets                    109–185                   0·4–1·0         Low           5·6–7·1            High               450–465          High
+                                                 170–180                   0·3–0·9         Low           5·0–6·3            High               205–225          Medium
+              Instant soup                        52–62                    0·5–2·8         Low             0–0·3            Low                400–510          High
+                                                  60–70                    0·2–2·0         Low             0–0·3            Low                 65–150          Medium
+
+              *Labels featuring the traffic-light system highlighted the nutrient content shown in the table, whereas labels featuring the warning system included separate
+              warnings for all nutrients with high content.
+
+
+
+
+https://doi.org/10.1017/S1368980017000866 Published online by Cambridge University Press
+
+===== PAGE 4 =====
+Warnings as nutrition labels                                                                                                        2311
+
+
+
+
+                 Fig. 1 Example of a set of three chicken nuggets labels presented in the visual search study to evaluate attentional capture of
+                 front-of-pack nutrition labelling schemes. The first label contains warnings for high saturated fat and sodium content, whereas the
+                 remaining two only contain a warning for high saturated fat content
+
+
+                    Response times associated with incorrect answers,                               Table 2 Sociodemographic characteristics of
+                 as well as response times shorter or longer than three                             Uruguayan adult participants in the healthful-
+                                                                                                    ness evaluation study (n 387)
+                 standard derivations from the mean of the experimental
+                 condition, were not considered for further analysis.                               Characteristic                             %
+                 Six different cut-offs were considered, one for each FOP                           Gender
+                 nutrition labelling scheme and type of task (with and                                Female                                   68
+                 without a label with high sodium content in the series).                             Male                                     32
+                                                                                                    Age (years)
+                 The percentage of trials that were removed prior to the                              18–25                                    15
+                 analysis for deviating from the mean corresponded to                                 26–35                                    37
+                 1·9 %, and ranged between 1·4 and 2·9 % for the six                                  36–45                                    28
+                                                                                                      46–60                                    15
+                 individual experimental conditions.                                                  >60                                       5
+                    The inﬂuence of the experiment variables (type of                               Educational level
+                 product, nutrition label scheme and presence of a label                              Primary school                            4
+                                                                                                      Secondary school                         59
+                 with high sodium content in the series) and their interac-                           Technical education                      18
+                 tion on reaction times was evaluated using a repeated-                               University degree                        16
+                 measures ANOVA. When the effects were signiﬁcant, least                              Postgraduate studies                      3
+                                                                                                    Socio-economic level
+                 signiﬁcant differences were calculated using Fisher’s test at                        Low                                      21
+                 a signiﬁcance level of 5 %.                                                          Medium                                   59
+                    All statistical analyses were performed using R                                   High                                     20
+                 language(36).
+                                                                                           participants who evaluated different FOP nutrition
+                                                                                           labelling schemes were found (P > 0·26). Participants were
+                 Healthfulness perception
+                                                                                           instructed that they had to evaluate the healthfulness of a
+                 Participants                                                              set of labels using their own criteria in two different tasks,
+                 Three hundred and eighty-seven people (age ranging                        which are explained below.
+                 between 18 and 84 years, 67 % females) were recruited
+                 from public places in the cities of Montevideo and Flores                 Healthfulness evaluation
+                 (Uruguay). The characteristics of the participants, in terms              Participants received ﬁve labels of different product
+                 of age, gender, educational and socio-economic level, are                 categories (breakfast cereals, crackers, frozen lasagne,
+                 shown in Table 2.                                                         instant soup and pan bread), one by one, following
+                                                                                           an experimental design balanced for presentation and
+                 Experimental procedure                                                    carry-over effects (Williams’ latin square). Labels did not
+                 Participants were randomly allocated to one of three                      correspond to products available in the marketplace and
+                 experimental conditions, each of which corresponded to                    contained a high content of at least one key nutrient
+                 one of the FOP labelling schemes (GDA, trafﬁc-light and                   (energy, saturated fat, sugar and sodium). The nutritional
+                 warning systems). Thus, each participant evaluated labels                 composition included on the labels was similar to that of
+                 featuring one of the FOP schemes. The number of parti-                    commercial products and is shown in Table 3.
+                 cipants in each group was: 136 (warning system), 127                         For each label, participants had to rate their perceived
+                 (GDA system) and 124 (trafﬁc-light system). No signiﬁcant                 healthfulness using a 7-point scale (1 = ‘not healthful’,
+                 differences in gender, age, educational and socio-                        7 = ‘very healthful’) and the frequency with which they
+                 economic level distribution of the three groups of                        should consume it using a 5-point scale (1 = ‘I should
+
+
+
+
+https://doi.org/10.1017/S1368980017000866 Published online by Cambridge University Press
+
+===== PAGE 5 =====
+2312                                                                                                                                          A Arrúa et al.
+              Table 3 Nutritional composition of the labels included in the tasks in which participants had to select the most healthful product and to
+              evaluate product healthfulness; and the levels of the nutrients classified as low, medium and high*
+
+              Product category            Alternative      Energy (kcal/portion)           Sugar (g/portion)      Saturated fat (g/portion)          Sodium (mg/portion)
+              Breakfast cereals               1†             337         High               9·3    HIgh              0          Low                   130       Low
+                                              2                    170                      4·0    High              0          Low                   150       Low
+              Chicken nuggets                 1                    161                      1·0    Low               5·6        High                  350       High
+                                              2                    178                      0·3    Low               6·3        High                  210       Medium
+                                              3                    169                      0·8    Low               5·8        High                  355       High
+              Cookies                         1              130         High               6·7    High              3·9        High                   24       Low
+                                              2              112         High               8·4    High              1·3        Medium                 41       Low
+               Crackers                       1†             128         High               0·6    Low               2·1        High                  114       Medium
+                                              2              127         High               0·3    Low               1·9        High                  251       High
+                                              3              129         High               0·3    Low               2·0        High                  210       High
+               Fish nuggets                   1                    159                      1·4    Low               1·4        Medium                315       High
+                                              2                    155                      1·6    Low               1·5        Medium                175       Medium
+               Frozen hamburgers              1                    194                      0      Low               6·6        High                  272       Medium
+                                              2                    188                      0      Low               6·5        High                  470       High
+                                              3                    200                      0      Low               6·7        High                  520       High
+               Frozen lasagne                 1              268         High               2·5    Low              13          High                  775       Medium
+                                              2†             268         High               1·4    Low              11          High                 1265       High
+              Instant soup                    1                     52                      1·8    Low               0          Low                   205       Medium
+                                              2                     42                      0·5    Low               0          Low                   605       High
+                                              3†                    57                      0·7    Low               0·3        Low                   510       High
+              Pan bread                       1                    118                      1·6    Low               0·6        Low                   250       High
+                                              2†                   122                      2·2    Low               0·5        Low                   222       High
+                                              3                    117                      2·0    Low               0·5        Low                   120       Medium
+              Yoghurt                         1                    164                     28      High              1·4        Low                    80       Low
+                                              2                    122                     14      Medium            1·8        Low                    98       Low
+
+              The nutrient that defined the most healthful alternative within each set is highlighted in bold.
+              *Labels featuring the traffic-light system highlighted the nutrient content in the table, whereas labels featuring the warning system included separate warnings
+              for all nutrients with high content. Only high energy content was highlighted.
+              †Labels included in the healthfulness perception task.
+
+
+
+
+              avoid it’, 2 = ‘occasionally’, 3 = ‘several times a month’,                         was randomized among participants. An example of
+              4 = ‘several times a week’, 5 = ‘several times a day’).                             how the labels were presented to participants is shown
+                                                                                                  in Fig. 2.
+              Selection of the most healthful product                                                Participants received the ten sets one by one, following
+              Ten sets of two or three labels of different product                                an experimental design balanced for presentation and
+              categories (breakfast cereals, chicken nuggets, cookies,                            carry-over effects (Williams’ latin square). For each set of
+              crackers, ﬁsh nuggets, frozen hamburgers, frozen lasagne,                           products participants were asked to indicate the most
+              instant soup, pan bread and yoghurt) were created to                                healthful alternative. After the task, participants were
+              evaluate participants’ ability to use FOP labels to compare                         asked to answer a sociodemographic questionnaire.
+              products and identify the most healthful alternative. All
+              products are frequently consumed in the country and                                 Data analysis
+              typically contain high content of at least one key nutrient.                        ANOVA was used to evaluate the inﬂuence of FOP
+              Labels did not correspond to commercial products                                    labelling scheme on perceived healthfulness and recom-
+              available in the marketplace.                                                       mended consumption frequency. Product, FOP labelling
+                 The nutritional information of the labels in each set was                        scheme and their interaction were considered as ﬁxed
+              modiﬁed so that one of the labels was more healthful than                           sources of variation. A 5 % signiﬁcance level was con-
+              the others. For each set, one key nutrient was considered                           sidered. When differences were signiﬁcant, Fisher’s test
+              target and its content increased by 63–200 % between the                            was used for post hoc comparison of means.
+              healthful alternative and the rest of the labels of the set,                           ANOVA was also used to evaluate differences
+              so that its content changed from medium to high according                           across FOP labelling schemes in the mean number of sets
+              to the criteria implemented by the Chilean government(24).                          for which participants correctly identiﬁed the most
+              The content of all other nutrients was modiﬁed by a trivial                         healthful option. A logistic regression analysis was used to
+              amount that did not affect their classiﬁcation in low/                              evaluate the inﬂuence of nutrition label scheme, product
+              medium/high. Therefore, the target nutrient determined                              and their interaction on the probability of consumers
+              the most healthful option in each set and, consequently,                            correctly identifying the most healthful product in
+              the ‘correct’ answer. The nutritional composition of                                each series.
+              the labels in each set and the target nutrients are shown                              All statistical analyses were performed using R
+              in Table 3. The order of the alternatives within the set                            language(36).
+
+
+
+
+https://doi.org/10.1017/S1368980017000866 Published online by Cambridge University Press
+
+===== PAGE 6 =====
+Warnings as nutrition labels                                                                                                        2313
+
+
+
+
+                 Fig. 2 Example of one of the sets of products considered in the consumer survey to assess participants’ ability to use front-of-pack
+                 nutrition labelling schemes to compare products and identify the most healthful alternative. The label on the right contains a warning
+                 for high sodium content
+
+
+                 Results                                                                   products depended on the scheme, as evidenced by the
+                                                                                           signiﬁcant interaction (F4,124 = 2·6, P = 0·04). In the case of
+                 Visual search study                                                       the GDA system, no signiﬁcant differences were found
+                 Across all tasks, the average percentage of correct answers               between the three products, whereas for the trafﬁc-light
+                 was higher than 95 %. Logistic regression showed that the                 system and warnings participants needed less time to
+                 percentage of correct answers was signiﬁcantly lower                      complete the task for instant soup compared with
+                 (P < 0·001) for the series of labels which contained a label              hamburgers and chicken nuggets. This difference in the
+                 with high sodium content than for series in which none of                 time needed to identify the presence of a label with high
+                 the labels had high sodium content (94 v. 96 %). No sig-                  sodium could be explained by considering the number of
+                 niﬁcant differences in the percentage of correct responses                nutrients with high content included in the study. Labels
+                 between products or FOP schemes were found (P > 0·49).                    of hamburgers and chichen nuggets with high sodium
+                    Participants’ ability to identify a label with high content of a       content also had high saturated fat content. Therefore,
+                 key nutrient was evaluated using response times. Shorter                  when interpretative cues (colour or warnings) were
+                 responses times were related to higher ability to ﬁnd the                 included on the labels, participants needed more time to
+                 information. The time needed by participants to respond was               ﬁgure out if they corresponded to the target nutrient when
+                 signiﬁcantly shorter (F1,31 = 116·9, P < 0·001) when series               compared with instant soup labels, which contained only
+                 included a label with high sodium content in relation to series           one nutrient with high content that corresponded to the
+                 in which none of the labels had high sodium content (1689 v.              target nutrient. Differences between hamburguers and
+                 1983 ms, respectively). This result can be explained by                   chicken nuggets could have been determined by differ-
+                 considering that when none of the labels had high sodium                  ences in the graphic design of the background on which
+                 content assessors had to look at all of them to conclude                  the FOP labels were included. Label background could
+                 about the absence of labels with high sodium content. On                  have inﬂuenced the saliency of the FOP labels and
+                 the contrary, when the set included a label with high sodium              consequently the time needed by participants to ﬁnd the
+                 content, participants could ﬁnd it without having to look at all          relevant information to complete the task.
+                 of the labels, spending less time to complete the task.
+                    Signiﬁcant differences in response time between the three
+                                                                                           Healthfulness perception
+                 FOP nutrition labelling schemes were found (F2,62 = 36·3,
+                 P < 0·001). The longest response times were observed for                  Healthfulness perception of individual products
+                 series in which nutrition information was presented using                 Healthfulness perception was signiﬁcantly inﬂuenced by
+                 the GDA system (mean 2187 ms). The inclusion of inter-                    product (F4,1903 = 36·105, P = < 0·001) and FOP nutritional
+                 pretational aids in the form of directive or semi-directive               information scheme (F2,1903 = 8·75, P < 0·001), whereas the
+                 labels signiﬁcantly reduced response times. When the trafﬁc-              interaction between product and FOP scheme was not
+                 light system was used, the mean response time was reduced                 signiﬁcant (F8,1903 = 1·35, P = 0·21). On average, participants
+                 to 1784 ms. A further reduction in mean response time to                  in the warning system condition rated product healthfulness
+                 1422 ms was achieved by including warning labels.                         signiﬁcantly lower (mean score 3·6) than participants in
+                    Type of product also inﬂuenced response times                          both the GDA and the trafﬁc-light system conditions, which
+                 (F2,62 = 45·4, P < 0·001). Participants invested less time                did not signiﬁcantly differ (mean score 4·0).
+                 when completing the task with instant soup (1671 ms),                        Table 4 shows mean healthfulness scores for each
+                 followed by hamburgers (1797 ms) and ﬁnally chicken                       of the ﬁve products considered in the task for the three
+                 nuggets (1951 ms). However, differences between                           consumer groups. Frozen lasagne showed the lowest
+
+
+
+
+https://doi.org/10.1017/S1368980017000866 Published online by Cambridge University Press
+
+===== PAGE 7 =====
+2314                                                                                                                                  A Arrúa et al.
+
+              Table 4 Mean healthfulness scores for ultra-processed products               Table 5 Mean perceived recommended consumption frequency
+              featuring three different front-of-pack nutritional schemes: Guide-          scores for ultra-processed products featuring three different front-
+              line Daily Amounts (GDA), traffic-light system and Chilean                   of-pack nutritional schemes: Guideline Daily Amounts (GDA), traffic-
+              warning system                                                               light system and Chilean warning system
+
+                                    GDA        Traffic-light system      Chilean warning                        GDA        Traffic-light system   Chilean warning
+              Product              (n 127)            (n 124)            system (n 136)    Product             (n 127)            (n 124)         system (n 136)
+
+              Frozen lasagne       3·0c;A             3·1c;A                  3·0b;A       Frozen lasagne       2·0c;A           2·1b;A                 2·2b;A
+              Pan bread            4·0b;A             4·2a,b;A                3·7a;B       Pan bread            3·1a;A           3·2a;A                 2·9a;A
+              Crackers             3·9b;A             3·8b;A                  3·5a,b;B     Crackers             3·1a;A           3·1a;A                 2·8a;B
+              Breakfast            4·7a;A             4·4a,b;A                4·0a;B       Breakfast cereal     3·4a;A           3·1a;A,B               2·9a;B
+                cereal                                                                     Instant soup         2·8b;A           2·9a;A                 2·7a;A
+              Instant soup         4·2b;A,B           4·5a;A                  4·0a;B
+                                                                                           a,b,c
+                                                                                               Mean values within a column with unlike lower-case superscript letters
+              a,b,c
+                  Mean values within a column with unlike lower-case superscript letters   were significantly different according to Tukey’s test (P < 0·05).
+                                                                                           A,B
+              were significantly different according to Tukey’s test (P < 0·05).              Mean values within a row for a product level with unlike upper-case
+              A,B
+                  Mean values within a row for a product level with unlike upper-case      superscript letters were significantly different according to Tukey’s test
+              superscript letters were significantly different according to Tukey’s test   (P < 0·05).
+              (P < 0·05).
+
+
+              healthfulness scores, regardless of the FOP labelling                        correct responses depended on the speciﬁc product being
+              scheme included on the label. For this product, no                           considered, the trafﬁc-light system and warnings tended
+              signiﬁcant differences between the FOP schemes were                          to improve consumer ability to identify the most healthful
+              found. For pan bread, crackers and breakfast cereals,                        option compared with the GDA system.
+              participants in the warning system condition rated
+              healthfulness signiﬁcantly lower compared with those
+              in the GDA and the trafﬁc-light system conditions.                           Discussion
+              Meanwhile, healthfulness scores from participants who
+              evaluated products featuring the trafﬁc-light system did                     Warnings have recently been proposed as a directive
+              not signiﬁcantly differ from those of participants who                       FOP nutrition labelling scheme and implemented in
+              evaluated products featuring the GDA system across the                       Chile to improve consumers’ ability to identify products
+              ﬁve categories.                                                              with high content of key nutrients(23,24). In the present
+                 Consumers’ perceived recommended frequency con-                           work, this new scheme was compared with two of the
+              sumption scores were also signiﬁcantly affected by product                   most widely studied FOP labels, GDA and trafﬁc-light
+              (F4,1899 = 64·41, P < 0·001), FOP scheme (F2,1899 = 6·85,                    systems, in terms of goal-directed attention, inﬂuence
+              P = 0·001) and their interaction (F8,1899 = 2·13, P = 0·030).                on healthfulness perception and ability to differentiate
+              On average, participants in the warning system condition                     between healthful and less healthful products. Results
+              gave signiﬁcantly lower scores (mean score 2·7) than those                   from the two sub-studies conﬁrmed the potential of the
+              in the other two conditions (mean score 2·9). As shown in                    warning system.
+              Table 5, participants in the warning system condition rated                     In the visual search study, the time needed by partici-
+              perceived recommended consumption frequency of two                           pants to detect a label with high sodium content was
+              of the ﬁve products (crackers and breakfast cereals) sig-                    signiﬁcantly higher when labels featured the GDA system
+              niﬁcantly lower did than participants in the GDA system.                     compared with those featuring the trafﬁc-light system
+              Meanwhile, scores for the trafﬁc-light system did not                        and warnings. This result agrees with Antúnez et al.(17),
+              signiﬁcantly differ from those of the GDA system for all                     who reported that interpretational aids improve consumer
+              product categories.                                                          ability to ﬁnd and identify labels with high content of a
+                                                                                           target nutrient. Regarding the comparison of the schemes
+              Selection of the most healthful product                                      with interpretational aids, faster performance was
+              Signiﬁcant differences in the number of correct responses                    observed for warnings compared with the trafﬁc-light
+              were found between the three FOP labelling schemes                           system. This can be explained considering that warnings
+              (F2,382 = 24·64, P < 0·001). On average, consumers in the                    appeared on the labels only when the content of the target
+              trafﬁc-light and warning system conditions were able to                      nutrient was high, whereas the trafﬁc-light system high-
+              correctly identify the most healthful option in a larger                     lighted high, medium and low nutrient content. Similar
+              percentage of sets (83 and 82 %, respectively) compared                      results were reported by van Herpen and van Trijp(37)
+              with those in the GDA condition (67 %). No signiﬁcant                        when comparing health logos and the trafﬁc-light system.
+              differences between the trafﬁc-light and the warning                         According to these authors, health logos require less
+              system were found.                                                           attention time than the trafﬁc-light system, even when
+                 The interaction between FOP schemes and product                           there is a time constraint for making a choice between
+              was signiﬁcant (P < 0·001). As shown in Fig. 3, although                     products. Considering that consumers usually invest a
+              differences among FOP schemes on the percentage of                           few seconds for deciding their food purchases(38) and that
+
+
+
+
+https://doi.org/10.1017/S1368980017000866 Published online by Cambridge University Press
+
+===== PAGE 8 =====
+Warnings as nutrition labels                                                                                                                              2315
+                                                   100
+
+
+
+                                                    80
+                            Correct response (%)
+
+                                                    60
+
+
+
+                                                    40
+
+
+
+                                                    20
+
+
+
+                                                     0
+                                                         Breakfast   Chicken   Cookies   Crackers     Fish       Frozen      Frozen   Instant soup   Pan bread   Yoghurt
+                                                          cereals    nuggets                        nuggets    hamburgers   lasagne
+
+                 Fig. 3 Percentage of correct responses when participants were asked to evaluate sets of two or three labels and select the most
+                 healthful alternative, for three front-of-pack nutrition labelling schemes: Guideline Daily Amounts ( ), traffic-light system ( ) and
+                 Chilean warning system ( )
+
+
+                 attention is a prerequisite for information processing(39),                                  directive FOP labels may be more effective than semi-
+                 results from the visual search study suggest that warnings                                   directive labels to discourage unhealthful food choices
+                 can improve consumers’ ability to identify unhealthful                                       and/or encourage healthful choices.
+                 products when making their food choices.                                                        Consumers’ ability to discriminate among products
+                     Once consumers acquire nutrition information from                                        based on their healthfulness was also evaluated. Results
+                 FOP labels, understanding plays a key role in determining                                    showed that both the trafﬁc-light system and warnings
+                 if the information will inﬂuence choice(40). In the present                                  improved consumer ability to identify the most healthful
+                 work the inﬂuence of the three FOP labels on healthful-                                      alternative. This result is in line with several studies that
+                 ness perception and ability to identify the most healthful                                   show that consumers usually ﬁnd it difﬁcult to assess
+                 product was assessed using two separate tasks.                                               nutritional information in the form of numbers and
+                     In the ﬁrst task, products with high energy, saturated fat,                              percentages(44–46). According to Soederberg Miller
+                 sugar and/or sodium content that featured warnings on                                        et al.(47), when consumers are not provided with reference
+                 the label received signiﬁcantly lower healthfulness scores                                   information, small differences between products in the
+                 than those featuring the GDA or the trafﬁc-light system.                                     content of one or two nutrients may drive the decision,
+                 In addition, warnings encouraged participants to think that                                  without consideration of other important nutrients. For this
+                 two of the ﬁve products were less appropriate for frequent                                   reason, interpretational aids and reference information
+                 consumption. Previous studies have shown that FOP                                            improve consumer ability to identify the most healthful
+                 labels that lack reference point information are less                                        alternative among a set of products(17,19,33,48,49). In the
+                 effective in communicating product healthfulness when                                        present work, no signiﬁcant differences were found
+                 evaluated in isolation(33). Although in the present                                          between warnings and the trafﬁc-light system. Similar
+                 work warnings were effective in communicating product                                        results have been reported by Borgmeier and Wes-
+                 unhealthfulness, the trafﬁc-light system did not sig-                                        tenhoefer(48) regarding the comparison of semi-directive
+                 niﬁcantly modify healthfulness perception or perceived                                       and directive FOP labels. Similarly, van Herpen and van
+                 recommended frequency consumption. This result can be                                        Trijp(37) reported that health logos and the trafﬁc-light
+                 explained by considering that in all products the trafﬁc-                                    system did not differ in their ability to stimulate the choice
+                 light system highlighted low content of at least one nutri-                                  of a healthful product alternative. However, it should be
+                 ent in green, which can convey health associations and                                       taken into account that warnings may allow a smaller
+                 may enhance healthfulness perception(41,42). In this sense,                                  differentiation of products than the trafﬁc-light system as
+                 a recent study has reported that healthfulness scores of                                     only products with high content of key nutrients are
+                 ultra-processed products were signiﬁcantly lower when                                        identiﬁed. Further research on this respect should be
+                 featuring a monochromatic trafﬁc-light system compared                                       conducted.
+                 with a coloured trafﬁc-light system(43). In addition, the                                       In addition to the superiority of warnings over the
+                 trafﬁc-light system required consumers to infer product                                      trafﬁc-light system in terms of goal-directed attention and
+                 healthfulness based on the simultaneous evaluation of the                                    healthfulness perception of unhealthful products, other
+                 level of four nutrients, which is usually a complex task for                                 considerations related to their implementation should be
+                 consumers(22). According to a previous study, although the                                   considered. First of all, trafﬁc lights and warnings differ in
+                 trafﬁc-light system is usually perceived as friendly, it does                                the extent to which they inform consumers on the nutrient
+                 not consistently enable differentiation between healthful                                    content of products. Although warnings can improve
+                 and less healthful products(19). For this reason, simple                                     consumers’ ability to identify unhealthful products, they
+
+
+
+
+https://doi.org/10.1017/S1368980017000866 Published online by Cambridge University Press
+
+===== PAGE 9 =====
+2316                                                                                                                            A Arrúa et al.
+                                                                                                               (53,54)
+              do not educate consumers on whether the content of key                       modify behaviour       , research is needed to evaluate if
+              nutrients is low, medium or high.                                            they can effectively modify consumers’ food choices.
+                 Although results conﬁrm the potential of warnings as a
+              directive FOP nutrition labelling scheme, they do not put an
+              end to the debate on which is the best scheme. Further                       Acknowledgements
+              research comparing warnings with the trafﬁc-light system
+              and other directive FOP labels are still necessary to provide                Financial support: The authors are indebted to Comisión
+              stakeholders with objective information to select the system                 Sectorial de Investigación Cientíﬁca and Espacio Inter-
+              with the largest potential to modify consumer eating                         disciplinario (Universidad de la República) for ﬁnancial
+              patterns. In this sense, it is important to highlight that the               support. The funders had no role in the design, analysis
+              present study was not conducted under ecological condi-                      or writing of this article. Conﬂict of interest: None.
+              tions. It was not carried out in a real purchasing situation, in             Authorship: All authors contributed to the development of
+              which consumers face several distractions, and involved the                  the research. G.A. and A.A. analysed the data. A.A., G.A.,
+              evaluation of a limited number of product categories and                     A.G. and M.R.C. wrote the paper. Ethics of human subject
+              alternatives within each set of product. Future studies should               participation: This study was conducted according to the
+              explore real or simulated environments and consider the                      guidelines laid down in the Declaration of Helsinki and
+              inﬂuence of time restriction on consumer perception of                       all procedures involving human subjects were approved
+              nutritional information. In addition, studies exploring the                  by the Ethics Committee of the School of Chemistry of
+              interaction between FOP labels and other package and label                   Universidad de la República (Uruguay). Written informed
+              elements, such as graphic design and health claims, on                       consent was obtained from all participants and formally
+              consumer healthfulness perception are still necessary.                       recorded.
+                 In closing this section, it is worth highlighting that the
+              efﬁcacy of nutritional information in shifting consumers’                    References
+              eating patterns does not only depend on its ease to be found
+              and understood. In this sense, although several studies have                  1. Monteiro CA, Levy RB, Claro RM et al. (2011) Increasing
+              shown that the trafﬁc-light system improves understanding                        consumption of ultra-processed foods and likely impact on
+              of nutrition information, in-store observations and con-                         human health: evidence from Brazil. Public Health Nutr 14,
+                                                                                               5–13.
+              sumption data have shown a limited effect on behavioural                      2. Popkin BM, Adair LS & Ng SW (2012) Global nutrition
+              change(48,50–52). However, the inclusion of the trafﬁc-light                     transition and the pandemic of obesity in developing
+              system or warnings on packages could encourage food                              countries. Nutr Rev 70, 3–21.
+                                                                                            3. Moubarac J-C, Parra DC, Cannon G et al. (2014) Food clas-
+              companies to reformulate their products to differentiate
+                                                                                               siﬁcation systems based on food processing: signiﬁcance and
+              themselves in the marketplace, which could lead to a                             implications for policies and actions: a systematic literature
+              reduction in population intakes of sugar, sodium and fat.                        review and assessment. Curr Obes Rep 3, 256–272.
+                                                                                            4. Hawkes C, Smith TG, Jewell J et al. (2015) Smart policies for
+                                                                                               obesity prevention. Lancet 385, 2410–2421.
+                                                                                            5. Capacci S, Mazzocchi M, Shankar B et al. (2012) Policies
+              Conclusions                                                                      to promote healthy eating in Europe. A structured review
+                                                                                               of instruments and their effectiveness. Nutr Rev 70,
+              Results from the present work indicate that warnings                             188–200.
+                                                                                            6. Storcksdieck genannt Bonsmann S, Fernández Celemín L,
+              improved consumer ability to correctly identify a product                        Larrañga A et al. (2010) Penetration of nutrition information
+              with high content of a key nutrient within a set of labels                       on food labels across the EU-27 plus Turkey. Eur J Clin Nutr
+              compared with the GDA system and received higher goal-                           64, 1379–1385.
+              directed attention than both the GDA and the trafﬁc-light                     7. Cowburn G & Stockley L (2005) Consumer understanding
+                                                                                               and use of nutrition labelling: a systematic review. Public
+              systems. In addition, products with high energy, saturated                       Health Nutr 8, 21–28.
+              fat, sugar and/or sodium content that featured warnings                       8. Graham DJ, Orquin JL & Visschers VHM (2012) Eye tracking
+              on their labels were perceived as less healthful than those                      and nutrition label use: a review of the literature and
+              featuring the GDA or trafﬁc-light system.                                        recommendations for label enhancement. Food Policy 37,
+                                                                                               378–382.
+                  In summary, warnings may be more effective in helping                     9. Sharf M, Sela R, Zentner G et al. (2012) Figuring out food
+              consumers identify unhealthful products high in energy,                          labels. Young adults’ understanding of nutritional information
+              fat, sugar and sodium content in a supermarket environ-                          presented on food labels is inadequate. Appetite 58, 531–534.
+                                                                                           10. Hawley KL, Roberto CA, Bragg MA et al. (2013) The science
+              ment than more detailed semi-directive FOP labels,
+                                                                                               on front-of-package food labels. Public Health Nutr 16,
+              such as the trafﬁc-light system. Warnings can potentially                        430–439.
+              discourage consumers from buying unhealthful products                        11. Hodgkins C, Barnett J, Wasowicz-Kirylo G et al. (2012)
+              which have been linked with obesity and several non-                             Understanding how consumers categorise nutritional labels:
+                                                                                               a consumer derived typology for front-of-pack nutrition
+              communicable diseases. Although there is evidence in the                         labelling. Appetite 59, 806–817.
+              literature that health warnings can be a cost-effective policy               12. Food Standards Agency (2007) Front-of-Pack Trafﬁc Light
+              to increase health knowledge and risk perception and can                         Signpost Labelling. Technical Guidance. Issue 2. London: FSA.
+
+
+
+
+https://doi.org/10.1017/S1368980017000866 Published online by Cambridge University Press
+
+===== PAGE 10 =====
+Warnings as nutrition labels                                                                                                                2317
+                 13. Larsson I, Lissner L & Wilhelmsen L (1999) The ‘Green                 34. Treisman AM & Gelade G (1980) A feature-integration
+                     keyhole’ revisited: nutritional knowledge may inﬂuence                    theory of attention. Cogn Psychol 12, 97–136.
+                     food selection. Eur J Clin Nutr 53, 776–780.                          35. Jarvis BG (2004) DirectRT Research Software, Version 2004.
+                 14. Food Standards Australia New Zealand (2015) Guide for                     New York: Emprisoft.
+                     Industry to the Health Star Rating Calculator (HSRC).                 36. R Core Team (2016) R: A Language and Environment for
+                     Canberra: FSANZ.                                                          Statistical Computing. Vienna: R Foundation for Statistical
+                 15. Lupton JR, Balantine DA, Black RM et al. (2010) The Smart                 Computing.
+                     Choices front-of-pack nutrition labelling program: rationale          37. van Herpen E & van Trijp HCM (2011) Front-of-pack
+                     and development of nutrition criteria. Am J Clin Nutr 91,                 nutrition labels. Their effect on attention and choices when
+                     issue 4, 1078S–1089S.                                                     consumers have varying goals and time constraints. Appetite
+                 16. Young L & Swinburn B (2002) Impact of the Pick the Tick                   57, 148–160.
+                     food information programme on the salt content of food in             38. Clement J (2007) Visual inﬂuence on in-store buying
+                     New Zealand. Health Promot Int 17, 13–19.                                 decisions: an eye-track experiment on the visual inﬂuence
+                 17. Antúnez L, Giménez A, Maiche A et al. (2015) Inﬂuence of                  of packaging design. J Mark Manage 23, 917–928.
+                     interpretation aids on attentional capture, visual processing         39. Orquin JL & Mueller Loose S (2013) Attention and choice: a
+                     and understanding of front-of-pack nutrition labels. J Nutr               review on eye movements in decision making. Acta Psychol
+                     Educ Behav 47, 292–299.                                                   144, 190–206.
+                 18. Ares G, Giménez A, Bruzzone F et al. (2012) Attentional               40. Grunert KG, Fernández-Celemín L, Wills JM et al. (2010) Use
+                     capture and understanding of nutrition labelling: a study                 and understanding of nutrition information on food labels in
+                     based on response times. Int J Food Sci Nutr 63, 679–688.                 six European countries. J Public Health 18, 261–277.
+                 19. Feunekes GIJ, Gortemaker IA, Willems AA et al. (2008)                 41. Braun CC & Silver NC (1995) Interaction of warning label
+                     Front-of-pack nutrition labelling: testing effectiveness of               features: determining the contributions of three warning
+                     different nutrition labelling formats front-of-pack in four               characteristics. In Proceedings of the Human Factors and
+                     European countries. Appetite 50, 57–70.                                   Ergonomics Society 39th Annual Meeting, pp. 984–988.
+                 20. Roberto CA, Shivaram M, Martinez O et al. (2012) The Smart                Santa Monica, CA: Human Factors Society.
+                     Choices front-of-package nutrition label. Inﬂuence on                 42. Chapanis A (1994) Hazards associated with three signal words
+                     perceptions and intake of cereal. Appetite 58, 651–657.                   and four colours on warning signs. Ergonomics 37, 265–275.
+                 21. Machín L, Giménez A, Curutchet MR et al. (2016) Motives               43. Machín L, Cabrer M, Curutchet MR et al. (2017) Healthful-
+                     underlying food choice for children and perception of                     ness perception of ultra-processed products featuring dif-
+                     nutritional information among low-income mothers in a                     ferent front-of-pack nutritional information schemes across
+                     Latin American country. J Nutr Educ Behav 48, 478–485.                    two income levels. J Nutr Educ Behav 49, 330–338.e1.
+                 22. Black A & Rayner M (1992) Just Read the Label. London:                44. Barone MJ, Rose RL, Manning KC et al. (1996) Another look at
+                     The Stationery Ofﬁce.                                                     the impact of reference information on consumer impressions
+                 23. Corvalán C, Reyes M, Garmendia ML et al. (2013) Structural                of nutrition information. J Public Policy Mark 15, 55–62.
+                     responses to the obesity and non-communicable disease                 45. Kelly B, Hughes C, Chapman K et al. (2009) Consumer
+                     epidemic: the Chilean law of food labelling and advertising.              testing of the acceptability and effectiveness of front-of-pack
+                     Obes Rev 14, 79–87.                                                       food labelling systems for the Australian grocery market.
+                 24. Ministerio de Salud (2015) Decreto número 13, de 2015.                    Health Promot Int 24, 120–129.
+                     Santiago: Ministerio de Salud.                                        46. Visschers VHM & Siegrist M (2009) Applying the evaluability
+                 25. Pan American Health Organization (2015) Ultra-Processed                   principle to nutrition table information. How reference
+                     Food and Drink Products in Latin America: Trends, Impact                  information changes people’s perception of food products.
+                     on Obesity, Policy Implications. Washington, DC: PAHO.                    Appetite 51, 505–512.
+                 26. Grunert KG & Wills JM (2007) A review of European                     47. Soedeberg Miller LM, Cassady DL, Beckett LA et al. (2015)
+                     research on consumer response to nutrition information on                 Misunderstanding of front-of-package nutrition information
+                     food labels. J Public Health 15, 385–399.                                 on US food products. PLoS One 10, e0125306.
+                 27. Mackison D, Wrieden WL & Anderson AS (2010) Validity                  48. Borgmeier I & Westenhoefer J (2009) Impact of different
+                     and reliability testing of a short questionnaire to assess                food label formats on healthiness evaluation and food
+                     consumers’ use, understanding and perception of                           choice of consumers. A randomised-controlled study. BMC
+                     food labels. Eur J Clin Nutr 64, 210–217.                                 Public Health 9, 184.
+                 28. Bialkova S & van Trijp HCM (2011) An efﬁcient methodology             49. Watson WL, Kelly B, Hector D et al. (2014) Can front-of-
+                     for assessing attention to and effect of nutrition information            pack labelling schemes guide healthier food choices?
+                     displayed front-of-pack. Food Qual Prefer 22, 592–601.                    Australian shoppers’ responses to seven labelling formats.
+                 29. Becker MW, Sundar RP, Bello N et al. (2016) Assessing                     Appetite 72, 90–97.
+                     attentional prioritization of front-of-pack nutrition labels          50. Dodds P, Wolfenden L, Chapman K et al. (2014) The effect of
+                     using change detection. Appl Ergon 54, 90–99.                             energy and trafﬁc light labelling on parent and child fast food
+                 30. Bix L, Prashant Sundar R, Bello NM et al. (2015) To see or                selection: a randomised controlled trial. Appetite 73, 23–30.
+                     not to see: do front of pack nutrition labels affect attention        51. Sacks G, Rayner M & Swinburn B (2009) Impact of front-of-
+                     to overall nutrition information? PLoS One 10, e0139732.                  pack ‘trafﬁc-light’ nutrition labelling on consumer food
+                 31. Aschemann-Witzel J, Grunert KG, van Trijp HCM et al. (2013)               purchases in the UK. Health Promot Int 24, 344–352.
+                     Effects of nutrition label format and product assortment on           52. Sacks G, Tikellis K, Millar L et al. (2011) Impact of ‘trafﬁc-light’
+                     the healthfulness of food choice. Appetite 71, 63–74.                     nutrition information on online food purchases in Australia.
+                 32. Maubach N, Hoek J & Mather D (2014) Interpretive front-of-                Australian and New Zealand J Public Health 35, 122–126.
+                     pack nutrition labels. Comparing competing recommenda-                53. Hammond D (2011) Health warning messages on tobacco
+                     tions. Appetite 82, 67–77.                                                products: a review. Tob Control 20, 327–337.
+                 33. van Herpen E, Hieke S & van Trijp HCM (2014) Inferring                54. Wilkinson C & Room R (2009) Warnings on alcohol
+                     product healthfulness from nutrition labelling. The inﬂuence              containers and advertisements: international experience
+                     of reference points. Appetite 72, 138–149.                                and evidence on effects. Drug Alcohol Rev 28, 426–435.
+
+
+
+
+https://doi.org/10.1017/S1368980017000866 Published online by Cambridge University Press

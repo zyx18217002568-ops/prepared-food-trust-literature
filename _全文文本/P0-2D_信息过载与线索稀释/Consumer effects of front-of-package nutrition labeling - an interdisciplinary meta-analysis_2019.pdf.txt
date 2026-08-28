@@ -1,0 +1,1519 @@
+SOURCE_PDF: P0-2D_信息过载与线索稀释/Consumer effects of front-of-package nutrition labeling - an interdisciplinary meta-analysis_2019.pdf
+EXTRACTION_STATUS: ok
+PAGES: 24
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+Journal of the Academy of Marketing Science (2020) 48:360–383
+https://doi.org/10.1007/s11747-019-00663-9
+
+    REVIEW PAPER
+
+
+
+
+Consumer effects of front-of-package nutrition labeling:
+an interdisciplinary meta-analysis
+Iina Ikonen 1                              1                    1
+                   & Francesca Sotgiu & Aylin Aydinli & Peeter W. J. Verlegh
+                                                                                            1
+
+
+
+
+Received: 17 August 2018 / Accepted: 29 April 2019 / Published online: 16 May 2019
+# The Author(s) 2019
+
+Abstract
+As consumers continue to struggle with issues related to unhealthy consumption, the goal of front-of-package (FOP) nutrition
+labels is to provide nutrition information in more understandable formats. The marketplace is filled with different FOP labels, but
+their true effects remain unclear, as does which label works best to change perceptions and behaviors. We address these issues
+through an interdisciplinary meta-analysis, generalizing the findings of 114 articles on the impact of FOP labels on outcomes
+such as consumers’ ability to identify healthier options, product perceptions, purchase behavior, and consumption. The results
+show that, although FOP labels help consumers to identify healthier products, their ability to nudge consumers toward healthier
+choices is more limited. Importantly, FOP labels may lead to halo effects, positively influencing not only virtue but also vice
+products, e.g., interpretive nutrient-specific labels improve health perceptions of both vice and virtue products, yet they influence
+only the purchase intention of virtues.
+
+Keywords Front-of-package labeling . Packaging . Food marketing . Public health
+
+
+With many consumers struggling with health problems related to                consumers’ ability to access and process all the nutrition infor-
+food consumption, including obesity, diabetes, and heart and                  mation they needed to make health-conscious food choices
+coronary problems (World Health Organization 2018), tackling                  (Balasubramanian and Cole 2002). However, at the point of sale,
+nutrition- and diet-related health issues has become a major con-             consumers face time pressure and struggle to understand the
+cern for both food marketers and policymakers around the world.               information presented on the NFP (Block and Peracchio 2006;
+One commonly suggested approach to nudging consumers to-                      Graham et al. 2012), thus fueling the search for simpler, more
+ward healthier food consumption is providing clearer informa-                 attention-grabbing forms of communicating the nutritional con-
+tion about the nutritional content of food products. For example,             tent and relative healthfulness of food products (World Health
+the Nutrition Labeling and Education Act of 1990 provided the                 Organization 2018). As a result, a variety of front-of-package
+U.S. Food and Drug Administration (FDA) with the authority to                 (FOP) nutrition labels have emerged and been implemented
+require U.S. food manufacturers to convey nutrition information               globally. Many large food manufacturers, including Nestlé and
+on food packaging via a so-called Nutrition Facts Panel (NFP)                 PepsiCo, are looking to help consumers make Bbalanced and
+(Institute of Medicine 2010). The aim was to improve                          mindful choices^ with FOP labels, but they are struggling to find
+                                                                              the best label type (Michail 2017, 2018). In fact, these companies
+                                                                              are calling for one internationally agreed-upon format (Askew
+Mark Houston and John Hulland served as Special Issue Editors for this        2018). This exemplifies the lack of consensus on the format and
+article.
+                                                                              effectiveness of different FOP labels but strong motivation
+Electronic supplementary material The online version of this article          among the industry for finding a good solution, calling for a
+(https://doi.org/10.1007/s11747-019-00663-9) contains supplementary
+material, which is available to authorized users.
+                                                                              systematic review of what works and what doesn’t.
+                                                                                  FOP nutrition labels include symbols and rating systems that
+* Iina Ikonen                                                                 summarize Bkey nutritional aspects and characteristics of food
+  i.h.ikonen@vu.nl                                                            products^ (Institute of Medicine 2010, p. 1) in simplified formats.
+                                                                              In this way, FOP labels complement the traditional NFP (Kees
+1
+     Department of Marketing, School of Business and Economics, Vrije
+                                                                              et al. 2014). According to the FDA (2010), FOP labels aim to
+     Universiteit Amsterdam, De Boelelaan 1105,                               Bincrease the proportion of consumers who readily notice, under-
+     1081HV Amsterdam, The Netherlands                                        stand, and use the available information to make more nutritious
+
+===== PAGE 2 =====
+J. of the Acad. Mark. Sci. (2020) 48:360–383                                                                                          361
+
+
+choices for themselves and their families, and thereby prevent or       perceptions, and driving healthier choices (Hawley et al. 2013;
+reduce obesity and other diet-related chronic disease.^ The for-        Kanter et al. 2018). Such an effort is even more important be-
+mats range from reductive labels, which simply summarize the            cause previous research has found that FOP labeling decreases
+complex information from the NFP and present it on the package’s        the attention consumers pay to the NFP (Bix et al. 2015), sug-
+front (e.g., BFacts Up Front^), to interpretative labels, which can     gesting that consumers strongly rely on the information
+be further divided into two categories: (1) nutrient-specific indica-   appearing on the front of the package. To find more effective
+tors evaluating the level of individual nutrients (e.g., Multiple       ways of using FOP labeling to promote healthier consumption,
+Traffic Light systems or nutrient content claims such as Blow in        it is critical to answer the questions of how consumers are influ-
+salt^) (Ducrot et al. 2015; Hodgkins et al. 2012) and (2) summary       enced by FOP nutrition labels, and by which FOP labels con-
+indicators of the overall healthfulness of the product (e.g., Health    sumers are most influenced, without being misled.
+Star Ratings) (Savoie et al. 2013; Emrich et al. 2014).                     Finally, it is important to emphasize that while various FOP
+    The increased uptake of FOP labeling is concomitant with the        labeling systems have been developed through government
+increasing amount of research being conducted across different          policies, the implementation of most remains at the discretion
+fields with regard to a range of different consumer-relevant out-       of manufacturers and marketers (Kanter et al. 2018). This
+comes, including the attention consumers pay to the Nutrition           includes, for example, the Facts Up Front program in the
+Facts Panel, healthfulness and tastiness perceptions, product atti-     United States and logos to identify healthier options in
+tude, identification of healthier options, making healthy choices,      Scandinavia, Poland, Singapore, the Netherlands, and
+purchase intentions of FOP labeled products, and, finally, actual       Thailand. Although some countries have recently implement-
+consumption (in the upcoming sections, we use the term                  ed types of mandatory labels (e.g., Chile, Mexico), most man-
+Beffectiveness^ to describe this set of outcome variables). Yet         ufacturers still have the ability to decide whether to implement
+many knowledge gaps remain. First, debate is ongoing about              FOP labels and, if so, which ones. Not only policymakers but
+the overall effectiveness of this labeling in helping consumers         also food marketers would thus benefit from a more thorough
+make healthier choices. For example, FOP labels can sometimes           understanding of the various effects of different FOP labels.
+mislead consumers and induce an inaccurate assessment of the                The current study aims to address these gaps by means of a
+product’s healthfulness, which could result in higher consump-          meta-analytic review of all articles examining the effects of
+tion of unhealthy food (Orquin and Scholderer 2015; Roberto             health- or nutrition-related FOP labels at the consumer level.
+et al. 2012). While important meta-analyses summarize the im-           To assess the impact of these labels, we harvested 1594 effects
+pact of various nudges (Cadario and Chandon 2018) and menu              from 114 studies between 1996 and 2018, across different
+labeling (Sinclair et al. 2014) on consumers’ food choices, a           fields (marketing and consumer studies, nutrition science,
+systematic research review able to reconcile contrasting findings       public health, sensory science, medicine, and others).
+in the context of FOP labels is lacking.                                Drawing from extant literature (Cadario and Chandon 2018;
+    Second, given the considerable variation in FOP labeling            Ducrot et al. 2015; Hodgkins et al. 2012; Kanter et al. 2018;
+systems, the question arises whether there are any generalizable        Newman et al. 2018), we classify FOP labels into reductive
+differences in the effectiveness of these systems. While some           and interpretative and further distinguish between interpreta-
+findings suggest that interpretive nutrient-specific labels, such as    tive nutrient-specific labels and summary indicator labels.
+the Multiple Traffic Light, work best (Hawley et al. 2013), other       This typology allows us to identify the key aspects influencing
+findings show that the effectiveness of different label types is        the effectiveness of FOP labeling and the type of information
+context dependent (Newman et al. 2016). Thus, it is important to        most beneficial for consumers.
+know not only how FOP labels influence purchase decisions                   To the best of our knowledge, this study is the first to take
+and whether they have possible negative consequences or health          into account the various types of labels and assess different FOP
+halo effects, but also how these effects differ between different       effects, including leading consumers’ attention away from the
+types of labels. Health halos refer to consumers’ use of limited,       NFP; affect the labeled products’ healthfulness perception, tast-
+specific information about, for example, individual nutrients to        iness evaluation, and product attitude; and improve consumers’
+infer a general perception about the product’s overall healthful-       ability to identify healthier options and increase purchase inten-
+ness. Such inferences occur when incomplete information is              tion, choice, and, ultimately, consumption of healthier products.
+presented or available to consumers (Burton et al. 2014;                All of these effects are relevant to both public policymakers and
+Andrews et al. 1998). As most research has examined only a              marketers. We found only two studies on the effects of FOP
+limited number of FOP labels or a type of effect at a time,             labels that take a quantitative, meta-analytical approach.
+consensus on the Bbest^ FOP label is yet to be reached                  However, these meta-analyses are more limited in terms of
+(Gearhardt et al. 2012; Hieke and Taylor 2012; Hodgkins et al.          the FOP labels examined (only health claims in Kaur et al.
+2012). Therefore, a generalizable research effort is required to        2017) or outcomes (healthy choice and consumption in
+understand which FOP labeling type is most beneficial to con-           Cecchini and Warin 2016). Our work differs from these in four
+sumers in terms of providing information, influencing                   important ways (see Web Appendix 1). First, we investigate a
+
+===== PAGE 3 =====
+362                                                                                              J. of the Acad. Mark. Sci. (2020) 48:360–383
+
+
+wider range of FOP labeling systems, categorizing a variety of            Prior research shows that FOP labels vary in content and
+labels into a typology of reductive nutrient-specific, interpretive   structure (Kanter et al. 2018; Newman et al. 2018; Talati et al.
+nutrient-specific, and interpretive summary indicator labels.         2017), which is likely to lead to differences in their effective-
+Second, we consider more outcomes, without restricting the            ness in helping consumers determine a product’s healthfulness.
+analysis to healthy choice or consumption. For example, the           More specifically, FOP labels can be broadly classified as either
+potential influence of FOP labels on tastiness perceptions can        (1) reductive labels (e.g., Facts Up Front, Guideline Daily
+have important consequences on product choice, as taste re-           Amounts), which reduce the amount of nutrition information
+mains a key driver of food choices (e.g., Lassen et al. 2016).        provided in the NFP without offering any interpretation of this
+Third, we distinguish between different types of foods (healthy       information, or (2) interpretive labels (e.g., traffic-light sym-
+or Bvirtue^ foods vs. unhealthy or Bvice^ foods). This is impor-      bols, warning labels, star-based systems, health logos), which
+tant because some labels (e.g., health logos such as the BSmarter     provide greater evaluation of information contained in the NFP
+Choice^ label) have been criticized for possibly promoting the        (Newman et al. 2018; Talati et al. 2017). Interpretive labels can
+consumption of unhealthy products. Third, we control for mul-         be further categorized into two types depending on the degree
+tiple other factors that may explain the discrepancy of the re-       of information aggregation (Talati et al. 2017). The first type,
+sults in extant literature by considering other product character-    interpretive nutrient-specific labels, adds an evaluative compo-
+istics (e.g., known brand vs. fictitious brand), consumer char-       nent, an interpretation of the healthfulness of one or more indi-
+acteristics (e.g., percentage of female respondents, North            vidual nutrient. For example, the Multiple Traffic Light system
+American sample), and study characteristics (e.g., within-            uses colors to emphasize whether the level of a particular nu-
+subject design, year of publication, field).                          trient is low, medium, or high. The second type, interpretative
+    The results offer insights to public policymakers trying to       summary indicator labels, is more aggregated, in that they pro-
+understand the impact of the implementation of FOP labeling           vide a summary of the overall nutritional profile of a product,
+or struggling to decide which specific label type to promote.         such as in the Choices Program health logo and Health Star
+Marketers can also use the results to forecast consumers’ re-         Rating system.
+actions to the addition of FOP labeling, whether it be volun-             Figure 1 depicts our typology of FOP labels; this typology
+tary or mandatory labels, and to make the best possible deci-         builds on previous categorizations (Kanter et al. 2018;
+sions for both the consumers and the company. Theoretically,          Newman et al. 2018; Talati et al. 2017) and typologies (e.g.,
+we offer a basis for further research on FOP nutrition and            consumer-based typology; Hodgkins et al. 2012) in the litera-
+health labels by bringing together a broad range of research          ture. To include the full range of FOP nutrition labels in the
+from multiple disciplines to help understand what is known            typology, we expanded on these previous typologies by in-
+about the impact of these labels on consumers’ perceptions,           cluding labels missing from the categorizations, such as warn-
+choices, and behavior.                                                ing labels, nutrient content claims, and health claims. To fur-
+    We begin by briefly discussing the various FOP label types        ther explain our typology, we briefly discuss the three catego-
+and reflecting on their effects on relevant metrics. Then, we         ries of reductive nutrient-specific labels, interpretive nutrient-
+describe the data collection and analytical procedures and            specific labels, and interpretive summary indicator labels.
+present the results from our meta-analyses. We conclude by                Reductive nutrient-specific labels provide nutrient-level in-
+discussing the implications for both public policymakers and          formation with little interpretation (Newman et al. 2014, 2018).
+marketers and identifying paths for future research.                  Examples include calorie labels, Facts Up Front, and Guideline
+                                                                      Daily Amounts. These labels offer objective information about
+                                                                      the nutritional content of a product, in a manner that is less
+A typology of FOP nutrition labels                                    complex and more condensed than the NFP, and present this
+                                                                      in a more accessible location (front rather than back of pack).
+FOP labels provide consumers with truncated nutrition infor-          Despite these advantages, reductive labels are still regarded as
+mation and serve to complement the more complex NFP typ-              time-consuming and difficult to interpret for consumers
+ically found on the back or side of the packaging (Becker et al.      (Hawley et al. 2013; Hersey et al. 2013; Talati et al. 2017).
+2015; Newman et al. 2018). A wide variety of such labels are              Interpretive nutrient-specific labels not only present infor-
+available in the marketplace and examined in academic                 mation about specific nutrients but also add a layer of inter-
+research. A report by the Institute of Medicine (2010)                pretation, evaluating whether a product scores Bgood^ or
+reviewed a selection of 20 different systems, covering only           Bbad^ on this aspect (e.g., Andrews et al. 2011). Examples
+the most represented alternatives. These labels are common:           include traffic-light labels, warning labels, nutrient content
+a study of labeling practices in Europe found that nearly 50%         claims, and health claims. This interpretative representation
+of all food products carried FOP labels, ranging from 24% in          (e.g., giving red, yellow, and green colors to different levels
+Turkey to more than 80% in the United Kingdom                         of nutrients) facilitates consumer understanding of the mes-
+(Storcksdieck genannt Bonsmann et al. 2010).                          sage (Roberto et al. 2012) but still requires consumers to
+
+===== PAGE 4 =====
+J. of the Acad. Mark. Sci. (2020) 48:360–383                                                                                              363
+
+                       Reductive                                                Interpretive
+                    Nutrient-specific                         Nutrient-specific                          Summary indicator
+
+
+
+
+              Monochrome labels (e.g.            Multiple Traffic Light                            Health logos (e.g. Choices logo)
+              calorie label, Facts Up Front,     Nutrition content claims                          Rating labels (e.g. Health Star
+              Guideline Daily Amounts)           Health claims                                     Rating)
+                                                 Warning labels
+
+
+Fig. 1 Typology of health- and nutrition-related front-of-package labels. Note. The pictured labels are examples and not an exhaustive list
+of included formats
+
+
+
+integrate multiple points of information to determine the prod-             than summary indicator labels (Hersey et al. 2013), while
+uct’s overall healthfulness (Talati et al. 2016). Nutrient content          other studies have found that consumers are better at under-
+claims highlight the positive level of a specific nutrient on a             standing and using summary indicator labels (Bialkova and
+product (Dixon et al. 2014), while health claims link the nu-               van Trijp 2010; Ducrot et al. 2015; Talati et al. 2017). In
+trient to a specific health or risk reduction benefit                       summary, although FOP labels have the overarching goal of
+(Aschemann-Witzel and Hamm 2010; Kozup et al. 2003).                        helping consumers evaluate and choose healthier products
+These claims may help consumers process and interpret infor-                (FDA 2010; Newman et al. 2018; Talati et al. 2017), labeling
+mation about individual nutrients. However, consumers may                   systems approach this goal in different ways, possibly leading
+overgeneralize these claims to be indicative of the overall                 to different outcomes.
+healthfulness of the product and may expect, for example, a
+low-fat product to contain more beneficial levels of other nu-
+trients as well (Andrews et al. 2000).
+                                                                            Effectiveness of FOP labels
+    Interpretative summary indicator labels provide an inter-
+pretive aggregation of nutrition information summarizing the
+                                                                            As discussed, existing research has studied a broad range of
+overall nutritional value of a food. These labels include graded
+                                                                            outcomes related to FOP labeling, including the attention con-
+summary systems, such as the Health Star Rating, NutriScore,
+                                                                            sumers pay to the Nutrition Facts Panel, healthfulness and
+and health logos (e.g., international Choices Program). These
+                                                                            tastiness perceptions, product attitude, identification of health-
+labels offer nutrition information at a glance, by summarizing
+                                                                            ier options, making healthy choices, purchase intentions of
+and interpreting the overall healthfulness of a product into one
+                                                                            FOP labeled products, and, finally, actual consumption.
+indicator (Hamlin and McNeill 2016; Hersey et al. 2013;
+                                                                            Below, we shortly discuss this research and the unanswered
+Talati et al. 2016). This is especially helpful for consumers
+                                                                            questions we aim to address with this meta-analysis.
+who want to compare different alternatives at the point of
+purchase to choose the healthiest product (Liem et al. 2012;
+Newman et al. 2018).                                                        Attention to NFP and product perceptions
+    Despite offering consumers a quick identifier for healthier
+food options, some of these labels are subject to strong criti-             FOP labels are meant to complement the more complex, com-
+cism. In particular, these labels are criticized for                        plete nutritional information presented on the NFP, though not
+oversimplifying nutritional information by trying to put infor-             at the same level of detail. As such, researchers have examined
+mation about multiple dimensions of nutritional quality into                the possible impact of the presence of FOP labels on how
+one unidimensional indicator, thus possibly misleading con-                 much attention consumers pay to the NFP (e.g., Becker
+sumers. On the other hand, some research suggests that inter-               et al. 2015; Bix et al. 2015). As purchase decisions in the
+pretive labels are more effective than reductive labels in mov-             supermarket are typically made quickly, consumers will not
+ing consumers toward healthier choices (Volkova and Ni                      have the time to study the two sources of nutrition information
+Mhurchu 2015). Grunert and Wills’s (2007) review suggests                   and, as a result, often ignore the lengthier NFP when a FOP
+that, in general, consumers prefer the ease of summary labels               label is present (Watson et al. 2014). Thus, we will study
+but support formats that still provide them with enough details             whether consumers will rely consumers will rely more on
+on the nutritional content of the product (e.g., nutrition-                 the information available on the front of the package, paying
+specific labels). Some research suggests that consumers iden-               less attention to the NFP, when making purchase decisions
+tify healthier options more easily using nutrient-specific rather           and whether this effect differs between label types.
+
+===== PAGE 5 =====
+364                                                                                           J. of the Acad. Mark. Sci. (2020) 48:360–383
+
+
+    One aspect of FOP labels especially important to marketers     may lead consumers to avoid the healthy option and choose
+is their impact on product perceptions. Do these labels indeed     the unhealthy tasty option instead (Raghunathan et al. 2006).
+lead consumers to perceive a product as healthier, and if so,      So far, there is no specific understanding of whether, and to
+how do they affect the perceived tastiness? Though significant     which extent, the ability to identify healthier options translates
+efforts have been made to understand these effects, the an-        to behaviors. Moreover, even if labels successfully nudge con-
+swers remain unclear especially in terms of the label types that   sumers toward healthier choices, a key driver of the increasing
+have the largest impact. FOP labels are explicit cues about the    obesity rates around the world is the overconsumption of cal-
+product’s healthfulness. Summary indicator labels make it eas-     ories (World Health Organization 2015). Thus, a crucial factor
+ier for a consumer to evaluate the product’s healthfulness and     when evaluating FOP labels is their impact not only on choice
+should therefore positively influence healthfulness percep-        but also on actual consumption. Choosing healthier products
+tions. Conversely, reductive labels provide specific informa-      is counterproductive if this gives consumers a way to justify
+tion about the nutritional content of the product without any      larger portions and increased consumption (Suher et al. 2016).
+interpretation of its healthfulness. However, consumers often      A recent meta-analysis on health claims (one specific type of
+assume that information about specific nutrients is related to     FOP label) indicates that such claims lead consumers to make
+other attributes; this Bhealth-halo^ effect may result in a more   more healthy choices without reducing the number of calories
+favorable overall attitude toward the product (Burke et al.        consumed (Cecchini and Warin 2016). We further examine
+1997; Kozup et al. 2003; Burton et al. 2014). Moreover, con-       whether and how this finding generalizes across the full range
+sumers often rely on an implicit Bunhealthy = tasty^ intuition     of FOP labels.
+(Mai and Hoffmann 2015; Raghunathan et al. 2006) when
+evaluating food products, suggesting that the perceptions of
+a product’s healthfulness and tastiness are negatively correlat-
+ed in consumers’ minds. Thus, does the addition of FOP la-         Moderators of the effectiveness of FOP labels
+beling also influence consumers’ expectations of a product’s
+tastiness (cf., Bialkova et al. 2016)? Research on the impact of   Vice versus virtue categories
+FOP labeling on the perceptions of these different attributes
+has found contradicting results and, therefore, we aim to an-      As mentioned previously, research has criticized some
+swer how FOP labeling influences the perceptions of a prod-        FOP labels for potentially misleading consumers, due
+uct’s healthfulness and tastiness and general product attitude,    to the unclear criteria behind the labeling (van Herpen
+as well as to identify moderators that cab help explain the        and van Trijp 2011). A key example is health logos,
+differing results of previous work.                                which are used to mark options that either are good
+                                                                   for health in general or are healthier than the average
+Identifying, choosing, and consuming healthier                     within a category. The latter case may result in a situ-
+options                                                            ation in which FOP labels are promoting products that
+                                                                   are, in absolute terms, still unhealthy (e.g., candy with
+By providing simpler information in a more salient format,         20% less sugar than the average candy). Therefore, dif-
+FOP labels aim to help consumers identify the options that         ferentiating between the effects of the labels in more
+are better for their health and to avoid the alternatives that     (virtue) or less (vice) healthy categories is crucial.
+may cause problems when consumed in excess (Institute of           Following Huyghe et al. (2017, p. 66), we define a
+Medicine 2010). Existing research shows that, in general,          virtue as Bsomething that is not very tempting now
+FOP labels are indeed able to help consumers with this iden-       but may be more beneficial in the long-run … some-
+tification, but whether certain labels are more helpful than       thing that you feel less guilty choosing,^ while a vice is
+others remains unclear as individual studies have only com-        Bsomething tempting that has few long-term benefits.
+pared a limited number of labels at once. Overall, reductive       Something that you want but at the same time feel
+labels still require consumers to understand the meaning of the    guilty choosing.^
+different nutrients to identify healthier options. Therefore, we      For FOP labels to meet their goal of helping consumers
+expect that interpretive labels, which offer an evaluation with    distinguish between products differing in healthfulness, they
+regard to the level of healthfulness of the product, are more      should have different effects for virtue and vice products, ide-
+effective in helping consumers differentiate between more and      ally leading to more positive healthfulness evaluations and
+less healthy alternatives (Cecchini and Warin 2016; Newman         purchase intentions for virtue products and the opposite for
+et al. 2018).                                                      less healthy alternatives (Newman et al. 2018; Talati et al.
+    It is important to recognize, however, that being informed     2016). By contrast, positive effects in vice categories may be
+and aware of healthfulness does not always lead to better          indicative of potential misleading and halo effects (Orquin and
+choices by consumers. The Bunhealthy = tasty^ intuition            Scholderer 2015).
+
+===== PAGE 6 =====
+J. of the Acad. Mark. Sci. (2020) 48:360–383                                                                                     365
+
+
+Brand familiarity                                                  To identify and include unpublished studies, we invited re-
+                                                                   searchers to share their unpublished work on the topic in a post
+Evidence suggests that brand familiarity has an impact             on the ELMAR platform. Fourth, we implemented a
+on the effectiveness of FOP labeling. Although research            snowballing procedure to identify additional articles from the
+in this setting has mostly focused on health claims,               reference lists of the studies already selected. Furthermore, we
+findings indicate a limited impact on consumers who                carried out additional manual searches for articles within all
+are familiar with the product (Aschemann-Witzel et al.             marketing and nutrition science journals as well as several other
+2013b; Moon et al. 2011). This suggests that FOP la-               journals relevant to the topic (e.g., Appetite and Public Health
+bels do not change perceptions of consumers who are                Nutrition). Finally, we included only studies in which we could
+already familiar with the product but are helpful for              retrieve correlation coefficients directly or through calculations
+consumers wanting to understand and evaluate a new                 (e.g., Hunter and Schmidt 2004).
+product. Therefore, we include a variable in our analy-                The search, completed in October 2018, produced 114 ar-
+sis, comparing the effects between studies using known             ticles (see Appendix 1), including four unpublished papers,
+brands as stimuli and those relying on fictitious or un-           for 130 independent studies in total, dating between 1996
+branded stimuli.                                                   and 2018. The details of article identification process are
+                                                                   available in Web Appendix 2.
+Gender                                                                 The final set included articles from the fields of food and
+                                                                   sensory science (34.2%), marketing and consumer studies
+In general, women are more health conscious than men               (22.8%), nutrition science (18.4%), public health (10.5%),
+(Lassen et al. 2016), a trait that research has also linked to     medicine (7.0%), and individual publications in other fields,
+the greater use of nutritional information (Hieke and Taylor       such as economics. The article set reflects the increasing at-
+2012; Williams and Mummery 2013). Women also tend to               tention paid to FOP nutrition labeling. The first article identi-
+make healthier decisions than men when provided with nutri-        fied comes from 1996, though more than 75% of all articles in
+tional labels (Heiman and Lowengart 2014; Hieke and                this meta-analysis were published between 2012 and 2018
+Newman 2015). Indeed, more health-conscious consumers              (Fig. 2 shows the number of articles by year).
+tend to rely more on detailed information, such as the NFP,
+than simplified information, such as health claims (Cavaliere      Identification of effect sizes
+et al. 2016; Naylor et al. 2009). As research on FOP labeling
+largely does not differentiate between people’s health con-        Nearly all articles reported multiple effects (e.g., due to mul-
+sciousness or uses different ways to measure concepts such         tiple effects/dependent variables included and multiple labels
+as nutrition consciousness, health consciousness, or nutrition     and/or products tested), for 1594 effect sizes in total. On av-
+knowledge, it is difficult to include the moderating effect of     erage, we gathered 14 effect sizes per article, with a minimum
+these factors in a meta-analytic setting. However, as gender       of one and a maximum of 96 effects. When we focus on the
+has often been linked to health consciousness and the propor-      different effects/dependent variables of FOP labels, this aver-
+tion of female participants in research is a measure typically     age varies between 4.5 (for tastiness perceptions) and 15.3 (for
+reported, we conduct a moderation analysis with gender.            the identification of healthier options).
+
+                                                                   FOP labels The extant body of research has not focused equal-
+Methodology                                                        ly on the different types of FOP labels: 80.7% of the articles
+                                                                   (N = 92) included in our meta-analysis examined interpretive
+Identification of the primary studies                              nutrient-specific labels, whereas interpretive summary indica-
+                                                                   tor (36.0%, N = 41) and reductive nutrient-specific (29.8%,
+To identify empirical studies on the effects of FOP labels, we     N = 34) labels received less attention. A more detailed exam-
+undertook a thorough literature search using several criteria.     ination of the different labels reveals that research has paid
+First, we considered all studies on the effects of FOP labeling    attention mostly to nutrient content claims (included in
+on consumers for the meta-analysis. Given our specific focus,      30.7% of the articles), the Multiple Traffic Light label
+we excluded studies on allergy labeling (e.g., Bdairy free^) and   (29.8%), and monochrome labels, such as the Guideline
+production claims (e.g., Borganic^). Second, we included only      Daily Amount label and Facts Up Front (29.8%). So far, re-
+quantitative studies comparing the label with a clear control      search has examined warning labels the least (13.2% of arti-
+condition. Third, the dependent variables investigated had to      cles); however, given the mandatory implementation of warn-
+be related to attention to NFP, healthfulness perception, tasti-   ing labels in Chile and plans for them in other countries (e.g.,
+ness, attitude toward the product, identification of the healthy   Peru), understanding their impact is becoming increasingly
+option, healthy choice, purchase intention, and consumption.       important. Nearly all research on warning labels was
+
+===== PAGE 7 =====
+366                                                                                                            J. of the Acad. Mark. Sci. (2020) 48:360–383
+
+Fig. 2 Number of articles                                  25
+included in the meta-analysis
+per year of publication
+                                                           20
+
+
+
+
+                                      Number of articles
+                                                           15
+
+                                                           10
+
+                                                           5
+
+                                                           0
+                                                                96 97 98 99 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18
+                                                                                             Year of publication
+
+
+
+
+published in 2018 or is still forthcoming (12 of the 15 articles),                 Analytical approach
+indicating that academics have realized the importance of
+these labels.                                                                      As a measure of effect size, we collected or computed correla-
+                                                                                   tion coefficients r from each article (Gardner and Altman 1986;
+FOP effectiveness According to our dataset, research on FOP                        Geyskens et al. 2009; Hunter and Schmidt 2004). To normalize
+labeling has focused mostly on the effects on healthfulness                        the distribution of the effect sizes, we applied a Fisher’s Zr
+perceptions (N = 42, number of effect sizes [k] = 547), follow-                    transformation (Hedges and Olkin 1985). We coded the articles
+ed by studies on healthier choice (N = 25, k = 247), the ability                   for information on the type of FOP label investigated, its effect
+to identify healthier options within a set of products (N = 15,                    on the dependent variable(s), and potential moderators (e.g.,
+k = 230), and purchase intentions (N = 45, k = 209). Other de-                     product type, research design). Following Geyskens et al.
+pendent variables included in our analyses and considered                          (2009), we assessed the reliability of the coding process by
+relevant for public policymakers and marketers have received                       having a second independent coder categorize a subset of 111
+less attention, especially product and brand attitude (N = 15,                     randomly selected effect sizes, representing 12% of the articles.
+k = 112), actual consumption (N = 11, k = 69), and attention to                    Intercoder reliability for the two coders was 97.6%, with the few
+the NFP (N = 7, k = 55). Web Appendix 3 provides more de-                          disagreements resolved through discussion. We analyzed the
+scriptive statistics on these dependent variables.                                 mean effect sizes using the Hedges–Olkin meta-analysis
+                                                                                   (HOMA) approach, in which each Fisher’s Zr effect size is
+Primary data collection                                                            weighted by the inverse of its variance (N-3), to account for
+                                                                                   differences in the reliability of individual studies and to give
+To determine the moderating role of product category, we                           more weight to more precise effects (Lipsey and Wilson
+coded all individual products used in the collected articles.                      2001). We opted for the random-effect HOMA (Raudenbush
+We categorized the products into broader categories (e.g.,                         and Bryk 2002), which produces more conservative estimates
+bread, yogurt, cookies) and asked 205 respondents (42% fe-                         than the fixed-effects model when effect size distributions are
+male, Mage = 34.86) on Amazon Mechanical Turk (using the                           heterogeneous (while estimates are similar to the fixed-effects
+TurkPrime interface) to rate the categories in terms of per-                       model if the distributions are homogeneous) (Lipsey and Wilson
+ceived vice or virtue. We provided the respondents with the                        2001). HOMA assumes that studies estimate different effect
+definition of vice and virtue products and asked them to rate                      sizes, which are corrected for sampling error, plus other sources
+the category on a nine-point Likert-type scale, with the end-                      of variability that are assumed to be randomly distributed. We
+points Bvice^ and Bvirtue^ (adapted from Huyghe et al. 2017).                      obtained the results through Wilson’s STATA macro and back-
+Each respondent evaluated product categories in a randomized                       transformed them into correlations (Lipsey and Wilson 2001).
+order, leading to a minimum of 52 ratings for each. In total, 78                   We quantified the moderating effects through a weighted hier-
+different product categories were rated. We averaged the re-                       archical linear model (HiLMA), accounting for statistical depen-
+sponses and used them as a dummy variable divided at the                           dencies in effect sizes from the same publication (Lipsey and
+center of the scale for the analysis of the mean effect sizes, to                  Wilson 2001). The hierarchical structure allows us to account for
+separate the effects for the products considered more vice or                      within-study error correlation, as we have multiple effect sizes
+more virtue, and as a continuous predictor variable in the                         originating from the same article. The HiLMA also weights each
+hierarchical regression model. The full list of product catego-                    observation by the inverse of its variance (Hedges and Olkin
+ries, together with their average vice score, is available in Web                  1985), which allows us to explain the variation in the
+Appendix 4.                                                                        effectiveness of FOP labels as a function of the label type,
+
+===== PAGE 8 =====
+J. of the Acad. Mark. Sci. (2020) 48:360–383                                                                                                                                                    367
+
+
+product characteristics, consumer characteristics, and other                                        within each broader type. The exact mean effect sizes of the
+study artefacts. Label type is captured by the two dummy vari-                                      individual labels are available in Appendix 2. Overall, we find
+ables interpretive summary indicator and interpretive nutrient-                                     that FOP labels indeed influence consumers’ perceptions and
+specific labels, with reductive nutrient-specific labels function-                                  intentions, though a great deal of variation exists among the
+ing as the reference category. Product characteristics are identi-                                  different label types and the dependent variables.
+fied by the perceived virtue, as a mean-centered continuous
+variable based on our survey, and known brand, a dummy var-                                         Attention to the NFP Both types of interpretive labels signif-
+iable that takes the value of 1 when a known brand was used and                                     icantly decrease consumers’ attention to the NFP (r-
+0 otherwise. To capture consumer characteristics, we use the                                        nutrient_specific = −.104, p < .05; r summary_indicator = −.259,
+proportion of female participants, as a mean-centered continu-                                      p < .001), though only one study tests this effect for summary
+ous variable, and a dummy variable for North American                                               indicators (for rating labels; Watson et al. 2014). This implies
+participants (1 = North American, 0 = other). We account for                                        that consumers may rely strongly on the information present-
+other research design factors with three variables: within-                                         ed on these FOP labels, though additional research is warrant-
+subject design (dummy variable that takes the value of 1 for a                                      ed. The studies also find negative and significant results, es-
+within-subject design and 0 otherwise), field of research (dum-                                     pecially in combination with formats with limited information
+my variable based on the field of the journal, with 1 for market-                                   presented, such as nutrient content claims (r = −.068,
+ing or consumer studies and 0 for other fields), and year of                                        p < .001), health claims (r = −.044, p < .001), and rating labels
+publication (mean-centered continuous variable).                                                    (r = −.259, p < .001), but not for labels listing information for
+                                                                                                    multiple nutrients simultaneously and repeating the NFP (r-
+                                                                                                    monochrome = .025, ns; rMultiple_Traffic_Light = −.111, ns).
+Results
+                                                                                                    Product perceptions Interpretive nutrient-specific labels have
+HOMA: Overall effectiveness of FOP labels                                                           the strongest influence on consumers’ overall healthfulness
+                                                                                                    perceptions (r = .051, p < .001). This effect holds across cate-
+Table 1 reports results of the random-effects HOMA, with the                                        gory types, meaning that these labels also bring with them a
+Fisher’s z back-transformed weighted mean effect sizes (mean                                        (worrisome) positive impact on the perceived healthfulness of
+ES) across the three types of FOP labels and dependent vari-                                        vice products (r = .030, p < .01), though virtue products seem
+ables. The table also displays Cochran’s Q test to highlight the                                    to benefit more (r = .078, p < .001). Among these labels, both
+large heterogeneity among the effect sizes (Lipsey and Wilson                                       health claims (rvice = .087, p < .001; rvirtue = .233, p < .01) and
+2001). Figure 3 shows the mean effect size per individual                                           nutrient content claims (rvice = .043, ns; rvirtue = .053, ns) show
+label, but they also further split these into the individual labels                                 a positive impact on perceived healthfulness regardless of the
+
+Table 1      Overview of the effectiveness of front-of-package label types (HOMA results on Fisher’s z back-transformed correlations)
+                           Reductive nutrient-specific labels                      Interpretive nutrient-specific labels                       Interpretive summary indicator labels
+
+
+
+                           k    Mean ES -95% +95%             Q         Failsafe    k    Mean ES -95% +95%             Q       Failsafe   k     Mean ES     -95% +95%              Q        Failsafe
+                                          CI   CI                          N                       CI    CI                       N                          CI    CI                          N
+Attention to  Overall      15   .025     -.201 .249         664.82***              39    -.104*   -.198 -.008       2138.77*** 4017       1      -.259***      n/a  n/a           n/a         258
+NFP
+Healthfulness Overall      94 .010        -.017   .038     1118.66***              318    .051***    .030    .073   9561.33***   15900    135     .031       -.001     .063    3006.01***
+                 Vice      46 .047*        .006   .088      563.24***    2116      153    .030**     .008    .052   1501.49***   4437     54      .069**      .018     .119    1060.71***    3672
+                 Virtue    43 -.017       -.053   .020      460.18***              138    .078***    .039    .117   7825.58***   10626    70      .001       -.047     .048    1828.19***
+Tastiness        Overall    8 -.046       -.112   .020       13.56***               88   -.160***   -.194   -.125   1890.17***   13992    29     -.166**     -.270    -.059     402.25***    4785
+                 Vice       3 -.119       -.309   .080       11.99***               18   -.017      -.070    .036    144.84***             7      .016       -.029     .062       1.69***
+                 Virtue                                                             59   -.246***   -.295   -.196   1527.29***   14455    19     -.282**     -.457    -.085     377.03***    5339
+Attitude         Overall   13 -.023       -.066    .021      45.24***              94    -.071***   -.097   -.045   2811.61***    6580     5      .100       -.118     .310      36.49***
+                 Vice       9 .005        -.061    .071      41.56***               40   -.117***   -.143   -.091    325.74***   4640      4      .133       -.126     .375      33.99***
+                 Virtue     4 -.056**     -.090   -.021       2.64***    220        14   -.198***   -.261   -.133    793.97***   2758      1      -.040         n/a      n/a      n/a
+Healthy          Overall   62 .266***      .189    .340   24910.66***   16430      102    .177**     .118    .235   8959.36***   17952    66      .374***     .323     .423    9015.04***   24618
+identification
+Purchase         Overall   27   .037      -.012   .085       95.97***              144    .026*      .002   .049    5487.97***   3600     38      .027       -.013    .066      271.38***
+intention        Vice      19   .061      -.004   .126       69.22***              67     .002      -.025   .029    1047.81***             8     -.039       -.098    .021       20.08***
+                 Virtue     4   .033      -.059   .124        8.36***               52    .087**     .022   .152    2713.20***   4472     24      .072**      .019    .125      208.88***    1704
+Healthy          Overall   72   .093***    .072   .114      343.08***    6624      101    .079***    .064   .094    1139.07***   7878     74      .023**      .008    .039      796.04***    1628
+choice
+Consumption Overall        6    -.008     -.087   .071        2.68***              50     .036      -.022   .093     104.75***            13      .006       -.030    .041        6.79***
+                 Vice      2    -.068     -.190   .056        0.11***              34     .007      -.067   .081      72.93***            7       .013       -.032    .059        4.82***
+                 Virtue                                                            12     .105      -.031   .238      29.01***             6     -.007       -.064    .051        1.68***
+
+
+* p < .05, ** p < .01, *** p < .001. k = nr of effect sizes (the sum of vice and virtue k may be lower than overall k, as the effects reported across the total
+shopping basket are not categorized; Mean ES = Fisher’s z back-transformed estimated correlations obtained from the random-effect HOMA; −95% CI;
++95%CI = 95% confidence interval; Q = Cochran’s Q test of homogeneity; failsafe N = number of null effects needed to nullify the significant effects.
+Pictured labels are examples and not an exhaustive list of included formats. 1 For effects with only a single observation, the actual effect size is reported
+
+===== PAGE 9 =====
+368                                                                                                                                           J. of the Acad. Mark. Sci. (2020) 48:360–383
+
+
+                        Attention to NFP                                            Healthiness perception                                        Tastiness perception
+                  0.2                                                    0.2                                                            0.2
+   Effect size
+
+
+
+
+                                                          Effect size
+
+
+
+
+                                                                                                                         Effect size
+                    0                                                    0.1                                                              0
+                 -0.2                                                      0                                                           -0.2
+                 -0.4                                                   -0.1                                                           -0.4
+
+
+
+
+                            Attitude                                           Identification of healthy products                                   Healthy choice
+                  0.4                                                   0.6                                                            0.15
+   Effect size
+
+
+
+
+                                                          Effect size
+
+
+
+
+                                                                                                                         Effect size
+                  0.2                                                   0.4                                                             0.1
+                    0                                                   0.2                                                            0.05
+                 -0.2                                                     0                                                               0
+
+
+
+
+                        Purchase intent                                                  Consumption
+                  0.2                                                     0.1
+   Effect size
+
+
+
+
+                                                          Effect size
+
+                  0.1                                                    0.05
+                    0                                                       0
+                 -0.1                                                   -0.05
+                 -0.2                                                    -0.1
+
+
+
+
+* The figure displays the overall mean effect size for the three label types (black dots): RNS = reductive nutrient-specific; INS = interpretive nutrient-specific; IS =
+interpretive summary indicator. Furthermore, it displays (grey triangles) the effect of the individual labels within each broader type: monochrome for RNS; traffic light,
+nutrient content claim (NCC), health claim (HC), and warning for INS; logo and rating for IS.
+Fig. 3 Effectiveness by label type
+
+
+
+category, though the latter effects do not reach significance.                                       types show strong positive effects (p < .01), with the
+Importantly, however, both warning labels (r = −.120,                                                interpretive summary indicator labels leading the way
+p < .001) and Multiple Traffic Light labels (r = −.102,                                              (rred_specific = .266, reval_specific = .177, r-
+p < .01) negatively influence healthfulness perceptions of vir-                                      eval_summary = .374). These effects do not directly trans-
+tue products. Similarly, interpretive summary indicator labels                                       late into consumers making healthier decisions.
+influence healthfulness perceptions of vices positively                                              Although all labels have a significant (p < .001) and
+(r = .069, p < .01) but have no impact on virtue products                                            positive impact on consumers choosing healthier prod-
+(r = .001, ns).                                                                                      ucts (rred_specific = .093, reval_specific = .079, r-
+    The tastiness evaluations of labeled products are influenced                                     eval_summary = .023), these correlations are much smaller
+negatively by interpretive labels (rnutrient-specific = −.160,                                       than those found for identification of healthier products.
+p < .001; rsummary_indicator = −.166, p < .01), especially virtues                                   Among the individual labels, warning labels show the
+(rnutrient-specific = −.246, p < .001; rsummary_indicator = −.282,                                   strongest impact on consumers’ choice of healthier food
+p < .01). For nutrient-specific labels, the effect is completely                                     products (r = .140, p < .001).
+driven by the impact of nutrition (r = −.286, p < .001) and                                             Regarding purchase intention (toward labeled products),
+health claims (r = −.101, p < .01) in virtue categories.                                             we observe that, overall, only interpretive nutrient-specific
+Among interpretive summary indicators, health logos show                                             labels are able to increase it (r = .026, p < .05). Importantly,
+a similar effect (r = −.317, p < .05). The effects on overall                                        both interpretive label types increase purchase intentions to-
+attitude measures are varied but have been limitedly examined                                        ward virtues (rnutrient-specific = .087, p < .01; r-
+for all but nutrient-specific label types. These results indicate                                    summary_indicator = .072, p < .01) but do not influence vices.
+that the use of nutrition-specific interpretive labels may hurt                                      Crucially, an examination of the individual labels reveals
+consumer attitudes toward both vice and virtue products (r-                                          some unwanted effects as well: health claims significantly
+vice = −.117, p < .001; rvirtue = −.198, p < .001). This effect                                      increase consumers’ intentions toward purchasing vice prod-
+seems to be especially true for warning labels, which hurt                                           ucts carrying those claims (r = .139, p < .001), while warning
+consumer attitudes across category types (rvice = −.133,                                             labels hurt purchase intentions regardless of the healthfulness
+p < .001; rvirtue = −.118, p < .001).                                                                of the category (r vice = −.082, p < .001; r virtue = −.104,
+                                                                                                     p < .001). For actual consumption, we find that FOP labels
+Identifying, choosing, and consuming healthier options                                               have little impact. The overall effects for the three label types
+Considering the goal of FOP labels to help consumers                                                 are all nonsignificant, and we observe only one significant
+identify healthier options, the results of all three label                                           effect at the level of the individual labels, in which health
+
+===== PAGE 10 =====
+J. of the Acad. Mark. Sci. (2020) 48:360–383                                                                                       369
+
+
+claims decrease the consumption of vices (r = −.213, p < .05).      <.10) and overall attitudes toward the product (β = .101, p
+This finding, however, comes from just one study (Belei et al.      <.01). By contrast, interpretive nutrient-specific labels have
+2012). Thus, further research on actual consumption effects is      a more negative effect on attitudes (β = −.035, p < .001).
+required.                                                              Overall, all FOP label types are beneficial for consumers
+    Overall, the HOMA results show that though most FOP             trying to identify healthier options from product sets, with
+labels help consumers identify healthier options within prod-       interpretive nutrient-specific labels having the strongest im-
+uct sets, this does not directly translate into other measures of   pact (β = .067, p <.05). This does not translate, however, into
+effectiveness, which show smaller effects and greater variabil-     more healthy choices being made, as the different label types
+ity between different label types and product categories.           show similar effects for healthy choice (βeval_specific = .003, ns;
+Moreover, while some FOP labels generated the desired ef-           βeval_summary = .016, ns). Although the impact of FOP labels
+fects, others, such as the interpretive nutrient-specific labels,   on purchase intentions toward the labeled product is small,
+may be misleading. In addition, we verified how many studies        reductive labels show a more positive effect than interpretive
+are necessary to nullify our significant results using the          nutrient-specific labels, but they do not differ from interpretive
+failsafe N (Rosenthal 1979). The number of studies obtained         summary indicator labels (β eval_specific = −.075, p <.05;
+from these tests is 7446 on average, varying between 220            βeval_summary = −.025, ns). Finally, the label types do not differ
+(where the current number of effect sizes is 4) and 24,618.         in their ability to influence actual consumption behavior
+These results suggest that even if we did not identify all un-      (βeval_specific = .064, ns; βeval_summary = .026, ns).
+published studies for inclusion in our data set, the significant
+results in our analyses are unlikely to suffer from strong pub-     Product characteristics The perceived virtue of a product
+lication bias. However, caution is still warranted in the inter-    category can influence the effectiveness of FOP labels.
+pretation of results based on fewer than five effect sizes, such    More specifically, FOP labels on products scoring low on
+as the aforementioned effect on attitude and the negative effect    Bvirtue^ can lead consumers to perceive these (vices) as
+of interpretive summary indicator labels on attention to the        healthier (β = −.043, p <.01). Furthermore, using FOP la-
+NFP, yielding a failsafe N of 258. All other significant results    bels may result in more negative product attitudes (β =
+lead to a failsafe N of a minimum of 1628, suggesting that at       −.029, p < .001), tastiness perceptions (β = −.022, p <.01),
+least 1628 studies with null results would be required to nul-      and purchase intentions (β = −.090, p <.10) for virtue
+lify the results of the HOMA. Finally, the many significant         products. By contrast, the effectiveness of FOP labels
+Cochran’s Q tests for homogeneity indicate strong heteroge-         in terms of consumption (β = .003, ns) does not signifi-
+neity within the effect sizes, calling for additional moderator     cantly differ depending on the product category. Use of a
+analyses to control for the possible product, consumer, and         known brand as a stimulus also does not influence most
+research design characteristics at play.                            of the dependent measures, with the exception of health-
+                                                                    fulness perceptions, in that consumers are less influenced
+HiLMA: The impact of study characteristics                          by FOP labels when evaluating the healthfulness of
+and methodological choices on FOP                                   known rather than fictitious or unknown brands (β =
+                                                                    −.048, p < .001).
+We assess the impact of various moderating factors that may
+affect the effectiveness of FOP labels through a weighted           Consumer characteristics Regarding the consumer-related
+HiLMA (Bijmolt and Pieters 2001). The models are not af-            moderating factors, a higher proportion of female participants
+fected by severe multicollinearity, with the highest variance       leads to more positive effects on attitude (β = .739, p <.05) but
+inflation factor being lower than 5. Table 2 presents the results   lower tastiness perceptions (β = −4.179, p < .001). Women al-
+of the analysis. Additional robustness checks are available in      so reduce consumption more than men as a result of FOP
+Web Appendix 5. Overall, the results show that multiple con-        labels (β = −.072, p < .001).
+textual factors have a significant impact on the effects of FOP         North American participants tend to benefit less from FOP
+labels on the different dependent variables.                        labels than consumers in other parts of the world when iden-
+   We find that interpretive nutrient-specific labels on the        tifying healthier options (β = −.010, p < .001) and are also less
+front of packages influence consumers’ attention to the NFP         influenced by the labels with regard to healthfulness percep-
+more negatively than reductive labels (β = −.190, p < .001).        tions (β = −.072, p < .001). By contrast, FOP labels have a
+Furthermore, nutrient-specific labels with an interpretative el-    more positive impact on actual food consumption among
+ement show a weaker impact on consumers’ healthfulness              North Americans (β = .162, p <.05).
+perceptions than reductive ones (β = −.053, p <.01), when
+controlling for other factors. However, as consumers are eval-      Research design Not surprisingly, research designs influence
+uating the products, interpretive summary indicators lead to        the strength of the results found. When consumers are evalu-
+marginally more positive tastiness evaluations (β = .153, p         ating products both with and without FOP labels in a within-
+
+===== PAGE 11 =====
+370
+
+
+
+
+Table 2      Moderator analysis (HiLMA results)
+
+                                Attention to NFP     Healthfulness        Tastiness          Attitude            Identification of healthyb   Healthy choiceb      Purchase intent     Consumption
+
+                                Estimate    p        Estimate      p      Estimate    p      Estimate     p      Estimate         p           Estimate      p      Estimate     p      Estimate p
+
+Constant                        −.006       .975     .230          .001   .095        .753   −.181        .147   .312             <.001       .124          .016   .011         .918   −.155     .025
+Label characteristics (ref = reductive nutrient-specific labels)
+Interpretive nutrient-specific −.190        <.001    −.053         .002   .005        .913   −.035        <.001 .067              .048        .003          .841   −.075        .011   .064      .135
+                                a
+Interpretive summary                                 −.014         .479   .153        .087   .101         .001 −.001              .995        .016          .195   −.025        .443   .026      .552
+Product characteristics
+Virtue products                 −.290       <.001    −.043         .001 −.022         .001   −.029        <.001 n/a               n/a         n/a           n/a    −.090        .059   .003      .778
+                                a
+Brand familiarity                                    −.048         <.001 −.240        .385   .098         .444 −.070              .707        −.012         .742   −.045        .752   .041      .414
+Consumer characteristics
+                            a                                                                                    a
+Female participants                                  1.586         <.001 −4.179       <.001 .730          .037                                −.281         .133   −2.336       .359   −.072     <.001
+North American participants .184            .458     −.072         <.001 .175         .601   −.067        .423   .010             <.001       −.007         .929   .022         .877   .162      .012
+Research design
+                                a
+Within-subject design                                −.345         <.001 −.128        .703   .217         .104   .036             .816        .010          .722   .182         <.001 .018       .837
+                                a                                                                                a
+Marketing journals                                   .176          .139 −.442         .267   .495         .001                                −.016         .720   .010         .951 .121        .018
+Year of publication             −.012       .223     <.001         .983   −.095       .753   .024         .002   −.017            .438        −.016         .068 −.027          .174   .010      .014
+                                a                    a                    a                  a                   a
+Unpublished                                                                                                                                   −.236         <.001 .126          575    −.238     <.001
+k                               55                   547                  125                112                 230                          247                  209                 69
+Log pseudolikelihood            8345.46              289,965.96           86,077.80          252,601.44          116,302.94                   1,423,496.7          985,949.56          5364.90
+
+
+a
+    Omitted from the model because of limited number of effects sizes
+b
+    Virtue score not included in the model as included in the DV
+                                                                                                                                                                                                         J. of the Acad. Mark. Sci. (2020) 48:360–383
+
+===== PAGE 12 =====
+J. of the Acad. Mark. Sci. (2020) 48:360–383                                                                                       371
+
+
+subject design, the impact of the label is stronger for purchase    Identifying healthier options easier with FOP labels Even
+intention (β = .182, p < .001) but weaker for healthfulness per-    though previous work has found strong support for interpretive
+ceptions (β = −.345, p < .001). The field in which the article is   nutrient-specific labels helping consumers identify healthy
+published also seems to affect the strength of the effects, with    products (Hersey et al. 2013; Volkova and Ni Mhurchu
+marketing and consumer studies showing more positive ef-            2015), in line with Ducrot et al. (2015) we find that interpretive
+fects for product attitude (β = .495, p <.01) and actual con-       summary indicators are most easily understood by consumers,
+sumption (β = .121, p <.05).                                        allowing them to identify healthy products more accurately.
+   We find that the effects for FOP labels have changed slight-     However, the effect of all FOP labels on consumers’ ability to
+ly over time. More recent studies on healthier choice behavior      identify healthier options is positive, suggesting that FOP labels
+(β = −.016, p <.10), attitudes (β = .024, p <.01), and consump-     are able to cover the first part of the goal set by the FDA (2010):
+tion (β = .010, p <.05) show weaker effects than earlier articles   Bincrease the proportion of consumers who readily notice, un-
+on FOP labeling. Furthermore, we find some differences in the       derstand ... the available information.^ Though all labels help
+effect sizes between published and unpublished studies, with        consumers, based on our results, an overall summary of the
+unpublished studies showing more negative effects on healthy        healthfulness is more beneficial than a focus on individual nu-
+choices (β = −.236, p < .001) and consumption (β = −.238,           trients. However, whether this knowledge of a product’s relative
+p < .001), when controlling for other factors.                      healthfulness translates into healthier choice and purchase be-
+                                                                    havior, the second part of the FDA goal for FOP labels, is less
+                                                                    clear from existing research.
+Discussion
+                                                                    Knowing what is healthier does not directly translate into
+                                                                    healthier behaviors Although we find that all label types have
+A wealth of research has tried to understand the antecedents of
+                                                                    positive effects on consumers’ choice of healthier options,
+health label usage among consumers and consumers’ attitudes
+                                                                    these effects are much smaller than for the identification of
+toward food labeling. This stream of literature often focuses
+                                                                    the healthier options. Purchase intentions are only influenced
+on a subjective understanding of FOP labels (Borgmeier and
+                                                                    by interpretive label types, which increase consumers’ inten-
+Westenhoefer 2009; Grunert and Wills 2007)—that is, wheth-
+                                                                    tions to buy virtue products. However, the literature provides
+er consumers believe they understand the information provid-
+                                                                    limited evidence for effects of FOP labels on consumers’ in-
+ed on food labels—which does not necessarily reflect their
+                                                                    tentions to purchase unhealthy vice products. Taken together
+actual attitudes or behaviors (Levy et al. 1992). The studies
+                                                                    with the results indicating the consumers are not adapting their
+included in our meta-analysis, however, examine this issue in
+                                                                    consumption behaviors (i.e., the actual intake of food) based
+more objective terms, showing that FOP labels indeed help
+                                                                    on FOP labels, our results question whether FOP labels are
+consumers identify and compare healthier products. Our work
+                                                                    able to reach the second part of the FDA goal, to Buse the
+provides the first quantitative interdisciplinary generalization
+                                                                    available information to make more nutritious choices for
+of the effects of the different FOP labels. Below and in Table 3
+                                                                    themselves and their families, and thereby prevent or reduce
+we summarize the key findings based on our results.
+                                                                    obesity and other diet-related chronic disease.^
+                                                                       One explanation for the improved ability to identify health-
+Key findings                                                        ier options not leading to similarly strong effects on purchase
+                                                                    intentions and consumption behavior stems from the many
+FOP labels steal attention from the NFP The results show that       other factors driving food purchases. Despite the increase in
+the presence of FOP labels may reduce the attention con-            consumer health consciousness (e.g., Michaelidou and Hassan
+sumers pay to the NFP, suggesting a strong reliance on the          2008), tastiness remains a key driver of food choice
+information presented on the front. This especially seems to be     (Raghunathan et al. 2006). We find that highlighting a prod-
+the case with labels that do not offer the same information as      uct’s healthfulness through interpretive FOP labels hurts the
+the NFP: either claims focusing on individual nutrients or          tastiness evaluations of food products, offering support to the
+rating labels offering a summary of the overall healthfulness       notion that the Bunhealthy = tasty^ intuition (Mai and
+of the product. This underscores the importance of carefully        Hoffmann 2015; Raghunathan et al. 2006) may be a limiting
+reviewing the information presented on the front and                factor in nutritional information leading to healthier choices.
+implementing clear regulations against misleading or simple         This effect is especially strong for nutrient content claims,
+claims, which may lead consumers to overgeneralize the in-          health claims, and health logos. However, we find no positive
+formation to the overall healthfulness of the product (Roe et al.   effect for warning labels, as expected from the negative effect
+1999; Burton et al. 2014). Given the limited number of studies      on healthfulness perceptions. This suggests a potential way to
+on this issue, further research is necessary to confirm these       battle the Bunhealthy = tasty^ intuition, though further re-
+findings and to better understand the underlying process.           search is needed.
+
+===== PAGE 13 =====
+372                                                                                J. of the Acad. Mark. Sci. (2020) 48:360–383
+
+Table 3    Key findings based on the HOMA
+
+
+        Facet of                           Best
+                                                                               Key take-aways
+      effectiveness               front-of-package label
+
+                                                                 While reductive nutrient-specific do not alter
+                                Reductive Nutrient-Specific        the attention to nutritional information,
+      Attention to
+                                                                  Interpretive labels drive away consumers’
+         NFP                                                                attention from the NFP
+
+                                                                   All three types of front-of-package labels
+                                                                  increase the perceived healthfulness of vice
+                                                                 products. Interpretive nutrient-specific labels
+                                                                   are the only ones (positively) influencing
+      Healthfulness                    No clear winner
+                                                                  virtues as well, but there is strong variation
+                                                                between the specific labels within the category,
+                                                                   and the positive effect is mainly driven by
+                                                                                  health claims.
+                                                                Both types of interpretive labels have a strong,
+                                                                negative impact on the tastiness perception of
+          Tastiness                    No clear winner
+                                                                  virtue products, showing support for the
+                                                                          unhealthy = tasty intuition
+                                                                Both reductive and interpretive nutrient-specific
+                                   Interpretive Summary           labels hurt consumer attitudes toward virtue
+          Attitude                                               products, the latter also for vices. Interpretive
+                                                                 summary indicators do not hurt, but show no
+                                                                             positive impact, either.
+                                                                All three types of labels clearly help consumers
+                                   Interpretive Summary          identify healthier options, reaching one of the
+         Healthy
+                                                                 main goals of front-of-package labeling by the
+      identification                                            FDA. Interpretive summary indicators show the
+                                                                                strongest effect.
+                               Interpretive Nutrient-Specific        The effect sizes in relation to purchase
+                                                                intentions are overall limited. Both interpretive
+          Purchase
+                                                                   label types show a positive impact on the
+          intention                                             purchase intentions of virtues, but no label type
+                                                                    lowers consumer interest toward vices.
+
+                                                                 All label types show some positive effect on
+   Healthy choice                      No clear winner
+                                                                    consumers’ making healthier choices.
+
+
+                                                                 Front-of-package labeling, regardless of the
+                                                                     type, is not influencing consumers’
+      Consumption                      No clear winner
+                                                                consumption, calling into question their ability
+                                                                        to influence eating behavior.
+
+===== PAGE 14 =====
+J. of the Acad. Mark. Sci. (2020) 48:360–383                                                                                     373
+
+
+   Another explanation may be that simply providing more                 Research has also found that Multiple Traffic Light
+nutrition information may not lead to direct changes in behav-        labels especially increase attention to negative nutrients
+ior (Balasubramanian and Cole 2002), and FOP labels may               (Jones and Richardson 2007). This helps explain the
+simplify the search process mainly for those already interested       negative effect of Multiple Traffic Light labels in virtue
+in buying healthier products (Aschemann-Witzel et al. 2013a;          categories: if a product in a virtue category scores red
+Lobstein and Davies 2009). Indeed, we show that the impact            on one or more nutrients, it might have a harmful im-
+of FOP labeling on perceived healthfulness is more pro-               pact on the overall perception of the product’s nutrition-
+nounced in studies with a higher proportion of female partic-         al value. Overall, none of the individual labels seems
+ipants, who tend to be more health conscious (Lassen et al.           capable of influencing the healthfulness perceptions of
+2016). We thus find that the labels allowing consumers to             virtues positively and vices negatively, warranting addi-
+more easily identify healthier options are not necessarily the        tional research on the topic.
+ones that lead to healthier choices. This is in line with the
+notion that the provision of information alone does not direct-       Less impactful front-of-packaging label for familiar brands
+ly lead to changes in behavior.                                       Finally, our moderator analysis suggests that FOP labels
+                                                                      influence the perceived healthfulness of known brands.
+Misleading interpretation of healthfulness information To             This finding is in line with existing research suggesting
+avoid misleading consumers or promoting unhealthy prod-               that labeling is less influential when consumers have
+ucts, FOP labels should ideally have a negative impact on             already formed opinions about products and therefore
+the perceived healthfulness of vice products and a positive           pay less attention to labels (Becker et al. 2015).
+impact on that of healthy products (Talati et al. 2016).              Limited research has thus far been conducted in real
+However, we find that all three label types have some positive        shopping situations, in which consumers are mainly
+influences on the perceived healthfulness of vice products            faced with known and familiar brands, but this finding
+(Table 1). Thus, FOP labels may lead consumers to believe             indicates that simply adding FOP labels may not be
+that the product is healthier on all aspects, suggesting a poten-     enough to change consumer perceptions.
+tial halo effect of these labels. The effects for health claims and
+health logos, despite their dissimilar content and focus, seem        Implications
+highly similar across multiple different outcome variables.
+This implies that consumers may perceive an interpretive              Our results allow a better understanding of the aspects affect-
+nutrient-specific health claim as an indicator of overall health-     ing the effectiveness of FOP labels of use for both public
+fulness, in support of prior work on health halos, which has          policymakers and marketers.
+found that consumers use information about specific attributes
+a basis of inference in the absence of information about a            For public policymakers We find that to meet a key goal
+product’s overall healthfulness (Roe et al. 1999). Thus, a pos-       of FOP labels to help consumers identify healthier op-
+itive claim about a specific nutrient can lead consumers to           tions from product sets, interpretive summary indicator
+assign similar positive values on other attributes, and overall       labels are most helpful. Importantly, these labels may be
+healthfulness. Interestingly, consumers seem less influenced          most beneficial for consumers lacking the ability to in-
+by nutrient-content claims, such as 30% less sugar, than health       terpret more detailed nutrition information, who may be
+claims. Possibly, consumers are aware of the stricter regula-         more at risk for health issues related to unhealthy con-
+tion surrounding health claims, and therefore more suspicious         sumption (Ducrot et al. 2015). By contrast, given pre-
+of the more relative nutrient-content claims. This could indi-        vious findings on consumer preferences (see Méjean
+cate an even stronger reliance on the health halos created by         et al. 2013), public policymakers and manufacturers
+the health claims consumers consider trustworthy.                     should consider label types combining detailed nutrition
+    Though in line with previous research (Talati et al. 2016), it    information with an interpretive aspect, such as the
+is less clear why labels offering (negative) information regard-      Multiple Traffic Light. However, they should also note
+ing multiple nutrients, such as the reductive nutrient-specific       that these may have a negative influence on the percep-
+labels and the Multiple Traffic Light Labels, have a similar          tions of healthy food products. A potential solution may
+positive effect on the perceived healthfulness of vice products.      be to combine the two label types, adding a traffic light
+It is possible that consumers’ perception of the healthfulness        for the overall healthfulness of the product (Temple and
+of vice products is already very low based on category knowl-         Fraser 2014).
+edge and expectations, and the provision of nutrition informa-           The recently popularized warning labels offer prom-
+tion leads to an adaptation to a more moderate perception.            ising results in driving healthier choices among con-
+This possible explanation however, requires further research          sumers. These labels negatively influence consumers’
+as it has not been studied so far.                                    perceptions of both the healthfulness and tastiness of
+
+===== PAGE 15 =====
+374                                                                                        J. of the Acad. Mark. Sci. (2020) 48:360–383
+
+
+unhealthy food products. However, this effect remains           Limitations and future research directions
+negative in virtue categories as well, in which, for ex-
+ample, an otherwise healthy product high in sodium              While meta-analyses provide generalizable results, they come
+may also be hurt by the sodium-warning label.                   with their own limitations. First, although we carefully
+Therefore, it is critical to understand consumers’ reac-        scanned various databases and journals for all relevant litera-
+tions to warning labels in more detail: if consumers            ture, it is possible that we failed to identify some publications.
+switch from labeled products, what do they choose as            We also excluded many studies identified for this meta-
+alternatives?                                                   analysis because of unavailable data. Higher reporting stan-
+    However, the results also call for caution in relying       dards should be implemented across all disciplines and journal
+on the provision of nutrition information as a way to           tiers in order to allow future empirical generalizations.
+improve public health. Although we find that, in gener-         Second, in our analyses we filter out the most common meth-
+al, consumers are better able to identify healthier op-         odological choices of the primary studies included in our sam-
+tions from a set of products when FOP labels are pres-          ple, missing out other study characteristics that may bias re-
+ent, the effects on healthier choice are weaker, though         sults. As our results highlight how these methodological
+still positive. The impact on consumption has received          choices and study characteristics affect results (e.g., the use
+insufficient attention in the literature, but it seems that     of familiar brands, female respondents, within-subject de-
+FOP labels are not influencing the amount consumers             signs), future studies should more carefully justify their re-
+eat, indicating their limited effectiveness in influencing      search design, and report additional robustness checks.
+behaviors. Although providing consumers information             Third, all the studies included assume consumer awareness
+about the foods they consume in a simpler, faster-to-           of the label. However, many factors demand consumers’ at-
+process format is certainly beneficial, it remains crucial      tention at the point of purchase and also influence their moti-
+to find more ways to increase their motivation to con-          vation and ability to read FOP labels. These factors will cer-
+sume healthy foods.                                             tainly influence our findings, which are only suggestive of
+                                                                effects from consumers actually paying attention to the labels
+For marketing practice Overall, our results suggest that        (van Kleef and Dagevos 2015). Table 4 highlights some of the
+the impact of FOP labels on consumers’ purchasing be-           key questions for future research to investigate with regard to
+havior is rather limited. However, consumers do react           front-of package labels.
+positively to health and nutrient content claims. A re-
+sponsible marketer should be cautious though: these la-         Policymaker and consumer perspective One of the crucial
+bels may increase sales of unhealthy items as well.             factors requiring better understanding is the interaction be-
+Little is known about consumers’ reactions to retailers         tween different label types and consumer characteristics.
+or manufacturers that promote unhealthy items through           Research indicates that factors pertaining to, for example, con-
+the creation of health halos. By contrast, warning labels       sumers’ health motivation and knowledge have an impact on
+show a negative influence on purchase intentions of the         the effects related to consumer behavior and nutrition labeling
+products carrying the warnings. As such labeling may            (Hieke and Taylor 2012). Future work should aim to under-
+become increasingly common across various countries,            stand the moderators of FOP labeling effects in more detail,
+manufacturers may want to offer a healthier alternative         especially by considering personality factors and ways to draw
+so that consumers switching from the warning-labeled            consumers’ attention to the label. Given the criticism that FOP
+products can do so within the same brand offering.              labels may only help consumers who are already desiring
+Alternatively, it seems beneficial to adjust recipes and        healthier food options, future research should investigate
+avoid the implementation of the warning labels on prod-         which types of labels help encourage healthier consumption
+ucts altogether.                                                among the less health conscious (those more at risk of the
+   Our results also indicate that FOP labels may influence      various negative health consequences of unhealthy
+consumers’ overall product attitudes. That is, consumers seem   consumption).
+to react negatively to health and nutrient content claims but      Furthermore, much of the research on FOP labels assesses
+positively to interpretive summary indicators. This suggests    the effects across a range of consumers, assuming that their
+that brands can use FOP labeling to build health associations   perceptions of products and their healthfulness are fairly ho-
+(see Bollinger et al. 2018). Conversely, health and nutrient    mogeneous. However, healthfulness can mean different things
+content claims, which consumers do not always trust (Kozup      to different consumers: while some consumers might be fo-
+et al. 2003), may also hurt the brand. Marketers should be      cusing on avoiding the intake of excess calories, others may
+careful in deciding which labels to implement not only be-      be limiting their sugar consumption or seeking gluten-free
+cause of a direct impact on sales but also because of the       products because of intolerance or allergies. It is important
+broader impact on the brand.                                    to understand how individual differences in perceived
+
+===== PAGE 16 =====
+J. of the Acad. Mark. Sci. (2020) 48:360–383                                                                                                         375
+
+Table 4    Suggestions for future research
+
+Perspective                   Focus             Example questions
+
+Policymaker and consumer 1. Reach               Do different label formats influence consumers with differing levels of health consciousness or nutrition
+  perspective                                     knowledge?
+                              2. Effectiveness Do front-of-package nutrition labels help consumers who are most at risk for health issues related to
+                                                 unhealthy consumption or simplify choices of consumers already interested in healthy consumption?
+                                               How do consumers’ subjective perceptions of product healthfulness influence the effectiveness and
+                                                 outcomes related to front-of-package labeling?
+                                               Can front-of-package nutrition labels help increase consumer motivation to consumer healthier foods?
+                                               Do the possible effects of front-of-package labels hold over time, or is their impact mainly driven by the
+                                                 newness of recently implemented new labeling?
+Manufacturer perspective      1. Product       Does the implementation of front-of-package nutrition labeling motivate manufacturers to develop
+                                 development     healthier products?
+                              2. Label design How do the design factors of nutrition and health labels, such as their shape, coloring, and placement on
+                                                 the package, influence their effectiveness in attracting attention and influencing consumers’ choices?
+                                               How are consumers influenced by packaging carrying multiple (different forms of) front-of-package
+                                                 nutrition labels simultaneously? What about in combination with other labels not directly related to
+                                                 health (e.g., organic-production claims or allergen information)?
+                              3. Brand image    How does the voluntary implementation of front-of-package nutrition labels influence the brand’s image
+                                                  or consumer perceptions of the manufacturer? Can brands gain positive value by simplifying the
+                                                  search of consumers for healthier products and signaling concern for public health?
+                                                Can front-of-package labels attract attention and change behaviors in the cluttered retail environment?
+                                                  Which label formats are best in these situations?
+                                                Do consumers’ past experiences with brands influence front-of-package labels’ ability to influence
+                                                  consumer perceptions of products from known brands?
+
+
+
+healthfulness influence the impact of different types of FOP                   these design factors on the effectiveness of FOP label-
+labels. For example, our results suggest that consumers react                  ing is necessary. Knowledge on consumer reactions to
+differently to labels on healthy and unhealthy products de-                    design details, framing, or even the abstractness of the
+pending on their subjective perceptions.                                       information presented may offer new insights into the
+   Relatedly, our results show that while most FOP labels can                  Bbest^ FOP label.
+help consumers identify healthier products, this does not directly                Moreover, only a small number of studies in our analysis
+translate into the choice of these products. In other words, con-              examine the simultaneous impact of various FOP labels.
+sumers’ lack of knowledge about the healthfulness of products is               Future work should aim to understand how nutrition and
+not the only issue driving their food choices, and knowing                     health claims interact with reductive label types or interpretive
+whether a product is healthy does not help if the consumer is                  summary indicators, such as rating labels. Similarly, assessing
+not interested in finding healthy options. As such, future work                the interplay of FOP labels and other information provided on
+should aim to understand the factors that make consumers prefer                the package can help explain how consumers react to the
+less healthy products and to find ways to counteract these. Do                 complexity of the information provided at the point of sale.
+any FOP labels increase consumers’ health motivation at the                    Would consumers react to negative information in a nutrition
+point of purchase? If so, can this explain some of the differences             label differently if the package also carried claims of natural-
+between the effectiveness of the different labels? Indeed, little is           ness or superior tastiness?
+known about the psychological mechanisms underlying the                           Finally, we focused only on the consumer perspective. It
+(un)effectiveness of FOP labeling.                                             seems relevant to study FOP labels from a more systemic
+                                                                               point of view. For example, the implementation of different
+Manufacturer and marketer perspective Most of the re-                          FOP labels can motivate manufacturers to refine their rec-
+search on FOP labeling is based on marketplace exam-                           ipes, leading to healthier product assortments (Lobstein
+ples of different label types and designs, leading to a                        and Davies 2009). Such a change would be a fruitful -
+focus on comparing the various labels and their impact                         albeit long term - avenue toward healthier consumption
+on a range of outcomes but not on the design factors                           patterns. Similar points can be made with regard to re-
+contributing to these differences. Although some work                          tailers, who might be inclined to include products with
+has examined the impact of different shapes and colors                         FOP labels in their assortments, in order to improve their
+on the effectiveness of warning labels (Cabrera et al.                         overall image as a responsible retailer, and to attract the
+2017), a more detailed understanding of the impact of                          growing segment of health-conscious consumers.
+
+===== PAGE 17 =====
+376
+
+Appendix 1
+Table 5   Summary of articles included in the meta-analysis
+
+      Authors                               Outlet                               Year, vol(issue), Labels studied                         Dependent variables
+                                                                                 pp
+
+ 1    Acton & Hammond                       Appetite                             2018, 121(1),    Warning label; rating label             Healthy choice
+                                                                                   129–137
+ 2    Andrews, Burton & Kees                Journal of Public Policy & Marketing 2011, 30(2),     Health logo; Multiple Traffic Light     Healthfulness perception; attitude; purchase intention
+                                                                                   175–190
+ 3    Antúnez et al.                        International Journal of Food        2013, 64(5),     Multiple Traffic Light                  Attention to NFP
+                                               Sciences and Nutrition              515–527
+ 4    Ares et al.                           Food Quality & Preference            2018, 65(1),     Warning label                           Healthy choice; purchase intention
+                                                                                   40–48
+ 5    Ares et al.                           Food Quality & Preference            2018, 68(1),     Rating label; warning label             Healthfulness perception; purchase intention
+                                                                                   215–225
+ 6    Ares, Besio, Gímenez & Deliza         Appetite                             2010, 55(2),     Nutrient content claim                  Purchase intention
+                                                                                   298–304
+ 7    Ares, Gímenez & Deliza                Food Quality & Preference            2010, 21(4),     Health claim                            Purchase intention
+                                                                                   361–367
+ 8    Ares, Gímenez & Gámbaro               Food Quality & Preference            2009, 20(1),     Nutrient content claim; health claim    Healthfulness perception; purchase intention
+                                                                                   50–56
+ 9    Ares, Mawad, Gímenez & Maiche         Food Quality & Preference            2014, 31(1),     Multiple Traffic Light                  Purchase intention
+                                                                                   28–37
+ 10   Belei, Geyskens, Goukens,             Journal of Marketing Research        2012, 49(6),     Health claim; nutrient content claim    Consumption
+         Ramanathan & Lemmink                                                      900–909
+ 11   Benson et al.                         Nutrients                            2018, 10(5),     Nutrient content claim; health claim    Tastiness perception; healthfulness perception
+                                                                                   656–671
+ 12   Bialkova, Sasse & Fenko               Appetite                             2016, 96(1),     Nutrient content claim                  Healthfulness perception; tastiness perception; purchase intention
+                                                                                   38–46
+ 13   Billich et al.                        Appetite                             2018, 128(1),    Warning label; monochrome label; rating Healthy choice
+                                                                                   233–241          label
+ 14   Bix et al.                            PLoS One                             2015, 10(10).    Multiple Traffic Light                  Attention to NFP
+                                                                                   e0139732
+ 15   Bollard, Maubach, Walker & Mhurchu International Journal of Behavioral     2016, 13(1),     Warning label                           Healthfulness perception; tastiness perception; attitude
+                                               Nutrition and Physical Activity     95–102
+ 16   Borgmeier & Westenhoefer              BMC Public Health                    2009, 9(1),      Health logo; Multiple Traffic Light;    Identification of healthier products
+                                                                                   184–196          monochrome label
+ 17   Burke, Milberg & Moe                  Journal of Public Policy & Marketing 1997, 16(2),     Nutrient content claim                  Purchase intention
+                                                                                   242–255
+ 18   Carbonneau et al.                     British Journal of Nutrition         2015, 114(12),   Nutrient content claim; monochrome      Healthfulness perception; tastiness perception; consumption
+                                                                                   2138–2147        label
+ 19   Carrad, Louie, Milosavljevic, Kelly & Australian & New Zealand Journal of 2015, 39(4),      Multiple Traffic Light; rating label    Identification of healthier products
+         Flood                                 Public Health                       355–357
+ 20   Carter & González-Vallejo             Appetite                             2018, 125(1),    Monochrome label                        Identification of healthier products
+                                                                                   512–526
+ 21   Coleman, Miah, Morris & Morris        International Journal of Food        2014, 65(2),     Health claim                            Attitude; purchase intention
+                                               Sciences and Nutrition              164–171
+ 22   Colson & Grebitus                     Agribusiness                         2017, 33(2),     Health logo                             Purchase intention
+                                                                                   151–159
+ 23   Crockett, Jebb, Hankins & Marteau     Appetite                             2014, 81(1),     Nutrient content claim; warning label   Consumption
+                                                                                   12–19
+                                                                                                                                                                                                               J. of the Acad. Mark. Sci. (2020) 48:360–383
+
+===== PAGE 18 =====
+Table 5 (continued)
+
+      Authors                                 Outlet                                 Year, vol(issue), Labels studied                             Dependent variables
+                                                                                     pp
+
+ 24   De Marchi, Caputo, Nayga Jr. &          Food Policy                            2016, 62(1),     Health claim                                Purchase intention
+        Banterle                                                                       99–109
+ 25   Dixon et al.                            Public Health Nutrition                2011, 14(6),     Nutrient content claim                      Healthfulness perception; tastiness perception; attitude; purchase
+                                                                                       1071–1079                                                     intention
+ 26   Dixon et al.                            Pediatric Obesity                      2014, 9(2),      Nutrient content claim                      Healthfulness perception; tastiness perception; attitude; purchase
+                                                                                       e47-e57                                                       intention
+ 27   Ducrot et al.                           PLoS One                               2015, 10(10),    Monochrome label; Multiple Traffic          Identification of healthier products
+                                                                                       e0140898         Light; rating label; health logo
+ 28   Ducrot et al.                           American Journal of Preventive         2016, 50(5),     Monochrome label; Multiple Traffic          Healthy choice
+                                                                                                                                                                                                                       J. of the Acad. Mark. Sci. (2020) 48:360–383
+
+
+
+
+                                                Medicine                               627–636          Light; rating label; health logo
+ 29   Ducrot et al.                           Nutrients                              2015, 7(8),      Monochrome label; Multiple Traffic          Identification of healthier products
+                                                                                       7106–7125        Light; rating label; health logo
+ 30   Dunbar                                  Appetite                               2010, 55(3),     Monochrome label; Multiple Traffic          Healthy choice; identification of healthier products
+                                                                                       431–435          Light
+ 31   Ebneter, Latner & Nigg                  Appetite                               2013, 68(1),     Nutrient content claim; monochrome          Healthfulness perception; tastiness perception; consumption
+                                                                                       92–97            label
+ 32   Edge, Toner, Kapsak & Geiger            Journal of the Academy of Nutrition    2014, 114(6),    Monochrome label                            Identification of healthier products
+                                                and Dietetics                          843–854
+ 33   Egnell et al.                           Nutrients                              2018, 10(9),     Rating label; Multiple Traffic Light        Healthy choice
+                                                                                       1268–1281
+ 34   Egnell et al.                           PLoS One                               2018, 13(8),     Rating label; warning label; Multiple       Identification of healthier products
+                                                                                       e0202095         Traffic Light; monochrome label
+ 35   Egnell, Talati, Hercberg, Pettigrew &   Nutrients                              2018, 10(10),    Rating label; Multiple Traffic Light;       Identification of healthier products
+         Julia                                                                         1542–1557        warning label
+ 36   Elshiewy & Boztug                       Journal of Public Policy & Marketing   2018, 37(1),     Monochrome label                            Healthy choice
+                                                                                       55–67
+ 37   Emrich et al.                           Applied Physiology, Nutrition and      2014, 39(1),     Health logo; Multiple Traffic Light;        Healthfulness perception
+                                                Metabolism                             417–424          Monochrome label
+ 38   Enax et al.                             Frontiers in Psychology                2015, 6(882),    Health logo                                 Tastiness perception; purchase intention
+                                                                                       1–11
+ 39   Fenko, Kersten & Bialkova               Food Quality & Preference              2016, 48(1),     Health logo                                 Attitude; Purchase intention
+                                                                                       81–92
+ 40   Fisher                                  Appetite                               2018, 120(1),    Monochrome label                            Healthfulness perception; tastiness perception
+                                                                                       500–504
+ 41   Ford, Hastak, Mitra & Ringold           Journal of Public Policy & Marketing   1996, 15(1),     Health claim                                Healthfulness perception
+                                                                                       16–27
+ 42   Franckle, Levy, Macias-Navarro,         Public Health Nutrition                2018, 21(8),     Warning label                               Healthy choice
+         Rimm & Thorndike                                                              1426–1434
+ 43   Goodman, Hammond, Hanning &             Public Health Nutrition                2013, 16(3),     Monochrome label; Multiple Traffic            Healthy choice
+         Sheeshka                                                                      383–391           Light; single traffic light
+ 44   Gorski Findling et al.                  Preventive Medicine                    2018, 106(1),    Single traffic light; Multiple Traffic Light; Healthy choice; healthfulness perception; tastiness perception;
+                                                                                       114–121           rating label; monochrome label               purchase intention; identification of healthier products
+ 45   Gracia, Loureiro & Nayga Jr.            Food Quality & Preference              2009, 20(7),     Nutrient content claim                        Purchase intention
+                                                                                       463–471
+ 46   Graham, Heidrick & Hodgin               Journal of the Academy of Nutrition    2015, 115(10),   Monochrome label; Multiple Traffic          Attention to NFP
+                                                and Dietetics                          1636–1646        Light
+ 47   Graham, Lucas-Thompson, Mueller,        Public Health Nutrition                2017, 20(5),     Monochrome label; Multiple Traffic          Healthy choice
+        Jaeb & Harnack                                                                 774–785          Light
+48*                                           Advances in Consumer Research                           Health logo                                 Healthy choice
+                                                                                                                                                                                                                       377
+
+===== PAGE 19 =====
+378
+
+Table 5 (continued)
+
+     Authors                              Outlet                              Year, vol(issue), Labels studied                         Dependent variables
+                                                                              pp
+
+     Goeppel-Klein, Wsowicz-Kiryo,                                            2013, 41,
+       Koenigstorfer & Styko-Kunkowska                                          578–579
+49   Hamlin & McNeill                  Nutrients                              2016, 8(6),      Rating label                            Purchase intention
+                                                                                327–341
+50 Hartley, Keast & Liem                 Public Health Nutrition              2018, 21(8),     Rating label                            Consumption; tastiness perception
+                                                                                1435–1443
+51 Hassan, Shiu & Michaelidou            Journal of Consumer Affairs          2010, 44(3),     Monochrome label                        Purchase intention
+                                                                                499–515
+52 Hieke & Newman                        Journal of Consumer Affairs          2015, 49(3),     Monochrome label                        Healthy choice
+                                                                                613–626
+53* Holtrop, Cleeren, Geyskens & Verhoef Working paper                        2018             Nutrient content claim                  Purchase (intention)
+54 Huang & Lu                            Journal of Food Products Marketing 2016, 22(2),       Nutrient content claim                  Healthfulness perception; purchase intention
+                                                                                191–218
+ 55 Julia et al.                         International Journal of Behavioral  2016, 13(1),     Rating label                            Healthy choice
+                                            Nutrition and Physical Activity     101–110
+ 56 Jurado & Gracia                      Nutrients                            2017, 9(2),      Nutrient content claim                  Purchase intention
+                                                                                132–147
+ 57 Kees, Boyne & Cho                    Journal of Consumer Affairs          2014, 48(1),     Monochrome label; Multiple Traffic      Attention to NFP
+                                                                                147–174          Light
+ 58 Keller et al.                        Journal of Public Policy & Marketing 1997, 16(2),     Nutrient content claim                  Attitude
+                                                                                256–269
+ 59 Kozup, Creyer & Burton               Journal of Marketing                 2003, 67(2),     Health claim                            Healthfulness perception; attitude; purchase intention
+                                                                                19–34
+ 60 Krystallis & Crysochou               Agribusiness                         2012, 28(1),     Nutrient content claim                  Purchase intention
+                                                                                86–102
+ 61 Lähteenmäki et al.                   Food Policy                          2010, 35(3),     Health claim                            Healthfulness perception; tastiness perception; attitude
+                                                                                230–239
+ 62 Liem, Aydin & Zandstra               Food Quality & Preference            2012, 25(2),     Nutrient content claim; health logo     Healthfulness perception; attitude
+                                                                                192–197
+ 63 Liem, Miremadi, Zandstra & Keast     Public Health Nutrition              2012, 15(12),    Nutrient content claim; health logo     Tastiness perception; purchase intention
+                                                                                2340–2347
+ 64 Loebnitz & Grunert                   Food Quality & Preference            2018, 64(1),     Nutrient content claim                  Purchase intention
+                                                                                221–231
+ 65 Machín et al.                        Public Health Nutrition              2018, 21(1),     Multiple Traffic Light; warning label   Healthy choice
+                                                                                49–57
+66 Machín, Aschemann-Witzel,             Appetite                             2018, 121(1),    Multiple Traffic Light; warning label   Healthy choice
+       Curutchet, Giménez & Ares                                                55–62
+67 Masic, Christiansen & Boyland         Appetite                             2017, 112(1),    Monochrome label                        Healthy choice
+                                                                                52–58
+68 Maubach, Hoek & Mather                Appetite                             2014, 82(1),     Multiple Traffic Light; monochrome      Healthfulness perception
+                                                                                67–77            label; rating label
+69 Menger-Ogle & Graham                  Food Quality & Preference            2018, 66(1),     Nutrient content claim                  Healthfulness perception; tastiness perception; attitude; purchase
+                                                                                160–170                                                  intention
+70 Mhurchu et al.                        American Journal of Clinical         2017, 105(3),    Multiple Traffic Light; rating label    Healthy choice
+                                            Nutrition                           695–704
+71 Miller, Castellanos, Shide, Peters &  American Journal of Clinical         1998, 68(2),     Nutrient content claim                  Consumption
+       Rolls                                Nutrition                           282–290
+72 Mitra, Hastak, Ford & Ringold         Journal of Public Policy & Marketing 1999, 18(1),     Health claim                            Healthfulness perception
+                                                                                106–117
+                                                                                                                                                                                                            J. of the Acad. Mark. Sci. (2020) 48:360–383
+
+===== PAGE 20 =====
+Table 5 (continued)
+
+      Authors                              Outlet                              Year, vol(issue), Labels studied                              Dependent variables
+                                                                               pp
+
+ 73   Mohebalian, Aguilar & Cernusca       HortScience                         2013, 48(3),       Health claim                               Purchase intention
+                                                                                 338–346
+ 74   Mohebalian, Cernusca & Aguilar       HorTechnology                       2012, 22(4),       Health claim                               Purchase intention
+                                                                                 556–566
+ 75   Moran & Roberto                      American Journal of Preventive      2018, 55(2),       Monochrome label; warning label            Purchase intention; healthfulness perception; attitude; healthy
+                                              Medicine                           e19-e27                                                       choice
+ 76   Neal et al.                          Nutrients                           2017,              Multiple Traffic Light; monochrome         Healthy choice
+                                                                                 9(12),1284–1-     label; rating label
+                                                                                 298
+                                                                                                                                                                                                                  J. of the Acad. Mark. Sci. (2020) 48:360–383
+
+
+
+
+ 77   Newman, Burton, Andrews,             Journal of the Academy of Marketing 2018, 46(3),       Monochrome label; rating label             Purchase intention
+        Netemeyer & Kees                      Science                            453–476
+ 78   Newman, Howlett & Burton             Journal of Retailing                2014, 90(1),       Monochrome label; health logo; rating      Healthy choice; healthfulness perception; attitude; purchase
+                                                                                 13–26              label                                      intention
+ 79   Newman, Howlett & Burton             Journal of Consumer Research        2016, 42(5),       Rating label                               Healthy choice
+                                                                                 749–766
+ 80   Norton, Fryer & Parkinson            Food Quality & Preference           2013, 28(1),       Nutrient content claim                     Tastiness perception
+                                                                                 101–105
+ 81   Oliveira, Ares & Deliza              Journal of Sensory Studies          2017, 32(3),       Multiple Traffic Light                     Tastiness perception
+                                                                                 e12261
+ 82   Ono & Ono                            Journal of Consumer Marketing       2015, 32(7),       Health claim; health logo                  Healthfulness perception
+                                                                                 542–550
+ 83   Orquin                               Journal of Consumer Behaviour       2014, 13(4),       Nutrient content claim; health claim;      Healthfulness perception
+                                                                                 270–281            health logo
+ 84   Orquin & Scholderer                  Food Policy                         2015, 51(1),       Nutrient content claim; health claim       Healthfulness perception; tastiness perception; purchase intention
+                                                                                 144–157
+ 85   Øvrum, Alfnes, Almli & Rickertsen    Food Policy                         2012, 37(5),       Health logo                                Purchase intention
+                                                                                 520–529
+86* Plassman, Chandon, Wadhwa, Linder      Advanced in Consumer Research       2011, 39,          Nutrient content claim                     Consumption; tastiness perception
+       & Weber                                                                   102–102
+87 Roberto et al.                          American Journal of Preventive      2012, 43(2),       Multiple Traffic Light; monochrome label Healthfulness perception; tastiness perception; purchase intention;
+                                              Medicine                           134–141                                                     Identification of healthier products
+ 88   Roberto et al.                       Preventing Chronic Disease          2012, 9(1), e149   Multiple Traffic Light                   Healthfulness perception; tastiness perception; purchase intention;
+                                                                                                                                             identification of healthier products
+ 89   Roberto et al.                       Appetite                             2012, 58(2),      Health logo                              Healthfulness perception; tastiness perception; purchase intention;
+                                                                                  651–657                                                    consumption; identification of healthier products
+ 90   Roe, Levy & Derby                    Journal of Public Policy & Marketing 1999, 18(1),      Nutrient content claim; health claim     Attention to NFP
+                                                                                  89–105
+ 91   Roseman, Joung & Littlejohn          Journal of the Academy of Nutrition 2018, 118(5),      Monochrome label; health logo              Identification of healthier products
+                                             and Dietetics                        904–912
+ 92   Savoie, Barlow, Harvey, Binnie &     Canadian Journal of Public Health    2013, 104(5),     Monochrome label; Multiple Traffic         Healthfulness perception
+        Pasut                                                                     e359-e363         Light; rating label
+ 93   Schouteten et al.                    Nutrients                            2015, 7(12),      Nutrient content claim                     Tastiness perception; purchase intention
+                                                                                  10,251–10,2-
+                                                                                  68
+ 94   Singer, Williams, Ridges, Murray &   Food Australia                       2006, 58(3),      Health claim                               Healthfulness perception
+         McMahon                                                                  92–97
+ 95   Steenhuis et al.                     Appetite                             2010, 55(3),      Health logo                                Healthfulness perception; tastiness perception; consumption
+                                                                                  707–709
+ 96   Vadiveloo, Morvitz & Chandon         Appetite                                               Health claim
+                                                                                                                                                                                                                  379
+
+===== PAGE 21 =====
+380
+
+Table 5 (continued)
+
+      Authors                              Outlet                               Year, vol(issue), Labels studied                            Dependent variables
+                                                                                pp
+
+                                                                                2013, 71(1),                                                Healthfulness perception; tastiness perception; attitude;
+                                                                                  349–356                                                     Consumption
+ 97   van Herpen & van Trijp               Appetite                             2011, 57(1),     Health logo; Multiple Traffic Light        Healthy choice
+                                                                                  148–160
+ 98   van Herpen, Hieke & van Trijp        Appetite                             2014, 72(1),     Monochrome label; Multiple Traffic         Healthfulness perception
+                                                                                  138–149          Light; health logo
+ 99   van Herpen, Seiss & van Trijp        Food Quality & Preference            2012, 26(1),     Health logo; Multiple Traffic Light;       Healthy choice
+                                                                                  22–34            monochrome label
+100* van Lin & van Herpen                  Working paper                        2018             Warning label                              Purchase (intention)
+ 101 van Trijp & van der Lans              Appetite                             2007, 48(3),     Nutrient content claim                     Healthfulness perception
+                                                                                  305–324
+102 VanEpps & Roberto                      American Journal of Preventive       2016, 51(5),     Monochrome label; warning label            Healthy choice; healthfulness perception; tastiness perception;
+                                             Medicine                             664–672                                                     attitude; purchase intention
+103 Vidal et al.                           Journal of Sensory Science           2013, 28(5),     Multiple Traffic Light                     Attention to NFP
+                                                                                  370–380
+104 Wang, Oostijnder, Amdam &              Journal of Nutrition Education and   2016, 48(2),     Health logo                                Healthfulness perception
+      Egelandsdal                            Behavior                             104–111
+105 Wansink                                Journal of Consumer Affairs          2003, 37(2),     Health claim                               Healthfulness perception
+                                                                                  305–316
+106 Wansink & Chandon                      Journal of Marketing Research        2006, 43(4),     Nutrient content claim                     Consumption; healthfulness perception
+                                                                                  605–617
+107 Watson et al.                          Appetite                             2014, 72(1),     Monochrome label; Multiple Traffic         Identification of healthier products; attention to NFP
+                                                                                  90–97            Light; rating label
+108 Willems, van Hout, Zijlstra & Zandstra Public Health Nutrition              2014, 17(5),     Nutrient content claim                     Tastiness perception
+                                                                                  1130–1137
+109 Wong et al.                            American Journal of Clinical         2013, 97(6),     Nutrient content claim; health claim       Healthfulness perception; purchase intention
+                                              Nutrition                           1288–1298
+110   Wong et al.                          European Journal of Clinical         2014, 68(8),     Nutrient content claim; health claim       Healthfulness perception; purchase intention
+                                              Nutrition                           946–952
+111   Yin & Özdinç                         International Journal of Consumer    2018, 42(2),     Nutrient content claim                     Purchase intention
+                                              Studies                             232–240
+112   Yoo et al.                           Food Research International          2017, 94(1),     Multiple Traffic Light; nutrient content   Tastiness perception
+                                                                                  108–114          claim
+113   Zandstra, Willems & Lion             Public Health Nutrition              2018, 21(15),    Nutrient content claim                     Tastiness perception; purchase intention
+                                                                                  2762–2772
+114   Zank & Kemp                          Journal of Consumer Affairs          2012, 46(2),     Nutrient content claim                     Healthfulness perception
+                                                                                  333–344
+                                                                                                                                                                                                              J. of the Acad. Mark. Sci. (2020) 48:360–383
+
+===== PAGE 22 =====
+J. of the Acad. Mark. Sci. (2020) 48:360–383                                                                                                                                        381
+
+
+Appendix 2
+
+Table 6          Effectiveness of different individual front-of-package labels (HOMA results on Fisher’s z back-transformed correlations)
+                                Reductive                                    Interpretive nutrient-specific labels                              Interpretive summary indicators
+                             nutrient-specific
+                                  labels
+
+
+                                  Monochrome          Traffic light         Nutrition claim          Health claim           Warning               Logo                 Rating
+                             k       Mean ES     k        Mean ES      k          Mean ES       k          Mean ES     k      Mean ES      k        Mean ES      k       Mean ES
+Attention to       Overall 15        .025        31         -.111      4           -.068***     4           -.044***                                             1       -.259***
+NFP
+Healthfulness      Overall   94       .010       69         -.029      59           .056***    124           .173***   67     -.055***     75        .056***    59       -.011
+                   Vice      46       .047*      30          .068*     18           .043       58            .087***   47     -.031        38        .088***    16        .005
+                   Virtue    43      -.017       29         -.102**    27           .053       63            .233**    19     -.120***     29        .019*      41       -.019
+Tastiness          Overall    8      -.046        8         -.020      64          -.223***    10           -.094***   7      -.035        18       -.304*      10        .019
+                   Vice       3      -.119        2          .050      8            .015        2           -.080       6     -.045         1       -.060        6        .018
+                   Virtue                                              51          -.286***     8           -.101**                        17       -.317*       2        .001
+Attitude           Overall   13      -.023       1           .090      45          -.007       16           -.144***   32     -.131***      3       -.046        2        .314***
+                   Vice      9        .005       1           .090      4           -.159**      7           -.047      28     -.133***      2       -.051        2        .314***
+                   Virtue     4      -.056**                            1          -.178        9           -.256***    4     -.118***      1       -.040
+Healthy            Overall   62       .266***    90          .188***                                                   18      .235***     15        .280***    45        .393***
+identification
+Purchase       Overall 27             .037       13         -.042      73           .058***     24           .151***   36     -.090***     13        .131**     23       -.025*
+intention      Vice    19             .061        1          .050      33           .022        11           .139***   22     -.082***      2       -.058        6       -.044*
+               Virtue  4              .033       2           .049      25           .170**      13           .163***   12     -.104**      11        .163***    13       -.010
+Healthy choice Overall 72             .093***    78          .040***                                                   29      .140***     13        .054***    55        .017
+Consumption Overall 6                -.008                             41           .058        7           -.070      2      -.035        5         .005       8         .006
+               Vice     2            -.068                             30           .031        2           -.213*     2      -.035        1        -.273        6        .018
+               Virtue                                                   7           .152        5            .014                          4         .020        2       -.031
+* p < .05, ** p < .01, *** p < .00. k = number of effect sizes; Mean ES = Fisher’s z back-transformed estimated correlations obtained from the random-
+effect HOMA. Pictured labels are examples and not an exhaustive list of included formats
+
+
+
+
+                                                                                                            from https://www.foodnavigator.com/Article/2018/12/04/To-be-or-
+Open Access This article is distributed under the terms of the Creative                                     not-to-be-Battle-lines-dawn-over-nutritional-labelling-in-Europe.
+Commons Attribution 4.0 International License (http://                                                 Balasubramanian, S. K., & Cole, C. (2002). Consumers’ search and use of
+creativecommons.org/licenses/by/4.0/), which permits unrestricted use,                                      nutrition information: The challenge and promise of the nutrition
+distribution, and reproduction in any medium, provided you give                                             labeling and education act. Journal of Marketing, 66(3), 112–127.
+appropriate credit to the original author(s) and the source, provide a link                            Becker, M. W., Bello, N. M., Sundar, R. P., Peltier, C., & Bix, L. (2015).
+to the Creative Commons license, and indicate if changes were made.                                         Front of pack labels enhance attention to nutrition information in
+                                                                                                            novel and commercial brands. Food Policy, 56, 76–86.
+                                                                                                       Belei, N., Geyskens, K., Goukens, C., Ramanathan, S., & Lemmink, J.
+                                                                                                            (2012). The best of both worlds? Effects of attribute-induced goal
+                                                                                                            conflict on consumption of healthful indulgences. Journal of
+References                                                                                                  Marketing Research, 49(6), 900–909.
+                                                                                                       Bialkova, S., & van Trijp, H. (2010). What determines consumer attention
+                                                                                                            to nutrition labels? Food Quality and Preference, 21(8), 1042–1051.
+Andrews, J. C., Netemeyer, R. G., & Burton, S. (1998). Consumer gen-                                   Bialkova, S., Sasse, L., & Fenko, A. (2016). The role of nutrition labels
+    eralization of nutrient content claims in advertising. Journal of                                       and advertising claims in altering consumers’ evaluation and choice.
+    Marketing, 62(4), 62–75.                                                                                Appetite, 96(1), 38–46.
+Andrews, J. C., Burton, S., & Netemeyer, R. G. (2000). Are some com-                                   Bijmolt, T. H. A., & Pieters, R. G. M. (2001). Meta-analysis in marketing
+    parative nutrition claims misleading? The role of nutrition knowl-                                      when studies contain multiple measurements. Marketing Letters,
+    edge, ad claim type and disclosure conditions. Journal of                                               12(2), 157–169.
+    Advertising, 29(3), 28–42.                                                                         Bix, L., Sundar, R. P., Bello, N. M., Peltier, C., Weatherspoon, L. J., &
+Andrews, J. C., Burton, S., & Kees, J. (2011). Is simpler always better?                                    Becker, M. W. (2015). To see or not to see: Do front of pack nutrition
+    Consumer evaluations of front-of-package nutrition symbols.                                             labels affect attention to overall nutrition information? PLoS One,
+    Journal of Public Policy & Marketing, 30(2), 175–190.                                                   10(10), e0139732.
+Aschemann-Witzel, J., & Hamm, U. (2010). Do consumers prefer foods                                     Block, L. G., & Peracchio, L. A. (2006). The calcium quandary: How
+    with nutrition and health claims? Results of a purchase simulation.                                     consumers use nutrition labels. Journal of Public Policy &
+    Journal of Marketing Communications, 16(1/2), 47–58.                                                    Marketing, 25(2), 188–196.
+Aschemann-Witzel, J., Grunert, K. G., van Trijp, H., Bialkova, S., Raats,                              Bollinger, B., Hammond, D., Hobin, E., Liebman, E., & Sacco, J. (2018).
+    M. M., Hodgkins, C., et al. (2013a). Effects of nutrition label format                                  Do informative promotional campaigns for on-shelf nutritional la-
+    and product assortment on the healthfulness of food choice.                                             beling work? Working paper.
+    Appetite, 71, 63–74.                                                                               Borgmeier, I., & Westenhoefer, J. (2009). Impact of different food
+Aschemann-Witzel, J., Maroscheck, N., & Hamm, U. (2013b). Are or-                                           label formats on healthiness evaluation and food choice of
+    ganic consumers preferring or avoiding foods with nutrition and                                         consumers: A randomized-controlled study. BMC Public
+    health claims? Food Quality and Preference, 30(1), 68–76.                                               Health, 9, 184–196.
+Askew, K. (2018). To be or not to be? Battle lines dawn over nutritional                               Burke, S. J., Milberg, S. J., & Moe, W. W. (1997). Displaying common
+    labelling in Europe. Food Navigator. Retrieved January 15, 2019,                                        but previously neglected health claims on product labels:
+
+===== PAGE 23 =====
+382                                                                                                          J. of the Acad. Mark. Sci. (2020) 48:360–383
+
+     Understanding competitive advantages, deception, and education.          Hersey, J. C., Wohlgenant, K. C., Arsenault, J. E., Kosa, K. M., & Muth,
+     Journal of Public Policy & Marketing, 16(2), 242–255.                          M. K. (2013). Effects of front-of-package and shelf nutrition label-
+Burton, S., Cook, L., Howlett E. & Newman, C. L. (2014). Broken halos               ing systems on consumers. Nutrition Reviews, 71(1), 1–14.
+     and shattered horns: overcoming the biasing effects of prior expec-      Hieke, S., & Newman, C. L. (2015). The effects of nutrition label com-
+     tations through objective information disclosure. Journal of the               parison baselines on consumers’ food choices. Journal of Consumer
+     Academy of Marketing Science, 43(2), 240–256.                                  Affairs, 49(3), 613–626.
+Cabrera, M., Machín, L., Arrúa, A., Antúnez, L., Curutchet, M. R.,            Hieke, S., & Taylor, C. R. (2012). A critical review of the literature on
+     Giménez, A., & Ares, G. (2017). Nutrition warnings as front-of-                nutritional labeling. Journal of Consumer Affairs, 46(1), 120–156.
+     pack labels: influence of design features on healthfulness perception    Hodgkins, C., Barnett, J., Wasowicz-Kirylo, G., Stysko-Kunkowska, M.,
+     and attentional capture. Public Health Nutrition, 20(18), 3360–                Gulcan, Y., Kustepeli, Y., Akgungor, S., Chryssochoidis, G.,
+     3371.                                                                          Fernández-Celemin, L., Storcksdieck genannt Bonsmann, S.,
+Cadario, R., & Chandon, P. (2018). Which healthy eating nudges work                 Gibbs, M., & Raats, M. (2012). Understanding how consumers cat-
+     best? A meta-analysis of field experiments. Marketing Science,                 egorise nutritional labels: A consumer derived typology for front-of-
+     forthcoming.                                                                   pack nutrition labelling. Appetite, 59(3), 806–817.
+Cavaliere, A., De Marchi, E., & Banterle, A. (2016). Does consumer            Hunter, J. E., & Schmidt, F. L. (2004). Methods of meta-analysis:
+     health-orientation affect the use of nutrition facts panel and claims?         Correcting error and bias in research findings (2nd ed.).
+     An empirical analysis in Italy. Food Quality and Preference, 54,               Thousand Oaks: Sage.
+     110–116.                                                                 Huyghe, E., Verstraeten, J., Geuens, M., & Van Kerckhove, A. (2017).
+Cecchini, M., & Warin, L. (2016). Impact of food labelling sys-                     Clicks as a healthy alternative to bricks: How online grocery shop-
+     tems on food choices and eating behaviours: A systematic                       ping reduces vice purchases. Journal of Marketing Research, 54(1),
+     review and meta-analysis of randomized studies. Obesity                        61–74.
+     Reviews, 17(3), 201–210.                                                 Institute of Medicine. (2010). Front-of-package nutrition rating systems
+Dixon, H., Scully, M., Niven, P., Kelly, B., Chapman, K., Donovan, R.,              and symbols: Phase I report. Washington, DC: The National
+     Martin, J., Baur, L. A., Crawford, D., & Wakefield, M. (2014).                 Academies Press.
+     Effects of nutrient content claims, sports celebrity endorsements        Jones, G., & Richardson, M. (2007). An objective examination of
+     and premium offers on pre-adolescent children’s food preferences:              consumer perception of nutrition information based on
+     Experimental research. Pediatric Obesity, 9(2), E47–E57.                       healthiness ratings and eye movements. Public Health
+Ducrot, P., Méjean, C., Julia, C., Kesse-Guyot, E., Touvier, M., Fezeu, L.,         Nutrition, 10(3), 238–244.
+     & Péneau, S. (2015). Effectiveness of front-of-pack nutrition labels     Kanter, R., Vanderlee, L., & Vandevijvere, S. (2018). Front-of-package
+     in French adults: Results from the NutriNet-Sante cohort study.                nutrition labelling policy: Global progress and future directions.
+     PLoS One, 10(10), e0140898.                                                    Public Health Nutrition, 21(8), 1399–1408.
+                                                                              Kaur, A., Scarborough, P., & Rayner, M. (2017). A systematic review,
+Emrich, T. E., Qi, Y., Mendoza, J. E., Lou, W., Cohen, J. E., & L’Abbe,
+                                                                                    and meta-analyses, of the impact of health-related claims on dietary
+     M. R. (2014). Consumer perceptions of the nutrition facts table and
+                                                                                    choices. International Journal of Behavioral Nutrition and Physical
+     front-of-pack nutrition rating systems. Applied Physiology Nutrition
+                                                                                    Activity, 14(1), 93–110.
+     and Metabolism-Physiologie Appliquee Nutrition Et Metabolisme,
+                                                                              Kees, J., Royne, M. B., & Cho, Y. N. (2014). Regulating front-of-
+     39, 417–424.
+                                                                                    package nutrition information disclosures: A test of industry
+FDA (2010). 75 FR 22602. Federal Register, 75(82), 22602–22606.
+                                                                                    self-regulation vs. other popular options. Journal of
+     Retrieved 15 June 2018 from https://www.gpo.gov/fdsys/granule/
+                                                                                    Consumer Affairs, 48(1), 147–174.
+     FR-2010-04-29/2010-9939.
+                                                                              van Kleef, E., & Dagevos, H. (2015). The growing role of front-of-pack
+Gardner, M. J., & Altman, D. G. (1986). Confidence intervals rather than
+                                                                                    nutrition profile labeling: A consumer perspective on key issues and
+     P values: Estimation rather than hypothesis testing. British Medical
+                                                                                    controversies. Critical Reviews in Food Science and Nutrition,
+     Journal (Clinical Research Ed.), 292(6522), 746–750.
+                                                                                    55(3), 291–303.
+Gearhardt, A. N., Bragg, M. A., Pearl, R. L., Schvey, N. A., Roberto, C.      Kozup, J. C., Creyer, E. H., & Burton, S. (2003). Making healthful food
+     A., & Brownell, K. D. (2012). Obesity and public policy. Annual                choices: The influence of health claims and nutrition information on
+     Review of Clinical Psychology, 8(1), 405–430.                                  consumers’ evaluations of packaged food products and restaurant
+Geyskens, I., Krishnan, R., Steenkamp, J.-B. E. M., & Cunha, P. V.                  menu items. Journal of Marketing, 67(2), 19–34.
+     (2009). A review and evaluation of meta-analysis practices in man-       Lassen, A. D., Lehmann, C., Andersen, E. W., Werther, M. N., Thorsen,
+     agement research. Journal of Management, 35(2), 393–419.                       A. V., Trolle, E., Gross, G., & Tetens, I. (2016). Gender differences
+Graham, D. J., Orquin, J. L., & Visschers, V. H. M. (2012). Eye tracking            in purchase intentions and reasons for meal selection among fast
+     and nutrition label use: A review of the literature and recommenda-            food customers: Opportunities for healthier and more sustainable
+     tions for label enhancement. Food Policy, 37(4), 378–382.                      fast food. Food Quality and Preference, 47, 123–129.
+Grunert, K. G., & Wills, J. M. (2007). A review of European research on       Levy, A. S., Fein, S. B., & Schucker, R. E. (1992). More effective nutri-
+     consumer response to nutrition information on food labels. Journal             tion label formats are not necessarily preferred. Journal of the
+     of Public Health, 15(5), 385–399.                                              American Dietetic Association, 92(10), 1230–1234.
+Hamlin, R., & McNeill, L. (2016). Does the Australasian Bhealth star          Liem, D. G., Miremadi, F., Zandstra, E. H., & Keast, R. S. J. (2012).
+     rating^ front of pack nutritional label system work? Nutrients,                Health labelling can influence taste perception and use of table salt
+     8(6), 327–341.                                                                 for reduced-sodium products. Public Health Nutrition, 15(12),
+Hawley, K. L., Roberto, C. A., Bragg, M. A., Liu, P. J., Schwartz, M. B.,           2340–2347.
+     & Brownell, K. D. (2013). The science on front-of-package food           Lipsey, M. W., & Wilson, D. B. (2001). Practical meta-analysis.
+     labels. Public Health Nutrition, 16(3), 430–439.                               Thousand Oaks: Sage.
+Hedges, L. V., & Olkin, I. (1985). Statistical methods for meta-analysis.     Lobstein, T., & Davies, S. (2009). Defining and labelling Bhealthy^ and
+     Orlando: Academic Press.                                                       Bunhealthy^ food. Public Health Nutrition, 12(3), 331–340.
+Heiman, A., & Lowengart, O. (2014). Calorie information effects on            Mai, R., & Hoffmann, S. (2015). How to combat the unhealthy = tasty
+     consumers’ food choices: Sources of observed gender heterogeneity.             intuition: The influencing role of health consciousness. Journal of
+     Journal of Business Research, 67(5), 964–973.                                  Public Policy & Marketing, 34(1), 63–83.
+
+===== PAGE 24 =====
+J. of the Acad. Mark. Sci. (2020) 48:360–383                                                                                                            383
+
+Méjean, C., MacOuillard, P., Péneau, S., Hercberg, S., & Castetbon, K.        Rosenthal, R. (1979). The "file drawer problem" and tolerance for null
+     (2013). Perception of front-of-pack labels according to social char-          results. Psychological Bulleting, 86(3), 638–641.
+     acteristics, nutritional knowledge and food purchasing habits. Public    Savoie, N., Barlow, K., Harvey, K. L., Binnie, M. A., & Pasut, L. (2013).
+     Health Nutrition, 16(3), 392–402.                                             Consumer perceptions of front-of-package labelling systems and
+Michaelidou, N., & Hassan, L. M. (2008). The role of health conscious-             healthiness of foods. Canadian Journal of Public Health, 104(5),
+     ness, food safety concern and ethical identity on attitudes and inten-        e359–e363.
+     tions towards organic food. International Journal of Consumer            Sinclair, S. E., Cooper, M., & Mansfield, E. D. (2014). The influence of
+     Studies, 32(2), 163–170.                                                      menu labeling on calories selected or consumed: A systematic re-
+Michail, N. (2017). Nestlé to add traffic light label to all UK breakfast          view and meta-analysis. Journal of the Academy of Nutrition and
+     cereals. Food Navigator. Retrieved 18 Jan 2019 from https://www.              Dietetics, 114(9), 1375–1388.
+     foodnavigator.com/Article/2017/10/03/Nestle-to-add-traffic-light-        Storcksdieck genannt Bonsmann, S., Celemín, L. F., Larrãaga, A., Egger,
+     label-to-all-UK-breakfast-cereals                                             S., Wills, J. M., Hodgkins, C., & Raats, M. M. (2010). Penetration of
+Michail, N. (2018). The end of the ENL? Nestlé pulls out of evolved                nutrition information on food labels across the EU-27 plus Turkey.
+     nutrition label; others suspend involvement. Retrieved 18 Jan 2019            European Journal of Clinical Nutrition, 64(12), 1379–1385.
+     from https://www.foodnavigator.com/Article/2018/11/20/The-end-           Suher, J., Raghunathan, R., & Hoyer, W. D. (2016). Eating
+     of-the-ENL-Nestle-pulls-out-of-Evolved-Nutrition-Label-others-                healthy or feeling empty? How the Bhealthy = less filling^
+     suspend-involvement                                                           intuition influences satiety. Journal of the Association for
+Moon, W., Balasubramanian, S. K., & Rimal, A. (2011). Health claims                Consumer Research, 1(1), 26–40.
+     and consumers’ behavioral intentions: The case of soy-based food.        Talati, Z., Pettigrew, S., Dixon, H., Neal, B., Ball, K., & Hughes, C.
+     Food Policy, 36(4), 480–489.                                                  (2016). Do health claims and front-of-pack labels lead to a positivity
+Naylor, R. W., Droms, C. M., & Haws, K. L. (2009). Eating with a                   bias in unhealthy foods? Nutrients, 8(12), 787–805.
+     purpose: Consumer response to functional food health claims in           Talati, Z., Norman, R., Pettigrew, S., Neal, B., Kelly, B., et al. (2017). The
+     conflicting versus complementary information environments.                    impact of interpretive and reductive front-of-pack labels on food
+     Journal of Public Policy & Marketing, 28(2), 221–233.                         choice and willingness to pay. International Journal of Behavioral
+Newman, C. L., Howlett, E., & Burton, S. (2014). Shopper response to               Nutrition and Physical Activity, 14, 171–181.
+     front-of-package nutrition labeling programs: Potential consumer         Temple, N. J., & Fraser, J. (2014). Food labels: A critical assessment.
+     and retail store benefits. Journal of Retailing, 90(1), 13–26.                Nutrition, 30(3), 257–260.
+Newman, C. L., Howlett, E., & Burton, S. (2016). Effects of objective and     van Herpen, E., & van Trijp, H. C. M. (2011). Front-of-pack nutrition
+     evaluative front-of-package cues on food evaluation and choice: The           labels: Their effect on attention and choices when consumers have
+     moderating influence of comparative and noncomparative process-               varying goals and time constraints. Appetite, 57(1), 148–160.
+     ing contexts. Journal of Consumer Research, 42(5), 749–766.              Volkova, E., & Ni Mhurchu, C. (2015). The influence of nutrition label-
+Newman, C. L., Burton, S., Andrews, J. C., Netemeyer, R. G., & Kees, J.            ing and point-of-purchase information on food behaviours. Current
+     (2018). Marketers’ use of alternative front-of-package nutrition              Obesity Reports, 4(1), 19–29.
+     symbols: An examination of effects on product evaluations.               Watson, W. L., Kelly, B., Hector, D., Hughes, C., King, L., Crawford, J.,
+     Journal of the Academy of Marketing Science, 46(3), 453–476.                  et al. (2014). Can front-of-pack labelling schemes guide healthier
+Orquin, J. L., & Scholderer, J. (2015). Consumer judgments of explicit             food choices? Australian shoppers’ responses to seven labelling for-
+     and implied health claims on foods: Misguided but not misled. Food            mats. Appetite, 72, 90–97.
+     Policy, 51, 144–157.                                                     Williams, S. L., & Mummery, K. W. (2013). Characteristics of consumers
+Raghunathan, R., Naylor, R. W., & Hoyer, W. D. (2006). The unhealthy =             using Bbetter for you^ front-of-pack food labelling schemes - an
+     tasty intuition and its effects on taste inferences, enjoyment, and           example from the Australian Heart Foundation Tick. Public
+     choice of food products. Journal of Marketing, 70(4), 170–184.                Health Nutrition, 16(12), 2265–2272.
+Raudenbush, S. W., & Bryk, A. S. (2002). Hierarchical linear                  World Health Organization (2015). Using price policies to promote
+     models: Applications and data analysis methods (2nd ed.).                     healthier diets. Regional Office for Europe, 50.
+     Thousand Oaks: Sage.                                                     World Health Organization (2018). Obesity and overweight fact sheet.
+Roberto, C. A., Shivaram, M., Martinez, O., Boles, C., Harris, J. L., &            Retrieved July 30, 2018, from http://www.who.int/en/news-room/
+     Brownell, K. D. (2012). The smart choices front-of-package nutri-             fact-sheets/detail/obesity-and-overweight.
+     tion label: Influence on perceptions and intake of cereal. Appetite,
+     58(2), 651–657.
+Roe, B., Levy, A. S., & Derby, B. M. (1999). The impact of health claims
+     on consumer search and product evaluation outcomes: Results from
+     FDA experimental data. Journal of Public Policy & Marketing,             Publisher’s note Springer Nature remains neutral with regard to jurisdic-
+     18(1), 89–105.                                                           tional claims in published maps and institutional affiliations.

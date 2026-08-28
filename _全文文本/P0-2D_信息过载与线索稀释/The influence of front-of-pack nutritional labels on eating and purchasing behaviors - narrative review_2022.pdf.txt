@@ -1,0 +1,913 @@
+SOURCE_PDF: P0-2D_信息过载与线索稀释/The influence of front-of-pack nutritional labels on eating and purchasing behaviors - narrative review_2022.pdf
+EXTRACTION_STATUS: ok
+PAGES: 15
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2022) 27:3037–3051
+https://doi.org/10.1007/s40519-022-01507-2
+
+    REVIEW
+
+
+
+The influence of front‑of‑pack nutritional labels on eating
+and purchasing behaviors: a narrative review of the literature
+Claudia Penzavecchia1 · Patrizia Todisco2 · Luca Muzzioli1 · Andrea Poli3 · Franca Marangoni3 ·
+Eleonora Poggiogalle1 · Anna Maria Giusti1 · Andrea Lenzi1 · Alessandro Pinto1 · Lorenzo Maria Donini1
+
+Received: 28 September 2022 / Accepted: 29 October 2022 / Published online: 11 November 2022
+© The Author(s) 2022
+
+
+Abstract
+Background Front-of-Pack Nutritional Labels are considered a useful tool to help consumers orient themselves in their food
+choices and direct their behavior toward a healthier diet. FOPNL development and use are part of a framework that includes
+cognitive, biological, hedonic and cultural aspects, able to affect consumers' eating and purchasing behavior.
+Aim Given the complexity of the matter, the aim of this narrative review is to analyze the combination of different factors
+that drive food choices and eating behaviors and to highlight some aspects that are not fully studied.
+Methods The authors conducted the research using a top-down approach at first, followed by a bottom-up approach; starting
+with general considerations about the purchasing process, gradually narrowing the discussion to a specific sub-population,
+and finally extending the discussion back to more general reasonings about the direction to adopt in future, or at least to
+evaluate, for effective communication.
+Results Biases and attitudes toward food products were found to regularly interfere with buying behavior patterns, making it
+impossible to standardize an average consumer. This reflects in current research, increasing the complexity of the topic. All
+determinants influencing food choices are often assessed individually rather than in a synergistic and multidimensional con-
+text, while the purchasing scenario is characterized by multiple stimuli to which the consumer is subjected. FOPNLs’ impact
+on perceived healthiness has been studied in different conditions, but some population subgroups have not been sufficiently
+represented. In particular, the effect of FOPNLs on consumers suffering from eating disorders is understudied and needs
+further attention. Furthermore, some approaches can be compared to “negative nutrition” or “loss-framed communication”,
+putting nutrients out of context, emphasizing losses more than gains and risking promoting negative feelings in consumers.
+Conclusion Due to the heterogeneity of studies, evidence on what works best in driving people to adopt lasting lifestyle
+changes is still mixed. Science communicators and policymakers should consider the possibility that a multi-component
+approach incorporating nutrition information and education may be a key strategy to promote consumers’ self-consciousness
+and to support them in their cognitive efforts toward a healthy and sustainable diet.
+Level of evidence Level V, narrative review.
+
+Keywords Front-of-pack nutrition label · Eating pattern · Eating disorders · Healthy diet · Positive nutrition
+
+
+                                                                            Introduction
+
+                                                                            Human nutrition represents a complex system in which,
+* Lorenzo Maria Donini
+  lorenzomaria.donini@uniroma1.it                                           alongside biological aspects, other dimensions related to
+                                                                            social and cultural values, to the economic impact on ter-
+1
+     Medical Pathophysiology, Food Science and Endocrinology                ritories and people, to the type of response to sensorial
+     Section, Food Science and Human Nutrition Research Unit,               stimuli and to the sustainability of the agri-food chain,
+     Experimental Medicine Department, Sapienza University,
+     Ple. Aldo Moro, 5, 00185 Rome, Italy                                   all play a significant role. Humans do not eat to intro-
+2                                                                           duce nutrients, but for a number of complex reasons that
+     Eating Disorders Unit, Casa di Cura “Villa Margherita”,
+     Arcugnano, Vicenza, Italy                                              combine nutritional and neuroendocrine aspects with local
+3
+     NFI-Nutrition Foundation of Italy, Milan, Italy
+
+
+                                                                                                                            13
+                                                                                                                       Vol.:(0123456789)
+
+===== PAGE 2 =====
+3038                                             Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2022) 27:3037–3051
+
+
+culture, the history of the food system, gastronomic tradi-           Signs which may feature the octagon “stop” or the words
+tions, and hedonistic and sensory aspects.                            “rich in”).
+   To help consumers orient themselves in the field of              • Directive labels, often aggregated in one symbol (e.g.,
+the food supply and to try to direct their behavior toward            Swedish Keyhole, Nutri-Score) and combining sev-
+a healthier and more sustainable diet, nutritional labels             eral criteria to evaluate the healthiness of the product,
+(usually on the back of the package, or BOPLs) have been              expressing judgments, opinions and/or recommendations
+placed on food packaging. The primary objective of food               in general, without providing specific information on sin-
+labels is to inform consumers about the nutritional contri-           gle nutrients.
+bution of different foods to the overall composition of the
+diet, and it is achieved through a standardized list of nutri-         Warning signs, nutrition and health claims are not techni-
+ents contained in the food [1], optionally supplemented by          cally FOPNLs although, in part and in some circumstances,
+a series of additional information.                                 they can be used in studies that test FOPNLs [4].
+   Food labelling has therefore two main purposes: (1)                 FOPNLs, because of their intrinsic nature, limit their con-
+to communicate complex information to consumers in a                siderations to a few elements that could affect, mostly nega-
+simple way and in a standardized format, to guide food              tively, consumers’ health status. Information, condensed into
+choices and behaviors; (2) to stimulate the food industry           a color or number, has sometimes been found to facilitate
+to reformulate some products in a healthier sense [2].              better food choices and improve the nutritional quality of the
+   To support the policies for the prevention of diet-related       shopping basket [5, 6], but sometimes it has on the oppo-
+non-communicable diseases (NCDs), front-of-pack nutri-              site and been shown to misguide consumers and induce an
+tional labels (FOPNLs) have been suggested as a useful              inaccurate assessment of the product's healthfulness, which
+tool: they provide a global assessment of the healthiness           could result in higher consumption of unhealthy food [7, 8].
+of a product in various forms. This strategy is proposed in            According to the WHO, “FOPL systems must be under-
+association with other strategies that are partially applied        pinned by a specific nutrient profiling model” [9].
+in Europe, such as “reformulation agreements, restrictions             Several nutrient profiling (NP) systems have been devel-
+on the marketing of foods rich of fats, salt and sugars, pub-       oped so far. There are some inherent difficulties in estab-
+lic procurement in favor of healthy food products, taxation         lishing a gold standard for NPs, such as the lack of uniform
+of sugary drinks” [3].                                              data for the composition and consumption of foods across
+   FOPNLs can have different public health objectives               countries, the relative differences in nutrient intake rec-
+(prohibitive, prescriptive or both) and their outcome               ommendations and dietary guidelines, the different policy
+results after considering nutrients considered “criti-              interventions between countries and the conflicting results
+cal” (with negative value when consumed in excess, i.e.,            undermining the authenticity of the single models [10].
+sodium, saturated and trans fatty acids—SFAs and TFAs—                 These different results are the reason why most studies
+and sugars). Some FOPNLs “provide the percentage of                 underscore the need for future investigations before making
+energy and nutrients in relation to the standard require-           any health policy decision [11].
+ment of 2000 kcal/day, while others provide ratings of the             The approach of some FOPNLs can be assimilated to a
+content (low, medium, high) of specific nutrients. Others           "negative nutrition" or “loss-framed communication”: this
+calculate a score indicating the global quality of a product”       communication focuses the attention on single/distinct foods
+[4]. They are sometimes assessed on a standard value of             or their nutrients, decontextualizing them from the complex
+100 g or 100 mL, but some refer to the portion available            system that leads consumers to make food choices and the
+for consumption [4].                                                whole community to develop the agri-food chain and even
+   FOPNLs provide information with different complexity             more from the concept of a healthy dietary pattern. The mes-
+(they display nutrient specific information or a global judg-       sage could be one that underlines the losses more than the
+ment on the product) and “directionality”. They could be            gains, eliciting negative emotions in the consumers [12].
+categorized as follows:                                             Currently, research has focused primarily on efforts to pro-
+                                                                    mote the performance of a single intervention, while what
+• Non-directive labels, providing information such as the           seems to be needed is to motivate people to perform a series
+  name of the nutrient, the amount in grams, and the per-           of behaviors, i.e., both the initiation and the maintenance
+  centage of the total (e.g., Reference Intakes, NutrInform         of health practices [13]. Besides that, the effectiveness of
+  Battery)                                                          message framing has a series of modulating factors (e.g.,
+• Semi-directive labels, not only providing nutritional             characteristics of the message recipient and of the desired
+  information, but also judging the healthiness of the single       behavior).
+  nutrients using colors, words, or signs (e.g., the English           Moreover, to date, no study focused on the potential
+  traffic light or Multiple Traffic Light—MTL, Warning              impact of FOPNLs on different psychological phenotypes,
+
+13
+
+===== PAGE 3 =====
+Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2022) 27:3037–3051                                            3039
+
+involving either people suffering from diagnosed and bor-                      Secondly, the authors focused on the hedonic and health
+derline eating disorder (ED), or subjects with other psycho-                aspects of food behavior (“Healthiness and hedonic aspects
+logical eating-related conditions such as orthorexia nervosa                as determinants of propensity to buy”), which differentiate
+(ON) [14].                                                                  this type of behavior from others related to the purchase of
+   The aim of this narrative review is to explore the com-                  other goods.
+bination of different factors that influence food choices and                  In the third thematic area (“The determinants that influ-
+eating behaviors and to underline some aspects that are not                 ence food choices and consumers’ profiles”), to emphasize
+yet thoroughly clarified in the extant literature in relation to            the complexity of the phenomenon, the different determi-
+FOPNLs, to encourage further research in the field, such as:                nants of food choices were identified: because of this great
+the purchasing behavior patterns, the determinants of pro-                  variety of factors, the population can not only be seen as a
+pensity to buy, the determinants that influence food choices,               shapeless mass, but also as many different subgroups, each
+the possible relation with eating disorders, and, lastly, the               making their choices on the basis of different drives. Hence,
+communicative approaches in the field of nutrition. We                      the focus on a particular sub-population (“Nutrition labeling
+searched the current literature on the potential impact of                  and eating disorders”), namely those at risk or suffering from
+nutritional labels on disordered eating to understand how                   eating disorders. Finally (“Negative and positive nutrition
+the behavior of population at risk of EDs is influenced by                  approach”), the research concluded with an analysis and a
+FOPNLs.                                                                     reflection on two contrasting types of communication, one
+   To outline the complexity of the issue and explain the                   based on positive messages and one on negative messages.
+difficulty in harmonizing FOPNLs with their intended objec-
+tives, this paper reviews the various, though not exhaustive,
+facets of the problem, starting with attitudes and factors that             Factors influencing purchasing behaviors
+influence food choices (“Factors influencing purchasing
+behaviors”–“The determinants that influence food choices                    Purchasing behavior is the driving force behind selling pro-
+and consumers’ profiles”), continuing with possible implica-                cesses. Psychologists and consumer behavior scientists have
+tions on eating disorders (“Nutrition labeling and eating dis-              investigated why and how people purchase a certain product
+orders”), and the use of different communicative approaches                 or why they show brand loyalty, for example. The combi-
+(“Negative and positive nutrition approach”).                               nations of the factors that influence the act of buying are
+                                                                            countless and they generate different purchasing behaviors
+                                                                            accordingly.
+Methods                                                                        Therefore, the existence of an average “reasonably well-
+                                                                            informed and reasonably attentive and circumspect con-
+The authors started analyzing the purposes and possible                     sumer”, who is rational, consistent and pursues a personal
+effects of FOPNLs in two previous papers [4, 10]. These                     “maximum utility”, is questioned by the existence of those
+works led to some considerations about the gaps in the                      several possible purchasing behaviors [15]. The existence
+research done so far, i.e., the interaction between different               of such a “universally reasoning consumer” [16] is there-
+determinants of food choices, the lack of focus on eating                   fore undermined by different attitudes toward the product
+disorders and other population subgroups, the effectiveness                 (cognition, affect and conation), or “heuristics” approach
+of a message that focuses only on certain food features.                    (simple mental processes that are largely used to make quick
+   The authors then carried out their research in this nar-                 decisions in stressful situations simplifying everyday life,
+rative review starting from more general considerations on                  but that can also lead to cognitive biases) These attitudes, as
+the purchasing process, gradually narrowing in on a par-                    showed below, can also interplay with FOPNLs messages,
+ticular sub-population, and finally extending again the dis-                leading to different results:
+cussion to more general considerations on the approach to
+be adopted, or at least evaluated, in future for an effective               • System 1 vs System 2: this theory of thinking [17]
+communication.                                                                 assumes that people in real life usually rely on mental
+   Therefore the authors, initially (“Factors influencing pur-                 shortcuts to take decisions quickly (i.e., on System 1,
+chasing behaviors”), focused on the identification, not yet                    which is considered simple, fast and impulsive), and
+exhaustive, of several factors that may influence the consum-                  only in circumstances of doubt or “discomfort” System
+er's decision at the time of purchase in general, and which                    2 (thoughtful, effortful and slow) comes into play. In
+may interact with the presence of a FOPNL. In this research,                   virtual settings, participants could artificially adopt Sys-
+they identified some of the heuristics that may occur during                   tem 2 because they have more time and their attention is
+the food choice.                                                               explicitly called on the FOPNL, thus making an effort
+                                                                               because they know they are expected to.
+
+
+                                                                                                                                13
+
+===== PAGE 4 =====
+3040                                               Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2022) 27:3037–3051
+
+• Loss aversion: as the JRC points out, an example of                 more nutritious or healthy. In some studies, the ability of
+  behavior that could differ between life and virtual set-            the consumers to understand and use the FOPNLs for their
+  tings is the one of the “loss aversion” theory: people              advantage is assessed by taking a snapshot of their under-
+  seem to consider losses as more important than benefits             standing at a specific point of time, unaffected by advertis-
+  of equal magnitude: for example, [18] found that in their           ing, informational and education programs [2]. The problem
+  study consumers were more concerned with avoiding red               with these studies lies in the fact that it is possible that those
+  colored labeled food than choosing green ones.                      heuristics cited above do not come into play when consum-
+• Rebound effect: according to the JRC, it is a concept usu-          ers find themselves in a virtual, guided version of reality.
+  ally used in energy economics that describes a decrease                In addition, the lack of data on nutrient intakes has often
+  in expected gains because of behavioral responses. In this          required the use of outdated consumer surveys, raising ques-
+  specific case could lead consumers to increase the con-             tions about the representativeness of the present population
+  sumption of a food perceived as positive, “to an extent             behavior [15].
+  that offsets the objective of the label itself”. More or less          A few studies have been carried out in real-world super-
+  like [19] point out when writing about environmental                markets, while the majority have been conducted in virtual
+  labeling of food “consumers that choose foods with lower            or online settings with outcomes assessed immediately
+  CFs (i.e., carbon footprint) per mass will tend to spend            after a single exposure. Laboratory experiments may be
+  less money on food, leaving them with more money to                 very important, at least in the first phases, for controlling
+  buy other products which may compensate the reduced                 for confounding factors. On the one hand, they are artificial
+  food CF”.                                                           and overestimate effects (like magnifying glasses), on the
+• Halo effect: is a cognitive bias that leads to generalizing         other hand, they guarantee ceteris paribus conditions and
+  one's opinion of a given thing, on the basis of a single            thus causal effects.
+  characteristic of the product: e.g., seeing the green label            However, field studies and real-world laboratories are
+  on a product could lead people who use this heuristic               needed to estimate the potential effects of health warnings
+  (more or less consciously) to automatically consider the            (concerning food, alcohol, tobacco) since a real-life set-
+  product healthy tout court. Consumers could paradoxi-               ting may give significantly different results due to impor-
+  cally no longer ask how much of it to consume and how               tant interfering and confounding factors [23, 24]. Findings
+  often, because, if it is healthy, in their eyes, it means that      from those studies suggest that FOPNLs or shelf labels may
+  it can be consumed ad libitum. Therefore, they could                achieve a small degree of success at persuading shoppers to
+  over-consume the product compared to the recommended                switch from less healthy to healthier foods (maximum 2.0%
+  portions and frequencies, with negative repercussions on            change) [25].
+  energy, nutrients and the variety of foods [20, 21].
+• Optimism bias: is an overconfidence bias that affects peo-
+  ple who tend to overestimate their abilities and knowl-             Healthiness and hedonic aspects as determinants
+  edge, claiming to know enough about something (e.g.,                of propensity to buy
+  FOPNLs) or to have understood how it works, even if it
+  is not true. It seems that people are largely convinced that        The propensity to buy could be driven by hedonic or healthi-
+  they do not need to change their diets [22]. This makes             ness aspects. Hedonic motives to buy food relate to features,
+  it difficult to perceive the need to have healthier habits,         such as taste, pleasure, or the search for experiences [26].
+  because these consumers mistakenly believe they are less            Healthiness is a less definable concept, but for some peo-
+  at risk than others.                                                ple healthy products could be the ones with lower energy
+                                                                      density, while unhealthy products can be fast food, pizza,
+   These attitudes and biases can interfere with the purchas-         biscuits but also milk [21, 27, 28].
+ing behavior and lead to different/distorted results either in           The use of color coding seems to increase the idea of
+virtual settings or in the real world, or they could be rein-         healthiness when consumers are explicitly asked to choose
+forced by FOPNLs, leading to paradoxical effects.                     a healthy product, but apparently this is not the case when
+   As the JRC points out [15], most of the studies analyze a          they are asked to choose according to preference [29]. It
+consumer sample in a virtual steady-state model instead of a          should be remembered that healthiness is not a homogene-
+dynamic one, typical of real life. The abilities of food labels,      ous concept, as it is often assumed in studies: it can mean
+and in particular of FOPNLs, are studied in isolated condi-           different things to different people. For some, it is related
+tion, mostly unaffected by external factors, with a potential         to the amount of sugar, energy, or salt in a product, for
+overestimation of the benefits by overlooking confound-               others to the presence or absence of gluten, or to whether
+ing factors such as compensatory consumption, increased               a product is organic or not, etc. [30]. Moreover, we should
+physical activity or consumption of foods perceived as                consider that the same concept changes within the same
+
+
+13
+
+===== PAGE 5 =====
+Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2022) 27:3037–3051                                                         3041
+
+group over time (e.g., our attitude toward fats has changed                   gives us the measure of how difficult it is to understand
+over the last 50–60 years).                                                   and test consumer buying behavior unequivocally.
+   At the same time, it is theorized that one explanation
+for our behaviors is to find in implicit and explicit atti-                   The determinants that influence food choices
+tudes: the first ones are automatically activated responses                   and consumers’ profiles
+to stimuli, while the second ones are rational behaviors
+formed after a deliberate thinking process. The two atti-                     While the key driver for eating is hunger, food choices can
+tudes are not exclusive, we probably use both in many                         be determined by other factors, which are currently exten-
+situations, leaning toward one or the other depending on                      sively studied with different results. Although works from
+the situation [26].                                                           different research fields (e.g., nutrition, psychology, social
+   The presence of attitudes that occur at an unconscious                     science, marketing) provided evidence with different per-
+level might explain the dissonance between actual behav-                      spectives, the factors affecting food choices can be leveled
+ior (e.g., hedonic choices) and declared attitudes (e.g.,                     into three main groups, each including several categories
+healthy eating) in some consumers. Another important                          [32]:
+point to consider when we think about motives related to
+hedonism or healthiness, is the distinction between utili-                    1. Food-related features: intrinsic features, such as color
+tarian and hedonic dimensions according to the nature of                         and aroma, and extrinsic features such as information
+the product (or how we perceive it): the utilitarian dimen-                      and packaging;
+sion is probably not significant for products we link with                    2. Individual difference: biological (e.g., hunger, appetite,
+pleasure, but it is significant for utilitarian-oriented foods,                  and taste), physical (e.g., access, skills of cooking, and
+as it is described for organic foods [26]. Implicit attitudes                    time), psychological (e.g., mood and stress), cognitive
+could thus explain the predisposition to buy hedonic foods,                      (e.g., attitudes or preference, beliefs, and knowledge),
+and explicit attitudes the one to buy so-called utilitarian                      and social (e.g., family, and peers) factors;
+foods.                                                                        3. Society-related features: culture, economic variables,
+   On the other hand, interestingly, a very recent study                         such as price and income, and policy.
+highlights the presence of some models that seem to sug-
+gest that there could be a symmetrically opposed mecha-                          Table 1 shows some categories and determinants influ-
+nism to take into account: chronic consumption of hyper-                      encing food choices [2, 22, 29, 33–39].
+palatable foods would lead to a shift in neurobehavioral                         Therefore, alongside biological factors (i.e., hunger/sati-
+processes toward hedonic processes regulating food intake                     ety cues), there are other determinants which are shaped by
+and promoting hyperphagia [31].                                               the environment, such as individual knowledge, preferences,
+   The picture is still not clear enough to draw conclusions                  habits formed by past experience.
+about the exact mechanisms behind purchases, and this                            Some of these determinants usually interact and overlap
+                                                                              at the moment of purchasing. For instance, the attitude
+
+
+Table 1  Determinants of food choices and eating behavior (based on [2, 22, 29, 33–39])
+
+Biological: hunger/satiety, appetite, sensory aspects, balance through the central nervous system, balance between macro-nutrients, energy den-
+ sity of the diet, volume of food or portion size, palatability related to sensory properties of the food (e.g., taste, smell, texture and appearance)
+Economic: cost, income, availability
+Physical: accessibility to shops, chronic or acute illness, skills (including cooking skills), time available (particularly felt as a barrier by young
+ people and those with high levels of education)
+Social: social class, culture, social context, ethnicity, religion, family, peer group, meal pattern (influenced by irregular life/working organization,
+ snacking), social setting (considering food which is eaten outside home), institutional and geo-political system, habits/duties (cooking only for
+ oneself or also for other people, particularly felt by women), social support, isolation
+Psychological: mood and stress that can affect motivation (reduced or extreme concern about weight control), emotional context, personality
+ traits and characteristics (e.g., impulsivity, novelty seeking or harm avoidance), perceived guilt, psychological frailty, depression, low self-
+ efficacy
+Educational: level of education, nutrition knowledge (both subjective and objective), sources of information and capacity to discriminate among
+ these sources
+Others: gender, age, retirement, unemployment, work shifts, student status, level of satisfaction with current diet, mentality (including the
+ perceived lack of need to make dietary changes), attitude, esthetic ideals, biases, beliefs (including trust in the food system), influence of mass
+ media, food marketing and advertising, sustainability, where one lives, the interaction of various determinants that can result in an “obeso-
+ genic” environment, perceived risk of food wastage leading to a reluctance to try ‘new’ foods for fear the family will reject them, environment
+
+
+
+                                                                                                                                           13
+
+===== PAGE 6 =====
+3042                                               Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2022) 27:3037–3051
+
+and approval of the consumer toward a label is something              preferences but because of those of the family members for
+to consider: a skeptical consumer will not be influenced              whom they care [45].
+to buy a product with a FOPNL that he/she does not trust                 In general, FOPNLs seem to be effective in changing con-
+[40]. In some studies, consumers were seen as willing to              sumer behavior if there is an "induced" consumer inclina-
+pay a little more if there was a logo/label (not necessarily          tion (not only in health-conscious ones, but also in people
+a FOPNL) stating that the product was better than others,             with diseases) toward healthy choices, but also an optimal
+but at the same time the effect was lost if there were more           environment, and if these are supported by government and
+logos on the packaging, or if the logo was not perceived              scientific authorities.
+as "trusted" [41].                                                       Data about the ability of FOPNLs in steering consumers
+    Another example regards brand loyalty and taste pref-             purchases are therefore ambiguous and often self-reported
+erence which significantly influence consumers' level of              feelings, the validity of which is to be questioned. For
+understanding and willingness to pay and buy the product.             instance, it seems that personal relevance and the perceived
+While some studies highlight a change in buying behaviors             need for information could be the main factor influencing
+correlated with the presence of a FOPNL, there seems to be            both perceived healthiness and the intention to buy a product
+no association with the healthfulness of the product: some-           with a health claim [46].
+times consumers do choose more products with a displayed                 Consumers are normally exposed to an information over-
+FOPNL, but regardless of the nutritional characteristics of           load before and directly when at Point of Purchase, result-
+the product as communicated by the label itself [16].Fur-             ing in “a consumers’ confusion framework for healthy eat-
+thermore, the ultimate purchase is often influenced by the            ing” [47], where it seems that people with low levels of
+expected taste (which is different from the taste per se). It is      knowledge and poor nutrition literacy (but sometimes high
+necessary to pay attention to the fact that products marked           motivation e.g., dietary modification goals) could focus and
+as “healthy”—i.e., green—are often perceived aprioristically          make decisions only on the basis of information about 'key'
+as less tasty. This could theoretically lead to the paradoxical       nutrients (sugars, SFAs, salt, gluten), and not, for example,
+consequence of a lower purchase, as in some recent studies            the whole dietary pattern or the whole food product, or
+[42].                                                                 irrespective of food’s caloric content [47, 48]. The Global
+    The sensory characteristics of food, the exposure to food,        Burden of Disease 2017 states that even if sodium, sugar,
+but also what can be learnt about flavor–nutrient associations        and fat have been the main focus of diet policy debate, the
+and the resulting preferences are other important determi-            dietary risk factors for mortality (each accounting for more
+nants of food choices.                                                than 2% of global deaths) are not key nutrients but dietary
+    Regarding individual determinants, the impact of food             patterns, such as diets high in sodium, low in whole grains,
+labels, and FOPNLs in particular, on perceived healthiness            low in fruit, low in nuts and seeds, low in vegetables, and
+seems to be more pronounced in studies with a preponderant            low in omega-3 fatty acids [49].
+participation of female subjects, who tend to be more atten-             In addition, food choices could also be influenced by our
+tive to the concept of “healthy" [43]. It has to be noticed that      natural tendency to overestimate our self-control and under-
+nutrition labels are more likely to be read by those who have         estimate health risks, by the perceived product availability,
+an interest in healthy eating, show better nutrition knowl-           by the biases we are subject to, and by hedonistic and reward
+edge, and thus may already display healthier eating patterns          processes (as previously mentioned in “Factors influencing
+[44]: in short, those who need it the least. On the contrary,         purchasing behaviors” and “Healthiness and hedonic aspects
+it should be the less educated social classes who need an             as determinants of propensity to buy”), which are often
+effective help to better guide or correct their eating behavior.      stronger than homeostatic drivers.
+    It could be observed that women are over-represented in              The aforementioned determinants should be studied to
+the samples because they are predominantly the household              better understand how a population respond to a stimulus
+food shoppers, but even so, the evolution of society is under-        giving the chance to profile and determine different consum-
+mining this status quo, requiring all population subgroups to         ers groups. Consumers’ profiling has the aim of providing
+be equally represented in studies.                                    detailed information on a target population, helping to gain
+    Similarly, the wealthiest social class tends to be influ-         in-depth insight into consumers’ sub-population with com-
+enced more than the disadvantaged ones by these labels.               mon behaviors. Thinking that students, workers, and shift
+This can lead to situations where women from disadvantaged            workers, for example, respond to the same stimuli and make
+socio-economic classes seem to be more often affected by              food decisions following the same patterns, might bring to a
+obesity than men and other women from middle and upper                short-sighted view of the determinants that influence these
+socio-economic classes, because they often buy from fast              and other types of choices. Forgetting that different groups
+food outlets and opt for less fruit and vegetables, reporting         exist when making decisions for the community should
+making "unhealthy" food choices not because of their own              be avoided, as well as promoting tools designed only for
+
+
+13
+
+===== PAGE 7 =====
+Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2022) 27:3037–3051                                            3043
+
+specific categories of people, according to the food security               policy recommendations [34]. Therefore, at the moment, the
+definition. To date, we found no meta-analysis or systematic                results of the studies could be only stratified by the single
+reviews that focused on consumers’ profiling on the basis of                determinants of food choice and the consumers’ subgroups
+their response to FOPLNs. Only the FOPLNs effectiveness                     on FOPLNs response are yet to be profiled.
+was assessed so far [11, 43].
+    Nevertheless, population groups are characterized by                    Nutrition labeling and eating disorders
+people who are very different from each other. A significant
+fraction of the working population habitually work on shifts                The incidence of eating disorders (EDs) is increasingly
+(e.g., in Italy) [50], a population at risk of being overweight             affecting a wide age range and all genders. Body image dis-
+because it tends to consume snacks instead of full meals,                   satisfaction, weight concerns and unhealthy weight manage-
+more sugary drinks and less fruit and vegetables than recom-                ment are very frequent even among so-called normal weight
+mended during night shifts [51]: this because of high con-                  people [55]. Furthermore, the phenomenon of orthorexia
+sumption of food from vending machines or deliveries for                    nervosa (ON), characterized by an excessive preoccupation
+several reasons (e.g., the canteen is too expensive or closed               with eating healthy food, is now the focus of attention of
+at night; preparing meals in advance at home means losing                   scientific research, both because it can significantly impact
+hours of sleep).                                                            quality of life and nutritional status, and because it can rep-
+    Another distinct population group is made up of univer-                 resent a risk factor for other major EDs (anorexia nervosa
+sity students: the reasons why students choose certain foods                – AN—and bulimia nervosa – BN) [14].
+are related to stress, time, convenience and ease of preparing                 Different researchers have mainly focused their attention
+foods, beliefs about body image and self-control, and the                   on the association between nutritional information and/
+palatability of foods. The most suitable type of intervention               or calorie labeling, and the psychological phenotypes of
+for them is probably the one aimed at strengthening their                   consumers.
+self-regulation skills, acting on their intrinsic motivations                  In Martinez et al. [56], and M.W. Seward et al. [57], the
+[52] and creating habits and knowledge that are stable over                 usage of nutritional information in food labels in a college
+time, a goal that seems difficult to achieve with the mere                  context was perceived by students as potentially unveiling
+affixing of a FOPNL on some products, especially consider-                  EDs, and it was thought that nutrition labeling interventions
+ing the high risk that university students develop dysfunc-                 may as well favor the evolution toward an ED or "feed" a
+tional strategies around food as a coping reaction for stress-              disordered eating behavior, increasing the risk of exacerbat-
+ful events and/or the transition from family to a new reality               ing EDs and making recovering more difficult.
+of independence.                                                               Different studies have raised concerns about the possibil-
+    Interventions in workplaces are interesting because of                  ity that obesity prevention programs may increase the risk of
+their ability to reach a wide audience (e.g., interventions in              developing EDs or exacerbate them due to negative effects
+canteens, vending machines, nutrition education), especially                on eating behaviors or on the emotional state of people at
+if these activities are sustained over long periods.                        risk for disordered eating [56, 58–61].
+    Another interesting intervention setting are schools,                      In Roberto et al. [62] 92% of the sample, including self-
+because of their ability to reach students, their families, and             reported ED subjects, were in favor of menu labeling, but
+teachers (e.g., using Internet and media to create awareness                five years later, in Haynos et al. [63], the same authors
+about food and to involve children in learning about, prepar-               showed that, stratified by ED, subjects diagnosed with AN
+ing and cooking the food they will eat).                                    and BN selected the menus with fewer calories, while per-
+    Interventions in supermarkets are equally interesting and               sons with Binge Eating Disorder (BED) choose the menus
+promising for increasing awareness and nutrition knowledge,                 with higher calories among the labeled ones. In Lillico et al.
+but their long-term effect and effectiveness are unclear at                 [64], no adverse outcomes were found for the at-risk popula-
+present.                                                                    tion: calorie labels did not differentially affect ED subjects.
+    Nutrition education, however, seems to be more effective                In Seward et al. [65], 60% of the students surveyed gen-
+if it is combined with psychological and educational support                erally supported traffic light labeling (TLL) in the menus
+to help make the behavior lasting and sustainable over time                 although, when asked if TLLs increased the risk of develop-
+[53, 54].                                                                   ing an ED, 16% of the participants answered "yes" and 47%
+    The scarcity and conflicts of existing data come from the               affirmed that TLLs could exacerbate existing EDs. Because
+fact that some factors influencing food choices are not easy                of these inconclusive results, McGeown [66] suggested that
+to measure and demonstrate, and some biological mecha-                      approaches other than calorie labeling can better help obe-
+nisms are actually not yet understood. There is still a need                sity management strategies and educational initiatives, and
+for a complex model that better explains the determinants                   that intuitive eating could be a potential alternative for pro-
+of food choices and enables knowledge to be translated into                 moting healthy eating behavior [67].
+
+
+                                                                                                                                13
+
+===== PAGE 8 =====
+3044                                             Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2022) 27:3037–3051
+
+   Larson et al. [68] analyzed the correlation between calorie      potential influence of menu labeling shows conflicting
+information on restaurant menus and weight-related behav-           results [63, 64, 75].
+iors (788 men and 1042 women; mean age: 31.0 ± 1.6 years).
+Among individuals who noticed calorie information, 38.2%            Negative and positive nutrition approach
+reported that the information given had not been relevant
+to make a choice about what to order. The others reported           All the aforementioned evidence highlights the significant
+instead that they used menu labels to limit calories, and this      limits of information based either on single nutrients or
+was especially observed in correlation with binge eating            nutrients associated to calories. These limits might be even
+among women and it was associated with more weight-                 greater when talking about FOPNLs that suggest a negative
+related concerns, dieting, and unhealthy weight-control             relationship with specific nutrients and/or caloric intake.
+behaviors among both women and men. For this reason, to                 Evidence is mixed about the efficacy of fear appeals and
+avoid the promotion of unhealthy restrictive eating patterns        negative communication on driving people toward lasting
+in college cafeterias, several college campuses do not display      lifestyle changes.
+nutrition information on the menus [69].                                Even if not related to food, an example of a label that
+   In another study published by Christoph et al. [70], it was      informs consumers about the risk of consumption are the
+showed that the use of nutrition facts was associated with          cigarette warning labels (CWL). They have been largely
+a 23% and 10% greater likelihood of engaging in healthy             implemented in the early 2000’s and their effects have been
+and unhealthy weight control behaviors respectively, and            studied. Looking at the evolution of CWL’s effectiveness
+with a 17% greater chance of engaging in binge eating. In           might be of interest to have an idea of possible long-last-
+men, it was associated with a 27% and 17% greater likeli-           ing effects of a negative approach. For instance, studies
+hood of engaging in healthy and unhealthy weight control            on CWLs suggest that sizable proportions of adolescent
+behavior respectively, and with a lower level of intuitive          smokers are not seeing, reading, or remembering CWLs. In
+eating [71]. Greater use of food labels was also associated         addition, the knowledge of CWLs on packages and adver-
+with body weight control [71], and the propensity toward            tisement is not associated with reduced smoking [76]. The
+using nutrition facts was associated in women with a greater        effectiveness of graphic warnings against cigarette smoking
+likelihood of engaging in BED [70], an ED that has been             are mainly based on emotional responses and projections
+positively associated with disinhibition [72]. Restrained           from simulation models, not necessarily leading to smok-
+eating and food label use were found positively associated,         ing cessation: while it seems this could affect smokers with
+while disinhibition and susceptibility to hunger were both          lower level of nicotine dependence, there seems to be no
+positively, albeit weakly, associated with general food label       effect on smokers with higher levels of dependence [77].
+use, suggesting that individuals presenting a higher level of       Effects also show cross-cultural differences, which high-
+disinhibition or susceptibility to hunger may use food labels       lights the importance of considering different messages
+to select food products that seem healthier or lower in fat or      based on the group being targeted [78]. Additionally, many
+in energy to compensate for their overeating tendencies [73].       studies analyze CWLs and fear appeals in relation to quitting
+   Different studies have highlighted that, when making             smoking, but less is known about the role of fear appeals in
+hypothetical food choices from a menu that includes infor-          persuading nonsmokers to avoid starting smoking.
+mation about calories, individuals with AN and BN are                   Lastly, these campaigns revealed a wear-out effect ten-
+more likely to order food with significantly fewer calories,        dency (decreasing effectiveness of a warning message over
+whereas people with BED are more likely to order food with          time). When textual CWLs have been introduced on tobacco
+significantly more calories. More in general there is evidence      product packages, after a first success they showed a wear-
+that individuals with weight concerns and EDs may be par-           out effect. That led to an implementation of pictorial CWLs
+ticularly influenced by exposure to menu labels [63, 64, 74].       in addition to the text for a more effective outcome. Even so,
+   The role of nutrition information (and in particular the         after a prompt increase in effectiveness, the wear-out effect
+tendency of calories displaying) on eating behavior is there-       was observed again [79, 80] and because of that, some gov-
+fore controversial. On the one hand, calorie labels on menus        ernments decided to change the displayed images frequently
+may negatively affect the eating or the psychosocial health         to maintain low- and middle results over time [74].
+of individuals with weight concerns; on the other hand, the             Besides the example of cigarettes, behaviors that lead to
+provision of information may reduce feelings of anxiety             healthy habits sometimes seem to respond to negative mes-
+when eating out among those who struggle with disordered            sages [81, 82], but sometimes they respond to the opposite,
+eating [68].                                                        with the best translation of intentions to live healthily into
+   Finally, the existing literature that examined the asso-         behavior associated with positive feelings, cognitive efforts
+ciation between weight-related concerns in adults and the           and self-efficacy instead of fear arousal [83–85].
+
+
+
+13
+
+===== PAGE 9 =====
+Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2022) 27:3037–3051                                             3045
+
+    While in some areas, like cancer prevention, this kind                  would it not be better to work through a positive / proactive
+of communication might work [86], the case of vaccine                       attitude?". In fact, the red signal on the food package does
+hesitancy has shown different results: the best approach to                 not give any information regarding the nutritional qualities
+prevent it seems to be a multi-component one, where edu-                    of the food. It merely warns, based on the concentration
+cation material is developed, dialog-based communication                    of some nutrients considered harmful, without adequately
+strategies are incorporated, and literacy and critical thinking             promoting the nutrients and bioactive substances that might
+skills are improved [87].                                                   have a positive effect. Negative messages either are directed
+    It is worth mentioning that in recent years questions have              toward specialized audiences with detailed knowledge of
+been raised about scientific communication done so far,                     the subject, or these “loss-framed messages” could leave
+and since this is deeply connected with political choices in                consumers with a negative attitude and an unstable feeling:
+many fields (health included), it probably makes sense to ask               they could learn what not to do, but they do not learn how
+whether it is not the case to redefine science communication                to change the behavior.
+and investigate its fundamentals, gaps, and areas of improve-                  On the other hand, the positive approach, e.g., by sug-
+ment, before moving on and making widespread decisions.                     gesting the advisability of “eating five portions per day of
+For example, it seems that some scientists often see the pub-               seasonal, locally produced and possibly 5-color ranging fruit
+lic audience “as an ignorant, homogeneous group” [88]. This                 and vegetables”, not only describes the relevant nutritional
+model of thinking could take paternalistic and dangerous                    aspects (i.e., fiber content, bioactive compounds etc.) but
+turns at worst, and at best not conducive to an efficient com-              also the agri-food history of mostly plant-based dietary
+munication and involvement. As in Simis et al. [88], “Only                  patterns, the promotion of territories and professions dedi-
+by filling this knowledge void and ridding people of their                  cated to traditional crops, the environmental sustainability
+ignorance will the public be able to see the world in the same              that improves with plant-based foods, and the augmented
+way as scientists”.                                                         sensory qualities of colors and flavors that come from a vari-
+    This has an understandable appeal for policymakers                      ety of choices: it concerns the socio-cultural, economic and
+because it is a problem with a simple root (ignorance) and                  sustainability values that characterize our diets, involving
+a simple solution. Simis et al. name this solution a “public-               not only the foods that have made the food history of a com-
+oriented education”, but in our specific case it would come                 munity, but also conviviality, gastronomic practices, mod-
+down to labels, since talking about education in our instance               eration in consumption, and food choices that take account
+would already be a step forward. It is probably worth ask-                  of seasonality and local production.
+ing if we do not need a double kind of education: one for                      On this basis, the Nordic Keyhole logo was developed
+the consumers, and one for the scientists and policymakers,                 and adopted in 2013 by five north-European countries (Ice-
+to engage community members around issues that affect                       land, Norway, Sweden, Denmark, Finland) to encourage
+their health. A positive communication, positive feelings                   customers to choose healthier foods that are typical of the
+about the goals and coping techniques aimed at increasing                   Nordic Diet. Data from the most recent survey in 2017 found
+response efficacy and self-efficacy, all seem to be crucial in              that 60% of consumers considered the Keyhole a good labe-
+promoting health-conscious actions, rather than a commu-                    ling system, showing this positive label to be reliable and
+nication based on threatening health information [84, 85].                  used over time, with a small wear-out effect. Nonetheless,
+    An example of negative approach was implemented                         the three studies that assessed the impact of Nordic Keyhole
+in Chile in 2016 where a series of Warning Labels were                      and other FOPNLs on actual dietary intakes, found them to
+applied on unhealthy foods and beverages to inform con-                     have minimal impacts on energy and nutrient intakes, but
+sumers about the high content in energy, sugars, SFAs and                   with some improvements in fat or fibers intakes observed
+sodium, to restrict the marketing of these foods to children,               for some population groups [10].
+and to restrict sales of these products in schools. Children’s                 A case study from the PREDIMED cohort in Spain sees
+households’ purchases were monitored and analyzed pre-                      walnuts as an example of the importance of communicat-
+and post-policy introduction to estimate the effectiveness of               ing about foods appropriately. Adding walnuts to the daily
+the intervention. Data show a decreasing in all the param-                  diet may have multiple health benefits, but only within the
+eters observed (total energy, SFAs, sugars and sodium), but                 context of an overall healthful dietary pattern: it is therefore
+the reduction appears actually small: 16.4 kcal/capita/day for              better to convey the role of walnuts in a plant-based diet
+total energy, 11.5 kcal/capita/day for sugar, 2.2 kcal/capita/              rather than focusing only on them [90].
+day for SFAs, and 27.7 mg/capita/day for sodium, combining                     The GBD 2017 Diet Collaborators [49] found that sub-
+the reductions observed both in beverages and in foods. [89].               optimal diet was responsible for more deaths than any
+    Thus, it seems worth asking: "is it strategically appro-                other risks globally and that although sodium, sugar, and
+priate to propose a “negative nutrition” through a FOPNL,                   fat have been the main focus of diet policy debate in the
+which almost prohibits the consumption of certain foods, or                 previous two decades, the leading dietary risk factors for
+
+
+                                                                                                                                 13
+
+===== PAGE 10 =====
+3046                                             Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2022) 27:3037–3051
+
+mortality were diets high in sodium, low in whole grains,           Limits
+low in fruit, low in nuts and seeds, low in vegetables,
+and low in omega-3 fatty acids. This finding suggests               We are aware of the limitations of this narrative review:
+that dietary policies focusing on promoting the intake of           since it tries to include several extensive topics related to
+components of diet for which current intake is less than            labels and to consumers behavior, some studies may have
+the optimal level (positive nutrition) might have a greater         been overlooked. Another limit is that during the writing
+effect than policies only targeting sugar and fat (negative         of this review, no scale for its quality assessment was used.
+nutrition).
+   A labeling system with a positive character that incor-
+porates more information and education, avoiding judg-
+ments about what consumers are eating (e.g., red lights)            Conclusion
+may be more appropriate for promoting a healthy and
+sustainable diet [57]. Focusing on positive “to-do” rather          The purpose of Front-of-Pack labels is to help consumers
+than “not-to-do” behaviors should help more people adopt            modify their food choices and, furthermore, to promote
+healthier eating habits [91]. Positive and gain-framed mes-         a healthy diet. This intervention might be successful if it
+sages provide a kind of message that could be successful            affects a wide number of determinants, such as biologi-
+with the general population, which probably has limited             cal, economic, physical, social, psychological and edu-
+awareness of the topic of the message, leaving a favorable          cational aspects. To understand this complex framework,
+impression and a committed, driven attitude [92, 93].               some of these aspects (such as the purchasing behaviors
+   For example, an experimental study in Belgium exposed            patterns, the health and hedonic aspects as determinants of
+consumers to either a benefit-only message (about fish              the propensity to buy, and the determinants that influence
+favorable lipid fraction and vitamin D content), a risk-only        food choices and eating behaviors) were briefly presented
+message (about dioxin and methyl mercury contamina-                 in “Healthiness and hedonic aspects as determinants of
+tion), or a balanced message about fish consumption: the            propensity to buy”–“Nutrition labeling and eating disor-
+benefit message increased consumers’ intention to eat fish          ders”. The framework is complex, and many mechanisms
+by 21% as compared to current fish consumption, and the             or interactions are not yet fully understood, making it dif-
+risk-only message led to an 8% lower behavioral inten-              ficult to standardize an effective intervention.
+tion. It seems therefore that there is a “ceiling effect” with          Moreover, the role of FOPLs should be embedded in a
+products that are already perceived healthy (like fish) for         broader concept of well-being and food security, which is “a
+which we can only reach a minimal further increase [38].            situation that exists when all people, at all times, have physi-
+   As stated by BC Johnston et al. “nutritional recommen-           cal and economic access to sufficient, safe and nutritious
+dations must, acknowledge the low-certainty evidence and            food that meets their dietary needs and food preferences for
+avoid strong “just do it” recommendations that can, as evi-         an active and healthy life” [98]. To this effect, a health policy
+denced by the many low-fat recommendations worldwide,               intervention should try to answer to all people’s needs and
+be very misleading” [94].                                           take into account food traditions, habits and sociocultural
+   Moreover, some theories suggest that we should con-              aspects related to local territories. Hence, we focused on
+sider at least 3 components that could explain the enablers         the possible relations between labeling and eating disorder
+and barriers between people and healthy eating, as well             and on the negative and positive nutrition approaches for a
+as consumers’ behavior: capability, opportunity and moti-           successful solution to the problem.
+vation [92]. This complex combination of habits, home                   Currently, it is mandatory to find new, effective tools to
+environment and self-efficacy [95] should be considered             inform consumers about healthy choices and sustainable
+when planning health policy tools that cannot be limited            eating patterns that can prevent NCDs and obesity. While
+to actions to undertake in supermarkets, but probably need          it is not easy to communicate this information through
+to expand widely and deeply in society.                             Back-of-Pack labels, a FOPNL system based on single
+   Confirming the merits of a positive educational                  nutrients or on single foods may not consider the complex-
+approach, a meta-analysis focused on the effect of educa-           ity of dietary patterns and of the psychology of consumers.
+tional campaigns in improving healthy eating behaviors                  Moreover, given the complexity of this matter, and the
+showed good results in both chronic disease and hemodi-             scarcity of studies about a possible correlation between
+alysis patients [96, 97]. Using positive messages can be a          nutritional information in food labels and EDs, and given
+strategy that reinforces specific nutrition-related practices       that we cannot exclude that nutrition labeling interventions
+or behaviors, changes habits that contribute to poor health         might favor the evolution toward an ED or their exacerba-
+and goes toward positive actions.                                   tion, more studies in this area are needed.
+
+
+
+13
+
+===== PAGE 11 =====
+Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2022) 27:3037–3051                                                                  3047
+
+   All the aforementioned evidence underlines the signifi-                    biases, subjective variables, and various determinants
+cant limits of information based either on single nutrients                   that influence food choices.
+or nutrients associated with calories, suggesting that dietary              • Studies are needed on the effect of FOPNLs in relation
+policies should focus on promoting healthy dietary patterns                   to the degree of nutritional literacy of the various socio-
+instead only targeting a few nutrients. These limits might                    demographic groups, also looking for the outcome in
+be even greater when talking about FOPNLs that suggest a                      relation to pre-existing disparities related to health status.
+negative relationship with specific nutrients and/or caloric                • This paper also would like to underline that the presence
+intake. Negative communication is not necessarily a suc-                      of a FOPNL (especially a directive one) can make the
+cessful tool to educate consumers, to dialog with them and                    product look healthier, or less healthy, in the eyes of the
+improving critical thinking.                                                  consumer, and this could lead people to consume more
+   Therefore, as challenging as it is, a labeling system with a               of the products considered particularly healthy, i.e., those
+positive character that incorporates more nutrition informa-                  with a green sticker or logo on the packaging.
+tion and education and avoids messaging connoting judg-                     • Possible wear-out effect on FOPNLs (either informative
+ment about what consumers are eating (e.g., red lights or                     or directive labels) should be considered to prevent a
+dichotomic messages), may be more appropriate for promot-                     decrease in label effectiveness.
+ing a healthy and sustainable diet. More studies in the field
+of the determinants of food choices (and their interactions)
+are needed to effectively transform the food system. While
+politics and the industry are important stakeholders in the
+                                                                            Author contributions CP, PT, LM, LMD and AlP have made substan-
+food system reform, it is the person and the consumer who                   tial contributions to conception and design; acquisition, analysis and
+must be put at the heart of the analysis in order for the meas-             interpretation of data; drafting the manuscript. AnP, AL, AMG, FM,
+ures taken to be truly effective.                                           EP have been involved in revising the manuscript critically. All authors
+   What is already known on this subject?                                   have given final approval of the version to be published.
+
+                                                                            Funding Open access funding provided by Università degli Studi di
+• Nutrition labels can be useful to inform consumers about                  Roma La Sapienza within the CRUI-CARE Agreement. This work
+   their food choices and help them make healthy choices.                   has been partially funded by NFI Nutrition Foundation of Italy (Grant
+• FOPNLs have different objectives and provide informa-                     No. 012021).
+   tion with different complexity.
+• To date, FOPNLs’ impact has been largely studied in vir-                  Declarations
+  tual scenarios that give an idea of what dietary improve-                 Conflict of interest The authors declare that they have no known com-
+  ments could be achieved under ideal circumstances and                     peting financial interests or personal relationships that could have ap-
+  with an average consumer, but such a consumer does not                    peared to influence the work reported in this paper.
+  exist in real-life conditions.                                            Open Access This article is licensed under a Creative Commons Attri-
+• The risk of encouraging orthorexic or otherwise dysfunc-                  bution 4.0 International License, which permits use, sharing, adapta-
+  tional behaviors in the population groups most at risk of                 tion, distribution and reproduction in any medium or format, as long
+  developing eating disorders is still under-researched.                    as you give appropriate credit to the original author(s) and the source,
+                                                                            provide a link to the Creative Commons licence, and indicate if changes
+                                                                            were made. The images or other third party material in this article are
+   What does this study add?                                                included in the article's Creative Commons licence, unless indicated
+   This work aims to highlight the complexity of the rela-                  otherwise in a credit line to the material. If material is not included in
+tionship between FOPNLs and multiple aspects involved in                    the article's Creative Commons licence and your intended use is not
+                                                                            permitted by statutory regulation or exceeds the permitted use, you will
+eating and purchasing behaviors, to give a wider perspective                need to obtain permission directly from the copyright holder. To view a
+on the matter and to shed light on the aspects that are still               copy of this licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/.
+under-researched, such as the impact on people suffering
+from eating disorders, since research to date has not suf-
+ficiently explored the question. Furthermore:                               References
+• Further research is needed to extend the findings col-                     1. Codex Alimentarius Commission (2015) Guidelines on nutrition
+   lected so far and to investigate the representativeness                      labelling CAC/GL 2-1985. Geneva https://​www.​fao.​org/​fao-​who-​
+                                                                                codexa​ limen​ tariu​ s/s​ h-p​ roxy/e​ s/?l​ nk=1​ &u​ rl=h​ ttps%2​ 53A%2​ 52F%​
+   of the food samples used in the studies with respect to                      252Fw​orksp​ace.​fao.​org%​252Fs​ites%​252Fc​odex%​252FS​t anda​
+   all the products present at the point of purchase. It is                     rds%​252FC​XG%​2B2-​1985%​252FC​XG_​002e.​pdf. Accessed 05
+   also necessary to investigate the possible overlap of vir-                   Jul 2002
+   tual studies with the real-life scenario, characterized by                2. Kanter R, Vanderlee L, Vandevijvere S (2018) Front-of-package
+                                                                                nutrition labelling policy: global progress and future directions.
+
+
+
+                                                                                                                                                   13
+
+===== PAGE 12 =====
+3048                                                           Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2022) 27:3037–3051
+
+       Public Health Nutr 21:1399–1408. https://​doi.​org/​10.​1017/​S1368​        17. Kahneman D (2011) Thinking, fast and slow. Farrar Straus and
+       98001​80000​10                                                                  Giroux, New York
+ 3.    European Parliaments and the Council (2020) Report from the                 18. Scarborough P, Matthews A, Eyles H, Kaur A, Hodgkins C, Raats
+       commission to the european parliament and the council regarding                 MM, Rayner M (2015) Reds are more important than greens: how
+       the use of additional forms of expression and presentation of the               UK supermarket shoppers use the different information on a traffic
+       nutrition declaration. 1–25. https://​eur-​lex.​europa.​eu/​legal-​conte​       light nutrition label in a choice experiment. Int J Behav Nutr Phys
+       nt/​GA/​ALL/?​uri=​CELEX:​52020​DC0207. Accessed 05 Jul 2002                    Act 12:151. https://​doi.​org/​10.​1186/​s12966-​015-​0319-9
+ 4.    Muzzioli L, Penzavecchia C, Donini LM, Pinto A (2022) Are                   19. van der Werf HMG, Salou T (2015) Economic value as a func-
+       front-of-pack labels a health policy tool? Nutrients. https://​doi.​            tional unit for environmental labelling of food and other consumer
+       org/​10.​3390/​NU140​40771                                                      products. J Clean Prod 94:394–397. https://d​ oi.o​ rg/1​ 0.1​ 016/j.j​ clep​
+ 5.    Egnell M, Ducrot P, Touvier M, Allès B, Hercberg S, Kesse-Guyot                 ro.​2015.​01.​077
+       E, Julia C (2018) Objective understanding of Nutri-Score Front-             20. Cleeren K, Geyskens K, Verhoef PC, Pennings JME (2016)
+       Of-Package nutrition label according to individual characteristics              Regular or low-fat? An investigation of the long-run impact of
+       of subjects: comparisons with other format labels. PLoS ONE                     the first low-fat purchase on subsequent purchase volumes and
+       13:1–16. https://​doi.​org/​10.​1371/​journ​al.​pone.​02020​95                  calories. Int J Res Mark 33:896–906. https://​doi.​org/​10.​1016/j.​
+ 6.    Ducrot P, Méjean C, Julia C, Kesse-Guyot E, Touvier M, Fezeu                    ijres​mar.​2016.​04.​001
+       LK, Hercberg S, Péneau S (2015) Objective understanding of                  21. Provencher V, Polivy J, Herman CP (2009) Perceived healthi-
+       Front-of-Package Nutrition Labels among nutritionally at-risk                   ness of food. If it’s healthy, you can eat more! Appetite 52:340–
+       individuals. Nutrients 7:7106–7125. https://​doi.​org/​10.​3390/​               344. https://​doi.​org/​10.​1016/j.​appet.​2008.​11.​005
+       nu708​5325                                                                  22. Bellisle F (2006) The factors that influence our food choices.
+ 7.    Orquin JL, Scholderer J (2015) Consumer judgments of explicit                   Eufic 1–19. https://​www.​eufic.​org/​en/​healt​hy-​living/​artic​le/​the-​
+       and implied health claims on foods: misguided but not misled.                   deter​minan​ts-​of-​food-​choice. Accessed 05 Jul 2022
+       Food Policy 51:144–157. https://​doi.​org/​10.​1016/j.​foodp​ol.​2015.​     23. Clarke N, Pechey E, Kosīte D, König LM, Mantzari E, Black-
+       01.​001                                                                         well AKM, Marteau TM, Hollands GJ (2021) Impact of health
+ 8.    Roberto CA, Shivaram M, Martinez O, Boles C, Harris JL,                         warning labels on selection and consumption of food and alco-
+       Brownell KD (2012) The Smart Choices front-of-package nutri-                    hol products: systematic review with meta-analysis. Health Psy-
+       tion label. Influence on perceptions and intake of cereal. Appetite             chol Rev 15:430–453. https://​doi.​org/​10.​1080/​17437​199.​2020.​
+       58:651–657. https://​doi.​org/​10.​1016/j.​appet.​2012.​01.​003                 17801​47
+ 9.    World Health Organization (2020) Manual to develop and imple-               24. Dubois P, Albuquerque P, Allais O, Bonnet C, Bertail P, Com-
+       ment front-of-pack nutrition labelling: guidance for countries on               bris P, Lahlou S, Rigal N, Ruffieux B, Chandon P (2021) Effects
+       the selection and testing of evidence-informed front-of-pack nutri-             of front-of-pack labels on the nutritional quality of supermarket
+       tion labelling systems in the WHO European Region. https://a​ pps.​             food purchases: evidence from a large-scale randomized con-
+       who.​int/​iris/​bitst​ream/​handle/​10665/​336988/​WHO-​EURO-​2020-​            trolled trial. J Acad Mark Sci 49:119–138. https://​doi.​org/​10.​
+       1569-​41320-​56234-​eng.​pdf. Accessed 05 Jul 2022                              1007/​s11747-​020-​00723-5
+10.    Donini LM, Penzavecchia C, Muzzioli L, Poggiogalle E, Giusti                25. Temple NJ (2020) Front-of-package food labels: a narrative
+       AM, Lenzi A, Pinto A (2022) Efficacy of front-of-pack nutrition                 review. Appetite 144:104485. https://​doi.​org/​10.​1016/j.​appet.​
+       labels in improving health status. Nutrition. https://​doi.​org/​10.​           2019.​104485
+       1016/j.​nut.​2022.​111770                                                   26. Sarabia-Andreu F, Sarabia-Sánchez FJ, Parra-Meroño MC,
+11.    Shangguan S, Afshin A, Shulkin M, Ma W, Marsden D, Smith                        Moreno-Albaladejo P (2020) A multifaceted explanation of the
+       J, Saheb-Kashaf M, Shi P, Micha R, Imamura F et al (2019) A                     predisposition to buy organic food. Foods 9:197. https://​doi.​org/​
+       meta-analysis of food labeling effects on consumer diet behaviors               10.​3390/​foods​90201​97
+       and industry practices. Am J Prev Med 56:300–314. https://​doi.​            27. Faulkner GP, Pourshahidi LK, Wallace JMW, Kerr MA, McCaf-
+       org/​10.​1016/j.​amepre.​2018.​09.​024                                          frey TA, Livingstone MBE (2014) Perceived ‘healthiness’ of
+12.    Song J, Brown MK, Id MT, Macgregor GA, Webster J, Campbell                      foods can influence consumers’ estimations of energy density
+       NRC, Trieuid K, Mhurchu CN, Cobb LK, Heid FJ (2021) Impact                      and appropriate portion size. Int J Obes 38:106–112. https://​doi.​
+       of color-coded and warning nutrition labelling schemes: a system-               org/​10.​1038/​ijo.​2013.​69
+       atic review and network meta-analysis. PLoS Med. https://d​ oi.o​ rg/​      28. Hodgkins CE, Raats MM, Fife-Schaw C, Peacock M, Gröppel-
+       10.​1371/​journ​al.​pmed.​10037​65                                              Klein A, Koenigstorfer J, Wasowicz G, Stysko-Kunkowska
+13.    Rothman AJ, Bartels RD, Wlaschin J, Salovey P (2006) The stra-                  M, Gulcan Y, Kustepeli Y et al (2015) Guiding healthier food
+       tegic use of gain- and loss-framed messages to promote healthy                  choice: systematic comparison of four front-of-pack labelling
+       behavior: how theory can inform practice. J Commun. https://​doi.​              systems and their effect on judgements of product healthiness.
+       org/​10.​1111/j.​1460-​2466.​2006.​00290.x                                      Br J Nutr 113:1652–1663. https://​doi.​org/​10.​1017/​S0007​11451​
+14.    Cena H, Barthels F, Cuzzolaro M, Bratman S, Brytek-Matera A,                    50002​64
+       Dunn T, Varga M, Missbach B, Donini LM (2019) Definition                    29. Aschemann-Witzel J, Grunert KG, van Trijp H, Bialkova S, Raats
+       and diagnostic criteria for orthorexia nervosa: a narrative review              MM, Hodgkins C, Wasowicz-Kirylo G, Koenigstorfer J (2013)
+       of the literature. Eat Weight Disord Stud Anorexia, Bulim Obes                  Effects of nutrition label format and product assortment on the
+       24:209–246. https://​doi.​org/​10.​1007/​s40519-​018-​0606-y                    healthfulness of food choice. Appetite 71:63–74. https://​doi.​org/​
+15.    European Commission, Joint Research Centre, Storcksdieck                        10.​1016/j.​appet.​2013.​07.​004
+       genannt, Bonsmann S, Marandola G, Ciriolo E et al (2020) Front-             30. Ronteltap A, Sijtsema SJ, Dagevos H, de Winter MA (2012) Con-
+       of-pack nutrition labelling schemes : a comprehensive review,                   strual levels of healthy eating. Exploring consumers’ interpreta-
+       Publications Office, https://data.europa.eu/doi/https://​doi.​org/​10.​         tion of health in the food context. Appetite 59:333–340. https://​
+       2760/​436998                                                                    doi.​org/​10.​1016/j.​appet.​2012.​05.​023
+16.    Hamlin R (2015) Front of Pack Nutrition Labelling, nutrition,               31. Coquery N, Gautier Y, Serrand Y, Meurice P, Bannier E, Thibault
+       quality and consumer choices. Curr Nutr Rep 4:323–329. https://​                R, Constant A, Moirand R, Val-Laillet D (2022) Brain responses
+       doi.​org/​10.​1007/​s13668-​015-​0147-1                                         to food choices and decisions depend on individual hedonic
+
+
+
+13
+
+===== PAGE 13 =====
+Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2022) 27:3037–3051                                                            3049
+
+      profiles and eating habits in healthy young women. Front Nutr.        48. Miller LMS, Cassady DL (2012) Making healthy food choices
+      https://​doi.​org/​10.​3389/​fnut.​2022.​920170                           using nutrition facts panels. The roles of knowledge, motiva-
+32.   Chen P-J, Antonelli M (2020) Conceptual models of food choice:            tion, dietary modifications goals, and age. Appetite 59:129–139.
+      influential factors related to foods, individual differences, and         https://​doi.​org/​10.​1016/j.​appet.​2012.​04.​009
+      society. Foods 9:1898. https://​doi.​org/​10.​3390/​foods​91218​98    49. Afshin A, Sur PJ, Fay KA, Cornaby L, Ferrara G, Salama JS,
+33.   Grunert KG, Wills JM, Fernández-Celemín L (2010) Nutrition                Mullany EC, Abate KH, Abbafati C, Abebe Z et al (2019) Health
+      knowledge, and use and understanding of nutrition information             effects of dietary risks in 195 countries, 1990–2017: a systematic
+      on food labels among consumers in the UK. Appetite 55:177–189.            analysis for the Global Burden of Disease Study 2017. Lancet
+      https://​doi.​org/​10.​1016/j.​appet.​2010.​05.​045                       393:1958–1972. https://​doi.​org/​10.​1016/​S0140-​6736(19)​30041-8
+34.   Leng G, Adan RAH, Belot M, Brunstrom JM, de Graaf K, Dick-            50. ISTAT L’organizzazione dei tempi di lavoro: la diffusione degli
+      son SL, Hare T, Maier S, Menzies J, Preissl H et al (2017) The            orari “atipici.” (2004) https://​ebibl​io.​istat.​it/​digib​ib/​Argom​enti/​
+      determinants of food choice. Proc Nutr Soc 76:316–327. https://​          IST00​45445​Argom​enti28_​Organ​izzaz​ione_​tempi_​lavoro_​diffu​
+      doi.​org/​10.​1017/​S0029​66511​60028​6X                                  sione_​orari_​atipi​ci.​pdf. Accessed 05 Jul 2022
+35.   Li-Jen Hwang J, Desombre T, Eves A, Kipps M (1999) An                 51. Gupta CC, Coates AM, Dorrian J, Banks S (2019) The factors
+      analysis of catering options within NHS acute hospitals. Int J            influencing the eating behaviour of shiftworkers: what, when,
+      Health Care Qual Assur 12:293–308. https://​doi.​org/​10.​1108/​          where and why. Ind Health 57:419–453. https://​doi.​org/​10.​2486/​
+      09526​86991​02875​67                                                      indhe​alth.​2018-​0147
+36.   Marcone MF, Madan P, Grodzinski B (2020) An overview of the           52. Deliens T, Clarys P, De Bourdeaudhuij I, Deforche B (2014)
+      sociological and environmental factors influencing eating food            Determinants of eating behaviour in university students: a quali-
+      behavior in Canada. Front Nutr 7:77. https://www.frontiersin.             tative study using focus group discussions. BMC Public Health
+      org/article/https://​doi.​org/​10.​3389/​fnut.​2020.​00077                14:53. https://​doi.​org/​10.​1186/​1471-​2458-​14-​53
+37.   Roberts HC (2018) Changing the food environment: the effect of        53. Leme ACB, Haines J, Tang L, Dunker KLL, Philippi ST, Fis-
+      trained volunteers on mealtime care for older people in hospital.         berg M, Ferrari GL, Fisberg RM (2020) Impact of strategies for
+      Proc Nutr Soc 77:95–99. https://​doi.​org/​10.​1017/​S0029​66511​         preventing obesity and risk factors for eating disorders among
+      70028​04                                                                  adolescents: a systematic review. Nutrients 12:3134. https://​doi.​
+38.   Verbeke W (2008) Impact of communication on consumers’                    org/​10.​3390/​nu121​03134
+      food choices. Proc Nutr Soc 67:281–288. https://​d oi.​o rg/​1 0.​    54. Teixeira PJ, Carraça EV, Marques MM, Rutter H, Oppert J-M, De
+      1017/​S0029​66510​80071​79                                                Bourdeaudhuij I, Lakerveld J, Brug J (2015) Successful behavior
+39.   Wills JM, Storcksdieck-Genannt-Bonsmann S, Kolka M,                       change in obesity interventions in adults: a systematic review of
+      Grunert KG (2012) European consumers and health claims:                   self-regulation mediators. BMC Med 13:84. https://​doi.​org/​10.​
+      attitudes, understanding and purchasing behaviour. Proc Nutr              1186/​s12916-​015-​0323-6
+      Soc 71:229–236. https://​doi.​org/​10.​1017/​S0029​66511​20000​43     55. Schwitzer AM, Bergholz K, Dore T, Salimi L (1998) Eating disor-
+40.   Santos O, Alarcão V, Feteira-Santos R, Fernandes J, Virgolino             ders among college women: prevention, education, and treatment
+      A, Sena C, Vieira CP, Gregório MJ, Nogueira P, Graça P et al              responses. J Am Coll Heal 46:199–207. https://​doi.​org/​10.​1080/​
+      (2020) Impact of different front-of-pack nutrition labels on              07448​48980​96002​23
+      online food choices. Appetite 154:104795. https://​doi.​org/​10.​     56. Martinez OD, Roberto CA, Kim JH, Schwartz MB, Brownell KD
+      1016/j.​appet.​2020.​104795                                               (2013) A Survey of undergraduate student perceptions and use
+41.   Stefan SGB (2015) Comparison of the nutrient profiling                    of nutrition information labels in a university dining hall. Health
+      schemes of the EU Pledge and the World Health Organization                Educ J 72:319–325. https://​doi.​org/​10.​1177/​00178​96912​443120
+      Regional Office for Europe. EUR Sci Tech Res Rep. https://​doi.​      57. Seward MW, Block JP, Chatterjee A (2018) Student experiences
+      org/​10.​2787/​24358                                                      with traffic-light labels at college cafeterias: a mixed methods
+42.   Dréano-Trécant L, Egnell M, Hercberg S, Galan P, Soudon                   study. Obes Sci Pract 4:159–177. https://​doi.​org/​10.​1002/​osp4.​
+      J, Fialon M, Touvier M, Kesse-Guyot E, Julia C (2020) Per-                159
+      formance of the front-of-pack nutrition label nutri-score to          58. Cogan JC, Smith JP, Maine MD (2007) The risks of a quick fix:
+      discriminate the nutritional quality of foods products: a com-            a case against mandatory body mass index reporting laws. Eat
+      parative study across 8 European countries. Nutrients 12:1303.            Disord 16:2–13. https://​doi.​org/​10.​1080/​10640​26070​17716​64
+      https://​doi.​org/​10.​3390/​nu120​51303                              59. Golden NH, Schneider M, Wood C, Daniels S, Abrams S, Corkins
+43.   Ikonen I, Sotgiu F, Aydinli A, Verlegh PWJ (2020) Consumer                M, De Ferranti S, Magge SN, Schwarzenberg S, Critch J et al
+      effects of front-of-package nutrition labeling: an interdiscipli-         (2016) Preventing obesity and eating disorders in adolescents.
+      nary meta-analysis. J Acad Mark Sci 48:360–383. https://​doi.​            Pediatrics. https://​doi.​org/​10.​1542/​peds.​2016-​1649
+      org/​10.​1007/​s11747-​019-​00663-9                                   60. O’Dea JA (2004) Prevention of child obesity: “first, do no harm.”
+44.   Storcksdieck-Genannt-Bonsmann S, Wills JM (2012) Nutri-                   Health Educ Res 20:259–265. https://​doi.​org/​10.​1093/​her/​cyg116
+      tion labeling to prevent obesity: reviewing the evidence from         61. Schwartz MB, Henderson KE (2009) Does obesity prevention
+      Europe. Curr Obes Rep 1:134–140. https://​d oi.​o rg/​1 0.​1 007/​        cause eating disorders? J Am Acad Child Adolesc Psychiatry
+      s13679-​012-​0020-0                                                       48:784–786. https://​doi.​org/​10.​1097/​CHI.​0b013​e3181​acfb88
+45.   Vizcarra M, Palomino AM, Iglesias L, Valencia A, Espinoza             62. Roberto CA, Haynos AF, Schwartz MB, Brownell KD, White
+      PG, Schwingel A (2019) Weight matters—factors influenc-                   MA (2013) Calorie estimation accuracy and menu labeling per-
+      ing eating behaviors of vulnerable women. Nutrients 11:1809.              ceptions among individuals with and without binge eating and/or
+      https://​doi.​org/​10.​3390/​nu110​81809                                  purging disorders. Eat Weight Disord Stud Anorexia, Bulim Obes
+46.   Dean M, Lähteenmäki L, Shepherd R (2011) Nutrition com-                   18:255–261. https://​doi.​org/​10.​1007/​s40519-​013-​0035-x
+      munication: consumer perceptions and predicting intentions.           63. Haynos AF, Roberto CA (2017) The effects of restaurant menu
+      Proc Nutr Soc 70:19–25. https://​doi.​org/​10.​1017/​S0029​66511​         calorie labeling on hypothetical meal choices of females with dis-
+      00039​64                                                                  ordered eating. Int J Eat Disord 50:275–283. https://​doi.​org/​10.​
+47.   Spiteri-Cornish L, Moraes C (2015) The impact of consumer                 1002/​eat.​22675
+      confusion on nutrition literacy and subsequent dietary behavior.      64. Lillico HG, Hanning R, Findlay S, Hammond D (2015) The effects
+      Psychol Mark 32:558–574. https://​doi.​org/​10.​1002/​mar.​20800          of calorie labels on those at high-risk of eating pathologies: a
+
+
+                                                                                                                                              13
+
+===== PAGE 14 =====
+3050                                                          Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2022) 27:3037–3051
+
+       pre-post intervention study in a University cafeteria. Public Health      81. Bleakley A, Jordan AB, Hennessy M, Glanz K, Strasser A, Vaala
+       129:732–739. https://​doi.​org/​10.​1016/j.​puhe.​2015.​03.​005               S (2015) Do emotional appeals in public service advertisements
+65.    Seward MW, Block JP, Chatterjee A (2016) A traffic-light label                influence adolescents’ intention to reduce consumption of sugar-
+       intervention and dietary choices in college cafeterias. Am J Pub-             sweetened beverages? J Health Commun 20:938–948. https://​doi.​
+       lic Health 106:1808–1814. https://​doi.​org/​10.​2105/​AJPH.​2016.​           org/​10.​1080/​10810​730.​2015.​10185​93
+       303301                                                                    82. O’Keefe DJ, Jensen JD (2007) The relative persuasiveness of gain-
+66.    McGeown L (2019) The calorie counter-intuitive effect of res-                 framed loss-framed messages for encouraging disease prevention
+       taurant menu calorie labelling. Can J Public Heal 110:816–820.                behaviors: a meta-analytic review. J Health Commun 12:623–644.
+       https://​doi.​org/​10.​17269/​s41997-​019-​00183-7                            https://​doi.​org/​10.​1080/​10810​73070​16151​98
+67.    Romano KA, Swanbrow Becker MA, Colgary CD, Magnuson                       83. Boswell RG, Sun W, Suzuki S, Kober H (2018) Training in cognitive
+       A (2018) Helpful or harmful? The comparative value of self-                   strategies reduces eating and improves food choice. Proc Natl Acad
+       weighing and calorie counting versus intuitive eating on the eating           Sci 115:E11238–E11247. https://​doi.​org/​10.​1073/​pnas.​17170​92115
+       disorder symptomology of college students. Eat Weight Disord              84. Reynolds JP, Webb TL, Benn Y, Chang BPI, Sheeran P (2018) Feel-
+       Stud Anorexia, Bulim Obes 23:841–848. https://​doi.​org/​10.​1007/​           ing bad about progress does not lead people want to change their
+       s40519-​018-​0562-6                                                           health behaviour. Psychol Health 33:275–291. https://​doi.​org/​10.​
+68.    Larson N, Haynos AF, Roberto CA, Loth KA, Neumark-Sztainer D                  1080/​08870​446.​2017.​13108​62
+       (2018) Calorie labels on the restaurant menu: is the use of weight-       85. Ruiter RAC, Kessels LTE, Peters G-JY, Kok G (2014) Sixty years
+       control behaviors related to ordering decisions? J Acad Nutr Diet             of fear appeal research: current state of the evidence. Int J Psychol
+       118:399–408. https://​doi.​org/​10.​1016/j.​jand.​2017.​11.​007               49:63–70. https://​doi.​org/​10.​1002/​ijop.​12042
+69.    Hu MY (2008) Calorie cards removed from the dining halls. The             86. Shi J, Smith SW (2016) The effects of fear appeal message repetition
+       Harvard Crimson http://​www.​thecr​imson.​com/​artic​le/​2008/9/​24/​         on perceived threat, perceived efficacy, and behavioral intention in
+       calor​ie-​cards-​remov​ed-​from-​dining-​halls/. Accessed 05 Jul 2022         the extended parallel process model. Health Commun 31:275–286.
+70.    Christoph MJ, Loth KA, Eisenberg ME, Haynos AF, Larson N,                     https://​doi.​org/​10.​1080/​10410​236.​2014.​948145
+       Neumark-Sztainer D (2018) Nutrition facts use in relation to eat-         87. Olson O, Berry C, Kumar N (2020) Addressing parental vaccine
+       ing behaviors and healthy and unhealthy weight control behaviors.             hesitancy towards childhood vaccines in the United States: a system-
+       J Nutr Educ Behav 50:267-274.e1. https://​doi.​org/​10.​1016/j.​jneb.​        atic literature review of communication interventions and strategies.
+       2017.​11.​001                                                                 Vaccines. https://​doi.​org/​10.​3390/​vacci​nes80​40590
+71.    Christoph MJ, Larson N, Laska MN, Neumark-Sztainer D (2018)               88. Simis MJ, Madden H, Cacciatore MA, Yeo SK (2016) The lure of
+       Nutrition facts panels: who uses them, what do they use, and how              rationality: why does the deficit model persist in science commu-
+       does use relate to dietary intake? J Acad Nutr Diet 118:217–228.              nication? Public Underst Sci 25:400–414. https://​doi.​org/​10.​1177/​
+       https://​doi.​org/​10.​1016/j.​jand.​2017.​10.​014                            09636​62516​629749
+72.    Bryant EJ, King NA, Blundell JE (2007) Disinhibition: its effects         89. Taillie LS, Bercholz M, Popkin B, Reyes M, Colchero MA, Corvalán
+       on appetite and weight regulation. Obes Rev 9:409–419. https://​doi.​         C (2021) Changes in food purchases after the Chilean policies on
+       org/​10.​1111/j.​1467-​789X.​2007.​00426.x                                    food labelling, marketing, and sales in schools: a before and after
+73.    Jacob R, Drapeau V, Lamarche B, Doucet É, Pomerleau S,                        study. Lancet Planet Heal 5:e526–e533. https://​doi.​org/​10.​1016/​
+       Provencher V (2020) Associations among eating behaviour traits,               S2542-​5196(21)​00172-8
+       diet quality and food labelling: a mediation model. Public Health         90. Toner CD (2014) Communicating clinical research to reduce cancer
+       Nutr 23:631–641. https://​doi.​org/​10.​1017/​S1368​98001​90032​03            risk through diet: Walnuts as a case example. Nutr Res Pract 8:347.
+74.    Fawkes K, Levy J, Terry K, Edelstein S (2010) Female college stu-             https://​doi.​org/​10.​4162/​nrp.​2014.8.​4.​347
+       dents’ attitudes about body image and food labels and how they            91. Pem D, Jeewon R (2015) Fruit and vegetable intake: benefits and
+       affect purchasing behavior. Top Clin Nutr 25:165–171. https://​doi.​          progress of nutrition education interventions—narrative review arti-
+       org/​10.​1097/​TIN.​0b013​e3181​db7b18                                        cle. Iran J Public Health 44:1309–21. http://​www.​ncbi.​nlm.​nih.​gov/​
+75.    Oh A, Nguyen AB, Patrick H (2016) Correlates of reported use and              pubmed/​26576​343
+       perceived helpfulness of calorie information in restaurants among         92. Buckton CH, Lean MEJ, Combet E (2015) ‘Language is the source
+       US adults. Am J Heal Promot 30:242–249. https://​doi.​org/​10.​1177/​         of misunderstandings’—impact of terminology on public percep-
+       08901​17116​639565                                                            tions of health promotion messages. BMC Public Health 15:579.
+76.    Robinson TN (1997) Do cigarette warning labels reduce smoking?                https://​doi.​org/​10.​1186/​s12889-​015-​1884-1
+       Arch Pediatr Adolesc Med 151:267. https://​doi.​org/​10.​1001/​archp​     93. Rolls BJ, Ello-Martin JA, Tohill BC (2004) What can intervention
+       edi.​1997.​02170​40005​3010                                                   studies tell us about the relationship between fruit and vegetable
+77.    Shadel WG, Martino SC, Setodji CM, Dunbar M, Scharf D,                        consumption and weight management? Nutr Rev 62:1–17. https://​
+       Creswell KG (2019) Do graphic health warning labels on cigarette              doi.​org/​10.​1111/j.​1753-​4887.​2004.​tb000​01.x
+       packages deter purchases at point-of-sale? An experiment with adult       94. Johnston BC, Zeraatkar D, Han MA, Vernooij RWM, Valli C, El Dib
+       smokers. Health Educ Res 34:321–331. https://​doi.​org/​10.​1093/​her/​       R, Marshall C, Stover PJ, Fairweather-Taitt S, Wójcik G et al (2019)
+       cyz011                                                                        Unprocessed red meat and processed meat consumption: dietary
+78.    Laroche M, Toffoli R, Zhang Q, Pons F (2001) A cross-cultural                 guideline recommendations from the Nutritional Recommendations
+       study of the persuasive effect of fear appeal messages in cigarette           (NutriRECS) Consortium. Ann Intern Med 171:756. https://​doi.​org/​
+       advertising: China and Canada. Int J Advert 20:297–317. https://​doi.​        10.​7326/​M19-​1621
+       org/​10.​1080/​02650​487.​2001.​11104​895                                 95. Willmott TJ, Pang B, Rundle-Thiele S (2021) Capability, opportu-
+79.    Hammond D, Fong GT, Borland R, Cummings KM, McNeill A,                        nity, and motivation: an across contexts empirical examination of
+       Driezen P (2007) Text and graphic warnings on cigarette packages.             the COM-B model. BMC Public Health 21:1014. https://​doi.​org/​10.​
+       Am J Prev Med 32:202–209. https://​doi.​org/​10.​1016/j.​amepre.​2006.​       1186/​s12889-​021-​11019-w
+       11.​011                                                                   96. Karavetian M, de Vries N, Rizk R, Elzein H (2014) Dietary edu-
+80.    White V, Bariola E, Faulkner A, Coomber K, Wakefield M (2015)                 cational interventions for management of hyperphosphatemia in
+       Graphic health warnings on cigarette packs: how long before the               hemodialysis patients: a systematic review and meta-analysis. Nutr
+       effects on adolescents wear out? Nicotine Tob Res 17:776–783.                 Rev 72:471–482. https://​doi.​org/​10.​1111/​nure.​12115
+       https://​doi.​org/​10.​1093/​ntr/​ntu184
+
+
+13
+
+===== PAGE 15 =====
+Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2022) 27:3037–3051                                                    3051
+
+97. Kelly JT, Reidlinger DP, Hoffmann TC, Campbell KL (2016)                Publisher's Note Springer Nature remains neutral with regard to
+    Telehealth methods to deliver dietary interventions in adults with      jurisdictional claims in published maps and institutional affiliations.
+    chronic disease: a systematic review and meta-analysis. Am J Clin
+    Nutr 104:1693–1702. https://​doi.​org/​10.​3945/​ajcn.​116.​136333
+98. FAO (2001) The state of food insecurity in the world. Rome. https://​
+    www.​fao.​org/3/​y1500e/​y1500​e00.​htm. Accessed 05 Jul 2022
+
+
+
+
+                                                                                                                                      13

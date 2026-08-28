@@ -1,0 +1,447 @@
+SOURCE_PDF: P0-2E_信任与行为同测/Trust Management in Organic Agriculture_ Sustainable Consumption Behavior, Environmentally Conscious Purchase Intention, and Healthy Food Choices_2019.pdf
+EXTRACTION_STATUS: ok
+PAGES: 7
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+MINI REVIEW
+                                                                                                                                       published: 19 November 2019
+                                                                                                                                      doi: 10.3389/fpubh.2019.00340
+
+
+
+
+                                              Trust Management in Organic
+                                              Agriculture: Sustainable
+                                              Consumption Behavior,
+                                              Environmentally Conscious Purchase
+                                              Intention, and Healthy Food Choices
+                                              George Lazaroiu 1*, Mihai Andronie 2 , Cristian Uţă 2 and Iulian Hurloiu 2
+                                              1
+                                               Faculty of Social and Human Sciences, Spiru Haret University, Bucharest, Romania, 2 Department of Economic Sciences,
+                                              Spiru Haret University, Bucharest, Romania
+
+
+
+                                              We draw on outstanding recent research to substantiate factors driving
+                                              pro-environmental food purchasing behavior. Throwing light on purchasing behavior for
+                                              environmentally sustainable foods, our study highlights the relevance of consumer trust
+                                              and motivations in organic product markets together with individuals’ perceived value
+                                              and willingness to buy such items throughout the choice behavior and decision-making
+                                              process. Our findings prove that most aspects influencing consumers’ attitudes for and
+                                              choices of organic foods are related to their trust and perceptions of the nutritional
+                            Edited by:        benefits such products provide. The insights gained from our research extend present
+                     Kyriakos Souliotis,      knowledge concerning consumer behavior and purchase intention for environmentally
+    University of Peloponnese, Greece
+                                              sustainable products. The chief gaps and issues identified by the review cover the
+                       Reviewed by:
+                     Gregory Lubiani,
+                                              variety of organic food consumer purchase intentions and behaviors, including the
+    Texas A&M University Commerce,            relative environmental performance of organic food production and the link between
+                        United States
+                                              the motivational values and attitudes concerning the consumption of non-chemical
+                        Simon Grima,
+            University of Malta, Malta        products. Apart from sustainable agriculture and upsides of organic farming, the main
+                  *Correspondence:            disadvantages are as follows: recycling and aligning with natural operations does not
+                     George Lazaroiu          necessitate chemical inputs, but organic food is more prohibitive as farmers do not
+             phd_lazaroiu@yahoo.com
+                                              obtain significant crop productivity out of their land, while organic goods may have a
+                    Specialty section:        price of up to 40% more (production expenses are steeper because farmers demand
+          This article was submitted to       more labor force), marketing and distribution are not streamlined as organic products
+                     Health Economics,
+                a section of the journal
+                                              are delivered in diminished volumes, food disorders may occur more frequent, and
+              Frontiers in Public Health      chemical-free agriculture cannot produce sufficient nutrients that the world’s population
+         Received: 02 August 2019             requires to live on.
+        Accepted: 29 October 2019
+      Published: 19 November 2019             Keywords: trust management, organic agriculture, sustainable consumption behavior, environmentally conscious
+                                              purchase intention, healthy food choices
+                              Citation:
+   Lazaroiu G, Andronie M, Uţă C and
+ Hurloiu I (2019) Trust Management in
+      Organic Agriculture: Sustainable
+                                              INTRODUCTION
+                Consumption Behavior,
+ Environmentally Conscious Purchase           The purpose of this research is to examine the consistent shift of consumer predispositions and
+ Intention, and Healthy Food Choices.         behavior toward food with diminished detrimental health and environmental effects (1), focusing
+             Front. Public Health 7:340.      on issues such as consumers’ decision-making with reference to organic foods, cognitive and
+      doi: 10.3389/fpubh.2019.00340           affective attitudes as determinants that shape consumer’s impulse to shop for environmentally
+
+
+Frontiers in Public Health | www.frontiersin.org                                   1                                          November 2019 | Volume 7 | Article 340
+
+===== PAGE 2 =====
+Lazaroiu et al.                                                                                            Trust Management in Organic Agriculture
+
+
+
+sustainable products (e.g., the cognitive process underlying             impact on organic consumer’s predisposition to informational
+additive-free product choices), the link between personal values         and regularizing intersubjective influences. The latter both have
+and opinions in relation to the organic food consumption, and            a constructive relationship on organic buying intention, which
+the role consumer trust has in consumer intention to purchase            thoroughly prevail upon the non-chemical purchase behavior.
+food products having eco-friendly features and certifications,           Wagner Mainardes et al. (18) remark that being predisposed to
+even though certified organic farming is not decisive in the             change constitutes the attitude that may result in the intention
+preservation or improvement of the agroecosystem health (2).             to buy additive-free products. The attitude associated with the
+The insights gained from this review extend present knowledge            buying of organic products is an intermediary between the
+concerning consumer pro-environmental behavioral attitude and            personal values of consumers and their willingness to purchase
+intention as regards organic food purchasing decisions.                  additive-free goods.
+   The present study provides evidence that safety, nutritional,            Garcia and Teixeira (19) write that the high price of
+and health features shape readiness to pay a high price (3)              environmentally friendly products may only be explainable
+for environmentally friendly certification (4). Communication            by aspects not including food protection (microbiological
+actions and labeling strategies should be enhanced to boost              soundness and pollutants from green and natural sources
+consumer acceptance and influence relevantly consumer                    are significantly impacted by other elements instead of being
+purchase behavior (5). The increase of awareness in the direction        entirely unassociated with the production system solely).
+of organic food is decisive in stimulating consumers to purchase         Reinders and Bartels (20) say that, for both organic private
+(6), while they depend on symbolic observations when assessing           label brands and organic national brands, brand equity
+foods, which may result in distorted judgments and choices (7).          thoroughly impacts additive-free brand consumption and non-
+                                                                         chemical consumption behavior. For organic private label
+CONSUMERS’ ENVIRONMENTAL                                                 brands, brand recognition is associated with additive-free brand
+                                                                         consumption along with non-chemical consumption behavior.
+ATTITUDES, SUSTAINABLE PURCHASE                                          For organic national brands, environmentally friendly consumer
+INTENTION, AND DECISION-MAKING                                           identification impacts additive-free brand consumption and non-
+BEHAVIOR REGARDING ORGANIC FOOD                                          chemical consumption behavior. The link between brand equity
+PRODUCTS                                                                 and additive-free brand consumption is somewhat moderated by
+                                                                         brand recognition.
+When shopping for a product, purchasers encounter various                   Konuk (21) reveal that as health and environmental concerns
+information that can only influence their preferences if they            are gradually relevant in consumers’ decision-making process,
+consider it (8). Food buying behaviors are shaped by diverse             request for organic food is swiftly increasing. There are beneficial
+aspects, e.g., health and the environmental consequence of               connections between price fairness, contentment, confidence,
+particular food production systems (9). Purchasers’ behavioral           and purchase intentions with respect to organic food. Juhl et al.
+intentions are determined decidedly by the kind of green product         (22) explain that individuals embrace organic food products in
+examined and the intrinsic type and scale of participation related       an unsurprising, nonrandom order, progressively expanding and
+to the food category (10). Individual attitude is instrumental in        generalizing their organic buying decision to various product
+influencing buying intention, up in front of subjective standards        categories over time. By purposefully purchasing non-chemical
+and perceived behavioral control (11). Biogas generation on              products, a consumer is likely to galvanize a general personality
+organic farms runs up against numerous structural barriers,              as an organic food/environmentally responsible buyer, which as
+hindering their cost-effectiveness. By supplying renewable energy        a result makes them more predisposed to shop for other kinds of
+in addition to boosting food outputs and economic soundness,             additive-free food. Onel (23) observe that personal and subjective
+the assimilation of anaerobic digestion in organic farms may             criteria, attitudes in relation to behavior, and intention clarify
+generate sustainable or eco-functional build-up of chemical-             purchasers’ pro-environmental buying behavior, while perceived
+free agricultural systems (12) to confront the difficult task of         behavioral control clarifies performance-related intention.
+productivity increases (13).
+   Aschemann-Witzel and Zielke (14) insist that accelerating
+consideration for the environment is accountable for the                 CONSUMERS’ PERCEPTIONS, BELIEFS,
+expanded consumption of non-chemical products. Campaigning               AND TRUST OF THE QUALITY FEATURES
+for organic farming may enhance sustainability in the food               OF ORGANIC FOOD
+industry, but additional consumer demand is hampered by
+premium prices that are the chief perceived obstacle to purchase.        There is a growing body of evidence showing that consumers’
+Khan and Mohsin (15) assert that functional, social, and                 values shape their attitude and intention to eat additive-free
+environmental values favorably influence organic food consumer           food (24). Deciding on organic food enables both upgraded
+choice behavior (16), whereas conditional and epistemic values           environmental effect and enhanced nutritional consequences
+have a negative effect. Functional and emotional values do               (25). Environmentally friendly attitudes are positively related to
+not shape organic food consumer choice behavior. Chang and               non-genetically modified and organic food ones (26). Sustainable
+Chang (17) show that connection strength and sender’s and                consumption may comprise both sustainable principles and
+receiver’s environmentally friendly expertise have a beneficial          sustainable actions (27). Consumer choice behavior is essential
+
+
+Frontiers in Public Health | www.frontiersin.org                     2                                     November 2019 | Volume 7 | Article 340
+
+===== PAGE 3 =====
+Lazaroiu et al.                                                                                            Trust Management in Organic Agriculture
+
+
+
+to reinforcing cleaner production and is crucial in energy-saving             Petrescu et al. (37) state that trust in the certification
+improvement and green policy-making (28). Enlarging land                  of the non-chemical products is essential for its purchase.
+utilization for vegetables in organic farming shapes the kind of          Additive-free food consumers are definitely interested in certified
+food produced, being monopolized by milk goods and red meat.              or uncertified organics and oriented by health and taste
+As crops are reduced under organic procedures, more land is               incentives. The cost of certified organic national goods may
+needed to generate the same volume of agricultural yields. A              be considerably diminished than imported products by cutting
+pressure for significant more rural areas determines massive land         down transportation expenses, taxes, and the amount of
+utilization alterations, generating sweeping environmental effects        intermediaries. The rise in the volume of organic producers and
+that arise when converting to organic agriculture (29).                   of the regions transformed to organic utilization can result in
+    Taufique and Vaithianathan (30) hold that swift economic              superior output and in a consistent decline of prices, favorably
+growth and ensuing overconsumption have intensified                       affecting national consumption. Health characteristics, superior
+green deterioration all over the world, inducing increased                taste and a beneficial effect on the environment constitute
+consumption-related environmental concerns. Attitudes                     the essential active components of organic food consumption.
+and perceived purchaser effectiveness both shape favorably                Khare and Pandey (38) maintain that environmentally friendly
+ecologically conscious consumer behavior. The subjective                  peer impact, perceived organic product quality, and service
+criteria, an operation of social demand, cannot shape behavioral          quality favorably affect perceived trust concerning additive-free
+intention bringing about ecologically conscious consumer                  food store, while energy-efficient self-identity adversely affects
+behavior. On Persaud and Schillo (31)’s view, social identity             perceived transaction risk. Nuttavuthisit and Thøgersen (39)
+and interactional influence shape purchase intention, while the           posit that consumer trust represents a necessary condition
+perceived value of environmentally friendly products somewhat             for setting up a market for credence products (e.g., premium
+moderates these relationships. Yue et al. (32) stress that to             priced green goods), constituting a definite volition aspect
+activate the consumer’s senses, environmentally friendly food is          impacting the probability that purchasers will pursue organic
+perceived as cultivated more naturally and rigorously supervised          intentions. Lack of confidence in the control system and in the
+as regards transportation and storage in contrast to conventional         naturalness of products marketed as organic adversely influences
+products, thus shaping consumers’ attitudes and generating their          self-declared purchase behavior. On Ricci et al. (40)’s reading,
+buying interest.                                                          consumer trust favorably shapes attitudes in relation to the
+    Rana and Paul (33) suggest that demand and supply                     buying of convenience products with green characteristics and
+impediments that adversely impact consumer attitude with                  detrimentally influences consumer issues regarding agricultural
+regard to additive-free products encompass costs involved to              routines as to eco-friendly and health consequences.
+decrease the agricultural chemical utilization, premium price,                Organic crop farmers in underprivileged regions generally
+insufficient availability, and inconvenience in producing organic         do not have adequate access to certification and markets (41).
+manure. In the environmentally friendly food market, brand                Organic label disallows the utilization of antibiotics, herbicides,
+equity significantly shapes the perceived quality and consumer            fertilizers, and, hormones, but environmental deterioration tends
+purchase behavior. Environmentally friendly food is an appealing          to take place in chemical-free foodstuffs (42). Organic farming
+suggestion in a specific market where consumers are health                is instrumental in preserving a prime health status and cutting
+aware and plan to eat safe, wholesome, and organic goods.                 down the imminence of developing chronic diseases, because of
+Pham et. (34) note that encouraging consumer buying behavior              the abundant amount of bioactive mixtures and inferior volume
+of organic foods is essential to environmental sustainability.            of detrimental substances, but extensive intervention studies
+Food safety issues, health awareness, and media promotion                 would clarify whether a chemical-free diet is healthier than one
+of nutrition information are pivotal in the configuration of              encompassing conventionally grown food products (43).
+attitude concerning non-chemical products, while consumers’
+environmental sensitivity and meal taste are irrelevant in
+predicting their attitude. Perceived obstacles, such as premium           DOES ORGANIC FOOD PROVIDE HIGHER
+price, deficient availability, substandard labeling, and additional       NUTRITIONAL BENEFITS THAN
+time demanded, considerably hinder both attitude and purchase             CONVENTIONALLY PRODUCED FOODS?
+intention in relation to organic products. Suciu et al. (35) put
+it that consumers perceive the organic products more cherished            Health issues are the leading incentive of consumers buying
+although rather superior prices and scarcer convenience of non-           organic products (44). Attitude and health awareness represent
+chemical products contrasted with their conventional equivalents          important predictors of additive-free food buying intention (45).
+may curb the consumption and the quality perception. Golob                Healthy and safety food concerns constitute the purchasing
+et al. (36) emphasize that environmentally conscious purchase             process quintessence of environmentally aware consumers (46).
+behavior favorably and environmental disbelief adversely impacts          The concrete and perceived health and taste ascendancies
+non-chemical food consumption. The former is positively altered           of environmentally friendly food are primarily derived from
+by personal and social criteria, perceived convenience, and               the operation of producing food without employing synthetic
+purchaser sustainability tendency. The social criteria bring into         inputs (47).
+play the most durable indirect effect on environmentally friendly            Hidalgo-Baz et al. (48) indicate that the organic market
+product consumption.                                                      involves environmental, health, and food safety issues. Even
+
+
+Frontiers in Public Health | www.frontiersin.org                      3                                     November 2019 | Volume 7 | Article 340
+
+===== PAGE 4 =====
+Lazaroiu et al.                                                                                            Trust Management in Organic Agriculture
+
+
+
+when expressing favorable attitudes concerning organic                   thus stimulate sustainable consumer behavior. Meyerding and
+foods, consumers often display discordant behaviors and are              Merz (56) point out that additive-free food products represent
+unsuccessful in purchasing them. Higher knowledge and green              credence goods. Organic labels are relevant visual stimuli for
+tendency of purchasers shape the consonance between their                consumers to establish how food was produced. Consumers
+attitudes and buying behavior as regards organic food. Both              who obtain outstanding utilities from certain characteristics
+consumer tendencies displaying the ecological advantages of              of a product also tackle them visually significantly. On
+non-chemical goods and purchasers’ knowledge concerning                  Massey et al. (57)’s account, credence features of organic
+environmentally friendly products are processes that can                 products are appreciated more than inspection and experience
+diminish discrepancies between attitude and shopping behaviors           characteristics, having an important role in consumer non-
+in the additive-free market. Lee et al. (49) find that food firms        chemical food acquisitions.
+that promote their goods as additive-free suppose that the                  Assessment of organic output developed on yield correlations
+organic label convinces consumers that the products are healthy.         of sets of equivalent crops cultivated non-chemically or using
+An organic label may either raise or diminish food consumption           nitrogen fertilizer is unsuccessful in identifying the land that
+being determined by food type and health locus of control. As            is to be designated to vegetables for biological nitrogen
+Husic-Mehmedovic et al. (50) put it, the perceived quality related       fixation by vegetables to provide nitrogen for the cultivation
+to the inherent characteristics of organic products moderates a          of non-vegetable crops. The resultant reduced portion of land
+beneficial impact of life balance on consumers’ additive-free food       operational for cereal crops diminishes the entire output of
+purchase intentions. Life balance mediates the repercussions of          organic agriculture, being unsatisfactorily productive to nourish
+health awareness on the assessment of inherent and outward               the present or predictable world population growth (58). Organic
+food quality features.                                                   crops cultivated in sequences with vegetables or treated with
+    Gineikiene et al. (51) show that health-aware consumers              nitrogen manures to a great extent yield not as much as crops
+are likely to disregard information concerning the health                cultivated with nitrogen fertilizer, while considerable areas of
+relevance of conventional products and display predispositions           vegetables are needed to supply sufficient nitrogen for particular
+for organic food. Reservation as regards health allegations              yields of non-vegetable crops. By disregarding the consequences
+has a more considerable adverse homogenous effect on the                 of diseases, weeds, and pests, and by neglecting the land needed
+perceived healthiness of non-chemical and conventional goods             for vegetables, a substantial exaggeration of the relative output
+in opposition to health awareness without directly diminishing           of organic agriculture results (59). Considerable alterations in
+consumers’ inclination to purchase them. Hansen et al. (52)              diet and decreases in food waste cancel out the production
+demonstrate that health awareness has a higher beneficial impact         consequences of an integral reorganization toward organic
+on organic product identity with more significant degrees of             farming (60).
+personal values such as self-transcendence, receptivity to change,
+self-improvement, and conservation. When receptivity to change
+is unsatisfactory, health awareness has a beneficial impact on           CONCLUSIONS
+purposeful organic product behavior via non-chemical food
+identity, while social awareness has a detrimental consequence.          The above literature throws light on purchasing behavior for
+Treu et al. (53) observe that, from an ecological perspective,           environmentally sustainable foods. Such empirical evidence
+non-chemically cultivated food may not surpass conventional              supports the belief that organic product labeling can have a
+products. Efficiency-increasing initiatives in organic farming           pivotal function in decision-making (61) by exerting influence
+are instrumental in diminishing carbon footprints and land               upon health-aware, environmentally concerned individuals and
+utilization. Brantsæter et al. (54) affirm that the growing              generating store loyalty. Store image has a constructive effect
+trendiness of additive-free products has induced the strong              on perceived quality and confidence in organic private label
+interest for organic certification and criteria. If processing of        that result in perceived value. Both confidence in organic
+non-chemical food generates ultraprocessed convenience goods,            private label and perceived value have a constructive effect on
+their value of wholeness is damaged. Organic food cultivation            consumers’ purchase intentions. The consequence of perceived
+and consumption lead to reduced pesticide exposure, are more             quality and confidence in organic private label on purchase
+energy-efficient, and are preferable for animal welfare.                 intentions is somewhat moderated by perceived value (62).
+    Puska et al. (55) state that when consumers’ willingness for         The above studies provide evidence that organic food quality
+status is established, they opt for additive-free food products          is demonstrated by green, health, and hedonic upsides (63);
+considerably over their nonorganic equivalents, while making             that inexpensive and abundant products should not affect
+the preference situation observable generates the same outcome.          healthfulness, the ecosystem, and consuming quality (64); that
+Status reasons and reputational issues lead to an enhanced               the market is regulated by the perceived upsides of chemical-
+senso-emotional practice of organic goods. A propensity to               free over conventionally cultivated food (57); that altruistic value
+advocate organic products is an expensive signifying attribute,          notably influences biosphere values, which subsequently arouse
+resulting in displaying consumers’ prosocial predispositions.            disposition to spend more on an environmentally friendly menu
+Underscoring socially criticized consumption reasons (e.g.,              through pro-environmental attitude (65); and that degree of
+reputation management) can be a valid manner to boost                    confidence, consumer’s additive-free food beliefs, and perceived
+the somewhat insufficient purchasing of organic products and             green accountability favorably affects organic purchase intention
+
+
+Frontiers in Public Health | www.frontiersin.org                     4                                     November 2019 | Volume 7 | Article 340
+
+===== PAGE 5 =====
+Lazaroiu et al.                                                                                                              Trust Management in Organic Agriculture
+
+
+
+(66). The conclusion drawn from these analyses is that organic                        to substitute chemical inputs, and the use of big data and
+consumers mainly purchase environmentally friendly products                           artificial intelligence in organic agriculture as a groundbreaking
+as they think they are healthier and full of nutrients because                        way out to cut down agrochemicals and procedures that
+of the lack of harmful substances (67), as chemical pesticides                        deteriorate the agroecosystem. Future beneficial research should
+and synthetic fertilizers are not employed in organic agriculture.                    examine the economic effectiveness of sustainable organic
+Consumers’ perceived relevance of wholeness in foods explains                         farming hotspots, the nutritional value of organic food
+their intentions to purchase organic food (68).                                       products and its subsequent impact on human health, the
+    Based on an extensive review of recent and relevant                               greenhouse gas emissions and energy efficiencies of organic
+literature, our study indicates that organic food production                          production systems, the regeneration of biodiversity through
+and consumption offer health and sustainability upsides.                              environmentally harmonized food production, and decisional
+Current gaps in the research include the consequences of                              aspects motivating farmers to engage in organic agriculture.
+prolonged chemical-free agriculture on soil-derived greenhouse
+gas emissions, the advancement of circular economic systems,                          AUTHOR CONTRIBUTIONS
+management routines and crops that can adjust to the influence
+of climate change, bioenergy production associated with organic                       All authors listed have made a substantial, direct, and intellectual
+farming systems, plant breeding and genetics as a manner                              contribution to the work, and approved it for publication.
+
+
+
+REFERENCES                                                                            13. Blumenstein B, Siegmeier T, Selsam F, Möller D. A case of
+                                                                                          sustainable intensification: stochastic farm budget optimization
+ 1. Bratu S. Is green consumerism really an environmentally conscious                     considering internal economic benefits of biogas production in organic
+    behavior? Geopol Hist Int Relat. (2017) 9:167–73. doi: 10.22381/GHIR92                agriculture. Agric Syst. (2018) 159:78–92. doi: 10.1016/j.agsy.2017.
+    20178                                                                                 10.016
+ 2. Templer N, Hauser M, Owamani A, Kamusingize D, Ogwali H,                          14. Aschemann-Witzel J, Zielke S. Can’t buy me green? A review
+    Mulumba L, et al. Does certified organic agriculture increase                         of consumer perceptions of and behavior toward the price of
+    agroecosystem health? Evidence from four farming systems in Uganda.                   organic food. J Consum Aff. (2017) 51:211–51. doi: 10.1111/joca.
+    In J Agric Sust. (2018) 16:150–66. doi: 10.1080/14735903.2018.14                      12092
+    40465                                                                             15. Khan SN, Mohsin M. The power of emotional value: exploring
+ 3. Fox M, Anderson T, Anderson S, Black A. Food taxes: can you control                   the effects of values on green product consumer choice behavior.
+    behavior and health outcomes through taxation? Am J Med Res. (2017)                   J Clean Prod. (2017) 150:65–74. doi: 10.1016/j.jclepro.2017.
+    4:93–110. doi: 10.22381/AJMR4120177                                                   02.187
+ 4. Liberatore L, Casolani N, Murmura F. What’s behind organic certification          16. Mirică (Dumitrescu) C-O. The behavioral economics of decision
+    of extra-virgin olive oil? A response from Italian consumers. J                       making: explaining consumer choice in terms of neural events.
+    Food Prod Market. (2018) 24:946–59. doi: 10.1080/10454446.2018.14                     Econ Manage Financ Mark. (2019) 14:16–20. doi: 10.22381/EMFM14
+    26513                                                                                 120192
+ 5. Risius A, Janssen M, Hamm U. Consumer preferences for sustainable                 17. Chang S-H, Chang C-W. Tie strength, green expertise, and
+    aquaculture products: evidence from in-depth interviews, think                        interpersonal influences on the purchase of organic food in an
+    aloud protocols and choice experiments. Appetite. (2017) 113:246–54.                  emerging market. Br Food J. (2017) 119:284–300. doi: 10.1108/BFJ-04-20
+    doi: 10.1016/j.appet.2017.02.021                                                      16-0156
+ 6. Rahnama H, Fadaei M, Baghersalimi S. Healthy food choice: survey results          18. Wagner Mainardes E, Von Borell de Araujo D, Lasso S, Modenesi
+    from Iranian consumers toward antibiotic-free chicken. J Sens Stud. (2017)            Andrade D. Influences on the intention to buy organic food in an
+    32:e12248. doi: 10.1111/joss.12248                                                    emerging market. Mark Intell Plan. (2017) 35:858–76. doi: 10.1108/MIP-04-20
+ 7. Siegrist M, Sütterlin B. Importance of perceived naturalness for acceptance           17-0067
+    of food additives and cultured meat. Appetite. (2017) 113:320–6.                  19. Garcia JM, Teixeira P. Organic versus conventional food: a
+    doi: 10.1016/j.appet.2017.03.019                                                      comparison regarding food safety. Food Rev Int. (2017) 33:424–46.
+ 8. Van Loo EJ, Grebitus C, Nayga RM Jr, Verbeke W, Roosen J. On the                      doi: 10.1080/87559129.2016.1196490
+    measurement of consumer preferences and food choice behavior: the relation        20. Reinders MJ, Bartels J. The roles of identity and brand equity in
+    between visual attention and choices. Appl Econ Perspect Policy. (2018)               organic consumption behavior: private label brands versus national
+    40:538–562. doi: 10.1093/aepp/ppy022                                                  brands. J Brand Manage. (2017) 24:68–85. doi: 10.1057/s41262-016-
+ 9. Wunderlich S, Gatto K, Smoller M. Consumer knowledge about food                       0019-z
+    production systems and their purchasing behavior. Environ Dev Sustain.            21. Konuk FA. The role of store image, perceived quality, trust and
+    (2018) 20:2871–81. doi: 10.1007/s10668-017-0021-y                                     perceived value in predicting consumers’ purchase intentions towards
+10. Rahman I. The interplay of product involvement and sustainable                        organic private label food. J Retail Consum Serv. (2018) 43:304–10.
+    consumption: An empirical analysis of behavioral intentions related to                doi: 10.1016/j.jretconser.2018.04.011
+    green hotels, organic wines and green cars. Sustain Dev. (2018) 26:399–414.       22. Juhl HJ, Fenger MHJ, Thøgersen J. Will the consistent organic food consumer
+    doi: 10.1002/sd.1713                                                                  step forward? An empirical analysis. J Consum Res. (2017) 44:519–35.
+11. Scalco A, Noventa S, Sartori R, Ceschi A. Predicting organic food                     doi: 10.1093/jcr/ucx052
+    consumption: a meta-analytic structural equation model based                      23. Onel N. Pro-environmental purchasing behavior of consumers: the
+    on the theory of planned behavior. Appetite. (2017) 112:235–48.                       role of norms. Soc Mar Q. (2017) 23:103–21. doi: 10.1177/152450041
+    doi: 10.1016/j.appet.2017.02.007                                                      6672440
+12. Esty DC. Toward a sustainable global economy: An initiative                       24. Ryan J, Casidy R. The role of brand reputation in organic food consumption:
+    for G20 leadership. J Self Govern Manage Econ. (2017) 5:46–60.                        a behavioral reasoning perspective. J Retail Consum Serv. (2018) 41:239–47.
+    doi: 10.22381/JSME5220173                                                             doi: 10.1016/j.jretconser.2018.01.002
+
+
+
+
+Frontiers in Public Health | www.frontiersin.org                                  5                                           November 2019 | Volume 7 | Article 340
+
+===== PAGE 6 =====
+Lazaroiu et al.                                                                                                                       Trust Management in Organic Agriculture
+
+
+
+25. Oostindjer M, Aschemann-Witzel J, Wang Q, Skuland SE, Egelandsdal                      45. Asif M, Xuhui W, Nasiri A, Ayyub S. Determinant factors influencing
+    B, Amdam GV, et al. Are school meals a viable and sustainable                              organic food purchase intention and the moderating role of
+    tool to improve the healthiness and sustainability of children’s diet                      awareness: a comparative analysis. Food Qual Prefer. (2018) 63:144–50.
+    and food consumption? A cross-national comparative perspective. Crit                       doi: 10.1016/j.foodqual.2017.08.006
+    Rev Food Sci Nutr. (2017) 57:3942–58. doi: 10.1080/10408398.2016.                      46. Fiore M, Gallo C, Tsoukatos E, La Sala P. Predicting consumer healthy
+    1197180                                                                                    choices regarding type 1 wheat flour. Br Food J. (2017) 119:2388–405.
+26. Larson RB. Examining consumer attitudes toward genetically                                 doi: 10.1108/BFJ-04-2017-0200
+    modified and organic foods. Br Food J. (2018) 120:999–1014.                            47. Olson EL. The rationalization and persistence of organic food beliefs
+    doi: 10.1108/BFJ-09-2017-0502                                                              in the face of contrary evidence. J Clean Prod. (2017) 140:1007–13.
+27. Minton EA, Spielmann N, Kahle LR, Kim C-H. The subjective                                  doi: 10.1016/j.jclepro.2016.06.005
+    norms of sustainable consumption: a cross-cultural exploration.                        48. Hidalgo-Baz M, Martos-Partal M, González-Benito Ó. Attitudes vs.
+    J     Bus     Res.     (2018)     82:400–8.      doi:    10.1016/j.jbusres.2016.           purchase behaviors as experienced dissonance: the roles of knowledge and
+    12.031                                                                                     consumer orientations in organic market. Front Psychol. (2017) 8:248.
+28. Liu Y, Yang D, Xu H. Factors influencing consumer willingness to pay for                   doi: 10.3389/fpsyg.2017.00248
+    low-carbon products: a simulation study in China. Bus Strat Dev. (2017)                49. Lee H-C, Chang C-T, Cheng Z-H, Chen Y-T. Will an organic label
+    26:972–84. doi: 10.1002/bse.1959                                                           always increase food consumption? It depends on food type and consumer
+29. Kirchmann H. Why organic farming is not the way forward. Outlook Agric.                    differences in health locus of control. Food Qual Prefer. (2018) 63:88–96.
+    (2019) 48:22–7. doi: 10.1177/0030727019831702                                              doi: 10.1016/j.foodqual.2017.08.002
+30. Taufique KMR, Vaithianathan S. A fresh look at understanding green                     50. Husic-Mehmedovic M, Arslanagic-Kalajdzic M, Kadic-Maglajlic S, Vajnberger
+    consumer behavior among young urban Indian consumers through the                           Z. Live, eat, love: life equilibrium as a driver of organic food purchase. Br Food
+    lens of theory of planned behavior. J Clean Prod. (2018) 183:46–55.                        J. (2017) 119:1410–22. doi: 10.1108/BFJ-07-2016-0343
+    doi: 10.1016/j.jclepro.2018.02.097                                                     51. Gineikiene J, Kiudyte J, Degutis M. Functional, organic or conventional? Food
+31. Persaud A, Schillo SR. Purchasing organic products: role of social                         choices of health conscious and skeptical consumers. Baltic J Manage. (2017)
+    context and consumer innovativeness. Mark Intell Plan. (2017) 35:130–46.                   12:139–52. doi: 10.1108/BJM-01-2016-0016
+    doi: 10.1108/MIP-01-2016-0011                                                          52. Hansen T, Ingerslev Sørensen M, Riewerts Eriksen M-L. How the
+32. Yue L, Liu Y, Wei X. Influence of online product presentation on consumers’                interplay between consumer motivations and values influences
+    trust in organic food: a mediated moderation model. Br Food J. (2017)                      organic food identity and behavior. Food Policy. (2018) 74:39–52.
+    119:2724–39. doi: 10.1108/BFJ-09-2016-0421                                                 doi: 10.1016/j.foodpol.2017.11.003
+33. Rana J, Paul J. Consumer behavior and purchase intention for organic food:             53. Treu H, Nordborg M, Cederberg C, Heuer T, Claupein E, Hoffmann H, et al.
+    a review and research agenda. J Retail Consum Serv. (2017) 38:157–65.                      Carbon footprints and land use of conventional and organic diets in Germany.
+    doi: 10.1016/j.jretconser.2017.06.004                                                      J Clean Prod. (2017) 161:127–42. doi: 10.1016/j.jclepro.2017.05.041
+34. Pham TH, Nguyen TN, Phan TTH, Nguyen NT. Evaluating the                                54. Brantsæter AL, Ydersbond TA, Hoppin JA, Haugen M, Meltzer HM. Organic
+    purchase behaviour of organic food by young consumers in an emerging                       food in the diet: Exposure and health implications. Annu Rev Public Health.
+    market economy. J Strat Mark. (2018). doi: 10.1080/0965254X.2018.14                        (2017) 38:295–313. doi: 10.1146/annurev-publhealth-031816-044437
+    47984                                                                                  55. Puska P, Kurki S, Lähdesmäki M, Siltaoja M, Luomala H. Sweet taste of
+35. Suciu NA, Ferrari F, Trevisan M. Organic and conventional food:                            prosocial status signaling: when eating organic foods makes you happy and
+    comparison and future research. Trends Food Sci Technol. (2019) 84:49–51.                  hopeful. Appetite. (2018) 121:348–59. doi: 10.1016/j.appet.2017.11.102
+    doi: 10.1016/j.tifs.2018.12.008                                                        56. Meyerding SGH, Merz N. Consumer preferences for organic labels in
+36. Golob U, Koklic MK, Podnar K, Zabkar V. The role of environmentally                        Germany using the example of apples – Combining choice-based conjoint
+    conscious purchase behaviour and green scepticism in organic food                          analysis and eye-tracking measurements. J Clean Prod. (2018) 181:772–83.
+    consumption. Br Food J. (2018) 120:2411–24. doi: 10.1108/BFJ-08-20                         doi: 10.1016/j.jclepro.2018.01.235
+    17-0457                                                                                57. Massey M, O’Cass A, Otahal P. A meta-analytic study of the factors
+37. Petrescu DC, Petrescu-Mag RM, Burny P, Azadi H. A new wave in                              driving the purchase of organic food. Appetite. (2018) 125:418–27.
+    Romania: organic food. Consumers’ motivations, perceptions, and habits.                    doi: 10.1016/j.appet.2018.02.029
+    Agroecol Sust Food Syst. (2017) 41:46–75. doi: 10.1080/21683565.2016.                  58. Connor DJ. Organic agriculture and food security: a decade of unreason finally
+    1243602                                                                                    implodes. Field Crops Res. (2018) 225:128–9. doi: 10.1016/j.fcr.2018.06.008
+38. Khare A, Pandey S. Role of green self-identity and peer influence in fostering         59. Connor DJ. Land required for legumes restricts the contribution of
+    trust towards organic food retailers. Int J Retail Distrib Manage. (2017)                  organic agriculture to global food security. Outlook Agric. (2018) 47:277–82.
+    45:969–90. doi: 10.1108/IJRDM-07-2016-0109                                                 doi: 10.1177/0030727018805765
+39. Nuttavuthisit K, Thøgersen J. The importance of consumer trust for the                 60. Smith LG, Jones PJ, Kirk GJD, Pearce BD, Williams AG. Modelling
+    emergence of a market for green products: the case of organic food. J Bus                  the production impacts of a widespread conversion to organic
+    Ethics. (2017) 140:323–37. doi: 10.1007/s10551-015-2690-5                                  agriculture in England and Wales. Land Use Policy. (2018) 76:391–404.
+40. Ricci EC, Banterle A, Stranieri S. Trust to go green: an exploration of                    doi: 10.1016/j.landusepol.2018.02.035
+    consumer intentions for eco-friendly convenience food. Ecol Econ. (2018)               61. Drexler D, Fiala J, Havlíčková A, Potučková A, Souček M. The effect of organic
+    148:54–65. doi: 10.1016/j.ecolecon.2018.02.010                                             food labels on consumer attention. J Food Prod Mark. (2018). 24:441–455.
+41. Malek Ž, Tieskens KF, Verburg PH. Explaining the global spatial                            doi: 10.1080/10454446.2017.1311815
+    distribution of organic crop producers. Agric Syst. (2019) 176:102680.                 62. Konuk FA. Price fairness, satisfaction, and trust as antecedents of purchase
+    doi: 10.1016/j.agsy.2019.102680                                                            intentions towards organic food. J Consum Behav. (2018) 17:141–8.
+42. González N, Marquès M, Nadal M, Domingo JL. Occurrence of environmental                    doi: 10.1002/cb.1697
+    pollutants in foodstuffs: a review of organic vs. conventional food. Food Chem         63. Hidalgo-Baz M, Martos-Partal M, González-Benito Ó. Assessments of the
+    Toxicol. (2019) 125:370–5. doi: 10.1016/j.fct.2019.01.021                                  quality of organic versus conventional products, by category and cognitive
+43. Hurtado-Barroso S, Tresserra-Rimbau A, Vallverdú-Queralt A, Lamuela-                       style. Food Qual Prefer. (2017) 62:31–7. doi: 10.1016/j.foodqual.2017.
+    Raventós RM. Organic food and the impact on human health. Crit Rev Food                    06.008
+    Sci Nutr. (2019) 59:704–14. doi: 10.1080/10408398.2017.1394815                         64. Messer KD, Costanigro M, Kaiser HM. Labeling food processes: the
+44. Ditlevsen K, Sandøe P, Lassen J. Healthy food is nutritious, but organic                   good, the bad and the ugly. Appl Econ Persp Policy. (2017) 39:407–27.
+    food is healthy because it is pure: the negotiation of healthy food choices                doi: 10.1093/aepp/ppx028
+    by Danish consumers of organic food. Food Qual Prefer. (2019) 71:46–53.                65. Shin YH, Moon H, Jung SE, Severt K. The effect of environmental values
+    doi: 10.1016/j.foodqual.2018.06.001                                                        and attitudes on consumer willingness to pay more for organic menus: a
+
+
+
+
+Frontiers in Public Health | www.frontiersin.org                                       6                                               November 2019 | Volume 7 | Article 340
+
+===== PAGE 7 =====
+Lazaroiu et al.                                                                                                                    Trust Management in Organic Agriculture
+
+
+
+    value-attitude-behavior approach. J Hosp Tour Manage. (2017) 33:113–21.              Conflict of Interest: The authors declare that the research was conducted in the
+    doi: 10.1016/j.jhtm.2017.10.010                                                      absence of any commercial or financial relationships that could be construed as a
+66. Minbashrazgah MM, Maleki F, Torabi M. Green chicken purchase behavior:               potential conflict of interest.
+    the moderating role of price transparency. Manage Environ Qual. (2017)
+    28:902–16. doi: 10.1108/MEQ-12-2016-0093                                             Copyright © 2019 Lazaroiu, Andronie, Uţă and Hurloiu. This is an open-access
+67. Seufert V, Ramankutty N, Mayerhofer T. What is this thing called organic? –          article distributed under the terms of the Creative Commons Attribution License (CC
+    How organic farming is codified in regulations. Food Policy. (2017) 68:10–20.        BY). The use, distribution or reproduction in other forums is permitted, provided
+    doi: 10.1016/j.foodpol.2016.12.009                                                   the original author(s) and the copyright owner(s) are credited and that the original
+68. Román S, Sánchez-Siles LM, Siegrist M. The importance of food naturalness            publication in this journal is cited, in accordance with accepted academic practice.
+    for consumers: results of a systematic review. Trends Food Sci Technol. (2017)       No use, distribution or reproduction is permitted which does not comply with these
+    67:44–57. doi: 10.1016/j.tifs.2017.06.010                                            terms.
+
+
+
+
+Frontiers in Public Health | www.frontiersin.org                                     7                                              November 2019 | Volume 7 | Article 340

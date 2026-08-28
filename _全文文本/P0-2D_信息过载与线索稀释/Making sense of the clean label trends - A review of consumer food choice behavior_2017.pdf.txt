@@ -1,0 +1,4206 @@
+SOURCE_PDF: P0-2D_信息过载与线索稀释/Making sense of the clean label trends - A review of consumer food choice behavior_2017.pdf
+EXTRACTION_STATUS: ok
+PAGES: 83
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+            Making sense of the ‘‘clean label’’ trends: a review of consumer food
+
+                             choice behavior and discussion of industry implications
+
+
+
+
+                                                                Daniele Asioli 1,a,b,h
+
+                                                           Jessica Aschemann-Witzelc
+
+                                                               Vincenzina Caputod
+
+                                                                Riccardo Vecchioe
+
+                                                               Azzurra Annunziataf
+
+                                                                  Tormod Næsa,g
+
+                                                                   Paula Varelaa
+
+
+
+                       a
+                           Consumer and Sensory Science – Division of Food Science – NOFIMA AS, Ås, Norway.
+                       b
+                           School of Economics and Business, Norwegian University of Life Sciences, Ås, Norway.
+            c
+                MAPP Centre – Research on Value Creation in the Food Sector, Aarhus University, Aarhus, Denmark.
+d
+    Department of Agricultural, Food and Resources Economics, Michigan State University, East Lansing, United States.
+                                   e
+                                       Department of Agricultural Sciences, University Federico II, Naples, Italy.
+                   f
+                       Department of Economic and Legal Studies, University of Naples Parthenope, Naples, Italy.
+                             g
+                                 Department of Food Science - University of Copenhagen,, Copenhagen, Denmark.
+      h
+          Department of Agricultural Economics and Agribusiness, University of Arkansas, Fayetteville, United States.
+
+
+
+
+1
+ Corresponding author.
+Tel: + 47 64 97 01 65. Fax: +47 64 97 03 33
+Email: daniele.asioli@nofima.no
+                                                                           1
+
+===== PAGE 2 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+
+
+                                             ABSTRACT
+
+Consumers in industrialized countries are nowadays much more interested in information about the
+
+production methods and components of the food products that they eat, than they had been 50 years
+
+ago. Some production methods are perceived as less “natural” (i.e. conventional agriculture) while
+
+some food components are seen as “unhealthy” and “unfamiliar” (i.e. artificial additives). This
+
+phenomenon, often referred to as the ‘‘clean label’’ trend, has driven the food industry to
+
+communicate whether a certain ingredient or additive is not present or if the food has been
+
+produced using a more “natural” production method (i.e. organic agriculture). However, so far there
+
+is no common and objective definition of clean label. This review paper aims to fill the gap via
+
+three main objectives, which are to a) develop and suggest a definition that integrates various
+
+understandings of clean label into one single definition, b) identify the factors that drive consumers’
+
+choices through a review of recent studies on consumer perception of various food categories
+
+understood as clean label with the focus on organic, natural and ‘free from’ artificial
+
+additives/ingredients food products and c) discuss implications of the consumer demand for clean
+
+label food products for food manufacturers as well as policy makers. We suggest to define clean
+
+label, both in a broad sense, where consumers evaluate the cleanliness of product by assumption
+
+and through inference looking at the front-of-pack label and in a strict sense, where consumers
+
+evaluate the cleanliness of product by inspection and through inference looking at the back-of-pack
+
+label. Results shows that while ‘health’ is a major consumer motive, a broad diversity of drivers
+
+influence the clean label trend with particular relevance of intrinsic or extrinsic product
+
+characteristics and socio-cultural factors. However, ‘free from’ artificial additives/ingredients food
+
+products tend to differ from organic and natural products. Food manufacturers should take the
+
+                                                   2
+
+===== PAGE 3 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+diversity of these drivers into account in developing new products and communication about the
+
+latter. For policy makers, it is important to work towards a more homogenous understanding and
+
+application of the term of clean label and identify a uniform definition or regulation for ‘free from’
+
+artificial additives/ingredients food products, as well as work towards decreasing consumer
+
+misconceptions. Finally, multiple future research avenues are discussed.
+
+
+
+
+KEY WORDS: clean label, consumer preferences, food industry, review, drivers, trend, food
+
+products.
+
+
+
+1. INTRODUCTION
+
+During the last century, industrialized countries have overcome lack of food security with the key
+
+contribution of agrifood industrialization (Lusk, 2016; Meneses, Cannon, & Flores, 2014). Food
+
+processing has played a crucial role as it allowed extending the shelf life of food products, reduced
+
+food losses and waste, as well as improved nutrient availability and optimization (Augustin et al.,
+
+2016; Fellows, 2004; Weaver et al., 2014). However, day-to-day consumer perception focuses on
+
+other aspects than these achievements. In modern societies, the increasingly globalized markets and
+
+greater processing in the food chain has contributed to a perceived distance and knowledge gap
+
+between people and food manufacturers (e.g. how food is produced, where is it produced, etc.)
+
+(Princen, 1997; Weis, 2007).
+
+Industrialization and globalisation go hand in hand with a higher and more man-made risk, which
+
+increases citizens’ perception of risks of modernity (Beck, 1992). For instance, food contamination
+
+accidents have affected Europe in the last decades, such as BSE 2 and dioxin (Bánáti, 2011;
+
+
+2
+    Bovine Spongiform Encephalopathy.
+                                                   3
+
+===== PAGE 4 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+Knowles, Moody, & McEachern, 2007). Consumers are concerned about the heavy use of
+
+pesticides in the conventional and intensive agricultural practices (Aktar, Sengupta, & Chowdhury,
+
+2009), the use of artificial ingredients, additives or colorants such as E133 (Lucová, Hojerová,
+
+Pažoureková, & Klimová, 2013), and the adoption of controversial food technologies like GMOs 3
+
+(Grunert, Bredahl, & Scholderer, 2003). This has prompted consumers to become skeptical or
+
+worried about adverse health effects entailed in this food system (Meneses et al., 2014). Moreover,
+
+the growing public concern about the contribution of the food system to climate change and its
+
+overall negative effects on sustainability (Godfray et al. 2013) have led consumers to question the
+
+environmental and social consequences of food production (Asioli et al., 2014; Caputo, Nayga, &
+
+Scarpa, 2013).
+
+
+
+Consumer´s choose foods to be satiated and fed with nutrients, other important drivers are flavour
+
+and price (Lynn Jayne Frewer & van Trijp, 2007; MacFie, 2007). However, it is often proposed that
+
+today´s food consumption in industrialized societies is particularly affected by three major trends:
+
+health concerns, sustainability, and convenience (Grunert, 2013). Health concerns are driven by
+
+consumers’ affluence, but also explained by the increasing number of food and lifestyle related
+
+diseases (i.e. diabetes, obesity, etc.) (Kearney, 2010; Weis, 2007) and allergies and intolerances
+
+towards some specific food products or components such as gluten. These factors have encouraged
+
+consumers to be more interested in healthy food products that support healthy lifestyles into older
+
+ages and reduce the risk of certain diseases. Sustainability interest is explained by the growing
+
+awareness of environmental pollution caused by conventional agricultural practices. This has
+
+resulted most prominently in an increased expansion of organic agriculture and markets
+
+
+
+3
+    Genetically Modified Organisms.
+                                                  4
+
+===== PAGE 5 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+(Aschemann, Hamm, Naspetti, & Zanoli, 2007) and might also explain why consumers are looking
+
+for e.g. ‘local food’ products (food miles) (Adams & Salois, 2010) and are willing to pay higher
+
+prices for water-saving products (Krovetz, 2016). Convenience relates to the number of meals that
+
+are eaten out-of-home or home-delivered compared to home-made. This number has dramatically
+
+increased during the last decades (Lachat et al., 2012), which signifies that consumers are interested
+
+in added characteristics of food products that save time (e.g. frozen food, ready meals,
+
+microwavable, etc.).
+
+
+
+The trends of healthiness and sustainability have triggered consumers into considering which
+
+components are used in the food products that they eat in everyday life (Euromonitor International,
+
+2016). A new trend in food products has emerged, which is often summarized under the umbrella of
+
+the so-called “clean label” (Cheung et al., 2015; Joppen, 2006; Varela & Fiszman, 2013; Zink,
+
+1997) and has been taken up by a multitude of food industry stakeholders (Osborne, 2015). The
+
+term clean label itself appeared for the first time during the 1980s when consumers started to avoid
+
+the E-numbers 4 listed on food labels because they were allegedly associated with negative health
+
+effects (Joppen, 2006). However, the use of the term clean label dramatically exploded ten years
+
+ago. One of the leading food science journals, “Food Technology Magazine,” cited the term ‘‘clean
+
+label’’ twice in 2000, 18 times in 2011 and 77 times in 2016 in their articles, clearly indicating a
+
+growing importance of the term (Swientik, 2017).
+
+
+
+The food industry has started to respond to the increasing consumer demand of such clean label
+
+products by supplying food products that are perceived as ‘cleaner’ (Katz & Williams, 2011). For
+
+4
+ E-numbers are the code numbers used to identify food additives in EU. E-numbers have been shown to be safe and
+officially approved for use in food across the EU (i.e. E202 is the Potassium sorbate) (Emerton & Choi, 2008). This
+nomenclature has been extended worldwide to the Codex Alimentarius Commission (Carocho et al., 2014).
+                                                          5
+
+===== PAGE 6 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+example, in 2010 Heinz tomato ketchup was reformulated to remove high fructose corn syrup from
+
+the ingredient list and was renamed as Simply Heinz (Katz & Williams, 2011). Recent data shows
+
+that during 2013, almost 27% of the new packaged food products launched in Europe had some sort
+
+of clean label (Ingredion, 2014).
+
+
+
+Despite the increasing market shift toward clean label food products and a large number of different
+
+studies that have investigated goods carrying clean label, it is not yet clear what a clean label
+
+exactly means. So far, a jointly agreed upon definition or specific regulations/legislations does not
+
+exist (Busken, 2013; Joppen, 2006; Varela & Fiszman, 2013), leaving the interpretation as rather
+
+subjective for consumers and food practitioners. A clear definition of clean label that can improve
+
+understanding of consumer perception and behavior, guide manufacturers in food development and
+
+communication, and support policymakers’ efforts in providing a targeted regulatory framework is
+
+needed (Katz & Williams, 2011). Moreover, to the best knowledge of the authors, a coherent
+
+overview of the factors that affect consumers’ perception of food products that are related to the
+
+clean label trend does not exist (Cheung et al., 2015; Zink, 1997).
+
+This paper reviews the literature from the last six years on consumers’ perceptions and preferences
+
+of selected food categories understood as clean label products, aiming to (i) provide a holistic
+
+definition that integrates various understandings of clean label into one single definition; (ii)
+
+identify the main drivers that motivate consumers to choose clean label products, and (iii) derive
+
+implications for food manufacturers, policy makers and future research avenues. The overall goal of
+
+this paper is to advance the understanding of how the clean label trend is viewed by both
+
+consumers and food industry professionals and to advance research into this trend based on a
+
+common definition.
+
+
+                                                    6
+
+===== PAGE 7 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+
+
+In section 2, we briefly describe some important theoretical issues related to consumer behavior as
+
+background for understanding the basic processes of consumer decision making. Then, we suggest
+
+a definition of clean label based on consumption trends observed in various food markets and the
+
+underlying consumer behavior theory. We then outline the literature review methodology and
+
+present the results of the review on the factors that affect consumers’ choice behavior for such
+
+products. The paper concludes with a discussion of industrial and policymakers’ challenges, the
+
+implications of the findings, and future research needs and directions.
+
+
+
+2. CONSUMER BEHAVIOR THEORETICAL BACKGROUND
+
+Looking at related theories or theoretical terms can help understanding why consumers show an
+
+increasing interest in clean label, and it can help to understand the role that consumer perception
+
+plays in explaining this trend. We regard two distinctions as particularly relevant for explaining the
+
+consumer behavior driving the clean label trend. Firstly, we consider dual-processing theories
+
+which differentiate between two modes of processing called central and peripheral processing.
+
+Secondly, we consider the distinction of goals as either approach or avoidance goals, and the related
+
+individual trait of being oriented towards promotion or prevention orientation. Both will be briefly
+
+introduced and their contribution to explaining consumer interest in clean label products discussed.
+
+Afterwards, when presenting our definition and categorization of clean label, we will refer to these
+
+theories to support the categories of clean label that we suggest.
+
+
+
+
+                                                   7
+
+===== PAGE 8 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+2.1 Dual-processing theory
+
+It is broadly acknowledged that consumer food choices are typically conducted in an environment
+
+of information overload (Mick, Broniarczyk, & Haidt, 2004). This holds true even more today than
+
+5 - 10 years ago, given that supermarket assortments are growing and the simultaneous use of
+
+multiple media for information access and for marketing communication is increasingly widespread
+
+(Dholakia et al., 2010). Involvement with food overall differs greatly depending on the individual’s
+
+value orientation or the relevance of food for expression of lifestyle, personality, or identity (Brunsø
+
+& Grunert, 1995; Eertmans, Victoir, Vansant, & den Bergh, 2005; Thøgersen, 2017). However, for
+
+most consumers – at least from industrialized and developed countries –, each single food choice
+
+has little impact on household budget and is repeated very often, which furthers habitual and routine
+
+choice decision processes to economize efforts (Hoyer, 1984). In addition, the situational context
+
+often impedes spending cognitive resources on engaging in deep processing of information about
+
+the product (Mick et al., 2004). Due to these reasons, food choices are often depicted as conducted
+
+in a low involvement situation (Beharrell & Denison, 1995; Gilles Laurent, 1985; Knowx &
+
+Walker, 2003). Thus, consumers are ascribed low motivation, and, in addition, it is assumed that the
+
+choice context results in consumers’ low ability or opportunity to process information. According to
+
+dual processing theories (Evans, 2003) such as the elaboration-likelihood model (Kitchen, Kerr,
+
+Schultz, McColl, & Pals, 2014; Petty, Cacioppo, & Schumann, 1983), this means that food
+
+consumers typically process the greater share of information about foods peripherally and not
+
+centrally, that they more likely rely on using informational or visual cues that allow inferences and
+
+thus a ‘short-cut’ to a judgment, and that they often are not conscious of the heuristics they apply.
+
+
+
+
+                                                   8
+
+===== PAGE 9 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+With regard to the clean label trend, we argue that hints about the item being a clean label food are
+
+used as such cues. We argue that their easy usage and inference to desirable, but unobservable
+
+characteristics explains the popularity of clean label. Typically, consumers might use cues found on
+
+the front of the package (FOP) such as visuals indicating naturalness, organic certification logos, or
+
+free-from claims of producers, thus, these products might be perceived as clean label. However, we
+
+argue that not only peripheral processing is expected to play a role for clean label, but also central
+
+processing. In some cases consumers might proceed to access information on the back of the pack
+
+(BOP) in store or, even more likely, at home. There is a greater likelihood that consumers who are
+
+engaging in this effort are characterized by greater involvement and thus motivation to process, or
+
+that the situation at home provides better opportunity to look at information and engage with it,
+
+thus, identifying the product as clean label. Therefore, central, more in-depth and conscious
+
+information processing will occur more likely at home. Consumers might then look at the
+
+ingredient information or nutrition facts more closely, and inspect and assess whether or not they
+
+think the product is a clean label food in their opinion. However, given that consumers might not
+
+find this easy to assess, they might nevertheless rely on heuristics, such as the degree to which
+
+ingredient names sound chemical or are unknown, or the mere length of the ingredient list. In
+
+addition to using this observable feature as a cue to a desired quality, consumers might also favor
+
+products with understandable, short, known and simple ingredient lists in order to reduce the
+
+cognitive effort needed in assessing the product.
+
+
+
+2.2 Approach versus avoidance goals and regulatory focus
+
+Consumers make decisions for products because they have identified a need. This need motivates
+
+them into action. They are more aware of the goal of their action than of the underlying need that
+
+
+                                                    9
+
+===== PAGE 10 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+had triggered it (Schiffman & Wisenblit, 2015). Goals can be typically categorized as approach or
+
+avoidance goals; that is, goals to achieve a certain desirable state, feature or situation, or goals of
+
+avoiding those elements (Aaker & Lee, 2001). According to regulatory focus theory, consumers
+
+might differ to the extent that they are more oriented towards actions promoting attainment of a
+
+goal or towards actions preventing something that might inhibit attainment of the goal (Higgins,
+
+2005). When it comes to food, various researchers have suggested that consumers might be either
+
+motivated by attaining something, as for example health and well-being, or avoiding something, as
+
+for example risk of disease, a distinction that has been applied to nutrition and health claims (van
+
+Kleef, van Trijp, & Luning, 2005). It has also been suggested that different goals can help explain
+
+different strategies in reading nutrition information (Chalamon & Nabec, 2016). Additionally, an
+
+individual’s promotion vs. prevention focus can contribute to understanding food choice of an
+
+individual (de Boer & Schösler, 2016) or might explain impulsiveness in purchase situations (Das,
+
+2015). The inference biases of a ‘negative bias’ or an ‘optimism bias’ are also worth mentioning in
+
+this relation. The negative bias suggests that a single ingredient perceived as negative can lead to an
+
+exaggerated negative assessments of the food as a whole (in the context of clean label, a single
+
+unfamiliar ingredient in the ingredient list to disliking the food to an extent not objectively
+
+explained by the share of and role of the said ingredient). The optimisms bias, in turn, suggests that
+
+a food ingredient perceived as positive might lead to an exaggerated positive assessment of the food
+
+as a whole (in the context of clean label, a single, sought-after ingredient that is regarded as natural
+
+causing that the food overall to be perceived as more natural, even though the share and role does
+
+not merit such a change in perception, or the food ingredients being organic leading to unfounded
+
+‘halo-effects’ of assuming a range of other positive effects as well).
+
+
+
+
+                                                    10
+
+===== PAGE 11 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+With regard to the clean label trend, we argue that, at first glance, some of the trends subsumed
+
+under the term of clean label might be categorized as ‘approach’, as for example natural or organic,
+
+while others might be categorized as ‘avoidance’, as for example all ‘free from’ claimed foods.
+
+Regulatory focus theory would suggest that consumers who give importance to one or the other
+
+might differ in their orientation, and communication to these groups should differ accordingly, in
+
+order to ensure a ‘fit’ (Hoyer, 1984). However, research and literature into the drivers of preference
+
+for natural and organic indicate that motivation to ‘avoid something’ plays a crucial role. For
+
+example, this might be expressed as modern health worries about new technologies and substances
+
+(Devcich, Pedersen, & Petrie, 2007), negative attitudes to chemicals (Dickson-Spillmann, Siegrist,
+
+& Keller, 2011), avoidance of contagion or unknown descriptors (Evans, de Challemaison, & Cox,
+
+2010), and skepticism towards functional foods (Aschemann-Witzel, Maroscheck, & Hamm, 2013).
+
+
+
+Thus, while there might be consumers looking into attaining a goal by the purchase of clean label
+
+food, we suggest that a great part of the underlying motivation is explained by avoidance and
+
+prevention, also for categories that appear rather positively phrased such as natural and organic, and
+
+even more so for the free-from category of clean label food.
+
+
+
+3. WHAT IS A ‘‘CLEAN LABEL’’?
+
+To date there is no an established, objective and common definition of what a clean label is, but
+
+rather several definitions or interpretations, often provided by market trend reports but not backed
+
+up by consumer behavior research or theory (Osborne, 2015). To give an example of how clean
+
+label appears conceptualized in media, one can cite Michael Pollan. He suggested in his famous
+
+recent book In Defence of Food that consumers should not: “…eat anything with more than five
+
+
+                                                  11
+
+===== PAGE 12 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+ingredients, or ingredients you can't pronounce” (Pollan, 2008). Turning to more detailed
+
+description, we find that Ingredion (2014) recommends to consumers that “a ‘clean label’
+
+positioned on the pack means the product can be positioned as ‘natural’, ‘organic’ and/or ‘free
+
+from additives/preservatives’.” The same report suggests that for food producers “using a ‘clean
+
+label’ positioning means using ingredients that are generally accepted by consumers – those that
+
+they might find in their kitchen cupboards. The ingredient list should be short, simple and feature
+
+minimally processed ingredients where possible. It should not include names that sound like
+
+chemicals or e-numbers.” Edwards (2013) defines a clean label “by being produced free of
+
+‘chemicals’ additives, having easy-to-understand ingredient lists, and being produced by use of
+
+traditional techniques with limited processing.” One of the key questions is which ingredients may
+
+be part of a clean label, or, more importantly, which ingredients define a clean label product by
+
+their absence. Busken (2013) proposes that the answer to this depends on the consumer perception
+
+of an ingredient.
+
+
+
+All of the above-mentioned definitions clearly indicate that the interpretation of a clean label is
+
+subjective as it might depend on the familiarity of the consumer with the food ingredients and/or
+
+production method, and the inferences consumer draw from this information. To illustrate, it might
+
+differ a lot which ingredient is similar to kitchen cupboard items, since traditional processing
+
+techniques and what is regarded as non-worrisome varies from country to country. Such
+
+subjectivity requires that a univocal and objective definition of clean label should integrate these
+
+varying consumer perceptions and account for studies exemplifying how consumers verbalize clean
+
+label and name associations. The above mentioned definitions or interpretations also show that
+
+some authors might describe clean label as if it links directly to certain food categories or
+
+
+                                                  12
+
+===== PAGE 13 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+ingredients, while consumers’ perception as resulting from the communication on the package (the
+
+nutrition label, or any other cue) in interaction with the consumer´s processing and individual
+
+preferences, is the underlying key to the trend. To illustrate, the food processors can position the
+
+same food in different ways, while the same food might be distinctively perceived by different
+
+consumers. Ironically, the so-called clean label is not really a label, as producers will never be able
+
+to use “clean label” as a claim. However, the term is indeed increasingly used by food manufactures
+
+and researchers, and consumers perceive and asses how clean a label is, a representation of food
+
+products' characteristics demanded by modern consumers from industrialized societies.
+
+For example, on clean label perceptions by consumers, it has been found that consumers try to
+
+avoid certain food products with “unfamiliar” (Moskowitz, Beckley, & Resurreccion, 2012)
+
+artificial additives/ingredients which might be perceived as artificial chemicals, or products
+
+produced with production methods that are perceived as far from ‘Mother Nature’ (e.g. GMO). A
+
+recent global consumer survey indicated that the percentage of consumers who avoided at least five
+
+separate ingredients or food attributes grew from 35 % (2015) to 53% (2016) (Euromonitor
+
+International, 2016). This trend is confirmed by several other studies, which show that among the
+
+ten different trends affecting food industry in the new millennium there is a strong tendency of
+
+consumers to prefer foods which are organic and natural (Euromonitor International, 2016; Katz &
+
+Williams, 2011; Sloan, 1999), without preservatives or perceived negative characteristics (i.e. high
+
+fat, high sugar, etc.). Furthermore, a recent global survey conducted by Canadian researchers which
+
+involved almost 30,000 consumers from 31 countries found that consumers infer a clean label
+
+mainly from food products that show natural, organic logos and free from artificial ingredients
+
+(Gelski, 2016). Other associations were “free from allergens”, “no GMOs”, “minimally processed”,
+
+
+
+
+                                                  13
+
+===== PAGE 14 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+“simple/short ingredient lists” and “transparent packaging.” All of these associations might be
+
+relevant for some consumers to infer the cleanness of food products (Gelski, 2016).
+
+
+
+Consumer behavior theory and respective research evidence suggest that consumers either know a
+
+product has a certain characteristic because they have sought the respective information, or assume
+
+it to have the characteristic because they infer it via some other cues believed to be indicators of the
+
+desired characteristic. Consumer behavior theory and respective research also suggests that
+
+consumers seek certain characteristics of a food, while they avoid others. Information about food
+
+ingredients can be located on the front-of-pack (FOP) or on the back-of-pack (BOP) 5 of a food
+
+product. The FOP information (short claims and logos) seeks to provide consumers with simplified
+
+‘at-a-glance’ information to supplement the detailed information provided BOP (ingredient list,
+
+nutrition fact panels) (Draper et al., 2013). The different types of information might be processed to
+
+lesser or greater extent peripherally versus centrally.
+
+
+
+Accordingly, we propose that consumers can access information on clean label by looking at FOP
+
+and BOP information (Figure 1). Based on the FOP information, consumers might interpret a
+
+product as clean label, given they find information that can serve as a cue to the clean label
+
+characteristic. Thus, the characteristic is inferred by assumption and foods with textual or visual
+
+claims (i.e. “natural products”) or logos (e.g. “organic”), simple labels (e.g. “Simply Heinz”) or
+
+“free-from additives/preservatives” (e.g. “free from palm oil”) are defined as clean label products in
+
+a broad sense. Based on the BOP information, consumers interpret a product as clean label by
+
+inspection given that they are looking at the ingredients list and nutrition facts panels
+
+
+
+5
+    In this definition including the sides of a package.
+                                                           14
+
+===== PAGE 15 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+communicating the clean label characteristic of reporting ingredients “short and simple”, not
+
+containing “artificial ingredients”, “not chemical-sounding”, and only containing “kitchen cupboard
+
+ingredients” which are expected to be familiar to consumers. These food products are clean label
+
+products in a strict sense.
+
+
+
+Figure 1 – A proposed definition and concept of ‘‘clean label’’
+
+                                   <<Please, place here figure 1>>
+
+
+
+
+From the proposed definition of clean label and the consumer research that has shown which food
+
+categories are assumed to possess characteristics related to clean label, we can identify categories of
+
+food products from which consumers can infer the ‘cleanliness’ of food products. In this review
+
+paper, due to space limitations, we decided to focus attention on three categories of clean label:
+
+organic, natural and ‘free from’ artificial additives/ingredients, as we argue these are the major
+
+groups of relevance (Schroeder, 2016), and that factors driving consumer perception and behaviour
+
+from this literature stream will likely be predictive for other categories of clean label.
+
+
+
+4. FACTORS DRIVING CONSUMERS’ PERCEPTIONS AND PREFERENCES FOR
+
+   CLEAN LABEL FOOD PRODUCTS
+
+
+
+
+4.1 Methodology
+
+A literature search has been conducted by investigating the following four online catalogues:
+
+Scopus, Science Direct, AgEcon Search, and Web of Science. We used the following keywords or
+
+keyword combinations: “label”, “organic”, “natural”, “free from”, “artificial”, “additives”,
+                                                   15
+
+===== PAGE 16 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+“colourants”, “ingredients”, “clean label”, “consumers”, “perception”, “behaviour”, “preference”,
+
+“choice”, and “food” in the title or the abstract. The review was restricted to English-language,
+
+peer-reviewed empirical studies examining consumers’ perceptions and preferences for the specific
+
+categories of clean label food products mentioned above, published in scientific journals during the
+
+last six years (2012 – 2017). The decision to limit the search to the last six years comes from the
+
+need to offer an overview of the latest studies. However, with a view to incorporating important
+
+references needed for a more comprehensive understanding of the phenomena, older references
+
+have also been included where appropriate, as well as review papers on the topic.
+
+
+
+A total of 187 articles were found based on titles and/or abstracts (110 for organic, 46 for natural,
+
+29 for ‘free from’ artificial additives/ingredients food products). Only the articles belonging to the
+
+following subject areas were extracted: social sciences, food science, sensory science, marketing,
+
+business management and economics. Finally, a total of 95 (54 for organic, 25 for natural, 16 ‘free
+
+from’ artificial additives/ingredients food products) articles were read in full length and were
+
+included. Tables A1, A2 and A3, reported in appendix, provides a summary of selected articles
+
+respectively for organic, natural and ‘free from’ artificial additives/ingredients food products.
+
+For each category, a number of factors that drive consumers’ perceptions and preferences of clean
+
+label food products were identified and commented on within the literature. In order to have a
+
+coherent and common way of identifying and categorising the factors, we used the well-known
+
+model proposed by Mojet (Köster, 2009) which identifies the essential categories of factors that
+
+influence eating and drinking behaviour and food choice (Figure 2).
+
+
+
+Figure 2 - Essential factors that influence eating and drinking behaviour and food choice.
+
+
+                                                  16
+
+===== PAGE 17 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+                                  <<Please, place here figure 2>>
+
+
+
+
+4.2 Factors that drive consumers’ perceptions and preferences for organic labeled food
+
+   products
+
+It is widely recognized that organic food products represent one of the fastest-growing segments of
+
+the food market in many countries around the world (FIBL, 2017; IFOAM, 2015). Organic
+
+agriculture is a production system that sustains the health of soils, ecosystems, and people. It relies
+
+on ecological processes, biodiversity, and cycles adapted to local conditions, rather than the use of
+
+inputs with adverse effects. Organic agriculture is based on principles of health, ecology, fairness,
+
+and care (IFOAM, 2015).
+
+
+
+There is a considerable amount of literature which attempts to understand the factors affecting
+
+consumers’ attitudes and preferences for organic food products using different models or
+
+frameworks (for recent reviews see Aertsens, Verbeke, Mondelaers, & van Huylenbroeck, 2009;
+
+Hemmerling, Hamm, & Spiller, 2015; Schleenbecker & Hamm, 2013; Shashi, Kottala, & Singh,
+
+2015). In this section a brief overview of factors that drive consumers’ preferences for organic food
+
+is provided. A total of 54 papers have been identified (Table A1). According to the Mojet (Köster,
+
+2009) simplified model, all six categories of factors that drive consumers’ preferences toward
+
+organic labeled food products were identified in reviewing those papers, but with differing
+
+importance in the number of concrete factors (here called sub-factors), as reported in Figure 3.
+
+
+
+
+                                                   17
+
+===== PAGE 18 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+
+
+Figure 3 – Essential factors that drive consumers’ perceptions and preferences for organic
+
+labeled food products: adapted from Mojet model. Sub-factors were identified from the
+
+literature review of 54 papers on “organic”.
+
+                                   <<Please, place here figure 3>>
+
+
+
+
+Considering the socio-cultural factors, a common result from the reviewed studies is that personal
+
+norms and ethical values strongly affect consumers’ attitudes and buying behavior of organic food
+
+products (Aertsens, Verbeke, et al., 2009; Hemmerling et al., 2015; Mørk, Bech-Larsen, Grunert, &
+
+Tsalis, 2017; Shashi et al., 2015). In particular, universalism value, which includes environmental
+
+protection and animal welfare, has a positive influence, especially for regular organic consumers
+
+rather than occasional ones (Aertsens, Mondelaers, & van Huylenbroeck, 2009; Mørk et al., 2017;
+
+Pino, Peluso, & Guido, 2012; Thøgersen, de Barcellos, Perin, & Zhou, 2015). Mørk et al. (2017)
+
+found that collectivist values affect attitude toward organic products also in the institutional/public
+
+setting. In contrast, Rahnama (2017) found that for Iranian women social and emotional values do
+
+not have a significant impact on organic food choices. However, Aertsens et al. (2009) in their
+
+literature review stated that egocentric values, such as health and taste, are stronger drivers for
+
+organic food purchases rather than altruistic values. In this regard, Husic-Mehmedovic, Arslanagic-
+
+Kalajdzic, Kadic-Maglajlic, & Vajnberger (2017) found that life equilibrium, in terms of more
+
+balanced and caring approach towards one’s own life, has a strong, positive effect on perceived
+
+intrinsic organic food quality attributes. A second sub-factor is represented by the cultural capital.
+
+Indeed, Agovino, Crociata, Quaglione, Sacco, & Sarra (2017) found that for Italian consumers
+
+participation in cultural activities has a positive impact on the purchase organic products.
+
+                                                   18
+
+===== PAGE 19 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+A third sub-factor is the level of consumer skepticism and lack of trust towards organic
+
+certification that impacts negatively on consumers’ buying behavior (Janssen & Hamm, 2012a;
+
+Nuttavuthisit & Thøgersen, 2017; Vecchio, Annunziata, Krystallis, & Pomarici, 2015). The amount
+
+of additional information, especially related to the environmental and health effects, represents a
+
+third sub-factor linked to an increase of consumers’ willingness to pay (WTP) (Vecchio, Van Loo,
+
+& Annunziata, 2016). Furthermore, general trust in information and trust in media are statistically
+
+significant in influencing organic purchases (Dumortier, Evans, Grebitus, & Martin, 2017).
+
+Education and household composition represents another sub-factor related to the socio-cultural
+
+area. Dimitri and Dettmann (2012) and Paul and Rana (2012) found that consumers with higher
+
+education levels, as well married households or households with young children, are associated
+
+with an increased likelihood of purchasing organic food products.
+
+
+
+With reference to the intrinsic product characteristics we identified three sub-factors. The superior
+
+product quality in terms of nutritional properties and health promoting effects represents two sub-
+
+factors that are increasingly gaining relevance for organic food consumption (Aertsens, Verbeke, et
+
+al., 2009; Hasimu, Marchesini, & Canavari, 2017; Hemmerling, Asioli, & Spiller, 2016; Dumortier,
+
+Evans, Grebitus, & Martin, 2017). Consumers perceive organic food products as healthier and safer
+
+(Zagata, 2012; Bryła, 2016; Hasimu et al., 2017; Grzybowska-Brzezinska, Grzywinska-Rapca,
+
+Zuchowski, & Borawski, 2017) , as well as an investment in individual health (Kriwy & Mecking,
+
+2012). Other studies also found that consumers estimated organic food to have better nutritional
+
+properties and lower calories than those without the organic label (Lee, Shimizu, Kniffin, &
+
+Wansink, 2013; Pino et al., 2012). Bruschi, Shershneva, Dolgopolova, Canavari, & Teuber (2015)
+
+in their study on Russian consumers, identified positive beliefs about the reduced use of additives
+
+
+                                                  19
+
+===== PAGE 20 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+and food safety as the only factors that significantly affect organic food purchases. Sensory
+
+attributes represent the third sub-factor. Taste is an important criterion for organic food purchases
+
+and an important predictor for repeated purchases (Asioli et al., 2014; Hemmerling, Asioli, et al.,
+
+2016), as well as beliefs about how organic foods taste (Bernard & Liu, 2017). However, while
+
+Hemmerling et al. (2013) found that the presence of an organic label on food products may lead to
+
+an enhancement of taste perception, Schuldt & Hannahan (2013) demonstrated that organic foods
+
+were rated as less tasty than conventional ones and Bi et al. (2015) found that consumers’ WTP for
+
+the sensory attribute was negative for organic juice. On the contrary, Pagliarini, Laureati, & Gaeta
+
+(2013) have shown that the organic and conventional wines differed marginally in the intensity of
+
+sensory descriptors and that these differences did not influence consumers liking. Among sensory
+
+attributes, flavor and odor were also identified as important in influencing consumers’ choice
+
+(Asioli et al., 2014). Finally, Hemmerling, Asioli, et al. (2016) found several differences in
+
+European consumers’ value for the concept of the “Core Organic Taste - COT” which is based on
+
+the intrinsic attributes of organic food, those having an impact on sensory food properties.
+
+
+
+With reference to the extrinsic product characteristics, we identified four sub-factors. Product
+
+sustainability, related to biodiversity and natural resources conservation, as well as lower energy
+
+consumption, plays a key role in influencing attitudes and behavior toward organic food products
+
+(Shashi et al., 2015). Also animal welfare, fair trade and local origin represent central drivers that
+
+explain WTP for organic food (Zanoli et al., 2013). The protection of small farms and rural
+
+communities also impacts WTP (De Magistris & Gracia, 2016; Petrescu, Petrescu-Mag, Burny, &
+
+Azadi, 2017). Labels and certification represent the second sub-factor and are widely
+
+acknowledged to be crucial elements for recognition of organic products and to generate trust in its
+
+
+                                                   20
+
+===== PAGE 21 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+credence attributes (Drexler, Fiala, Havlíčková, Potůčková, & Souček, 2017; Janssen & Hamm,
+
+2012a, 2012b; Liang, 2016). Samant & Seo (2016) demonstrate that the presence of organic label
+
+affect quality perception of chicken-meat products as a function of consumers’ understanding level
+
+of the label claims. Nevertheless, some studies revealed a general low awareness about organic
+
+certification schemes and logos, especially among European consumers (Van Loo, Diem, Pieniak,
+
+& Verbeke, 2013; Zander, 2014; Zander, Padel, & Zanoli, 2015).
+
+Other studies have also examined the importance of organic labelling as a sustainability
+
+certification (Silva, Bioto, Efraim, & Queiroz, 2017; Van Loo et al., 2015; Van Loo, Caputo,
+
+Nayga, & Verbeke, 2014; Vecchio & Annunziata, 2015) showing that, compared with other
+
+sustainability labels (e.g. rainforest or carbon foot print) organic is the highest valued and best
+
+known label.
+
+The presence of health claims represents the third sub-factor. Consumers tend to consider organic
+
+products carrying health claims as healthier (Schleenbecker & Hamm, 2013), especially occasional
+
+organic consumers (Aschemann-Witzel et al., 2013). On the contrary, Gineikiene, Kiudyte, &
+
+Degutis (2017) show that skepticism toward health claims has a negative impact on the perceived
+
+healthiness of both organic and conventional products.
+
+Finally, several studies converge on the conclusion that the higher price of organic food products
+
+compared to conventional products negatively influences consumers’ choice when shopping and
+
+generates less repeated purchases (Aschemann-Witzel & Zielke, 2017; Bravo et al., 2013; Marian,
+
+Chrysochou, Krystallis, & Thøgersen, 2014; Rödiger & Hamm, 2015). However, it should be noted
+
+that Bruschi, Shershneva, Dolgopolova, Canavari, & Teuber (2015) found that Russian consumers
+
+consider the high price of organic food to be a quality indicator, thus the premium price for these
+
+products is accepted.
+
+
+                                                   21
+
+===== PAGE 22 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+
+
+Considering biological and physiological factors, gender can affect the likelihood to purchase
+
+organic food. In particular, women are more likely to buy organic foods than men (Petrescu et al.,
+
+2017; Van Loo, Caputo, Nayga, Meullenet, & Ricke, 2011; Vecchio et al., 2016) as they tend to be
+
+the primary food shoppers of the household and they are more aware and sensible of food safety
+
+and health issues, compared to men (Aertsens, Verbeke, et al., 2009). In addition, age represents an
+
+important factor, as younger consumers are more likely to purchase organic food (Dumortier et al.,
+
+2017).
+
+
+
+Psychological factors related to modern health worries due to the widespread use of pesticides,
+
+antibiotics, and hormones in food processing are strictly related to preferences for organic food
+
+products (Hemmerling, Canavari, & Spiller, 2016).
+
+
+
+Finally, among the situational factors the product availability represents a sub-factor that can affect
+
+the decision to purchase organic food (Aertsens, Verbeke, et al., 2009). Several papers show that
+
+lack of availability and high price represent the main deterrents for buying organic and are the
+
+principal determinants of the attitude–behavior gap 6 for organic consumers (Aschemann-Witzel &
+
+Niebuhr Aagaard, 2014; Aschemann-Witzel & Zielke, 2017). In addition, Ellison, Duff, Wang, &
+
+White (2016) suggest that retail outlets are a crucial factor with two moderating effects on
+
+consumer perception of organic food, the first is on the expected taste and the other on brand trust.
+
+Petrescu et al. (2017) found that Romanian consumers perceive farmers’ markets and self-
+
+production products as the main sources/locations for purchasing uncertified organic food.
+
+6
+  The attitude–behaviour gap describes a situation where consumers express a positive attitudes towards a product or a
+favorable buying intention, but their actual behaviour falls short to these due to a number of reasons (Carrington,
+Neville, & Whitwell, 2010).
+                                                          22
+
+===== PAGE 23 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+
+
+4.3 Factors that drive consumers’ preferences for natural food products
+
+Nowadays, the attribute “natural” is one of the most-used claims in food marketing, probably
+
+because it seems to improve the consumer’s quality perception of food products (Coppola &
+
+Verneau, 2010). The growing trend towards naturalness of food products involves both the organic
+
+food market, considered to be an important category of natural food, as well as the conventional
+
+food industry that in recent years has increased the offer of products reporting natural claims on the
+
+label (Hemmerling, Canavari, et al., 2016). Indeed, over the past years the “natural claim” has
+
+become one of the leading label claims on new food products launched both in US (Mintel, 2015)
+
+and EU markets (Ingredion, 2014). Despite this growing spread of food products claimed to be
+
+“natural”, the naturalness of a food product is still a rather vague concept, quite difficult to define
+
+properly (Rozin, 2006; Siipi, 2013). Indeed, a universally and formally accepted definition of food
+
+naturalness does not exist in the worldwide food market. Rozin (2006) and Rozin et al. (2004) have
+
+made an extensive contribution to understanding what is the meaning of “natural” for consumers
+
+and what influences consumers’ preference for natural food products. The word natural evokes to
+
+consumers mostly positive associations, leading to the perception of natural products as tastier,
+
+healthier or more environment-friendly. In addition, Franchi (2012) suggested that the term
+
+‘natural’ is used as a brand representing healthiness, reliability and reassurance in terms of safety
+
+and security of food to consumers. Siipi (2013) highlighted how the ambiguous nature of the
+
+current uses of the term “naturalness” represents a serious risk for consumers misunderstanding or
+
+misbehaving, in particular regarding the connection with its healthiness. The scientific literature
+
+often considers the attribute natural as an additional or subordinated aspect of organic food or of
+
+non-genetically modified products (non-GMOs) (Hemmerling, Canavari, et al., 2016; Siipi, 2013).
+
+
+                                                   23
+
+===== PAGE 24 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+Consequently, the effects of natural claims on consumers’ perceptions and preferences have
+
+received substantially less attention in consumer behavior and food marketing literature. A total of
+
+25 articles have been identified (Table A2) and we found six factors of the Mojet model (Köster
+
+2009) applying, as reported in Figure 4.
+
+
+
+Considering the socio-cultural factors, Rozin et al. (2004) suggested that both ideational and
+
+instrumental reasons 7 play a central role in affecting consumers’ preferences towards natural food
+
+products. However, other literature reports contrasting findings: while Thompson (2011) and Rozin,
+
+Fischler, & Shields-Argelès (2012) proposed that ideological beliefs are more relevant than
+
+instrumental beliefs, Li & Chapman (2012) suggested that preference for natural is mainly
+
+influenced by beliefs about natural products in general because they are perceived as healthier and
+
+safer than products that are not claimed to be natural. Dubé et al. (2016) found the existence of
+
+cross-cultural differences between Americans and Indians in their perceptions and attitudes toward
+
+naturally nutritious products, connected with their cultural differences. They conclude that Western
+
+consumers (i.e. from the US) are becoming increasingly skeptical to the advances in food and
+
+agriculture technologies and more in favor of purchasing natural, organic, and local food products;
+
+meanwhile, in developing countries, such as India, the industrialized food supply system is
+
+considered a symbol of modernization and better living standards.
+
+Furthermore, knowledge of legal meaning of natural products affects consumers perception of food
+
+naturalness. In this regard, Berry, Burton, & Howlett (2017) showed that providing additional
+
+information on the effective meaning of natural label has a positive impact on consumer utility
+
+when consumers were not aware of the definition of natural, but not when consumers were
+
+7
+ Ideational refers to the fact that natural is better because it is morally, aesthetically superior than those which men has
+influenced while instrumental refers to the fact that natural has superior attributes such as effectiveness, safety and
+health benefits (Rozin et al., 2004).
+                                                             24
+
+===== PAGE 25 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+informed of the definition of natural. McFadden & Huffman (2017) found that, for US consumers,
+
+adding independent information to the industry food perspectives of natural reduces excess
+
+valuations of organics over naturals. Consequently, more balanced and objective understanding of
+
+‘‘natural” foods may be increasingly willing to substitute conventional for ‘‘natural” foods.
+
+
+
+Figure 4 – Essential factors that drive consumers’ perceptions and preferences for natural
+
+food products: adapted from Mojet model. Sub-factors were identified from the literature
+
+review of 25 papers on “natural”.
+
+                                  <<Please, place here figure 4>>
+
+
+
+
+Among intrinsic characteristics, we identified five sub-factors. Product healthiness is considered
+
+the key motivation that influences consumers’ preferences towards natural food products
+
+(Binninger, 2015). The term ‘natural’ is used as a brand representing healthiness, reliability, and
+
+reassurance in terms of safety and security of food to consumers (Franchi, 2012). The absence of
+
+certain negative intrinsic characteristics (e.g. additives, pollution, human manipulation) represents
+
+a second sub-factor (Rozin, Fischler, & Shields-Argelès, 2012). Sensory attributes, such as
+
+pleasure and other aesthetic experiences perception, also represents a third sub-factor suggesting the
+
+role of naturalness as a bridge between health and taste (Binninger, 2015; Dubé et al., 2016). In this
+
+regards, Dominick et al. (2017) found that respondents perceived products with “all natural” label
+
+to have improved taste and improved nutritional value. In addition, they found that responses to “all
+
+natural” label vary for different food categories.
+
+However, Hemmerling, Canavari, et al. (2016) suggested the existence of an “attitude-liking gap”,
+
+showing that consumers revealed a positive attitude toward natural food, but a negative sensory
+
+                                                     25
+
+===== PAGE 26 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+preference for the more natural product. According to Hauser, Jonas, & Riemann (2011) the
+
+presence of fresh and raw ingredients represents a fourth sub-factor. This is because consumers
+
+perceive naturalness as a multidimensional concept referring to sustainable, traditional, or organic
+
+farming methods, presence of fresh and raw ingredients, and time for preparing and cooking food.
+
+The degree of product processing represents a fifth sub-factor. Food processing or manipulation
+
+decreases the perception of naturalness (Coppola & Verneau, 2010; Evans et al., 2010). This
+
+confirms the results from Rozin (2006) who stated that “processing alone, without substantial
+
+change, can decrease the perception of naturalness.” Abouab and Gomez (2015) showed that food
+
+products resulting from handmade production are perceived as more natural than food products
+
+resulting from machine-made production and that the level of humanization of the production
+
+process positively impacts naturalness perceptions. Furthermore, Aschemann-Witzel & Grunert,
+
+(2017) shows that attitudes towards functional foods were more favourable for food categories that
+
+are perceived as natural versus processed.
+
+
+
+With reference to extrinsic product characteristics, sustainability is an important sub-factor in
+
+influencing the perception of natural food. Binninger (2015) suggested that product sustainability,
+
+linked with environmental-friendliness and animal welfare aspects affect consumers’ preferences
+
+for natural food products. A second sub-factor related to extrinsic product characteristics is
+
+packaging. Indeed, Binninger (2015) stated that the naturalness of a food product is perceived by
+
+the consumer through the packaging, with both functional signals (labels, logos, or claims) and
+
+emotional aspects (colors, shapes, and graphics). Magnier, Schoormans, & Mugge (2016) also
+
+found that perceived naturalness of the product is influenced also by the sustainability of the
+
+package that explicitly or implicitly evokes the eco-friendliness of the packaging via its structure,
+
+
+                                                  26
+
+===== PAGE 27 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+graphical or iconographic elements, and informational elements. Label represents a third sub-factor.
+
+Amos, Pentina, Hawkins, & Davis (2014) suggested that food products labeled with natural claims
+
+are perceived to be less harmful and healthier, with superior instrumental attributes, and possessing
+
+higher nutritional value and lower human contamination. Liu, Hooker, Parasidis, & Simons (2017)
+
+found that the presence of an all-natural FOP label improves consumers’ perceptions of product
+
+quality and nutritional content. Finally, Li & Chapman (2012) suggested that perceived risk
+
+represents an important instrumental reason for naturalness preference.
+
+
+
+Considering biological and physiological factors, women are more receptive to the indication “all
+
+natural” on food label (Dominick, Fullerton, Widmar, & Wang, 2017) and show a greater
+
+willingness to pay for organic-“natural” than men (McFadden & Huffman, 2017). This might be
+
+because women are more sensitive than men to risk (Dickson-Spillmann et al., 2011).
+
+
+
+Among psychological factors, Devcich et al. (2007) showed that consumers with a higher number
+
+of modern health worries (i.e. drug-resistant bacteria or pesticides in food) showed a stronger
+
+preference for foods that contain only natural ingredients. In addition, Dickson-Spillmann et al.
+
+(2011) found that risk perceptions of chemicals in food were positively correlated with preference
+
+for natural food.
+
+
+
+Among situational factors, the perception of naturalness depends also on the type of stores, because
+
+some of them convey a sense of naturalness, such as traditional markets, leading to more perceived
+
+naturalness (Lunardo & Saintives, 2013). In addition, Liu et al. (2017) found that the additional
+
+
+
+
+                                                 27
+
+===== PAGE 28 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+information provided by employed servers at the point of purchase impacts consumers’ perceptions
+
+of quality and nutritional content of all-natural labelled products.
+
+
+
+4.4 Factors affecting consumers’ perceptions and preferences for food “free from artificial
+
+   additives/ingredients”
+
+Food additives are substances that added to food products are able to improve their intrinsic
+
+attributes due to their technological and sensory functions (i.e. to increase shelf life by reducing
+
+their perishability, improve taste, restore colours, etc.). This enables the food industry to produce
+
+food products that meet the more complex and segmented consumer desires (Carocho, Morales, &
+
+Ferreira, 2015; Emerton & Choi, 2008; Saltmarsh, 2013). Different definitions of food additives are
+
+provided by Codex Alimentarius, the Food and Drug Administration (FDA) and the European Food
+
+Safety Authority (EFSA) (for details see Carocho et al., 2015). Food additives can be categorized
+
+based on two different characteristics: their origin and function. In terms of origin there are artificial
+
+and natural additives. In terms of function six categories can be identified: preservatives, nutritional
+
+additives, colouring agents, flavouring agents, texturing agents and miscellaneous agents (Carocho,
+
+Barreiro, Morales, & Ferreira, 2014).
+
+
+
+Despite the mentioned advantages, the relationship between consumers and food additives has
+
+always been problematic (Carocho et al., 2015). Indeed, since the late 1970s consumers started to
+
+think that artificial additives/ingredients might be dangerous for health, and that it would be
+
+preferable to reduce or avoid their use in food products (Brockman & Beeren, 2011). For example,
+
+the cases of aspartame, colours, and monosodium glutamate have contributed to rising public
+
+concerns about how addition of these substances to food products might have bad health effects
+
+
+                                                   28
+
+===== PAGE 29 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+(Carocho et al., 2014; Lofstedt, 2008, 2009; Mosby, 2009). Also the European terminology used to
+
+identify additives on food labels (i.e. E-numbers) are perceived with suspicion by consumers due to
+
+their unfamiliar names (Osborne, 2015). Generally, consumers will choose food without additives,
+
+but if these are not available, then consumes will choose food containing natural additives over the
+
+artificial ones (Carocho et al., 2014). Thus, a key element that drives some consumers to prefer food
+
+products without artificial additives/ingredients is related to the additives’ origin, either natural or
+
+artificial. Even if there is no clear difference between the origin of food additives in both the
+
+scientific literature and public legislation, previous research suggests that consumers are able to
+
+differentiate them (Stern, Haas, & Meixner, 2009; Tarnavöglyi, 2003).
+
+
+
+A total of 16 papers about consumers’ perceptions and preferences for “free-from artificial
+
+additives/ingredients” foods have been identified (Table A3). Five out of six factors of the Mojet
+
+model (Köster 2009) have been identified, as reported in Figure 5.
+
+
+
+Figure 5 –Essential factors that drive consumers’ perceptions and preferences for food “free
+
+from artificial additives/ingredients”: adapted from Mojet model. Sub-factors were identified
+
+from the literature review of 16 papers on “free from artificial additives/ingredients”.
+
+                                   <<Please, place here figure 5>>
+
+
+
+
+Among the socio-cultural factors we identified five sub-factors. The first sub-factor is related to
+
+the fact that consumers who are more sensitive to negative information sources, gained by watching
+
+and hearing media coverage (i.e. Internet) or family and friends discussions, feel more anxiety
+
+about food additives and might tend easily to their rejection (Tanaka, Kitayama, Arai, &
+
+                                                    29
+
+===== PAGE 30 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+Matsushima, 2015; Wansink, Tal, & Brumberg, 2014). In addition, the role of nutrition teachers and
+
+members of non-governmental organization can cause negative consumers perception of food
+
+additives (Kang et al., 2017). This is linked to social acceptance. A second sub-factor is related to
+
+education. Wu et al. (2013) stated that consumers with lower levels of education tend to be more
+
+likely to purchase food products with additives that follow governments’ standards, because they
+
+trust governments more, than those who have higher education levels. A third sub-factor is the lack
+
+of awareness and trust in food regulation which is linked to the acceptance of food additives
+
+(Bearth et al. 2014). A fourth sub-factor is related to the ethical, cultural, and ascetic concerns that
+
+consumers might have about artificial additives/ingredients (Haen, 2014). A fifth sub-factor is the
+
+consumers’ self-reported knowledge (Szucs, Szabo, & Bana, 2014).
+
+
+
+The intrinsic product characteristics are also important drivers. We identified three sub-factors.
+
+The first sub-factor is related to the type of additive that might affect consumers’ perceptions
+
+differently (i.e. sweeteners are perceived as slightly more acceptable than colours) (Bearth et al.,
+
+2014). A second sub-factor is the type of food associated with the ingredient (i.e. ingredients
+
+associated with unhealthy food are less accepted by consumers) (Wansink et al. 2014). Finally,
+
+consumers that prefer natural food products also prefer to avoid artificial additives/ingredients
+
+(Bearth et al., 2014).
+
+
+
+Among the extrinsic product characteristics we identified five sub-factors. First, is the knowledge
+
+of the food product which includes the additive affects the acceptance of a food additive itself
+
+(Bastian, Saltman, Johnson, & Wilkinson, 2015; Kubota, Sawano, & Kono, 2017). The second is
+
+the lack of information about food additives also drives consumers into reject them because it was
+
+
+                                                   30
+
+===== PAGE 31 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+considered insufficient (Kubota et al., 2017; Shim et al., 2011). A third sub-factor is related to the
+
+risk perception/attention to media which has a strong influence on consumers’ acceptance of food
+
+additives (Chen, 2017). A fourth sub-factor is related to the type of symbolic information reported
+
+on the label: using E-numbers instead of specify food additives as chemicals are perceived less
+
+natural by consumers (Siegrist & Sütterlin, 2017). Finally, the costs/price of food products affect
+
+consumers’ intent to purchase. Consumers that are more sensitive to price (men, younger, and low
+
+income consumers) were more willing to accept additives due to their lower costs (Wu et al., 2013).
+
+
+
+
+Among psychological factors, two sub-factors can be identified. One is related to the health
+
+concern about the possible bad effects that artificial additives/ingredients can cause to human health
+
+(Chen, 2017; Shim et al., 2011; Szucs et al., 2014; Varela & Fiszman, 2013), while the other is the
+
+familiarity that consumers have with a food additive plays a key role in their acceptance/rejection,
+
+since consumers are scared about names that they have not used (i.e. high-fructose corn syrup)
+
+(Varela & Fiszman, 2013; Wansink et al., 2014).
+
+
+
+
+Finally, among the biological and physiological factors, two sub-factors related to socio –
+
+demographic characteristics, gender (i.e. women perceive more risk than men) (Bearth et al., 2014;
+
+Dickson-Spillmann et al., 2011) and age (i.e. young people are less concerned than older people
+
+about food safety) (De Jonge, Van Trijp, Jan Renes, & Frewer, 2007; Lupton, 2005) affect
+
+consumers’ perceptions and preferences for avoiding food products with artificial
+
+additives/ingredients.
+
+
+
+
+                                                   31
+
+===== PAGE 32 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+5. DISCUSSION
+
+5.1 Clean label definition and consumer understanding
+
+Across the three categories of food products pertaining to the clean label trend – organic, ‘natural’,
+
+and ‘free from’ artificial additives/ingredients – we found all the six categories of factors
+
+represented of the Mojet model (Köster, 2009), such as intrinsic and extrinsic product
+
+characteristics, biological and physiological, as well as psychological, situational and socio-cultural
+
+factors. Thus, as a first point, we can conclude that a broad diversity of drivers has been found to
+
+influence the clean label trend, according to empirical consumer studies of the past six years.
+
+As a second observation, we can conclude on a number of similarities across the three product
+
+categories: it becomes apparent that the greater majority of studies identify crucial factors among
+
+intrinsic or extrinsic product characteristics, as well as among socio-cultural factors. Thus, these
+
+factors are either of greater importance, or have been given more focus in empirical research.
+
+Studies for all three categories underline the importance of ‘health’ as a motivation via various
+
+forms of factors, as e.g. healthiness of the product, health claims on the package, or health concerns
+
+of the consumer. In addition, the factor of high prices and costs of purchase are identified for all
+
+food categories. However, there are also differences between the factors emerging as relevant when
+
+comparing the categories, concluded as a third point: according to the studies reviewed, intrinsic
+
+product characteristics were found more often identified as factors impacting consumer behaviour
+
+for natural and ‘free from’ food than for organic. Interestingly, though, sensory characteristics had
+
+not been identified in any study on ‘free from’ food so far, but instead, biological and physical are
+
+factors more prominent for ‘free from’ than for the other two categories. In addition, ‘sustainability’
+
+was found as a motive impacting consumer behaviour and choice for organic and natural food, but
+
+not for ‘free from’.
+
+
+                                                   32
+
+===== PAGE 33 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+
+
+Overall, we conclude that while various factors across the whole range of drivers explain consumer
+
+preference for clean label, research so far points in particular to intrinsic and extrinsic product
+
+characteristics and the socio-cultural factors determining individual consumer characteristics, but
+
+above all to the issue of ‘health’. In addition, the literature review finds that the structure of factors
+
+explaining ‘free from’ differs in several points from organic and natural 8, indicating that this
+
+category is to be regarded as different and apart from the latter two. It should be underlined, though,
+
+that the smaller range of research studies identified for ‘free from’ might explain part of the
+
+differences. In addition, it must be cautioned that research studies might point to certain factors, but
+
+that other factors might be underlying the result as well, but have not been measured.
+
+
+
+Considering these findings of the literature review on the background of the consumer behaviour
+
+theory introduced as potentially relevant for the topic of clean label and consumer perception, it is
+
+interesting to note that the different role of ‘free from’ food appears in line with the distinction that
+
+theory suggests. Regarding dual processing (Kitchen et al., 2014; Petty et al., 1983), it can be said
+
+that cues such as the fact that the product is certified organic or claims and product characteristics
+
+hinting at naturalness might be more likely processed peripherally, leading to broad associations
+
+about intrinsic and extrinsic product characteristics. These are more explained by consumer beliefs
+
+than by actual knowledge, given they are credence quality characteristics in its majority. While
+
+‘free from’ might also be a cue, it is much easier for consumers to assess the claim and, as a
+
+consequence of the BOP information, centrally process the information, leading to more detailed
+
+product characteristics mentioned. With regard to approach and avoidance information (Higgins,
+
+8
+ Previous works underline that often consumers consider organic as category of natural products (Hemmerling, Asioli,
+et al., 2016).
+
+                                                         33
+
+===== PAGE 34 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+2005), we have argued and shown that avoidance underlies all three clean label food categories.
+
+However, ‘free from’ food is a more obvious and straightforward trend of avoiding ‘something’,
+
+and this fact appears to be mirrored in the findings setting the category apart.
+
+
+
+Considering the findings and the definition introduced in this paper, the importance of a broad
+
+range of factors influencing the clean label trend as well as the similarities in factors across all three
+
+categories support that they are joined in under one common definition. Both ‘assumption/
+
+inference’ as well as ‘inspection’ appear relevant, given both intrinsic and extrinsic product
+
+characteristics are important factors explaining consumer choice, as well as individual
+
+characteristics as impacted by the socio-cultural factors. However, the category of ‘free from’ might
+
+differ from organic and natural, and it appears more likely that this category is perceived more via
+
+inspection and thus pertaining to clean label in the strict sense.
+
+
+
+5.2 Implications for food manufacturers and policy makers
+
+A number of implications for food manufacturers can be derived from the findings. Firstly, food
+
+manufacturers should expect that a diversity of factors impact the clean label trend, and thus need to
+
+be prepared to take the diversity of these drivers into account in developing new products (Frewer
+
+et al., 2011; Van Kleef, Van Trijp, & Luning, 2005) as well as in the communication and
+
+positioning of the products in the market for clean label food. In particular, intrinsic and extrinsic
+
+product characteristics and socio-cultural factors influence the trend, while less is found for or
+
+known for the remaining factors. Secondly and not surprisingly, health emerges as a crucial issue
+
+that is mirrored in a number of factors according to consumer research, thus, the clean label food
+
+product trend should continue to be understood as essentially driven by health motivations and
+
+
+                                                   34
+
+===== PAGE 35 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+concerns. In consequence, product development and communication should prioritize this issue,
+
+given consumers demand such health-related aspects in ingredients that influence the clean label
+
+perception of a food (as e.g. colorants, Martins, Roriz, Morales, Barros, & Ferreira (2016). Thirdly,
+
+the finding that ‘free from’ foods appear to be needed to be seen as apart from organic and natural
+
+food implies that food manufacturers should have potential differences in the target group in mind,
+
+depending on which category of clean label food they deal with. ‘Free from’ food products appear
+
+to show a clearer distinction via biological and physiological factors, consumers might give less
+
+importance to sensory characteristics, while even more to health and not necessarily much to
+
+sustainability as a motive. However, further research is needed to explore these differences more in
+
+detail.
+
+
+
+For policy makers interacting with food processors, it appears important to work towards a more
+
+homogenous understanding and application of the term of clean label. A uniform definition or even
+
+regulation might establish a level playing field that would support the trend towards natural and
+
+‘free from’ food in a similar way as the regulation and certification has supported the market for
+
+organic food in the past. Health and health worries are a major driver, which entails that policy
+
+makers need to consider how to ensure that consumers are not misled in any way, and in fact
+
+choose healthy when using cues referring to clean label as a guidance in their choices. In particular,
+
+policy makers should aim to support measures that allow prices for clean label to decrease, so that
+
+all groups of consumers can afford such products, given price appears to be an issue across all
+
+categories. Consumer understanding and acceptance of technologies yet appearing unfamiliar, but
+
+providing consumer benefits needs to be understood and tackled (Rollin, Kennedy, & Wills, 2011).
+
+
+
+
+                                                  35
+
+===== PAGE 36 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+Overall, the clean label trend emerges driven by factors such as modern health worries and concerns
+
+related to modern and high technology processing, perceived risk and skepticism towards certain
+
+ingredients, processing techniques, but also lack of trust in regulations. It appears that certain
+
+advantages of food processing for health and sustainability might likely be overlooked by
+
+consumers (Augustin et al., 2016). Thus, both policy makers and food processers might need to
+
+engage in consumer education about certain ingredients that might be misconceived by consumers,
+
+in a targeted way that corresponds to consumer’s involvement level and processing of information.
+
+In addition, they need to regain greater consumer trust in regulations and food production processes
+
+(Frewer et al., 2011) in response to the factors underlying the clean label trend.
+
+
+
+5.3 Future research directions
+
+This review has brought forth many questions in need of further investigations for the under-
+
+researched category of clean label food products. For instance, future studies should further
+
+establish which factors drive consumer choices for certain types (i.e. sweeteners, colourants, etc.) of
+
+‘free from’ food products, and how preferences for such food products differ across diverse
+
+consumer groups. Findings from such studies would help food manufacturers understand the target
+
+market and how these consumers differ from organic and natural food consumers.
+
+
+
+Furthermore, given most studies in the literature review are from developed countries (e.g.,
+
+European countries, among others) but there might be cultural differences that impact consumers’
+
+perceptions and preferences in emerging and developing countries, broadening research towards
+
+other regions of the world would be beneficial.
+
+
+
+
+                                                   36
+
+===== PAGE 37 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+Moreover, this paper focuses solely on three categories of clean label food products. Some research
+
+focus should therefore be placed on the other product categories available in food markets such as
+
+gluten-free products, short-list ingredients among others. Since recent evidence suggests that the
+
+values consumers attach to a food product embedding a certain quality characteristic depends on the
+
+presence of other characteristics depicting it (Caputo, Scarpa, & Nayga, 2017; Gao & Schroeder,
+
+2009) more research is needed to investigate such dependence that might also exist in the context of
+
+clean label food products that in turn will improve the knowledge around this topic. However, while
+
+several studies have assessed consumers’ preferences and WTP for organic and/or natural products,
+
+there is a lack of research that investigate preferences and WTP for food products ‘free from’
+
+artificial additives/ingredients.
+
+
+
+Furthermore, research investigating how consumers value multiple food attributes claimed as
+
+“clean” simultaneously is needed. Results from these studies might help food companies to
+
+formulate adequate product development practices, pricing and marketing strategies as well as
+
+policy makers to determine the costs and benefits of various food labeling policies.
+
+
+
+Finally, further research should be undertaken to investigate the behavioural reasons driving
+
+consumer decision making processes for ‘free from’ food products. For instance, future research
+
+could employ the structural equation modelling (SEM) approach to investigate the strength of the
+
+relationships existing among the factors identified in this paper ‘free from’ food products (and also
+
+for organic and natural products) to better understand how they concretely contribute to consumer
+
+choice decisions. Another possible area of future research would be to establish whether the
+
+inclusion of various psychological factors (e.g. risk preferences, time preferences, personality,
+
+
+                                                  37
+
+===== PAGE 38 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+among others) into economic models of consumer demand could improve their predictive power,
+
+and thus help to better understand consumer decision making processes for the different categories
+
+of clean label products. Finally, consumer valuation for the various ‘free from’ food products are
+
+driven by the presence of both intrinsic and extrinsic product characteristics. Thus, further
+
+experimental investigations are needed to explore how consumers value sensory aspects related to
+
+‘free from’ food products as compared to those characterizing conventional food products by for
+
+example using different consumer valuation methods as proposed by Asioli et al. (2017).
+
+
+
+6. ACKNOWLEDGEMENTS
+
+Financial support from the European Commission through the Marie Curie Actions Intra European
+
+Fellowship (IEF), call FP/-PEOPLE-I2012-IEF – project title ‘‘Innovative Methodologies for New
+
+Food Product Development: combining Sensory Science and Experimental Economics –
+
+NEFOMET”. Nofima’s authors also would like to thank the support of the Norwegian Foundation
+
+for Research Levy on Agricultural Products through the research program “FoodSMaCK,
+
+Spectroscopy, Modelling and Consumer Knowledge” (2017-2020). Special thanks also to the editor
+
+Anderson de Souza Sant'Ana for suggesting the authors the writing of this review paper.
+
+
+
+7. AUTHOR CONTRIBUTIONS
+
+The authors’ contributions were as follows: Daniele Asioli was the responsible for the overall
+
+manuscript, contributed to the introduction, design and literature review. Jessica Aschemann-Witzel
+
+contributed to the consumer behaviour theory, clean label definition and discussion as well as the
+
+critical review of the manuscript. Vincenzina Caputo contributed to the discussion and the critical
+
+review of the manuscript. Azzurra Annunziata and Riccardo Vecchio contributed to the literature
+
+
+                                                  38
+
+===== PAGE 39 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+review and the critical review of the manuscript. Tormod Naes contributed to the critical review of
+
+the manuscript. Finally, Paula Varela contributed to the design of the study and critical review of
+
+the manuscript.
+
+
+
+
+                                                 39
+
+===== PAGE 40 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+8. REFERENCES
+
+Aaker, J. L., & Lee, A. Y. (2001). “I” Seek Pleasures and “We” Avoid Pains: The Role of Self-
+
+     Regulatory Goals in Information Processing and Persuasion. Journal of Consumer Research,
+
+     28(1), 33–49.
+
+Abouab, N., & Gomez, P. (2015). Human contact imagined during the production process increases
+
+     food naturalness perceptions. Appetite, 91, 273–277.
+
+Adams, D. C., & Salois, M. J. (2010). Local versus organic: A turn in consumer preferences and
+
+     willingness-to-pay. Renewable Agriculture and Food Systems, 25(4), 331–341.
+
+Aertsens, J., Mondelaers, K., & van Huylenbroeck, G. (2009). Differences in retail strategies on the
+
+     emerging organic market. British Food Journal, 111(2), 138–154.
+
+Aertsens, J., Verbeke, W., Mondelaers, K., & van Huylenbroeck, G. (2009). Personal determinants
+
+     of organic food consumption: a review. British Food Journal, 111(10), 1140–1167.
+
+Agovino, M., Crociata, A., Quaglione, D., Sacco, P., & Sarra, A. (2017). Good Taste Tastes Good.
+
+     Cultural Capital as a Determinant of Organic Food Purchase by Italian Consumers: Evidence
+
+     and Policy Implications. Ecological Economics, 141, 66–75.
+
+Aktar, M., Sengupta, D., & Chowdhury, A. (2009). Impact of pesticides use in agriculture: their
+
+     benefits and hazards. Interdisciplinary Toxicology, 1(2), 1–12.
+
+Amos, C., Pentina, I., Hawkins, T. G., & Davis, N. (2014). “Natural” labeling and consumers’
+
+     sentimental pastoral notion. Journal of Product & Brand Management, 23(4/5), 268–281.
+
+Aschemann-Witzel, J., & Grunert, K. G. (2017). Attitude towards resveratrol as a healthy botanical
+
+     ingredient: The role of naturalness of product and message. Food Quality and Preference, 57,
+
+     126–135.
+                                                 40
+
+===== PAGE 41 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+Aschemann-Witzel, J., Maroscheck, N., & Hamm, U. (2013). Are organic consumers preferring or
+
+     avoiding foods with nutrition and health claims? Food Quality and Preference, 30(1), 68–76.
+
+Aschemann-Witzel, J., & Niebuhr Aagaard, E. M. (2014). Elaborating on the attitude–behaviour
+
+     gap regarding organic products: young Danish consumers and in-store food choice.
+
+     International Journal of Consumer Studies, 38(5), 550–558.
+
+Aschemann-Witzel, J., & Zielke, S. (2017). Can’t Buy Me Green? A Review of Consumer
+
+     Perceptions of and Behavior Toward the Price of Organic Food. Journal of Consumer Affairs,
+
+     51(1), 211–251.
+
+Aschemann, J., Hamm, U., Naspetti, S., & Zanoli, R. (2007). The organic market. In W. Lockeretz
+
+     (Ed.), Organic farming – an international history. (pp. 123–151). Oxfordshire/UK and
+
+     Cambridge/MA/USA: CAB International.
+
+Asioli, D., Canavari, M., Pignatti, E., Obermowe, T., Sidali, K. L., Vogt, C., & Spiller, A. (2014).
+
+     Sensory Experiences and Expectations of Italian and German Organic Consumers. Journal of
+
+     International Food & Agribusiness Marketing, 26(1), 13–27.
+
+Asioli, D., Varela, P., Hersleth, M., Almli, V. L., Olsen, N. V., & Næs, T. (2017). A discussion of
+
+     recent methodologies for combining sensory and extrinsic product properties in consumer
+
+     studies. Food Quality and Preference, 56, Part B, 266–273.
+
+Augustin, M. A., Riley, M., Stockmann, R., Bennett, L., Kahl, A., Lockett, T., … Cobiac, L.
+
+     (2016). Role of food processing in food and nutrition security. Trends in Food Science &
+
+     Technology, 56, 115–125.
+
+Bánáti, D. (2011). Consumer response to food scandals and scares. Trends in Food Science &
+
+     Technology, 22(2–3), 56–60.
+
+                                                  41
+
+===== PAGE 42 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+Bastian, S., Saltman, Y., Johnson, T., & Wilkinson, K. (2015). Australian wine consumers’
+
+     acceptance of and attitudes toward the use of additives in wine and food production.
+
+     International Journal of Wine Research, Volume 7, 83.
+
+Bearth, A., Cousin, M. E., & Siegrist, M. (2014). The consumer’s perception of artificial food
+
+     additives: Influences on acceptance, risk and benefit perceptions. Food Quality and
+
+     Preference, 38:14-23.
+
+Beck, U. (1992). Risk society: towards a new modernity. London, UK: Sage Publications Ltd.
+
+Beharrell, B., & Denison, T. J. (1995). Involvement in a routine food shopping context. British
+
+     Food Journal, 97(4), 24–29.
+
+Bernard, J. C., & Liu, Y. (2017). Are beliefs stronger than taste? A field experiment on organic and
+
+     local apples. Food Quality and Preference, 61, 55–62.
+
+Berry, C., Burton, S., & Howlett, E. (2017). It’s only natural: the mediating impact of consumers’
+
+     attribute inferences on the relationships between product claims, perceived product
+
+     healthfulness, and purchase intentions. Journal of the Academy of Marketing Science.
+
+Bi, X., Gao, Z., House, L. A., & Hausmann, D. S. (2015). Tradeoffs between sensory attributes and
+
+     organic labels: the case of orange juice. International Journal of Consumer Studies, 39(2),
+
+     162–171.
+
+Binninger, A.-S. (2015). Perception of Naturalness of Food Packaging and Its Role in Consumer
+
+     Product Evaluation. Journal of Food Products Marketing, 1–17.
+
+Bravo, C. P., Cordts, A., Schulze, B., & Spiller, A. (2013). Assessing determinants of organic food
+
+     consumption using data from the German National Nutrition Survey {II}. Food Quality and
+
+     Preference, 28(1), 60–70.
+
+                                                 42
+
+===== PAGE 43 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+Brockman, C., & Beeren, C. J. M. (2011). Additives in Dairy Foods | Consumer Perceptions of
+
+     Additives in Dairy Products. In J. W. Fuquay (Ed.), Encyclopedia of Dairy Sciences (Second
+
+     Edition) (2nd ed., pp. 41–48). San Diego: Academic Press.
+
+Brunsø, K., & Grunert, K. G. (1995). Development and testing of a cross-culturally valid
+
+     instrument: Food-related lifestyle. Advances in Consumer Research, 22, 475–480.
+
+Bruschi, V., Shershneva, K., Dolgopolova, I., Canavari, M., & Teuber, R. (2015). Consumer
+
+     Perception of Organic Food in Emerging Markets: Evidence from Saint Petersburg, Russia.
+
+     Agribusiness, 31(3), 414–432.
+
+Bryła, P. (2016). Organic food consumption in Poland: Motives and barriers. Appetite, 105, 737–
+
+     746.
+
+Busken, D. F. (2013). Cleaning It Up—What Is a Clean Label Ingredient? Cereals Foods Worlds,
+
+     60(2), 112–113.
+
+Caputo, V., Nayga, R. M., & Scarpa, R. (2013). Food miles or carbon emissions? Exploring
+
+     labelling preference for food transport footprint with a stated choice study. Australian Journal
+
+     of Agricultural and Resource Economics, 57(4), 465–482.
+
+Caputo, V., Scarpa, R., & Nayga, R. M. J. (2017). Cue versus independent food attributes: the
+
+     effect of adding attributes in choice experiments. European Review of Agricultural Economics,
+
+     44(2), 211–230.
+
+Carocho, M., Barreiro, M. F., Morales, P., & Ferreira, I. C. F. R. (2014). Adding molecules to food,
+
+     pros and cons: A review on synthetic and natural food additives. Comprehensive Reviews in
+
+     Food Science and Food Safety, 13(4):377-399.
+
+Carocho, M., Morales, P., & Ferreira, I. C. F. R. (2015). Natural food additives: Quo vadis? Trends
+
+                                                 43
+
+===== PAGE 44 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+     in Food Science & Technology, 45, 284–295.
+
+Carrington, M. J., Neville, B. A., & Whitwell, G. J. (2010). Why Ethical Consumers Don’t Walk
+
+     Their Talk: Towards a Framework for Understanding the Gap Between the Ethical Purchase
+
+     Intentions and Actual Buying Behaviour of Ethically Minded Consumers. Journal of Business
+
+     Ethics, 97(1), 139–158.
+
+Chalamon, I., & Nabec, L. (2016). Why Do We Read On-Pack Nutrition Information so
+
+     Differently? A Typology of Reading Heuristics Based on Food Consumption Goals. Journal of
+
+     Consumer Affairs, 50(2), 403–429.
+
+Chen, M.-F. (2017). Modeling an extended theory of planned behavior model to predict intention to
+
+     take precautions to avoid consuming food with additives. Food Quality and Preference, 58,
+
+     24–33.
+
+Cheung, T. T. L., Junghans, A. F., Dijksterhuis, G. B., Kroese, F., Johansson, P., Hall, L., & Ridder,
+
+     D. T. D. De. (2016). Consumers’ choice-blindness to ingredient information. Appetite, 106:2-
+
+     12.
+
+Coppola, A., & Verneau, F. (2010). Naturalness and Consumer Choices: The Case of Microfiltered
+
+     Milk. In Proceedings of the 4th International European Forum on System Dynamics and
+
+     Innovation in Food Networks (pp. 187–201). Innsbruck, Austria.
+
+Das, G. (2015). Retail shopping behaviour: understanding the role of regulatory focus theory. The
+
+     International Review of Retail, Distribution and Consumer Research, 25(4), 431–445.
+
+de Boer, J., & Schösler, H. (2016). Food and value motivation: Linking consumer affinities to
+
+     different types of food products. Appetite, 103, 95–104.
+
+De Jonge, J., Van Trijp, H., Jan Renes, R., & Frewer, L. (2007). Understanding Consumer
+
+                                                 44
+
+===== PAGE 45 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+    Confidence in the Safety of Food: Its Two-Dimensional Structure and Determinants. Risk
+
+    Analysis, 27(3), 729–740.
+
+De Magistris, T., & Gracia, A. (2016). Consumers’ willingness-to-pay for sustainable food
+
+    products: the case of organically and locally grown almonds in Spain. Journal of Cleaner
+
+    Production, 118, 97–104.
+
+Devcich, D. A., Pedersen, I. K., & Petrie, K. J. (2007). You eat what you are: Modern health
+
+    worries and the acceptance of natural and synthetic additives in functional foods. Appetite,
+
+    48(3), 333–337.
+
+Dholakia, U. M., Kahn, B. E., Reeves, R., Rindfleisch, A., Stewart, D., & Taylor, E. (2010).
+
+    Consumer Behavior in a Multichannel, Multimedia Retailing Environment. Journal of
+
+    Interactive Marketing, 24(2), 86–95.
+
+Dickson-Spillmann, M., Siegrist, M., & Keller, C. (2011). Attitudes toward chemicals are
+
+    associated with preference for natural food. Food Quality and Preference, 22(1), 149–156.
+
+Dimitri, C., & Dettmann, R. L. (2012). Organic food consumers: what do we really know about
+
+    them? British Food Journal, 114(8), 1157–1183.
+
+Dominick, S. R., Fullerton, C., Widmar, N. J. O., & Wang, H. (2017). Consumer Associations with
+
+    the “All Natural” Food Label. Journal of Food Products Marketing, 1–14.
+
+Draper, A. K., Adamson, A. J., Clegg, S., Malam, S., Rigg, M., & Duncan, S. (2013). Front-of-pack
+
+    nutrition labelling: are multiple formats a problem for consumers? The European Journal of
+
+    Public Health, 23(3), 517–521.
+
+Drexler, D., Fiala, J., Havlíčková, A., Potůčková, A., & Souček, M. (2017). The Effect of Organic
+
+    Food Labels on Consumer Attention. Journal of Food Products Marketing, 1–15.
+
+                                                45
+
+===== PAGE 46 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+Dubé, L., Fatemi, H., Lu, J., & Hertzer, C. (2016). The Healthier the Tastier? USA–India
+
+     Comparison Studies on Consumer Perception of a Nutritious Agricultural Product at Different
+
+     Food Processing Levels. Frontiers in Public Health, 4(6), 1–11.
+
+Dumortier, J., Evans, K. S., Grebitus, C., & Martin, P. A. (2017). The Influence of Trust and
+
+     Attitudes on the Purchase Frequency of Organic Produce. Journal of International Food &
+
+     Agribusiness Marketing, 29(1), 46–69.
+
+Edwards, A. (2013). Natural & Clean Label Trends June 2013. Ingredion Incorporated.
+
+Eertmans, A., Victoir, A., Vansant, G., & den Bergh, O. Van. (2005). Food-related personality
+
+     traits, food choice motives and food intake: Mediator and moderator relationships. Food
+
+     Quality and Preference, 16(8), 714–726.
+
+Ellison, B., Duff, B. R. L., Wang, Z., & White, T. B. (2016). Putting the organic label in context:
+
+     Examining the interactions between the organic label, product type, and retail outlet. Food
+
+     Quality and Preference, 49, 140–150.
+
+Emerton, V., & Choi, E. (2008). Essential Guide to Food Additives. (Leatherhead Food
+
+     International, Ed.). The Royal Society of Chemistry.
+
+Euromonitor International. (2016). Report extract: lifestyle 2016: new survey insights and system
+
+     refresher.
+
+Evans, J. S. B. T. (2003). In two minds: dual-process accounts of reasoning. Trends in Cognitive
+
+     Sciences, 7(10), 454–459.
+
+Evans, de Challemaison, B., & Cox, D. N. (2010). Consumers’ ratings of the natural and unnatural
+
+     qualities of foods. Appetite, 54(3), 557–563.
+
+Fellows, P. (2004). Processed foods for improved livelihoods. FAO Diversification Booklet (FAO).
+                                                 46
+
+===== PAGE 47 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+FIBL. (2017). The World of Organic Agriculture. (H. Willer & J. Lernoud, Eds.). Frick,
+
+     Switzerland.
+
+Franchi, M. (2012). Food choice: beyond the chemical content. International Journal of Food
+
+     Sciences and Nutrition, 63(sup1), 17–28.
+
+Frewer, L. J., Bergmann, K., Brennan, M., Lion, R., Meertens, R., Rowe, G., … Vereijken, C.
+
+     (2011). Consumer response to novel agri-food technologies: Implications for predicting
+
+     consumer acceptance of emerging food technologies. Trends in Food Science & Technology,
+
+     22(8), 442–456.
+
+Frewer, L. J., & van Trijp, H. (2007). Understanding Consumers of Food Products. Cambridge,
+
+     UK: Woodhead Publishing, CRC Press.
+
+Gao, Z., & Schroeder, T. C. (2009). Effects of Label Information on Consumer Willingness-to-Pay
+
+     for Food Attributes. American Journal of Agricultural Economics, 91(3), 795–809. Gelski, J.
+
+     (2016). Consumers not clear on clean label definition. Food Business News. Retrieved from
+
+     http://www.foodbusinessnews.net/articles/news_home/Consumer_Trends/2016/02/Consumers
+
+     _not_clear_on_clean_l.aspx?ID=%7B7B7BE175-2049-4403-B1D9-
+
+     A1CB8F76CFBB%7D&cck=1
+
+Gilles Laurent, J.-N. K. (1985). Measuring Consumer Involvement Profiles. Journal of Marketing
+
+     Research, 22(1), 41–53.
+
+Gineikiene, J., Kiudyte, J., & Degutis, M. (2017). Functional, organic or conventional? Food
+
+     choices of health conscious and skeptical consumers. Baltic Journal of Management, 12(2),
+
+     139–152.
+
+Godfray, H. C. J., Beddington, J. R., Crute, I. R., Haddad, L., Lawrence, D., Muir, J. F., …
+
+                                                 47
+
+===== PAGE 48 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+    Toulmin, C. (2010). Food Security: The Challenge of Feeding 9 Billion People. Science,
+
+    327(5967), 812–818.
+
+Grunert, K. G. (2013). Trends in food choice and nutrition. In M. Klopčič, A. Kuipers, & J.-F.
+
+    Hocquette (Eds.), Consumer attitudes to food quality products: Emphasis on Southern Europe
+
+    (pp. 23–30). Wageningen: Wageningen Academic Publishers.
+
+Grunert, K. G., Bredahl, L., & Scholderer, J. (2003). Four questions on European consumers’
+
+    attitudes toward the use of genetic modification in food production. Innovative Food Science
+
+    & Emerging Technologies, 4(4), 435–445.
+
+Grzybowska-Brzezinska, M., Grzywinska-Rapca, M., Zuchowski, I., & Borawski, P. (2017).
+
+    Organic Food Attributes Determing Consumer Choices. European Research Studies Journal,
+
+    0(2A), 164–176.
+
+Haen, D. (2014). The Paradox of E-Numbers: Ethical, Aesthetic, and Cultural Concerns in the
+
+    Dutch Discourse on Food Additives. Journal of Agricultural and Environmental Ethics, 27(1),
+
+    27–42.
+
+Hasimu, H., Marchesini, S., & Canavari, M. (2017). A concept mapping study on organic food
+
+    consumers in Shanghai, China. Appetite, 108, 191–202.
+
+Hauser, M., Jonas, K., & Riemann, R. (2011). Measuring salient food attitudes and food-related
+
+    values. An elaborated, conflicting and interdependent system. Appetite, 57(2), 329–338.
+
+Hemmerling, S., Asioli, D., & Spiller, A. (2016). Core Organic Taste: Preferences for Naturalness-
+
+    Related Sensory Attributes of Organic Food Among European Consumers. Journal of Food
+
+    Products Marketing, 22(7), 824–850.
+
+Hemmerling, S., Canavari, M., & Spiller, A. (2016). Preference for naturalness of European organic
+
+                                                48
+
+===== PAGE 49 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+    consumers. British Food Journal, 118(9), 2287–2307.
+
+Hemmerling, S., Hamm, U., & Spiller, A. (2015). Consumption behaviour regarding organic food
+
+    from a marketing perspective—a literature review. Organic Agriculture, 5(4), 277–313.
+
+Hemmerling, S., Obermowe, T., Canavari, M., Sidali, K. L., Stolz, H., & Spiller, A. (2013).
+
+    Organic food labels as a signal of sensory quality---insights from a cross-cultural consumer
+
+    survey. Organic Agriculture, 3(1), 57–69.
+
+Higgins, T. E. (2005). Value From Regulatory Fit. Current Directions in Psychological Science, 14,
+
+    209–213.
+
+Hoyer, W. D. (1984). An Examination of Consumer Decision Making for a Common Repeat
+
+    Purchase Product. Journal of Consumer Research, 11(3), 822–829.
+
+Husic-Mehmedovic, M., Arslanagic-Kalajdzic, M., Kadic-Maglajlic, S., & Vajnberger, Z. (2017).
+
+    Live, Eat, Love: life equilibrium as a driver of organic food purchase. British Food Journal,
+
+    119(7), 1410–1422.
+
+IFOAM. (2015). Into the future. Consolidated Annual Report.
+
+    http://www.ifoam.bio/sites/default/files/annual_report_2015_0.pdf
+
+Ingredion. (2014). The clean label guide in Europe. Retrieved from
+
+    http://www.alimentatec.com/wp-content/uploads/2014/10/The-Clean-Label-Guide-To-
+
+    Europe.pdf
+
+Janssen, M., & Hamm, U. (2012a). Product labelling in the market for organic food: Consumer
+
+    preferences and willingness-to-pay for different organic certification logos. Food Quality and
+
+    Preference, 25(1), 9–22.
+
+Janssen, M., & Hamm, U. (2012b). The mandatory EU logo for organic food: consumer
+                                                49
+
+===== PAGE 50 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+     perceptions. British Food Journal, 114(3), 335–352.
+
+Joppen, L. (2006). Taking out the chemistry. Food Engineering & Ingredients, 31(2), 38.
+
+Kang, H.-J., Kim, S., Lee, G., Lim, H. S., Yun, S. S., & Kim, J.-W. (2017). Perception Gaps on
+
+     Food Additives among Various Groups in Korea: Food Experts, Teachers, Nutrition Teachers,
+
+     Nongovernmental Organization Members, and General Consumers. Journal of Food
+
+     Protection, 80(6), 1015–1021.
+
+Katz, B., & Williams, L. A. (2011). Cleaning up processed foods. Food Technology, 65(12), 33.
+
+Kearney, J. (2010). Food consumption trends and drivers. Philosophical Transactions of the Royal
+
+     Society B: Biological Sciences, 365(1554), 2793–2807.
+
+Kitchen, J. P., Kerr, G., Schultz, D., McColl, R., & Pals, H. (2014). The elaboration likelihood
+
+     model: review, critique and research agenda. European Journal of Marketing, 48(11/12),
+
+     2033–2050.
+
+Knowles, T., Moody, R., & McEachern, M. G. (2007). European food scares and their impact on
+
+     EU food policy. British Food Journal, 109(1), 43–67.
+
+Knowx, S., & Walker, D. (2003). Empirical developments in the measurement of involvement,
+
+     brand loyalty and their relationship in grocery markets. Journal of Strategic Marketing, 11(4),
+
+     271–286.
+
+Köster, E. P. (2009). Diversity in the determinants of food choice: A psychological perspective.
+
+     Food Quality and Preference, 20(2), 70–82.
+
+Kriwy, P., & Mecking, R.-A. (2012). Health and environmental consciousness, costs of behaviour
+
+     and the purchase of organic food. International Journal of Consumer Studies, 36(1), 30–37.
+
+Krovetz, H. (2016). The Effect of Water-Use Labeling and Information on Consumer Valuation for
+                                               50
+
+===== PAGE 51 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+     WaterSustainable Food Choices in California. University of California at Berkeley, Berkeley,
+
+     California.
+
+Kubota, S., Sawano, H., & Kono, H. (2017). Japanese consumer preferences for additive-free wine
+
+     labeling. Agricultural and Food Economics, 5(1), 4.
+
+Lachat, C., Nago, E., Verstraeten, R., Roberfroid, D., Van Camp, J., & Kolsteren, P. (2012). Eating
+
+     out of home and its association with dietary intake: a systematic review of the evidence.
+
+     Obesity Reviews : An Official Journal of the International Association for the Study of Obesity,
+
+     13(4), 329–46.
+
+Lee, W. J., Shimizu, M., Kniffin, K. M., & Wansink, B. (2013). You taste what you see: Do organic
+
+     labels bias taste perceptions? Food Quality and Preference, 29(1), 33–39.
+
+Li, M., & Chapman, G. B. (2012). Why Do People Like Natural? Instrumental and Ideational Bases
+
+     for the Naturalness Preference. Journal of Applied Social Psychology, 42(12), 2859–2878.
+
+Liang, R.-D. (2016). Predicting intentions to purchase organic food: the moderating effects of
+
+     organic food prices. British Food Journal, 118(1), 183–199.
+
+Liu, R., Hooker, N. H., Parasidis, E., & Simons, C. T. (2017). A Natural Experiment: Using
+
+     Immersive Technologies to Study the Impact of “All-Natural” Labeling on Perceived Food
+
+     Quality, Nutritional Content, and Liking. Journal of Food Science, 82(3), 825–833.
+
+Lofstedt, R. E. (2008). Risk Communication, Media Amplification and the Aspartame Scare. Risk
+
+     Management, 10(4), 257–284.
+
+Lofstedt, R. E. (2009). Risk communication and the FSA: the food colourings case. Journal of Risk
+
+     Research, 12(5), 537–557.
+
+Lucová, M., Hojerová, J., Pažoureková, S., & Klimová, Z. (2013). Absorption of triphenylmethane
+                                                 51
+
+===== PAGE 52 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+     dyes Brilliant Blue and Patent Blue through intact skin, shaven skin and lingual mucosa from
+
+     daily life products. Food and Chemical Toxicology, 52, 19–27.
+
+Lunardo, R., & Saintives, C. (2013). The effect of naturalness claims on perceptions of food
+
+     product naturalness in the point of purchase. Journal of Retailing and Consumer Services,
+
+     20(6), 529–537.
+
+Lupton, D. A. (2005). Lay discourses and beliefs related to food risks: an Australian perspective.
+
+     Sociology of Health & Illness, 27(4), 448–467.
+
+Lusk, J. L. (2016). Unnaturally Delicious: How Science and Technology are Serving Up Super
+
+     Foods to Save the World. New York: St. Martin’s Press.
+
+MacFie, H. J. H. (2007). Consumer-Led Food Product Development. (MacFie H, Ed.). Cambridge:
+
+     Woodhead Publishing Limitated.
+
+Magnier, L., Schoormans, J., & Mugge, R. (2016). Judging a product by its cover: Packaging
+
+     sustainability and perceptions of quality in food products. Food Quality and Preference, 53,
+
+     132–142.
+
+Marian, L., Chrysochou, P., Krystallis, A., & Thøgersen, J. (2014). The role of price as a product
+
+     attribute in the organic food context: An exploration based on actual purchase data. Food
+
+     Quality and Preference, 37, 52–60.
+
+Martins, N., Roriz, C. L., Morales, P., Barros, L., & Ferreira, I. C. F. R. (2016). Food colorants:
+
+     Challenges, opportunities and current desires of agro-industries to ensure consumer
+
+     expectations and regulatory practices. Trends in Food Science & Technology, 52, 1–15.
+
+McFadden, J. R., & Huffman, W. E. (2017). Willingness-to-pay for natural, organic, and
+
+     conventional foods: The effects of information and meaningful labels. Food Policy, 68, 214–
+
+                                                  52
+
+===== PAGE 53 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+    232.
+
+Meneses, Y., Cannon, K. J., & Flores, R. A. (2014). Keys to understanding and addressing
+
+    consumer perceptions and concerns about processed foods. Cereals Foods Worlds, 59(3), 141–
+
+    146.
+
+Mick, D. G., Broniarczyk, S. M., & Haidt, J. (2004). Choose, Choose, Choose, Choose, Choose,
+
+    Choose, Choose: Emerging and Prospective Research on the Deleterious Effects of Living in
+
+    Consumer Hyperchoice. Journal of Business Ethics, 52(2), 207–211.
+
+Mintel. (2015). Mintel serves up 5 key food and drink trends for 2015.
+
+Mørk, T., Bech-Larsen, T., Grunert, K. G., & Tsalis, G. (2017). Determinants of citizen acceptance
+
+    of environmental policy regulating consumption in public settings: Organic food in public
+
+    institutions. Journal of Cleaner Production, 148, 407–414.
+
+Mosby, I. (2009). “That Won-Ton Soup Headache”: The Chinese Restaurant Syndrome, MSG and
+
+    the Making of American Food, 1968-1980. Social History of Medicine, 22(1), 133–151.
+
+Moskowitz, H. R., Beckley, J. H., & Resurreccion, A. V. A. (2012). So What are the Practical
+
+    Considerations in Actually Running a Test? What do I need to know? What does the Rest of
+
+    the Company Need to Know? In Sensory and Consumer Research in Food Product Design
+
+    and Development (pp. 321–363). Wiley-Blackwell.
+
+Nuttavuthisit, K., & Thøgersen, J. (2017). The Importance of Consumer Trust for the Emergence of
+
+    a Market for Green Products: The Case of Organic Food. Journal of Business Ethics, 140(2),
+
+    323–337.
+
+Osborne, S. (2015). Labelling relating to natural ingredients and additives. Advances in Food and
+
+    Beverage Labelling: Information and Regulations, 207–221.
+
+                                                53
+
+===== PAGE 54 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+Pagliarini, E., Laureati, M., & Gaeta, D. (2013). Sensory descriptors, hedonic perception and
+
+     consumer’s attitudes to Sangiovese red wine deriving from organically and conventionally
+
+     grown grapes. Frontiers in Psychology, 4, 896.
+
+Paul, J., & Rana, J. (2012). Consumer behavior and purchase intention for organic food. Journal of
+
+     Consumer Marketing, 29(6), 412–422.
+
+Petrescu, D. C., Petrescu-Mag, R. M., Burny, P., & Azadi, H. (2017). A new wave in Romania:
+
+     organic food. Consumers’ motivations, perceptions, and habits. Agroecology and Sustainable
+
+     Food Systems, 41(1), 46–75.
+
+Petty, R. E., Cacioppo, J. T., & Schumann, D. (1983). Central and Peripheral Routes to Advertising
+
+     Effectiveness: The Moderating Role of Involvement. Journal of Consumer Research, 10, 135–
+
+     146.
+
+Pino, G., Peluso, A. M., & Guido, G. (2012). Determinants of Regular and Occasional Consumers’
+
+     Intentions to Buy Organic Food. Journal of Consumer Affairs, 46(1), 157–169.
+
+Pollan, M. (2008). In defence of food. An eaters’ manifesto. The Penguin Press.
+
+Princen, T. (1997). The shading and distancing of commerce: When internalization is not enough.
+
+     Ecological Economics, 20(3), 235–253. Rahnama, H. (2017). Effect of Consumption Values
+
+     on Women’s Choice Behavior Toward Organic Foods: The Case of Organic Yogurt in Iran.
+
+     Journal of Food Products Marketing, 23(2), 144–166.
+
+Rödiger, M., & Hamm, U. (2015). How are organic food prices affecting consumer behaviour? A
+
+     review. Food Quality and Preference, 43, 10–20.
+
+Rollin, F., Kennedy, J., & Wills, J. (2011). Consumers and new food technologies. In New
+
+     challenges in food preservation.Processing – Safety – Sustainability EFFoST 2009 Annual
+
+                                                54
+
+===== PAGE 55 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+     Meeting, (pp. 99–111).
+
+Rozin, P. (2006). Naturalness judgments by lay Americans: Process dominates content in
+
+     judgments of food or water acceptability and naturalness. Judgment and Decision Making,
+
+     1(2), 91–97.
+
+Rozin, P., Fischler, C., & Shields-Argelès, C. (2012a). European and American perspectives on the
+
+     meaning of natural. Appetite, 59(2), 448–455.
+
+Rozin, P., Spranca, M., Krieger, Z., Neuhaus, R., Surillo, D., Swerdlin, A., & Wood, K. (2004).
+
+     Preference for natural: instrumental and ideational/moral motivations, and the contrast
+
+     between foods and medicines. Appetite, 43(2), 147–154.
+
+Saltmarsh, M. (2013). Essential guide to food additives (4th ed.). Cambridge, UK: RSC: Publishing.
+
+Samant, S. S., & Seo, H.-S. (2016). Quality perception and acceptability of chicken breast meat
+
+     labeled with sustainability claims vary as a function of consumers’ label-understanding level.
+
+     Food Quality and Preference, 49, 151–160.
+
+Schiffman, L. G., & Wisenblit, J. L. (2015). Consumer behavior. (Pearson, Ed.) (11th ed.). Boston,
+
+     MA.
+
+Schleenbecker, R., & Hamm, U. (2013). Consumers’ perception of organic product characteristics.
+
+     A review. Appetite, 71, 420–429.
+
+Schroeder, J. (2016). Study finds consumers don’t understand ‘clean labels.”. Food Safety Quality
+
+     & Safety. http://www.foodqualityandsafety.com/article/15947/
+
+Schuldt, J. P., & Hannahan, M. (2013). When good deeds leave a bad taste. Negative inferences
+
+     from ethical food claims. Appetite, 62, 76–83.
+
+Shashi, Kottala, S. Y., & Singh, R. (2015). A review of sustainability, deterrents, personal values,
+                                                 55
+
+===== PAGE 56 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+     attitudes and purchase intentions in the organic food supply chain. Pacific Science Review B:
+
+     Humanities and Social Sciences, 1(3), 114–123.
+
+Shim, S. M., Seo, S. H., Lee, Y., Moon, G. I., Kim, M. S., & Park, J. H. (2011). Consumers’
+
+     knowledge and safety perceptions of food additives: Evaluation on the effectiveness of
+
+     transmitting information on preservatives. Food Control, 22(7), 1054–1060.
+
+Siegrist, M., & Sütterlin, B. (2017). Importance of perceived naturalness for acceptance of food
+
+     additives and cultured meat. Appetite, 113, 320–326.
+
+Siipi, H. (2013). Is Natural Food Healthy? Journal of Agricultural and Environmental Ethics, 26(4),
+
+     797–812.
+
+Silva, A. R. de A., Bioto, A. S., Efraim, P., & Queiroz, G. de C. (2017). Impact of sustainability
+
+     labeling in the perception of sensory quality and purchase intention of chocolate consumers.
+
+     Journal of Cleaner Production, 141, 11–21.
+
+Sloan, A. E. (1999). Top ten trends to watch and work on for the millennium. Food Technology,
+
+     53(80), 40–60.
+
+Stern, T., Haas, R., & Meixner, O. (2009). Consumer acceptance of wood‐based food additives.
+
+     British Food Journal, 111(2), 179–195.
+
+Swientik, B. (2017). Clean label. Retrieved from http://www.ift.org/General Search.aspx?s=Food
+
+     Technology&k=%22clean label%22#q=%22clean
+
+     label%22&sort=relevancy&f:@fiftscope90933subl_coveofacets_0=[Food
+
+     Technology]&f:@fiftyear90933subl_coveofacets_3=[2016,2015,2014,2013,2012,2011,2010,2
+
+     009,2008,2007,200
+
+Szucs, V., Szabo, E., & Bana. (2014). Factors affecting the avoidance of food additives in Hungary.
+
+                                                 56
+
+===== PAGE 57 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+    Journal of Hygienic Engineering and Design, 8, 61–66.
+
+Tanaka, Y., Kitayama, M., Arai, S., & Matsushima, Y. (2015). Major psychological factors
+
+    affecting consumer’s acceptance of food additives: Validity of a new psychological model.
+
+    British Food Journal, 117(11), 2788–2800.
+
+Tarnavöglyi, G. (2003). Analysis of Consumers´ Attitudes Towards Food Additives Using Focus
+
+    Group Survey. Agriculturae Conspectus Scientificus, 68(3), 193–196.
+
+Thøgersen, J. (2017). Sustainable food consumption in the nexus between national context and
+
+    private lifestyle: A multi-level study. Food Quality and Preference, 55, 16–25.
+
+Thøgersen, J., de Barcellos, M. D., Perin, M. G., & Zhou, Y. (2015). Consumer buying motives and
+
+    attitudes towards organic food in two emerging markets: China and Brazil. International
+
+    Marketing Review, 32(3/4), 389–413.
+
+Thompson, D. B. (2011). Natural Food and the Pastoral: A Sentimental Notion? Journal of
+
+    Agricultural and Environmental Ethics, 24(2), 165–194.
+
+van Kleef, E., van Trijp, H. C. M., & Luning, P. (2005). Functional foods: health claim-food
+
+    product compatibility and the impact of health claim framing on consumer evaluation.
+
+    Appetite, 44(3), 299–308.
+
+Van Kleef, E., Van Trijp, H. C. M., & Luning, P. (2005). Consumer research in the early stages of
+
+    new product development: a critical review of methods and techniques. Food Quality and
+
+    Preference, 16(3), 181–201.
+
+Van Loo, E., Caputo, V., Jr., R. M. N., Seo, H.-S., Zhang, B., & Verbeke, W. (2015). Sustainability
+
+    labels on coffee: Consumer preferences, willingness-to-pay and visual attention to attributes.
+
+    Ecological Economics, 118, 215–225.
+
+                                                57
+
+===== PAGE 58 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+Van Loo, E., Caputo, V., Nayga, R., & Verbeke, W. (2014). Consumers’ valuation of sustainability
+
+    labels on meat. Food Policy, 49, Part 1, 137–150.
+
+Van Loo, E. J., Caputo, V., Nayga, R. M., Meullenet, J.-F., & Ricke, S. C. (2011). Consumers’
+
+    willingness to pay for organic chicken breast: Evidence from choice experiment. Food Quality
+
+    and Preference, 22(7), 603–613.
+
+Van Loo, Diem, M. N. H., Pieniak, Z., & Verbeke, W. (2013). Consumer attitudes, knowledge, and
+
+    consumption of organic yogurt. Journal of Dairy Science, 96(4), 2118–2129.
+
+Varela, P., & Fiszman, S. M. (2013). Exploring consumers’ knowledge and perceptions of
+
+    hydrocolloids used as food additives and ingredients. Food Hydrocolloids, 30(1), 477–484.
+
+Vecchio, R., & Annunziata, A. (2015). Willingness-to-pay for sustainability-labelled chocolate: an
+
+    experimental auction approach. Journal of Cleaner Production, 86, 335–342.
+
+Vecchio, R., Annunziata, A., Krystallis, A., & Pomarici, E. (2015). Consumers’ literacy and
+
+    preferences for sustainability labels: an exploratory analysis on Italian young adults.
+
+    International Journal of Globalisation and Small Business, 7(3–4), 221–233.
+
+Vecchio, R., Van Loo, E. J., & Annunziata, A. (2016). Consumers’ willingness to pay for
+
+    conventional, organic and functional yogurt: evidence from experimental auctions.
+
+    International Journal of Consumer Studies, 40(3), 368–378.
+
+Vlaeminck, P., Jiang, T., & Vranken, L. (2014). Food labeling and eco-friendly consumption:
+
+    Experimental evidence from a Belgian supermarket. Ecological Economics, 108, 180–190.
+
+Wansink, B., Tal, A., & Brumberg, A. (2014). Ingredient-based food fears and avoidance:
+
+    Antecedents and antidotes. Food Quality and Preference, 38, 40–48.
+
+Weaver, C. M., Dwyer, J., Fulgoni, V. L., King, J. C., Leveille, G. A., MacDonald, R. S., …
+                                                 58
+
+===== PAGE 59 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+     Schnakenberg, D. (2014). Processed foods: contributions to nutrition. The American Journal of
+
+     Clinical Nutrition, 99(6), 1525–42.
+
+Weis, T. (2007). The Global Food Economy: The Battle for the Future of Farming. Canada:
+
+     Fernowood Publishing.
+
+Wu, L., Zhong, Y., Shan, L., & Qin, W. (2013). Public risk perception of food additives and food
+
+     scares. The case in Suzhou, China. Appetite, 70, 90–98.
+
+Zagata, L. (2012). Consumers’ beliefs and behavioural intentions towards organic food. Evidence
+
+     from the Czech Republic. Appetite, 59(1), 81–89.
+
+Zander, K. (2014). A Green Leaf!? Consumers’ Knowledge and Perception of the Mandatory EU
+
+     Organic Logo. In Proceedings of the 4th International European Forum on System Dynamics
+
+     and Innovation in Food Networks (pp. 220–228). Innsbruck, Austria.
+
+Zander, K., Padel, S., & Zanoli, R. (2015). EU organic logo and its perception by consumers.
+
+     British Food Journal, 117(5), 1506–1526.
+
+Zanoli, R., Scarpa, R., Napolitano, F., Piasentier, E., Naspetti, S., & Bruschi, V. (2013). Organic
+
+     label as an identifier of environmentally related quality: A consumer choice experiment on
+
+     beef in Italy. Renewable Agriculture and Food Systems, 28(1), 70–79.
+
+Zink, D. L. (1997). The impact of consumer demands and trends on food processing. Emerging
+
+     Infectious Diseases, 3(4), 467–469.
+
+
+
+
+                                                  59
+
+===== PAGE 60 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+
+
+
+APPENDIX A:
+
+
+
+
+Table A.1 – Selected papers concerning the factors that drive consumers’ perceptions and
+
+preferences for organic labeled food products.
+
+                               <<Please, place here Table A.1>>
+
+
+Table A.2 – Selected papers concerning the factors that drive consumers’ perceptions and
+
+preferences for natural food products.
+
+                               <<Please, place here Table A.2>>
+
+
+
+
+                                               60
+
+===== PAGE 61 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+Table A.3 – Selected papers concerning the factors that drive consumers’ perceptions and
+
+preferences for food “free from artificial additives/ingredients”.
+
+                               <<Please, place here Table A.3>>
+
+
+
+
+                                               61
+
+===== PAGE 62 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+Figure 1 – A proposed definition and concept of ‘clean label’
+
+
+
+
+    ‘Clean label’ in a broad sense:                                  ‘Clean label’ in a strict sense:
+    front of pack (FOP) textual or visual claims,                    back of pack (BOP) ingredient list and
+    certification logos, simple FOP labels,                          nutrition facts panel, characterized by being
+    categories natural and organic, ‘free-from’                      short, simple, no artificial ingredients, not
+    (e.g. preservatives / additives)                                 ‘chemical-sounding’, with ‘kitchen cupboard
+                                                                     ingredients’ that are expected and familiar
+
+    => ‘Clean label’ (product) expected to be                        => ‘Clean label’ (that is: ingredient
+    ‘clean’ by assumption and through inference                      information) found ‘clean’ on inspection
+
+
+
+                                                             More likely central route processing of information
+
+    More likely peripheral route processing of information
+
+
+
+
+                                                             62
+
+===== PAGE 63 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+
+
+
+                                               63
+
+===== PAGE 64 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+
+
+
+                                               64
+
+===== PAGE 65 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+
+
+
+                                               65
+
+===== PAGE 66 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+
+
+
+                                               66
+
+===== PAGE 67 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+Table A.1 – Selected papers concerning the factors that drive consumers’ perceptions and
+
+preferences for organic labeled food products.
+
+N°           AUTHORS               YEAR   COUNTRY                           MAIN FINDINGS
+
+1    Aertsens, J., Verbeke, W.,    2009       n.a.*        Organic food consumption decisions can be
+
+     Mondelaers, K., & Van                                 explained by relating attributes of organic food
+
+     Huylenbroeck, G.                                      products with more abstract values such as security,
+
+                                                           universalism,     benevolence,        stimulation,   self-
+
+                                                           direction and conformity.
+
+2.   Agovino, M., Crociata, A.,    2017       Italy        Participation in cultural activities has a positive
+
+     Quaglione, D., Sacco, P., &                           impact on the tendency to purchase organic food
+
+     Sarra, A.                                             products, to an extent that depends on the social
+
+                                                           orientation of cultural activities.
+
+3.   Asioli, D., Canavari, M.,     2014       Italy        Flavor and odor are the most important attributes in
+
+     Pignatti, E., Obermowe, T.,           Germany         driving organic consumers' preferences.
+
+     Sidali, K. L., Vogt, C., &
+
+     Spiller, A.
+
+4.   Aschemann-Witzel, J.,         2013    Germany         Occasional organic buyers prefer organic food with
+
+     Maroscheck, N., & Hamm,                               health claims.
+
+     U.
+
+5.   Aschemann‐W itzel, J. and     2014    Denmark         Price represents a core barrier for young consumers
+
+     Niebuhr Aagaard, E. M.                                for organic food purchases, but only temporary.
+
+                                                           This is because consumers argue that they postpone
+
+                                                           organic purchases to a later stage in life.
+
+6.   Aschemann‐W itzel, J. &       2017       n.a.*        Price is perceived as a main barrier to purchase
+
+     Zielke, S.                                            organic foods.
+
+7.   Bernard, J.C. & Liu, Y.       2017   United States    Consumers beliefs about taste of organic and local
+
+                                                           food products play a stronger role in taste
+
+
+                                                      67
+
+===== PAGE 68 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+                                                             perceptions than actual taste.
+
+8.    Bi, X., Gao, Z., House, L.     2015    United States   Consumers’         willingness       to     pay     for   sensory
+
+      A., & Hausmann, D. S.                                  attributes is negative for juice labelled as organic.
+
+9.    Bravo, P. C., Cordts, A.,      2013     Germany        Altruistic motives, such as animal welfare and fair
+
+      Schulze, B., and Spiller, A.                           trade,     are    strong     predictors        of      consumers’
+
+                                                             purchasing of organic food.
+
+10.   Bruschi, V., Shershneva,       2015       Russia       Organic food consumption is mainly motivated by
+
+      K., Dolgopolova, I.,                                   personal        well-being     and    less        by   social   or
+
+      Canavari, M., & Teuber, R.                             environmental concerns issues.
+
+                                                             Despite the high price for organic food, it is not
+
+                                                             seen as an absolute barrier to purchase.
+
+11.   Bryła, P.                      2016       Poland       Consumers consider healthiness and high quality as
+
+                                                             the most important characteristics of organic food
+
+                                                             products.
+
+12.   de-Magistris, T., & Gracia,    2016       Spain        Consumers are willing to pay higher prices for
+
+      A.                                                     organic labelled and locally produced almonds.
+
+13.   Dimitri, C., & Dettmann, R.    2012    United States   Consumer education level has a strong effect on the
+
+      L.                                                     likelihood of buying organic fruit and vegetables.
+
+14.   Drexler, D., Fiala, J.,        2017   Czech Republic   Organic product labelling plays a central role in
+
+      Havlíčková, A., Potůčková,                             determining consumer decision-making.
+
+      A., & Souček, M.
+
+15.   Dumortier, J., Evans, K. S.,   2017    United States   Organic food purchases are determined by health,
+
+      Grebitus, C., & Martin, P.                             nutrition, and taste. General trust and trust in media
+
+      A.                                                     are      also    significant    in        influencing     organic
+
+                                                             purchases.
+
+16.   Ellison, B., Duff, B. R.,      2016    United States   Retail outlets are a crucial factor in influencing
+
+      Wang, Z., & White, T. B.                               consumers perception of organic food products,
+
+
+
+                                                     68
+
+===== PAGE 69 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+                                                                influencing both expected taste and trust in brand.
+
+17.   Gineikiene, J., Kiudyte, J.,    2017       Lithuania      Consumers are skeptical about the health claims in
+
+      & Degutis, M.                                             terms of perceived healthiness of both organic and
+
+                                                                conventional products.
+
+18.   Grzybowska-Brzezinska,          2017        Poland        The most important technological attribute of
+
+      M., Grzywinska-Rapca, M.,                                 organic food is the production method, which
+
+      Zuchowski, I., & Bórawski,                                ensures that the food is healthy, contains no
+
+      P.                                                        chemical additives and has good, natural taste.
+
+19.   Hasimu, H., Marchesini, S.,     2017        China         Consumers perceive organic food as healthy and
+
+      & Canavari, M.                                            safe.
+
+20.   Hemmerling, S., Asioli, D.,     2016         Italy,       The “Core Organic Taste - COT” is not applicable
+
+      & Spiller, A.                          Germany, Poland,   for all European countries. However, for most
+
+                                             the Netherlands,   countries only single elements seem to be relevant.
+
+                                             Switzerland, and
+
+                                                  France
+
+21.   Hemmerling, S., Canavari,       2016   Germany, France,   Organic consumers reveal a positive attitude
+
+      M. and Spiller, A.                       Italy, Poland,   towards natural food products, but a negative
+
+                                             Switzerland, and   sensory preference for the more natural yoghurt.
+
+                                             The Netherlands.
+
+22.   Hemmerling, S., Hamm, U.,       2015         n.a.*        Organic food is perceived as more expensive than
+
+      and Spiller, A.                                           its conventional counterpart. However, literature
+
+                                                                has not yet fully addressed consumers’ price
+
+                                                                knowledge and price processing.
+
+23.   Hemmerling, S.,                 2013   Germany, France,   The presence of an organic label may lead to an
+
+      Obermowe, T., Canavari,                  Italy, Poland,   enhancement of taste perception among consumers.
+
+      M., Sidali, K. L., Stolz, H.,          Switzerland, and
+
+      & Spiller, A.                           the Netherlands
+
+
+
+                                                           69
+
+===== PAGE 70 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+24.   Husic-Mehmedovic, M.,          2017       European       Life equilibrium, in terms of more balanced and
+
+      Arslanagic-Kalajdzic, M.,                developing      caring approach towards one’s own life, has a
+
+      Kadic-Maglajlic, S., &                    countries      strong, positive effect on perceived intrinsic organic
+
+      Vajnberger, Z.                                           food quality attributes.
+
+25.   Janssen, M. and Hamm, U.       2012    Czech Republic,   Trust in the underlying production standards of EU
+
+                                                Denmark,       certification scheme and the inspection system was
+
+                                             Germany, Italy    not very pronounced among consumers.
+
+                                               and the UK
+
+26.   Janssen, M. and Hamm, U.       2012b       Czech         Only consumers trust the generic labelling with the
+
+                                                Republic,      prefix ‘organic’ without a certification logo. For
+
+                                                Denmark,       almost the all tested organic certification logos, the
+
+                                             Germany, Italy,   WTP was significantly higher than for the generic
+
+                                               Switzerland     labeling.
+
+                                               and United
+
+                                               Kingdom.
+
+27.   Kriwy, P., & Mecking, R.       2012       Germany        Health consciousness has a stronger association
+
+      A.                                                       with organic food consumption.
+
+28.   Lee, W. C. J., Shimizu, M.,    2013     United States    Consumers perceive food products with organic
+
+      Kniffin, K. M., & Wansink,                               labels to have larger nutritional value and lower
+
+      B.                                                       calories content than those without the organic
+
+                                                               label.
+
+29.   Liang, R. D.                   2016        Taiwan        Larger consumers’ awareness of organic food
+
+                                                               certification labeling enhances the sense of trust in
+
+                                                               organic food labeling.
+
+30.   Marian, L., Chrysochou, P.,    2014       Denmark        High price of organic food products determines less
+
+      Krystallis, A., & Thøgersen,                             repeated purchases than low or medium price.
+
+      J.
+
+
+
+                                                       70
+
+===== PAGE 71 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+31.   Mørk, T., Bech-Larsen, T.,      2017   Denmark        Collectivistic values affect consumers’ attitudes
+
+      Grunert, K. G., & Tsalis, G.                          toward       organic      products        also    in    the
+
+                                                            institutional/public setting.
+
+32.   Nuttavuthisit, K. and           2017   Thailand.      Mistrust in the control system and in the
+
+      Thøgersen, J.                                         authenticity of food sold as organic has a significant
+
+                                                            negative impact on self-reported buying behavior.
+
+33.   Pagliarini, E., Laureati, M.,   2013     Italy        Organic      and       conventional       wines    differed
+
+      & Gaeta, D.                                           marginally in the intensity of sensory descriptors
+
+                                                            and these differences did not influence consumers
+
+                                                            liking.
+
+34.   Paul, J. and Rana, J.           2012     India        Health,   availability     and        education   positively
+
+                                                            influence consumer's attitude towards buying
+
+                                                            organic food products.
+
+35.   Petrescu, D. C., Petrescu-      2017   Romania        Consumers perceive farmers’ markets and self-
+
+      Mag, R. M., Burny, P., &                              production      products         as      main     purchase
+
+      Azadi, H.                                             sources/locations of uncertified organic food.
+
+36.   Pino, G., Peluso, A., and       2012     Italy        Food safety and health concerns influence the
+
+      Guido, G.                                             purchase intentions of occasional consumers.
+
+                                                            However, ethical motivations affect the purchase
+
+                                                            intentions of the regular buyers.
+
+37.   Rahnama, H.                     2017     Iran         For women, social and emotional value do not have
+
+                                                            a significant impact on organic food choice.
+
+38.   Rödiger M., & Hamm, U.          2015     n.a.*        Organic food prices are a major barrier to purchase,
+
+                                                            however the organic market volume is growing and
+
+                                                            results for the price–quality relationship indicate
+
+                                                            reasonable opportunities for future organic markets
+
+                                                            in the light of trends in consumer attitudes.
+
+
+
+                                                       71
+
+===== PAGE 72 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+39.   Samant, S. S., & Seo, H. S.    2016   United States    Sustainability-related label claims (e.g. organic),
+
+                                                             increase quality perception and acceptability of
+
+                                                             chicken breast meat only when consumers are well
+
+                                                             informed about the label claims.
+
+40.   Schleenbecker, R. and          2013       n.a.*        Consumers consider healthier the organic products
+
+      Hamm, U.                                               carrying health claims.
+
+41.   Schuldt, J. P., & Hannahan,    2013   United States    Consumers rate organic foods as less tasty than
+
+      M.                                                     conventional ones.
+
+42.   Kottala, S. Y., & Singh, R.    2015       n.a.*        Sustainability   issues   such     as    biodiversity
+
+                                                             preservation, natural resources conservation and
+
+                                                             lower energy consumption, play a key role in
+
+                                                             influencing consumers’ attitudes and behavior
+
+                                                             towards organic foods.
+
+43.   Silva, A. R., Bioto, A. S.,    2017      Brazil        When the quality and sustainability labels (e.g.
+
+      Efraim, P., & de Castilho                              organic) were communicated. consumers increase
+
+      Queiroz, G.                                            sensory scores and purchase intention.
+
+44.   Thøgersen, J., de Barcellos,   2015      Brazil        Environmental friendliness and universalism
+
+      M. D., Perin, M. G., &                   China         values are strong motivations to buy organic
+
+      Zhou, Y.                                               vegetables.
+
+45.   Van Loo, E. J., Caputo, V.,    2011   United States    Consumer WTP for organic chicken breast differs
+
+      Nayga, R. M., Meullenet, J.                            between demographic groups as well as among
+
+      F., & Ricke, S. C.                                     consumers with different purchasing frequency of
+
+                                                             organic meat products.
+
+46.   Van Loo, E. J., Caputo, V.,    2014     Belgium        Consumers prefer the national organic food logo,
+
+      Nayga, R. M., & Verbeke,                               certified by a private organization, compared to the
+
+      W.                                                     newly-introduced EU organic food logo.
+
+47.   Van Loo, E. J., Caputo, V.,    2015   United States    Consumers utility increases when one of the labels,
+
+
+
+                                                        72
+
+===== PAGE 73 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+      Nayga, R. M., Seo, H. S.,                                in particular organic USDA, Rainforest Alliance
+
+      Zhang, B., & Verbeke, W.                                 and Fair Trade, is present on the coffee package.
+
+48.   Van Loo, E. J., Diem, M. N.    2013      Belgium         Recognition and knowledge of EU organic logo are
+
+      H., Pieniak, Z., & Verbeke,                              relatively low among Belgian consumers; while
+
+      W.                                                       there is a much higher recognition of the private
+
+                                                               organic certification logo.
+
+49.   Vecchio, R., Annunziata,       2015        Italy         Young consumers are more informed of the organic
+
+      A., Krystallis, A., &                                    label compared to other sustainability labels.
+
+      Pomarici, E.                                             Understanding and use of sustainability labels may
+
+                                                               be inhibited by a lack of credibility of the labels,
+
+                                                               but also by uncertainty about which organization
+
+                                                               body is responsible for the certification.
+
+50.   Vecchio, R., Van Loo, E. J.,   2016        Italy         Providing    additional   information    on   organic
+
+      & Annunziata, A.                                         regulations does not affect the consumers’ WTP for
+
+                                                               organic     yogurt.   Specific    socio-demographic
+
+                                                               variables such as gender, age, presence of kids in
+
+                                                               the household and the need to follow a specific diet,
+
+                                                               positively affect consumers’ WTP for organic
+
+                                                               yogurts.
+
+51.   Zagata, L.                     2012       Czech          The intention to purchase organic food is mainly
+
+                                               Republic        determined by the health aspects of the food
+
+                                                               product.
+
+52.   Zander, K.                     2014   Estonia, France,   Consumers’ knowledge of the organic logo is low.
+
+                                            Germany, Italy,
+
+                                            Poland and the
+
+                                                  UK
+
+53.   Zander, K., Padel, S., &       2015      Estonia,        Consumers show a great confusion about organic
+
+
+
+                                                         73
+
+===== PAGE 74 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+      Zanoli, R.                                France, Germany,      labels, indeed the shares of consumers in the survey
+
+                                                 Italy, Poland and    who recognized the fake logo as an organic logo
+
+                                                      the UK          was high.
+
+54.   Zanoli, R., Scarpa, R.,          2013            Italy          Ethical/environmental issues, animal welfare, local
+
+      Napolitano, F., Piasentier,                                     origin and local breeds are relevant factors in
+
+      E., Naspetti, S., & Bruschi,                                    explaining WTP for organic beef.
+
+      V.
+
+*n.a.=not available since it is a review article which does not focus on specific countries.
+
+
+
+
+                                                               74
+
+===== PAGE 75 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+Table A.2 – Selected papers concerning the factors that drive consumers’ perceptions and
+
+preferences for natural food products.
+
+
+N°       AUTHORS              YEAR     COUNTRY                             MAIN FINDINGS
+
+1.   Abouab, N., &            2015        France        Consumers perceive food from handmade production as
+
+     Gomez, P.                                          more natural than food products produced from machine-
+
+                                                        made production. Thus the level of humanization of the
+
+                                                        production        process        positively          impacts
+
+                                                        naturalness perceptions.
+
+2.   Amos, C., Pentina, I.,   2014     United States    Consumers use ‘natural’ as a simple choice heuristic
+
+     Hawkins, T. G., &                                  feature, showing that products labeled natural contain
+
+     Davis, N.                                          superior instrumental attributes and are perceived to be
+
+                                                        less harmful and healthier than conventional.
+
+3.   Aschemann-Witzel,        2017       Denmark        Consumers’ attitudes towards functional foods were more
+
+     J. & Grunert, K.                                   favorable for food categories perceived as natural versus
+
+                                                        processed.
+
+4.   Berry, C., Burton, S.,    (in     United States    The provision of objective information regarding the
+
+     & Howlett, E.            press)                    ambiguity of natural claims moderates the effects of these
+
+                                                        claims on consumers’ attribute inferences and product
+
+                                                        evaluations.
+
+5.   Binninger, A.-S.         2015        France        Naturalness of food products has two main dimensions: a
+
+                                                        more altruistic one, linked with environmentally friendly
+
+                                                        and animal welfare aspects, and a more egoistic one,
+
+                                                        related to a balanced diet and health as well as sensory
+
+                                                        properties.
+
+6.   Coppola, A., &           2010         Italy        Consumers’     perception   of   naturalness    is    highly
+
+     Verneau, F.                                        differentiated in relation to the type of food and to the
+
+
+
+                                                       75
+
+===== PAGE 76 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+                                                          degree of product processing. Food processing or
+
+                                                          manipulation decrease the consumers’ perception of
+
+                                                          naturalness.
+
+7.    Devcich, D. A.,         2007     New Zealand        Consumers with a higher number of modern health
+
+      Pedersen, I. K., &                                  worries, such as “drug-resistant bacteria”, “pesticides in
+
+      Petrie, K. J.                                       food” show a stronger preference for foods that contain
+
+                                                          only natural ingredients.
+
+8.    Dickson-Spillmann,      2011     Switzerland        Consumers risk perceptions related to chemicals in foods,
+
+      M., Siegrist, M., &                                 additives and contaminants, is positively correlated with
+
+      Keller, C.                                          preference for natural food.
+
+9.    Dominick, S. R.,        2017     United States      Consumers perceive products with “all natural” label to
+
+      Fullerton, C.,                                      have improved taste and improved nutritional value.
+
+      Widmar, N. J. O., &                                 Women are more receptive to the “all natural” label than
+
+      Wang, H.                                            men and responses to the label vary for different food
+
+                                                          categories.
+
+10.   Dubé, L., Fatemi, H.,   2016   United States and    Natural food is positively evaluated not only on its
+
+      Lu, J., & Hertzer, C.                India          healthfulness, but also on the attributes related to pleasure
+
+                                                          and other esthetic experiences perception. There are cross-
+
+                                                          cultural   differences   between   Eastern    and   Western
+
+                                                          populations in their perception and attitudes towards
+
+                                                          naturally nutritious product connected to differences
+
+                                                          existing in food culture.
+
+11.   Evans, de               2010       Australia        Australian consumers perceive products with physical
+
+      Challemaison, B., &                                 changes, less processing, with ingredients described using
+
+      Cox, D. N.                                          common named descriptors (instead of E-numbers) to be
+
+                                                          more natural.
+
+12.   Franchi, M.             2012         n.a.*          The term ‘natural’ is used as a brand representing
+
+
+
+                                                         76
+
+===== PAGE 77 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+                                                        healthiness, reliability and reassurance in terms of safety
+
+                                                        and security of food to consumers.
+
+13.   Hemmerling, S.,        2016   France, Germany,    Organic consumers reveal a positive attitude towards
+
+      Canavari, M., &                   Italy, the      natural food, but a negative sensory preference for the
+
+      Spiller, A.                     Netherlands,      more natural product, defined as “attitude-liking gap”.
+
+                                       Poland and
+
+                                      Switzerland
+
+14.   Hauser, M., Jonas,     2011      Switzerland      Consumers perceive naturalness as a multidimensional
+
+      K., & Riemann, R.                                 concept, which refers to sustainable, organic farming,
+
+                                                        traditional farming methods, fresh ingredients, use of raw
+
+                                                        materials and more time for preparing and cooking food.
+
+15.   Li, M., & Chapman,     2012   United States       Students perceive natural claimed products as healthier
+
+      G. B.                                             and safer than products that are not claimed to be natural.
+
+                                                        Perceived risk represents an important reason for
+
+                                                        naturalness preference.
+
+16.   Liu, R., Hooker, N.    2017     United States     The presence of an all-natural front-of-pack label
+
+      H., Parasidis, E., &                              improves consumers’ perceptions of product quality and
+
+      Simons, C. T.                                     nutritional content.
+
+                                                        Additional information provided at the point of purchase
+
+                                                        impacts on consumers’ perceptions of quality and
+
+                                                        nutritional content of all-natural labelled products.
+
+17.   Lunardo, R., &         2013        France         Consumers perceived high naturalness when the point of
+
+      Saintives, C.                                     purchase is considered natural. Moreover, the authority
+
+                                                        which claims the naturalness of the product is of major
+
+                                                        importance.
+
+18.   Magnier, L.,           2016       Denmark         Consumers perceived naturalness of the product is
+
+      Schoormans, J., &                                 influenced also by the sustainability of the packaging.
+
+
+
+                                                       77
+
+===== PAGE 78 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+      Mugge, R.
+
+19.   McFadden, J. R., &      2017     United States      Women show a greater WTP for organic-natural than men.
+
+      Huffman, W. E.                                      Price premiums tend to increase as a result of specific
+
+                                                          information.
+
+20.   Rozin, P.               2006     United States      For consumers processing alone, without substantial
+
+                                                          change, can degrade naturalness.
+
+21.   Rozin, P., Spranca,     2004     United States      A substantial part of the motivation for preferring natural
+
+      M., Krieger, Z.,                                    food products is ideational (moral or aesthetic), as
+
+      Neuhaus, R., Surillo,                               opposed to instrumental (healthiness/effectiveness or
+
+      D., Swerdlin, A., &                                 superior sensory properties).
+
+      Wood, K.
+
+22.   Rozin, P., Fischler,    2012   United States and    Both ideational and instrumental reasons influence
+
+      C., & Shields-                      Europe          consumers’ attitudes towards natural food. There are very
+
+      Argelès, C.                                         few differences in the conception of natural food between
+
+                                                          European and American consumers, highlighting that
+
+                                                          demographic variables play a minority role in influencing
+
+                                                          the attitude towards natural.
+
+                                                          For consumers naturalness is defined principally by the
+
+                                                          absence of certain negative intrinsic characteristics rather
+
+                                                          than the presence of positive ones.
+
+23.   Siipi,H.                2013         n.a.*          The ambiguous nature of the current uses of term
+
+                                                          “natural” represents a serious risk for consumers,
+
+                                                          misunderstanding or equivocation.
+
+24.   Syrengelas, K.,         2017     United States      The providing of additional information on the effective
+
+      Lewis, K. E.,                                       meaning of natural label has a positive impact on
+
+      Grebitus, C., &                                     consumer utility when consumers are not aware of the
+
+      Nayga Jr, R. M.                                     definition of natural.
+
+
+
+                                                         78
+
+===== PAGE 79 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+25.   Thompson, D.B.            2011            n.a.*          Ideological beliefs make greater contributions to the
+
+                                                               preference for natural products than instrumental beliefs.
+
+*n.a.=not available since it is a review article which does not focus on specific countries.
+
+
+
+
+                                                            79
+
+===== PAGE 80 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+Table A.3 – Selected papers concerning the factors that drive consumers’ perceptions and
+
+preferences for food “free from artificial additives/ingredients”.
+
+N°       AUTHORS             YEAR   COUNTRY                              MAIN FINDINGS
+
+1.   Bearth, A., Cousin,     2014   Switzerland   Risk and benefits perceptions affect consumer’ acceptance of
+
+     M.E. & Siegrist, M.                          food additives. In addition, risk and benefits perception are
+
+                                                  influenced by consumers’ knowledge of regulation, their trust in
+
+                                                  regulators, and their preference for natural products.
+
+2.       Bastian, Y.,        2015    Australia    Consumers considered natural flavourings and colours, and
+
+         Saltman, T.,                             additives associated with health benefits (e.g. vitamins,
+
+       Johnson, K., &                             minerals) more acceptable food additives, than winemaking
+
+        Wilkinson, S.                             additives even commonly used and legally permitted additives,
+
+                                                  such as tartaric acid, preservatives, oak chips, and tannins.
+
+3.       Chen, M. F.         2017     Taiwan      Consumers attitudes toward and perceived behavioural control
+
+                                                  of the consumption of food with additives, the impact of risk
+
+                                                  perceptions plays an important role in determining an
+
+                                                  individual’s intention to take precautions to avoid consuming
+
+                                                  foods that contain additives. In addition, the consumers’
+
+                                                  attention to food additive scandal news and their perceived risk
+
+                                                  determine their attitude toward consuming food with additives.
+
+4.    De Jonge, J., Van      2007      The        Both optimism and pessimism about the food safety arise from
+
+     Trijp, H., Jan Renes,          Netherlands   consumer trust in regulators and stakeholders in the food chain.
+
+       R., & Frewer, L.                           Consumer confidence in the food safety could be enhanced by
+
+                                                  improving both consumer trust in societal actors, and consumer
+
+                                                  safety perceptions of particular product groups.
+
+5.   Dickson-Spillmann,      2011   Switzerland   General attitudes toward chemicals influence perceptions in the
+
+       M., Siegrist, M.,                          food context. Consumers’ dose–response insensitivity might lead
+
+          Keller, C.                              to   an   inappropriate    perception    of    exposure    hazards.
+
+
+                                                       80
+
+===== PAGE 81 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+                                                  Contaminants and additives in food are perceived differently
+
+                                                  according to their origin. Women are more sensitive than men to
+
+                                                  chemical exposure hazards.
+
+6.         Haen, D.          2014      The        Ethical, aesthetic and cultural concerns are not recognized as
+
+                                    Netherlands   important drivers of public distrust about food additives which
+
+                                                  are instead very relevant.
+
+7.    Kang, H.J., Kim, S.,   2017   Republic of   Consumers are concerned about the safety of using food
+
+      Lee, G., Lim, H.S.,             Korea       additives in processed foods and do not recognize these additives
+
+       Yun, S. S. Kim, J.                         as safe and useful materials as part of a modern diet.
+
+              W.                                  Nutrition    teachers   and     members    of    nongovernmental
+
+                                                  organizations appeared to have a biased perception of food
+
+                                                  additives, which may cause consumers to have a negative
+
+                                                  perception of food additives.
+
+8.    Kubota, S., Sawano,    2017     Japan       Antioxidant-free label has a significant influence on consumer
+
+         H., Kono, H.                             preferences. Consumers who recognize food additive dangers
+
+                                                  placed addition value on wine without antioxidants. However,
+
+                                                  consumers who have knowledge of wine and food processing
+
+                                                  tend to view antioxidant-free wine as lower in quality compared
+
+                                                  to the wines made with the original manufacturing process.
+
+9.       Lupton, D. A.       2005    Australia    Consumers perceive that processing of foodstuffs and 'unnatural'
+
+                                                  additives are the second relevant importance food characteristics
+
+                                                  after dietary fat.
+
+10.   Shim, S.M., Seo, S     2011   Republic of   A large part consumers expressed that information on food
+
+       H., Youngja Lee,               Korea       additives was insufficient. They attributed this lack of
+
+       Y., Moon, G. I., ,                         information to difficulties understanding the subject of food
+
+      Kim, M.S., Park, J.                         additives and insufficient education. Almost half of the
+
+              H.                                  consumers chose leaflets and pamphlets as preferable mediums
+
+
+
+                                                     81
+
+===== PAGE 82 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+                                                  of information transmission.
+
+11.      Siegrist, M.,       2017   Switzerland   The use of E-number as symbolic information reported on the
+
+          Sütterlin, B.                           label rather than chemical names reduce the perceived
+
+                                                  naturalness of food additives. Consumers rely on symbolic
+
+                                                  information when evaluating foods, which may lead to biased
+
+                                                  judgments and decisions.
+
+12.   Szucs, V., Szabo, E.   2014    Hungary      Consumers’ shopping decisions toward the “avoidance of food
+
+          & Bana, D.                              additives” can be influenced with the rising of the trust against
+
+                                                  the producers and the controlling authorities.
+
+13.       Tanaka, Y.,        2015     Japan       Consumer’s emotions as anxiety and anger can be changed by
+
+      Kitayama, M., Arai,                         altering consumer’s cognitions or perceptions.
+
+       S. & Matsushima,
+
+               Y.
+
+14.      Varela, P. &        2013     Spain       Consumers have little knowledge and a relatively negative
+
+          Fiszman, S.                             perception about food additives. A strong association between
+
+                                                  “industrially processed” food and additives/thickeners was
+
+                                                  identified.
+
+15.    Wansink, B., Tal,     2014     United      Consumers have strong fears when added ingredients are
+
+       A., Brumberg, A.               States      associated with less nutritious foods, while they can be reduced
+
+                                                  if the history and function of ingredient are communicated.
+
+16.   Wu, M., Zhong, Y.,     2013     China       Consumers’ attitude towards behaviour, subjective norm and
+
+      Shan, L. & Qin, W.                          information perception exerted moderate to high effect on food
+
+                                                  scares, and the effects were also mediated by risk perceptions of
+
+                                                  additive safety.
+
+
+
+
+                                                     82
+
+===== PAGE 83 =====
+Please cite as: Asioli, Daniele; Aschemann-Witzel, Jessica; Caputo, Vincenzina; Vecchio,
+Riccardo; Annunziata, Azzurra; Næs, Tormod; Varela, Paula. Making sense of the ‘‘clean label’’
+trends: a review of consumer food choice behavior and discussion of industry implications Food
+Research International, 99, 58-71. https://doi.org/10.1016/j.foodres.2017.07.022
+
+
+
+
+                                               83

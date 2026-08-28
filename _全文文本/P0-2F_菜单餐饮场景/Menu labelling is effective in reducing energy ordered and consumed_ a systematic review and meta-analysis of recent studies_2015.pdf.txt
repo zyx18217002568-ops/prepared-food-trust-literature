@@ -1,0 +1,1311 @@
+SOURCE_PDF: P0-2F_菜单餐饮场景/Menu labelling is effective in reducing energy ordered and consumed_ a systematic review and meta-analysis of recent studies_2015.pdf
+EXTRACTION_STATUS: ok
+PAGES: 16
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+Public Health Nutrition: 19(12), 2106–2121                                                             doi:10.1017/S1368980015003468
+
+
+                            Review Article
+
+                            Menu labelling is effective in reducing energy ordered and
+                            consumed: a systematic review and meta-analysis of recent studies
+                            Jodie Anne Littlewood, Soﬁa Lourenço*, Cecilie Lauberg Iversen and Gitte Laub Hansen
+                            Danish Cancer Society, Strandboulevarden 49, DK-2100 Copenhagen, Denmark
+
+
+                            Submitted 14 May 2015: Final revision received 10 October 2015: Accepted 9 November 2015: First published online 30 December 2015
+
+
+                            Abstract
+                            Objective: Menu labelling is a practical tool to inform consumers of the energy
+                            content of menu items and help consumers make informed decisions in the eating-
+                            out environment, and the volume of studies published recently regarding its
+                            effects is expanding, both quantitatively and geographically. The aim of the
+                            present review and meta-analysis is to consider the most recent evidence which
+                            assesses the effect of menu labelling regarding changes in energy consumed,
+                            ordered or selected in both real-world and experimental settings.
+                            Design: The review included ﬁfteen peer-reviewed, full-text articles published
+                            between 2012 and 2014. Pertinent methodological information was extracted from
+                            each of the included studies and a quality assessment scheme was applied to
+                            classify the studies, after which systematic across-study comparisons were
+                            conducted. A meta-analysis was conducted including twelve of the ﬁfteen studies,
+                            and stratiﬁed according to type of research setting and outcome: energy
+                            consumed, ordered or selected.
+                            Results: The rating yielded studies categorized by study quality: good (n 3), fair (n 9)
+                            and weak (n 3). Overall nine studies showed statistically signiﬁcant reductions in
+                            energy consumed, ordered or selected. Three articles reported no effect of menu
+                                                                                                                                                                    Keywords
+                            labelling. The meta-analysis showed statistically signiﬁcant effects of menu labelling:                                              Menu labelling
+                            overall energy consumed was reduced by a mean of 419·5 kJ (100·2 kcal) and                                                          Energy labelling
+                            energy ordered in real-world settings decreased by a mean of 325·7 kJ (77·8 kcal).                                                  Calorie labelling
+                            Conclusions: The review supports that menu labelling can effectively reduce                                                                   Obesity
+                            energy ordered and consumed in the away-from-home food environment.                                                                  Nutrition policy
+
+
+
+              In the realm of public health, menu labelling (ML) is                             and obesity put individuals at greater risk of developing
+              considered an important tool to inform consumers of the                           type 2 diabetes, CVD and certain cancers(12), all of which
+              energy content of meals in the eating-out environment and                         incur great ﬁnancial and social costs(13–15). Furthermore,
+              to encourage favourable reformulation of menu items by                            the disclosure of energy values at the point of purchase
+              the food-service industry, as a low-cost and broad-                               has overwhelming public support in several countries,
+              reaching obesity prevention strategy(1,2). The initiative                         including those where ML has been implemented(3,16–19).
+              applies the principles of nutrition labelling to foods                            Consumers otherwise rarely notice or access energy
+              consumed outside the home through the disclosure of                               declarations provided by food-service establishments in
+              energy content at the point of purchase(3,4). ML applies to                       any other format, including tray liners, food packaging or
+              standardized food and beverage items sold at chain food                           company websites(17,20), despite energy being sought-after
+              establishments (with generally ﬁfteen or more outlets).                           nutrition information(21–24).
+              More than ever, ML is deemed necessary as the                                       Current European Union legislation on food labelling
+              consumption of food outside the home increases(1,5,6) and                         only requires nutrition declarations on pre-packed foods
+              most consumers underestimate the energy content of such                           and beverages. According to a modelling study conducted
+              foods(7), which are associated with increased energy                              by the Organisation for Economic Co-operation and
+              intake(8–10) as well as unhealthy weight gain(11) due to                          Development, mandatory nutrition labelling of processed
+              increased portion sizes and energy density. Overweight                            foods could reduce European obesity rates by 2·5 % and
+
+
+              *Corresponding author: Email soﬂou@cancer.dk                                                                                            © The Authors 2015
+
+
+https://doi.org/10.1017/S1368980015003468 Published online by Cambridge University Press
+
+===== PAGE 2 =====
+Menu labelling is effective: review of new studies                                                                               2107
+                                                                                    (25)
+                 avert up to 15 million disability-adjusted life years . The               Methods
+                 European Union legislation, however, does not extend to
+                 menu items prepared and served in catering outlets,                       Literature search
+                 despite the increase in foods eaten outside the home                      The systematic literature review was conducted in two
+                 and strong consumer support for ML. A global survey                       stages between May and November 2014. The ﬁrst stage
+                 conducted in 2011, including 250 000 respondents from                     was carried out by one reviewer (J.A.L.) in May–June 2014
+                 ﬁfty-six countries, revealed that 80 % desire ML either all               and consisted of a systematic literature search of the
+                 the time or sometimes in fast-food establishments and                     MEDLINE database. Two reviewers (J.A.L. and S.L.)
+                 full-service chain restaurants, with particularly high                    carried out the second stage in October–November 2014,
+                 support for these measures in Latin America, North                        extending the MEDLINE search to Web of Science
+                 America and Europe(26). Voluntary ML by the restaurant                    and Science Direct databases using the same search
+                 industry exists, however, in Great Britain, Northern Ireland              strategy.
+                 and the Republic of Ireland(19,27,28). The USA was the ﬁrst                  A structured approach was used to identify studies
+                 country to implement nationwide mandatory ML in 2010,                     assessing the effects of ML on energy selected, ordered or
+                 and the Food and Drug Administration issued a ﬁnal rule                   consumed. First, the search terms ‘menu board label*’,
+                 to guide labelling for qualifying chain restaurants and                   ‘menu label*’, ‘calorie label*’ and ‘energy label*’ were
+                 food-retail establishments to sell away-from-home foods                   applied in all databases. Then, titles and abstracts of
+                 that will take effect in December 2016(29). ML is also                    retrieved studies were screened for relevance in accor-
+                 mandatory in some states of Australia(30–32) and one                      dance with the deﬁned inclusion criteria (see below).
+                 single province in Canada(33), while the initiative is being              Reference lists of identiﬁed studies were also perused for
+                 debated in Denmark and Asia(34).                                          relevant additional publications. Finally, in an effort to
+                    In addition to fast-food outlets, ML has evolved to                    obtain evidence beyond the USA, government agencies,
+                 incorporate standardized foods and beverages served in                    such as the Food Safety Authority of Ireland, and
+                 cafés, bakeries, juice bars, ice-cream parlours, table-                   non-government organizations known to advocate ML,
+                 service restaurants, convenience stores, cinemas and                      such as Dietitians of Canada and the Heart Foundation of
+                 supermarkets, since such establishments increasingly                      Australia, were contacted. This review is not registered in
+                 contribute to overall energy intake(5,35). The expansion of               any systematic review databases.
+                 ML, both geographically and with regard to the food out-
+                 lets it applies to, has generated an array of new evidence
+                                                                                           Inclusion/exclusion criteria
+                 as to its effects on consumer behaviour. Recent studies,
+                                                                                           Peer-reviewed articles met the inclusion criteria if they
+                 often in real-world settings, add to the earlier literature,
+                                                                                           were: (i) full text; (ii) in English; (iii) published after
+                 once predominated by studies conducted in experimental
+                                                                                           1 January 2012; (iv) primary studies; (v) investigating the
+                 settings on fast-food selections in the USA.
+                                                                                           impact of ML on purchase behaviour or purchase inten-
+                                                                                           tions; and (vi) with outcomes measuring the effect of ML
+                                                                                           on energy consumed, ordered or selected, as quantiﬁed
+                 Objective
+                                                                                           kJ/kcal differences. Energy selected referred to hypothe-
+                 The present review and meta-analysis aims to provide an
+                                                                                           tical choices of ‘intended’ purchase. Energy ordered
+                 update of the most recent evidence (studies published
+                                                                                           referred to actual food and beverage items ordered from a
+                 only between 2012 and 2014) of the effects of ML on
+                                                                                           menu, substantiated by participant recalls, purchase
+                 energy consumed, ordered or selected by the general
+                                                                                           receipts or sales records. Energy consumed took into
+                 population, in both real-world and experimental settings.
+                                                                                           account uneaten portions of meals, established through
+                 The review also aims to assess the importance of ML for-
+                                                                                           either researchers weighing leftovers or participants
+                 mat and ML noticing by consumers as aspects impacting its
+                                                                                           self-reporting the uneaten portion of their meal.
+                 effectiveness. The rationale for narrowing the inclusion
+                                                                                              Studies were excluded if they assessed only:
+                 dates was an attempt to capture results which may more
+                                                                                           (i) customer/participant awareness of ML; (ii) self-reported
+                 accurately reﬂect consumers’ response to ML as they grow
+                                                                                           use of ML; (iii) consumer energy-based knowledge;
+                 accustomed to the initiative and as industry adaptation to
+                                                                                           (iv) consumer attitude towards the provision of ML; and/or
+                 legislation is more widespread and compliant.
+                                                                                           (v) consumer preference for various labelling formats.
+                     For the purpose of the present article, menu labelling
+                 (ML) is deﬁned as the prominent display of energy values
+                 appearing on menus (or food tags, retail shelf displays and               Data extraction, synthesis and quality assessment
+                 other promotional material), so it clearly relates to the item            A structured approach was applied to extract pertinent
+                 and its respective price. In accordance with other ML                     information from each of the ﬁfteen included studies and
+                 literature, the term ‘healthier’ refers to lower-energy food              systematic across-study comparisons were conducted
+                 choices, since energy content is the most important                       based on a matrix including: year and authors; country;
+                 nutrition aspect in relation to overweight and obesity(1).                aim; study design; sampling; setting; type of outcome
+
+
+
+
+https://doi.org/10.1017/S1368980015003468 Published online by Cambridge University Press
+
+===== PAGE 3 =====
+2108                                                                                                                      JA Littlewood et al.
+                                                                                                                           (4,16,40,48–50)
+              (including meals consumed, ordered or selected, nutrients                    effects on energy selected                   . Seven studies
+              and interpretative guidance, as well as meal type);                          were conducted in real-world settings(21,22,38,39,45–47) and
+              covariates measured; results; and limitations of study                       eight studies were conducted in experimental
+              design. Results from studies presented as kilocalories were                  settings(4,16,40,43,44,48–50). Eight studies reported on the
+              converted to kilojoules based on 1 kcal = 4·184 kJ.                          proportion of participants noticing ML(16,21,22,43–46,48).
+                 The quality of the included studies was assessed using a
+              rating scheme inspired by previous reviews(17,36,37).
+                                                                                           Studies’ characteristics and quality
+              Articles were rated according to: study setting; sample size;
+                                                                                           Overall, the effects of ML were assessed on 17 859 partici-
+              extent of displaying ML; ML noticing rate; randomization
+                                                                                           pants spanning three countries. Despite similar aims and
+              (for experimental studies) or case–control match (for
+                                                                                           objectives, the studies varied greatly in design, most notably
+              real-world studies); and degree of blinding (see online
+                                                                                           in sample size, data collection methods and ML format.
+              supplementary material, Supplemental Table 1). Two
+                                                                                           Sample sizes ranged from under 50(39) to over 2000(45)
+              reviewers (J.A.L. and S.L.) independently rated all studies.
+                                                                                           participants. Data collection methods varied from telephone
+              The ﬁnal scores were awarded after conferring and dis-
+                                                                                           surveys collecting meal selections at random times of the
+              cussing any discrepancies, and consensus was reached.
+                                                                                           day(48), to complete sales records from private club
+                                                                                           bistros(38), to calculating energy consumption by obtaining
+              Meta-analysis                                                                calorie content and weight information from the fast-food
+              A meta-analysis was conducted with twelve of the ﬁfteen                      website and deducting weighed leftovers(43). While all stu-
+              studies, stratiﬁed according to type of outcome: changes in                  dies compared the absence of ML as a control condition
+              energy consumed, ordered or selected. The analyses                           with the presence of ML, the format and provision of
+              conducted compare controls (no labels) v. interventions                      additional contextual or interpretive guidance differed. The
+              presenting energy labels alone; results from intervention                    characteristics of the included studies are presented in
+              groups reporting the effect of interpretive guidance, such                   Table 1. The rating process yielded three good-quality
+              as trafﬁc lights or physical activity equivalents (PAE), were                studies, nine of fair quality and three of weak quality
+              not included in the meta-analysis. All twelve studies                        (see online supplementary material, Supplemental Table 2).
+              reporting mean and standard deviation for energy con-
+              sumed, ordered or selected were included in the analysis.                    The effects of menu labelling
+              When such data were not reported, the corresponding                          In nine of the ﬁfteen articles reviewed, participants
+              authors were contacted in order to retrieve the missing                      exposed to ML in various formats consumed, ordered or
+              data. Two studies reporting results on energy                                selected signiﬁcantly less energy(4,21,22,38,43,44,47,49,50) than
+              ordered(38,39) and one study reporting results on energy                     participants not exposed to ML. Statistically signiﬁcant
+              selected(40) were excluded due to data not being provided.                   reductions ranged from as few as 96·2 kJ (P = 0·05) when
+              No original raw data sets were available.                                    choosing snack items(4) to 648·5 kJ (P = 0·018) for meals
+                 A random-effects meta-analysis of mean differences was                    ordered at a table-service chain restaurant(22). Only three
+              conducted to assess the overall effect of ML, applying the                   articles reported no effects of ML(40,46,48). The overall
+              DerSimonian–Laird estimator to evaluate the between-                         results are somewhat mixed, so closer attention was paid
+              study variance. Publication bias was assessed via funnel                     to research setting, type of outcome assessed, the extent
+              plots and Egger’s test where appropriate, and inspected                      to which participants noticed ML, ML format and
+              visually. Data were analysed with the statistical software R                 sociodemographic characteristics of study participants.
+              version 3·03 and the package meta 4·1–0(41). In order to                     Where ML was partial and only applied to some items, the
+              quantify the effect of heterogeneity we used the I 2 statistic               results of interest focused on the changes in energy
+              as a measure of the degree of inconsistency in the studies’                  consumed, ordered or selected for the labelled items.
+              results. The quantity I 2 describes the percentage of total                  Table 2 provides a summary of results.
+              variation across studies that is due to heterogeneity rather
+              than chance(42).                                                             Research setting
+                                                                                           Seven studies were carried out in real-world settings, one of
+                                                                                           which resulted in a 531·4 kJ (P < 0·001) reduction in energy
+              Results                                                                      consumed when customers were offered a range of
+                                                                                           ‘healthier’ reformulated options and were exposed to ML in
+              Search results                                                               a cafeteria(21) compared with no ML. The provision of ML,
+              The online database search identiﬁed 141 articles, ﬁfteen                    compared with no ML, also resulted in statistically signiﬁcant
+              of which were retrieved for full-text review (Fig. 1). Three                 reductions of energy ordered by 92 kJ in coffee chains
+              studies considered the effects of ML on energy ordered                       (P = 0·002)(45); between 234·3 kJ (P < 0·05)(38) and 648·5 kJ
+              and subsequently consumed(21,43,44). Six studies reported                    (P = 0·018)(22) in table-service restaurants; and a reduction of
+              on energy ordered(22,38,39,45–47), while six assessed the                    251 kJ (P = 0·05) in fast-food outlets(47). One further study
+
+
+
+
+https://doi.org/10.1017/S1368980015003468 Published online by Cambridge University Press
+
+===== PAGE 4 =====
+https://doi.org/10.1017/S1368980015003468 Published online by Cambridge University Press
+
+
+
+
+                                                                                                                                                                                                                                                                                   Menu labelling is effective: review of new studies
+                                                                                           Table 1 Characteristics of the included studies (organized by type of outcome)
+
+                                                                                           Study and country                   Design                  Setting                         Type of ML                           Subjects          Sample size   Outcomes of interest
+                                                                                           Hammond et al. (2013)       (44)
+                                                                                                                               Between-group           Experimental setting            ∙ No labels                          Adults                635       Energy consumed
+                                                                                           Canada                                experiment, RT        Fast-food chain menu            ∙ Energy labels                                                      Energy ordered
+                                                                                                                                                                                       ∙ Energy labels + single TL                                          Noticing ML
+                                                                                                                                                                                       ∙ Energy labels + multiple TL
+                                                                                                                                                                                         (fat, Na & sugar)
+                                                                                           James et al. (2014)(43)             Between-group           Dining area in a university     ∙ No labels                          Young adults          300       Energy consumed
+                                                                                           USA                                   experiment, RT          metabolic                     ∙ Energy labels (+ RV)                 (18–30 years)                 Energy ordered
+                                                                                                                                                         kitchen + dining area in      ∙ PAE labels                                                         Noticing ML
+                                                                                                                                                         students’ residence
+                                                                                           Vanderlee & Hammond (2013)(21)      Between-site, exit      Two hospital cafeterias         ∙ No labels                          Adults               1003       Energy consumed
+                                                                                           Canada                                surveys                                               ∙ Energy labels                                                      Energy ordered
+                                                                                                                                                                                                                                                            Noticing ML
+                                                                                           Auchincloss et al. (2013)(22)       Between-city, cross-    Seven outlets, table-           ∙ No labels                          Adults                648       Energy ordered
+                                                                                           USA                                   sectional               service restaurant            ∙ Energy labels                                                      Noticing ML
+                                                                                           Elbel et al. (2013)(46)             Difference-in-          Twenty-three outlets, fast-     ∙ No labels (pre-legislation &       Adults               2083       Energy ordered
+                                                                                           USA                                   differences             food chains                     control)                                                           Noticing ML
+                                                                                                                                                                                       ∙ Energy labels (post-legislation)
+                                                                                           Krieger et al. (2013)(45)           Pre–post–post           Forty popular fast-food         ∙ No labels (baseline)               Aged ≥14 years    6125 + 1200   Energy ordered
+                                                                                           USA                                   cross-sectional         chain + ten coffee chain      ∙ Energy labels (6 months                                            Noticing ML
+                                                                                                                                 study, exit surveys     locations                       post-legislation)
+                                                                                                                                                                                       ∙ Energy labels (18 months post-
+                                                                                                                                                                                         legislation)
+                                                                                           Brissette et al. (2013)   (47)
+                                                                                                                               Between-group           Thirty-one outlets, fast-food   ∙ No labels                          Adults               1094       Energy ordered
+                                                                                           USA                                   cross-sectional         chains                        ∙ Energy labels
+                                                                                                                                 survey
+                                                                                           Ellison et al. (2013)(39)           Between-group           University campus table-        ∙ No labels                          Adults                138       Energy ordered
+                                                                                           USA                                   experiment, RT          service restaurant            ∙ Energy labels
+                                                                                                                                                                                       ∙ Energy labels + single TL
+                                                                                           Holmes et al. (2013)(38)            Between-group           Private club family-style       ∙ No labels                          Children (1–13       1275       Energy ordered
+                                                                                           USA                                   longitudinal            restaurant                    ∙ Energy labels + fat labels           years)
+                                                                                                                                 experiment                                            ∙ Healthy symbol labels
+                                                                                                                                                                                       ∙ Nutrition bargain price score
+                                                                                           Dodds et al. (2014)(48)             Between-group           Telephone survey                ∙ No labels                          Parent/child          329       Energy selected
+                                                                                           Australia                             experiment, RCT       Typical fast-food menu          ∙ Energy labels + RV                   (3–12 years)                  Noticing ML
+                                                                                                                                                                                       ∙ Energy labels + RV + TL              pairs
+                                                                                           Liu et al. (2012)(16)               Between-group           Online survey                   ∙ No labels                          Adults                418       Energy selected
+                                                                                           USA                                   experiment, RCT       Family-style restaurant         ∙ Energy labels + RV                                                 Noticing ML
+                                                                                                                                                         inspired menus                ∙ Energy labels + RV + ranked
+                                                                                                                                                                                       ∙ Energy labels + RV + ranked +
+                                                                                                                                                                                         colour coded
+                                                                                           Dowray et al. (2013)    (50)
+                                                                                                                               Between-group           Online survey                   ∙ No labels                          Adults                802       Energy selected
+                                                                                           USA                                   experiment, RCT       Fast-food inspired menu         ∙ Energy labels
+
+
+
+
+                                                                                                                                                                                                                                                                                   2109
+                                                                                                                                                                                       ∙ Energy labels + PAE (in minutes)
+                                                                                                                                                                                       ∙ Energy labels + PAE (in miles)
+
+===== PAGE 5 =====
+2110                                                                                                                                                                                                                                                                                                                                                                                   JA Littlewood et al.
+                                                                                                                                                                                                                                                                                                                                                           resulted in 539·7 fewer kJ (P = 0·033) being ordered at a
+                                                                                                                                                                                                                                                                                                                                                           table-service restaurant for main meals, but no statistically
+                                    Outcomes of interest
+                                                                                                                                                                                                                                                                                                                                                           signiﬁcant changes were observed for ‘extras’ that were not
+                                                              Energy selected
+
+
+
+
+                                                                                           Energy selected
+
+
+
+
+                                                                                                                                      Energy selected
+                                                                                                                                                                                                                                                                                                                                                           consistently labelled(39). Only one real-world study showed
+                                                                                                                                                                                                                                                                                                                                                           ML to have no statistically signiﬁcant impact(46).
+                                                                                                                                                                                                                                                                                                                                                              Eight studies were conducted in experimental settings
+                                                                                                                                                                                                                                                                                                                                                           where consumers participated online, by post, by tele-
+                                                                                                                                                                                                                                                                                                                                                           phone or in laboratory settings. Two studies showed that
+                                                                                                                                                                                                                                                                                                                                                           the provision of ML on fast-food menus signiﬁcantly
+                                    Sample size
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           reduced energy consumed by 397·5 kJ (P = 0·048)(44) and
+
+
+
+
+                                                                                                                                                                ML, menu labelling; RT, randomized trial; RCT, randomized controlled trial; TL, traffic light; RV, reference values; PAE, physical activity equivalent; %DI, percentage of daily intake.
+                                                              1294
+
+
+
+
+                                                                                           213
+
+
+
+
+                                                                                                                                      302
+                                                                                                                                                                                                                                                                                                                                                           200·8–405·8 kJ (P = 0·04) across ML formats(43). Of the
+                                                                                                                                                                                                                                                                                                                                                           remaining six studies, three resulted in overall statistically
+                                                                                                                                                                                                                                                                                                                                                           signiﬁcant reductions in energy selected when participants
+                                                                                                                                                                                                                                                                                                                                                           were presented with ML on fast-food menus: 510·4 kJ
+                                                                                                                                                                                                                                                                                                                                                           (P < 0·05)(49) and 398·1–811·7 kJ (P = 0·02)(50); or on a
+                                                                                             20·6 years)
+                                                                                             (mean age
+                                                                                           Young adults
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           snack menu: 96·2–146·4 kJ (P = 0·02)(4). One other study
+                                    Subjects
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           showed a statistically signiﬁcant reduction of 644·3 kJ
+                                                              Adults
+
+
+
+
+                                                                                                                                      Adults
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           (P = 0·013) for a meal selected in a family-style restaurant
+                                                                                                                                                                                                                                                                                                                                                           with a ranked energy-label condition (although other ML
+                                                                                                                                                                                                                                                                                                                                                           formats tested resulted in statistically non-signiﬁcant
+                                                                                                                                                                                                                                                                                                                                                           energy reductions)(16). ML had no impact in the remain-
+                                                                                                                                                                                                                                                                                                                                                           ing two studies based on fast-food selections(40,48).
+                                                           ∙ kJ labels + RV + TL + %DI
+                                                           ∙ kJ labels + RV + %DI
+
+
+
+                                                                                       ∙ Energy labels + PAE
+                                                                                       ∙ Energy labels + RV
+                                                           ∙ kJ labels + RV + TL
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           Energy consumed, ordered or selected
+                                                                                                                                                                                                                                                                                                                                                           All three studies measuring energy consumption reported
+                                                           ∙ kJ labels + RV
+
+
+
+                                                                                       ∙ Energy labels
+
+
+
+                                                                                                                                   ∙ Energy labels
+                                                                                                                    (in minutes)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           statistically signiﬁcant overall energy reductions
+                                                           ∙ No labels
+
+
+
+                                                                                       ∙ No labels
+
+
+
+                                                                                                                                   ∙ No labels
+                                    Type of ML
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           (200·8–535·6 kJ)(21,43,44). Three of six studies measuring
+                                                                                                                                                                                                                                                                                                                                                           the effects of ML on energy ordered resulted in overall
+                                                                                                                                                                                                                                                                                                                                                           statistically signiﬁcant decreases (234·3–631·8 kJ)(22,38,47).
+                                                                                                                                                                                                                                                                                                                                                           Another two studies resulted in statistically signiﬁcant
+                                                                                                                                                                                                                                                                                                                                                           reductions in energy ordered for energy-labelled main
+                                                                                                                                      Fast-food inspired menu
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           meals, but not partially labelled ‘extras’(39), and for coffee
+                                                              Typical fast-food menu
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           chains, but not food chains(45). Three of six studies
+                                                                                           University campus
+
+
+
+
+                                                                                                                                      Pedestrian street
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           assessing the effects of ML on energy selected resulted in
+                                                              Online survey
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           overall statistically signiﬁcant reductions for meals
+                                                                                           Snack menu
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           (389·1–711·3 kJ)(49,50) and snack selections (129·7 kJ)(4).
+                                    Setting
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           Noticing of menu labelling by consumers
+                                                                                                                                                                                                                                                                                                                                                           Eight of the included studies reported on the rate of
+                                                                                                                                                                                                                                                                                                                                                           noticing energy information on menus. ML had no statis-
+                                                                experiment, RCT
+
+
+
+
+                                                                                             experiment, RCT
+
+
+
+
+                                                                                                                                        experiment, RCT
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           tically signiﬁcant impact where less than 70 % of partici-
+                                                              Between-group
+
+
+
+
+                                                                                           Between-group
+
+
+
+
+                                                                                                                                      Between-group
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           pants noticed the information(45,46). The remaining studies
+                                                                                                                                                                                                                                                                                                                                                           all reported a high ML noticing rate (≥70 %); of these,
+                                    Design
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           three studies reported statistically signiﬁcant reductions in
+                                                                                                                                                                                                                                                                                                                                                           energy ordered and consumed(21,43,44), one study reported
+                                                                                                                                                                                                                                                                                                                                                           a statistically signiﬁcant reduction in energy ordered(22)
+                                                                                                                                                                                                                                                                                                                                                           and two studies reported statistically signiﬁcant reductions
+                                                                                                                                                                                                                                                                                                                                                           in energy selected(16,48).
+                                                                                         Pang & Hammond (2013)(4)
+
+
+
+
+                                                                                                                                     (40)
+                                                            Morley et al. (2013)(49)
+
+
+
+
+                                                                                                                                      Roseman et al. (2013)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           Menu-labelling format
+                Table 1 Continued
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           A number of studies also tested the effects of different ML
+                                    Study and country
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           formats which offered interpretive or contextual guidance.
+                                                                                                                                                                                                                                                                                                                                                           The most common variation was the addition of trafﬁc
+                                                                                                                                                                                                                                                                                                                                                           light colour coding to help consumers interpret if the
+                                                            Australia
+
+
+
+
+                                                                                         Canada
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           menu item was low (green), medium (amber) or high
+                                                                                                                                      USA
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           (red) in energy. Trafﬁc lights enhanced the noticeability
+
+
+
+
+https://doi.org/10.1017/S1368980015003468 Published online by Cambridge University Press
+
+===== PAGE 6 =====
+Menu labelling is effective: review of new studies                                                                                                 2111
+
+                                                                                  141 articles identified
+
+                                                                                                                     126 excluded based on title and
+                                                                                                                     abstract:
+                                                                                                                     • Non-relevant (n 67)
+                                                     0 identified from                                               • Reported only effects of
+                                                    related citations or                                                restaurant environment (n 10)
+                                                         personal                                                    • Qualitative studies or did not
+                                                     correspondence                                                    measure behaviour change in
+                                                                                                                       energy (n 24)
+                                                                                                                     • Vending machines (n 1)
+                                                                                                                     • Not primary studies (reviews or
+                                                                                                                       commentaries; n 11)
+                                                                                                                     • Duplicates (n 13)
+
+                                                                                   15 articles retrieved
+                                                                                    for full-text review
+
+
+                 Fig. 1 Flow diagram of the literature search process
+
+
+                 of ML(44,48), facilitated comprehension of energy                                          health’ had no impact(49), and another study showed those
+                 information(39,49), and in some instances signiﬁcantly                                     who were least health conscious to be statistically sig-
+                 reduced total energy selected by 497·9 kJ (P < 0·05)(49) or                                niﬁcantly more responsive to energy information(39).
+                 energy ordered for main meals by 539·7 kJ (P = 0·033)(39)                                  Females were found to be statistically signiﬁcantly more
+                 compared with no ML.                                                                       attentive to ML compared with males in two studies(21,45),
+                    The use of PAE, which present energy information in                                     although another two studies reported no statistically
+                 terms of how much physical activity is required to expend                                  signiﬁcant differences between genders(49,50).
+                 the energy content of a speciﬁed menu item, was also
+                 effective. ML formats with PAE signiﬁcantly reduced
+                 energy by 96·2 kJ (P = 0·05) when selecting a snack(4), and                                Meta-analysis ﬁndings
+                 by 811·7 kJ (P = 0·0007) when selecting a fast-food                                        The meta-analysis showed that the effect of ML was
+                 meal(50), compared with no ML. The use of PAE also                                         statistically signiﬁcant for all outcomes measured. For
+                 resulted in signiﬁcantly lower energy ordered (−581·6 kJ,                                  studies measuring energy consumption, the overall
+                 P = 0·002) and consumed (−405·8 kJ, P = 0·01) for a                                        estimated effect of ML was a mean reduction of 419·50
+                 fast-food lunch compared with no ML(43).                                                   (95 % CI −613·25, −225·76) kJ (P < 0·0001; Fig. 2). Studies
+                    Reference values (RV) offer contextual guidance as to                                   measuring energy consumed showed no statistically
+                 how the energy content of menu items compares to a full                                    signiﬁcant heterogeneity.
+                 day’s energy requirement, and appear in statements such                                       For studies measuring energy ordered conducted in
+                 as ‘The average adult daily energy intake is 8700 kJ’. Five                                real-world settings, the effect of ML was estimated to be a
+                 experimental studies explicitly included RV in their ML                                    mean reduction of 325·66 (95 % CI −508·60, −142·71) kJ
+                 formats, one of which compared the effects of ‘energy                                      (P = 0·0005), with signiﬁcant heterogeneity (I 2 = 63·8 %;
+                 labelling’ with ‘energy labelling with RV’. This study                                     P = 0·026; n 5; Fig. 3). When studies conducted in
+                 showed that RV enhanced the effects of energy labelling                                    experimental settings were included, ML reduced the
+                 for energy selected, that it was the most effective of all ML                              overall mean energy ordered by an estimated 313·16 (95 %
+                 formats and was rated by participants as the most                                          CI −453·14, −173·19) kJ (P < 0·0001) and heterogeneity
+                 ‘understandable’(4). The other four studies tested ML with                                 was no longer statistically signiﬁcant (Fig. 4).
+                 RV against other formats. Two of these studies showed                                         For studies assessing the effect of ML on energy selec-
+                 that ML + RV signiﬁcantly reduced energy selected com-                                     ted, the estimated effect of ML was a mean reduction of
+                 pared with no ML(43,49), while one showed ML + RV had no                                   201·71 (95 % CI −343·66, −59·76) kJ (P = 0·005), with sig-
+                 statistically signiﬁcant impact unless the menu items were                                 niﬁcant heterogeneity (I 2 = 60·2 %; P = 0·028; n 6; Fig. 5).
+                 also ranked according to ascending energy content(16);                                        No publication bias was detected.
+                 one study showed RV had no impact at all(48).
+
+                 Sociodemographic differences                                                               Discussion
+                 No detailed analyses were conducted, but it appears that
+                 variances in BMI(16,21,49), ethnicity(21,45,47), age(21,45,47,49)                          Consumption of food outside the home is becoming more
+                 and socio-economic status(21,45,47,49) did not substantially                               frequent(1,5,6) and since this practice is associated with
+                 inﬂuence the degree of effectiveness of ML. There was a                                    increased energy intake(8–10) and unhealthy weight
+                 tendency for those who have an interest in health, and                                     gain(11), it poses challenges of public health concern. The
+                 were self-reported ‘users’ of labelling when purchasing                                    current review and meta-analysis aimed to assess whether
+                 food, to be statistically signiﬁcantly more attentive to                                   ML is effective in reducing energy selected, ordered or
+                 ML(21,40,47). In one study, however, the level of ‘interest in                             consumed in both real-world and experimental settings,
+
+
+
+
+https://doi.org/10.1017/S1368980015003468 Published online by Cambridge University Press
+
+===== PAGE 7 =====
+https://doi.org/10.1017/S1368980015003468 Published online by Cambridge University Press
+
+
+
+
+                                                                                                                                                                                                                                                                                                2112
+                                                                                           Table 2 Summary of results (studies are organized by type of outcome)
+
+                                                                                           Study              Intervention                                        Design                    Rating Results
+                                                                                           Hammond            Compared energy ordered and consumed for a          Between-group             Good   ∙ Energy consumed decreased with presence of energy labels v. no labels (−397·5 kJ,
+                                                                                             et al.             meal from one of four menus:                        experiment, RT                   P = 0·048). No differences were registered for other ML conditions
+                                                                                             (2013)(44)       ∙ No labels                                                                          ∙ No difference between energy ordered between ML conditions
+                                                                                                              ∙ Energy labels                                                                      ∙ Recall of energy information was higher for energy labels (72 %, P < 0·001) and energy
+                                                                                                              ∙ Energy labels + single TL                                                            labels + TL (71 %, P < 0·001) v. energy labels + multiple TL condition (49 %)
+                                                                                                              ∙ Energy labels + multiple TL (fat, Na & sugar)
+                                                                                           James et al.       Compared energy ordered and consumed for a          Between-group             Good   ∙ Energy consumed decreased with presence of energy and exercise labels (−200·8 to
+                                                                                             (2014)(43)         lunch selected from one of three menus:             experiment, RT                   − 405·8 kJ, P = 0·04). Exercise labels had the strongest effect v. no labels (P = 0·01)
+                                                                                                              ∙ No labels                                                                          ∙ Energy ordered decreased with presence of energy and exercise labels (P = 0·008).
+                                                                                                              ∙ Energy labels                                                                        Exercise labels had the strongest effect v. no labels (P = 0·002)
+                                                                                                              ∙ Exercise labels                                                                    ∙ 90·9 % noticed energy labels and 91·1 % noticed exercise labels
+                                                                                           Vanderlee &        Compared energy ordered and consumed from           Between-site, exit        Fair   ∙ Energy consumed decreased by 21 % from 2355·6 to 1820 kJ with presence of energy
+                                                                                             Hammond            two different sites:                                surveys                          labels v. no labels (P < 0·001)
+                                                                                             (2013)(21)       ∙ No labels (some ‘healthy’ items denoted with                                       ∙ Energy ordered decreased from 2610·8 to 2092 kJ in presence of energy labels v. no
+                                                                                                                a symbol)                                                                            labels (P < 0·001)
+                                                                                                              ∙ Energy labels (reformulated ‘healthier’ options                                    ∙ 79·5 % noticed ML at intervention site; 36·2 % noticed the healthy logo at control site
+                                                                                                                denoted with a symbol)
+                                                                                           Auchincloss        Compared energy ordered from:                       Between-city cross-       Fair   ∙ Energy ordered at energy labels sites was lower for both foods (P = 0·02) and non-
+                                                                                             et al.           ∙ Five sites with no labels                           sectional study                  alcoholic drinks (P = 0·001). Differences persisted after adjustment for confounders for
+                                                                                             (2013)(22)       ∙ Two sites with energy labels                                                         both foods (P = 0·013) and non-alcoholic drinks (P = 0·035)
+                                                                                                                                                                                                   ∙ 76 % noticed ML at energy label sites
+                                                                                           Elbel et al.       Compared energy ordered from twenty-three           Difference-in-            Fair   ∙ No net impact of ML on total energy ordered, neither for food nor beverage orders
+                                                                                             (2013)(46)         sites in two cities, pre- and post-labelling:       differences design               considered separately
+                                                                                                              ∙ No labels (control)                                                                ∙ Pre–post ML noticing in city with ML legislation increased from 9 % to 38 %
+                                                                                                              ∙ No labels (pre-legislation)                                                          respectively, and remained unchanged in city with no ML legislation (14 %). Difference-
+                                                                                                              ∙ Energy labels (post-legislation)                                                     in-differences impact = 33 percentage points (P < 0·001)
+                                                                                           Krieger et al.     Compared energy ordered from fifty fast-food and    Pre–post–post cross-      Good   ∙ No changes in energy ordered at 4–6 months post-legislation
+                                                                                             (2013)(45)         coffee chain outlets:                               sectional study, exit          ∙ Energy ordered decreased in both fast-food outlets (trend, P = 0·06) and coffee chain
+                                                                                                              ∙ No labels (baseline, prior to ML legislation)       surveys                          outlets (92 kJ, P = 0·002) at 18 months post-legislation
+                                                                                                              ∙ Energy labels (6 months post-legislation)                                          ∙ ML noticing was 58·3 % and 61·7 % at 6 and 18 months post-legislation respectively in
+                                                                                                              ∙ Energy labels (18 months post-legislation)                                           fast-food outlets. ML noticing was 31·2 % and 30·0 % respectively in coffee chain
+                                                                                                                                                                                                     outlets
+                                                                                           Brissette et al.   Compared energy ordered from:                       Between-group cross- Fair        ∙ Energy ordered decreased from 3965 to 3715·8 kJ (P = 0·05) in sites with energy labels
+                                                                                             (2013)(47)       ∙ Fourteen fast-food sites with no labels             sectional survey                 v. sites with no labelling
+                                                                                                              ∙ Seventeen fast-food sites with energy labels
+                                                                                           Ellison et al.     Compared energy ordered for three ML conditions:    Between-group             Weak   ∙ No differences in total energy ordered between ML conditions
+                                                                                              (2013)(39)      ∙ No labels                                           experiment, RT                 ∙ For entrées, the energy ordered in the energy labels + single TL was lower than in the
+                                                                                                              ∙ Energy labels
+
+
+
+
+                                                                                                                                                                                                                                                                                                JA Littlewood et al.
+                                                                                                                                                                                                     other conditions (−539·7 kJ, P = 0·033). For extras, no differences in energy ordered
+                                                                                                              ∙ Energy labels + single TL                                                            were registered between ML conditions
+                                                                                           Holmes et al.      Compared energy ordered for children’s meals.       Between-group             Fair   ∙ Energy ordered for combo meals decreased for all ML conditions (234·3 kJ, P < 0·05) v.
+                                                                                             (2013)(38)         Each ML condition was displayed for 2 months        longitudinal                     the no labels condition
+                                                                                                                at the same site:                                   experiment
+                                                                                                              ∙ No labels
+                                                                                                              ∙ Energy labels + fat labels
+
+===== PAGE 8 =====
+https://doi.org/10.1017/S1368980015003468 Published online by Cambridge University Press
+
+
+
+
+                                                                                                                                                                                                                                                                                                              Menu labelling is effective: review of new studies
+                                                                                           Table 2 Continued
+
+                                                                                           Study              Intervention                                                   Design                      Rating Results
+
+                                                                                                              ∙ Healthy symbol labels
+                                                                                                              ∙ Nutrition bargain price score
+                                                                                                              ∙ Only combo meals were labelled to test the effects
+                                                                                                                 in substitution patterns (35·5 % (n 453) were
+                                                                                                                 combo meals)
+                                                                                           Dodds et al.       Compared energy selected from one of three ML                  RCT, between-group          Fair     ∙ No differences in total energy selected for adults or children
+                                                                                             (2014)(48)         conditions (parent/child):                                    experiment                          ∙ ML noticing was significantly higher for the TL condition (96 %) than for the kJ labels
+                                                                                                              ∙ No labels                                                                                            condition (82 %; P = 0·001)
+                                                                                                              ∙ kJ labels (with RV)
+                                                                                                              ∙ kJ labels (with RV) + TL
+                                                                                           Liu et al.         Compared energy selected for a meal from one of                RCT, between-group          Fair     ∙ No differences in absolute total energy selected between ML conditions
+                                                                                             (2012)(16)         four ML conditions:                                           experiment                          ∙ When adjusted for covariates, participants exposed to the ranked energy condition
+                                                                                                              ∙ No labels                                                                                           selected a lower energy amount than participants in the no labels condition (−644·3 kJ,
+                                                                                                              ∙ Energy labels (with RV)                                                                             P = 0·013)
+                                                                                                              ∙ Energy labels (with RV), ranked                                                                   ∙ 93·1 % noticed the ML
+                                                                                                              ∙ Energy labels (with RV), ranked +
+                                                                                                                colour coded
+                                                                                           Dowray et al.      Compared energy selected from one of four ML                   RCT, between-group          Fair     ∙ Total energy selected was lower for all ML conditions (−389·1 to − 811·7 kJ, P = 0·02).
+                                                                                             (2013)(50)         conditions:                                                   experiment                            Pairwise comparisons showed significantly lower energy was selected in the energy
+                                                                                                              ∙ No labels                                                                                           labels + PAE (distance) condition v. no labels (P = 0·0007)
+                                                                                                              ∙ Energy labels                                                                                     ∙ For burgers, energy selected was lower for all ML conditions (P = 0·03). Pairwise
+                                                                                                              ∙ Energy labels + PAE (min)                                                                           comparisons showed significantly lower energy was selected in the energy
+                                                                                                              ∙ Energy labels + PAE (distance)                                                                      labels + PAE (distance) condition v. no labels (P = 0·001)
+                                                                                                                                                                                                                  ∙ For side orders, energy selected was lower for all ML conditions (P = 0·02). Pairwise
+                                                                                                                                                                                                                    comparisons showed significantly lower energy was selected in the energy labels +
+                                                                                                                                                                                                                    PAE (distance) condition v. no labels (P = 0·007)
+                                                                                           Morley et al.      Compared energy selected from one of five ML                   RCT, between-group          Fair     ∙ Energy selected was lower for participants exposed to energy labels and energy
+                                                                                            (2013)(49)          conditions:                                                   experiment                             labels + TL (−510·4 kJ, P < 0·05 for both)
+                                                                                                              ∙ No labels
+                                                                                                              ∙ kJ labels (with RV)
+                                                                                                              ∙ kJ labels (with RV) + %DI
+                                                                                                              ∙ kJ labels (with RV) + TL
+                                                                                                              ∙ kJ labels (with RV) + TL + %DI
+                                                                                           Pang &             Compared energy selected from one of four ML                   RCT, between-group          Weak     ∙ For snacks, energy selected was lower for all ML conditions v. no labels (1393·3 kJ):
+                                                                                             Hammond            conditions:                                                   experiment                             energy labels (−144·3 kJ, P = 0·02); energy labels + RV (−156·9 kJ, P = 0·01); and
+                                                                                             (2013)(4)        ∙ No labels                                                                                            energy labels + PAE (−90 kJ, P = 0·05)
+                                                                                                              ∙ Energy labels
+                                                                                                              ∙ Energy labels + RV
+                                                                                                              ∙ Energy labels + PAE (min)
+                                                                                           Roseman et al. Compared energy selected from one of two ML                        RCT, between-group          Weak     ∙ No differences in energy selected between ML conditions
+                                                                                             (2013)(40)     conditions:                                                       experiment
+                                                                                                          ∙ No labels
+                                                                                                          ∙ Energy labels
+
+
+
+
+                                                                                                                                                                                                                                                                                                              2113
+                                                                                           TL, traffic light; ML, menu labelling; RV, reference values; PAE, physical activity equivalent; %DI, %DI, percentage of daily intake; RT, randomized trial; RCT, randomized controlled trial.
+
+===== PAGE 9 =====
+2114                                                                                                                                                                          JA Littlewood et al.
+                                                               Energy labels                 No labels                                                                              Weight (%) Weight (%)
+                        Study                                Total    Mean      SD       Total Mean           SD                                         MD          95 % CI         (fixed)   (random)
+
+                        James et al. (2014)(43)                99     3020.8 1136.4 99 3221.7 1125.9                                                  –200.90 (–516.02, 114.22)        15.6        24.8
+                        Hammond et al. (2013)(44)            165      3105.4 1540.1 162 3512.9 1333.9                                                 –407.50 (–719.61, –95.39)        15.9        25.1
+                        Vanderlee & Hammond (2013)(21) 497            2017.1 982.0 506 2550.6 1413.4                                                  –533.50 (–683.90, –383.10)       68.5        50.1
+
+                        Fixed-effect model                   761                         767                                                          –461.57 (–586.04, –337.10) 100.0              –
+                        Random-effects model                                                                                                          –419.50 (–613.25, –225.76)   –              100.0
+                                        2           2           4
+                        Heterogeneity: I = 44.8 %,  = 1.360 ×10 , P = 0.1634
+                                                                                                                        –600    –200 0 200 400 600
+                                                                                                                                MD (95 % CI)
+
+              Fig. 2 Change in energy consumed associated with menu labelling compared with no menu labelling (all energy change units in
+              kJ). The study-specific mean difference (MD) and 95 % CI are represented by the black dot square and horizontal line, respectively;
+              the area of the grey square is proportional to the specific-study weight to the overall meta-analysis. The centre of the diamond
+              represents the pooled MD and its width represents the pooled 95 % CI
+
+                                                                    Energy labels                 No labels                                                                    Weight (%) Weight (%)
+                          Study                               Total Mean            SD    Total     Mean       SD                                      MD           95 % CI     (fixed)   (random)
+
+                          Vanderlee & Hammond (2013)(21) 497 2089.9 1014.6 506 2623.4 1450.2                                                         –533.50   (–688.17, –378.83)    41.1         27.4
+                          Krieger et al. (2013)(45)      2044 3641.8 2740.9 2043 3801.2 3145.5                                                       –159.40   (–340.29, 21.49)      30.0         25.6
+                          Auchincloss et al. (2013)(22)   327 6510.3 3066.9 321 6991.5 3108.7                                                        –481.20   (–956.75, –5.65)       4.3         10.3
+                          Elbel et al. (2013)(46)         570 3781.1 2848.9 599 4014.1 3087.4                                                        –233.00   (–573.34, 107.34)      8.5         15.6
+                          Brissette et al. (2013)(47)     603 3715.8 2047.6 491 3965.2 2095.8                                                        –249.40   (–496.53, –2.27)      16.1         21.0
+
+                          Fixed-effect model                    4041                      3960                                                       –347.73 (–446.84, –248.61) 100.0              –
+                          Random-effects model                                                                                                       –325.66 (–508.60, –142.71)   –              100.0
+                          Heterogeneity: I 2 = 63.8 %, 2 = 2.554 ×104, P = 0.026
+                                                                                                                               –500    0       500
+                                                                                                                                 MD (95 % CI)
+
+              Fig. 3 Change in energy ordered (per meal or transaction) associated with menu labelling compared with no menu labelling in
+              studies conducted in real-world settings (all energy change units in kJ). The study-specific mean difference (MD) and 95 % CI are
+              represented by the black dot square and horizontal line, respectively; the area of the grey square is proportional to the specific-study
+              weight to the overall meta-analysis. The centre of the diamond represents the pooled MD and its width represents the pooled
+              95 % CI
+
+                                                                 Energy labels                   No labels                                                                      Weight (%) Weight (%)
+                          Study                               Total Mean         SD      Total     Mean            SD                                  MD           95 % CI      (fixed)   (random)
+
+                                               (43)
+                          James et al. (2014)             99 3460.2 1295.8 99                     3774.0      1306.2                                 –313.80   (–676.23, 48.63)        6.4       10.2
+                          Hammond et al. (2013)(44)      165 3560.2 1631.3 162                    3779.8      1332.6                                 –219.60   (–542.19, 102.99)       8.1       11.9
+                          Vanderlee & Hammond (2013)(21) 497 2089.9 1014.6 506       2623.4                   1450.2                                 –533.50   (–688.17, –378.83)     35.1       23.1
+                          Krieger et al. (2013)(45)     2044 3641.8 2740.9 2043      3801.2                   3145.5                                 –159.40   (–340.29, 21.49)       25.7       20.9
+                          Auchincloss et al. (2013)(22)  327 6510.3 3066.9 321       6991.5                   3108.7                                 –481.20   (–956.75, –5.65)        3.7        6.8
+                          Elbel et al. (2013)(46)              570 3781.1 2848.9 599 4014.1                   3087.4                                 –233.00   (–573.34, 107.34)       7.3       11.1
+                          Brissette et al. (2013)(47)          603 3715.8 2047.6 491 3965.2                   2095.8                                 –249.40   (–496.53, –2.27)       13.8       16.1
+
+
+                          Fixed-effect model                4305                         4221                                                        –335.21   (–426.88, –243.55) 100.0           –
+                          Random-effects model                                                                                                       –313.16   (–453.14, –173.19) –             100.0
+                          Heterogeneity: I = 48.4 %,  = 1.587 × 104, P = 0.071
+                                          2           2
+
+                                                                                                                               –500    0       500
+                                                                                                                                  MD (95 % CI)
+
+              Fig. 4 Change in energy ordered (per meal or transaction) associated with menu labelling compared with no-menu labelling
+              (all studies measuring energy ordered; all energy change units in kJ). The study-specific mean difference (MD) and 95 % CI are
+              represented by the black dot square and horizontal line, respectively; the area of the grey square is proportional to the specific-study
+              weight to the overall meta-analysis. The centre of the diamond represents the pooled MD and its width represents the pooled
+              95 % CI
+
+
+              and to assess the importance of ML noticing, according to                                                   considering six studies published between 1976 and
+              the most recent published literature.                                                                       2006, concluded that the effects may be ‘limited in
+                                                                                                                          magnitude’(51). Another review from 2012, based on seven
+                                                                                                                          studies published between 2008 and 2011, suggested that
+              Is menu labelling effective?                                                                                energy labelling had ‘no effect or only a modest effect’(37).
+              Previous reviews cast doubt over the effectiveness of ML                                                    A review from 2014, including thirty-one studies from 2007
+              in changing consumer behaviour with regard to reducing                                                      to 2013, concluded that ‘calorie labels do not have the
+              energy ordered and/or consumed. A review from 2008,                                                         desired effect’(52). More recently in 2015, a review and
+
+
+
+
+https://doi.org/10.1017/S1368980015003468 Published online by Cambridge University Press
+
+===== PAGE 10 =====
+Menu labelling is effective: review of new studies                                                                                                                     2115
+                                                             Energy labels                   No labels                                                          Weight (%) Weight (%)
+                            Study                        Total   Mean        SD      Total    Mean        SD                                MD        95 % CI    (fixed)   (random)
+
+                                                  (48)
+                            Dodds et al. (2014)           104    2579.9      704.2   113 2638.8           859.0                          –58.90 (–267.23, 149.43)     10.4    18.9
+                            Dodds et al. (2014)(48)       104    2181.1   1207.1     113 2130.1          1077.8                           51.00 (–254.47, 356.47)      4.9    12.9
+                            Liu et al. (2012)(16)         106    7010.3    555.6     102 7362.2           814.2                         –351.90 (–542.04, –161.76)    12.5    20.3
+                            Morley et al. (2013)(49)      256    4137.1   1643.1     259 4627.1          1816.7                         –490.00 (–789.10, –190.90)     5.1    13.2
+                            Dowray et al. (2013)(50) 203         3879.0   2852.2     200 4268.5          2424.6                         –389.50 (–906.08, 127.08)      1.7     6.1
+                            Pang & Hammond (2013)(4) 56          1261.9    246.4      61 1392.4           209.2                         –130.50 (–213.69, –47.31)     65.4    28.7
+
+
+                            Fixed-effect model            829                        848                                                –164.54 (–231.84, –97.25)    100.0     –
+                            Random-effects model                                                                                        –201.71 (–343.66, –59.76)     –      100.0
+                                            2           2            4
+                            Heterogeneity: I = 60.2 %,  = 1.648 × 10 , P = 0.028
+                                                                                                                     –500   0         500
+                                                                                                                       MD (95 % CI)
+
+                 Fig. 5 Change in energy selected associated with menu labelling compared with no menu labelling (all energy change units in kJ).
+                 The study-specific mean difference (MD) and 95 % CI are represented by the black dot square and horizontal line, respectively; the
+                 area of the grey square is proportional to the specific-study weight to the overall meta-analysis. The centre of the diamond
+                 represents the pooled MD and its width represents the pooled 95 % CI
+
+
+                 meta-analysis by Long et al., including nineteen studies                                         shaped by a consultation with stakeholders, while imple-
+                 spanning from 2008 to 2013, found a small but statistically                                      mentation was supported with extensive social marketing
+                 signiﬁcant energy reduction in energy ordered per meal,                                          and educational efforts, and industry was provided with
+                 but this was associated with statistically signiﬁcant                                            implementation assistance. Here, an outcome evaluation
+                 heterogeneity across studies(53). Despite no restrictions on                                     resulted in statistically signiﬁcant decreases (−518·8 kJ) in
+                 the published date of the studies included, only those                                           energy ordered and 100 % industry compliance to
+                 published since 2008 were deemed acceptable, due to the                                          legislation, 18 months after implementation(18).
+                 eligibility criteria applied, which excluded studies with ML                                        The strengthening of the evidence over time could also
+                 formats not consistent with the US federal ML laws.                                              be attributed to consumers now being used to see and
+                    The present review includes only studies published                                            expect ML. The notion that repeated exposure is needed
+                 between 2012 and 2014 based on suggestions from other                                            for consumers to notice and understand ML is demon-
+                 authors that ML may become more effective over time, as                                          strated by studies collecting multiple sets of post-labelling
+                 it might more accurately reﬂect consumers’ response to ML                                        data. In such studies ML had a greater impact after 1 year,
+                 as they grow accustomed to the initiative and as industry                                        compared with 6 months(18,45,65). These results, however,
+                 adaptation to legislation becomes more consistent,                                               may also be attributable to reformulation or the addition of
+                 widespread and compliant(18,19,21,37,45,51,54–57). Further, the                                  ‘healthier’ options appearing on menus as a food industry
+                 present review and meta-analysis take ten new primary                                            response to ML(66,67), although some research indicates
+                 studies into account, not included in previous                                                   that ML has little effect on menu items’ overall energy
+                 reviews(4,21,22,38,39,43,44,46–48). A crude tally of results, based                              content(68). The positive effects of repeated exposure, or
+                 on predominantly fair- and good-quality studies, provides                                        consumer familiarity with ML, are further supported by
+                 a more positive outlook compared with earlier reviews.                                           ﬁndings from studies reporting on the level of ML noticing
+                 Nine studies showed statistically signiﬁcant reductions in                                       by participants. ML had no impact where less than 70 % of
+                 energy consumed, ordered or selected. Four studies                                               participants noticed the information(45,46), but ML had a
+                 reported positive effects, depending on consumer                                                 statistically signiﬁcant positive impact with regard to
+                 characteristics, type of establishment or the format of ML.                                      energy ordered and/or consumed for the majority of
+                 Only three articles reported no effect of ML. Furthermore,                                       studies where at least 70 % of participants noticed the
+                 the meta-analysis conﬁrmed that ML is effective in redu-                                         information(21,22,43,44). This social normalization of ML in
+                 cing energy consumed and energy ordered, particularly in                                         restaurants could hence lead to a critical mass of
+                 real-world settings, as well as reducing energy selected in                                      businesses that offer the information necessary to drive
+                 experimental settings.                                                                           industry reformulation to reduce the energy content of
+                    This positive trend may be attributable to new studies                                        menu items.
+                 emerging from countries other than the USA where ML
+                 policy was initially strongly opposed by industry and
+                 gained negative press(58–62). Furthermore, implementation                                        The effects of menu labelling in real-world and
+                 of ML legislation was sporadic and inconsistent across                                           experimental settings
+                 jurisdictions, pending national legislation(63), and practical                                   Other reviews often excluded studies measuring energy
+                 utility and policy compliance were low(64). The US                                               hypothetically selected or studies conducted in laboratory
+                 scenario can be contrasted to the swift implementation of                                        settings(37,51). Such studies were included in the present
+                 ML in New South Wales, Australia, where the policy was                                           review since they can control variables such as ML formats
+
+
+
+
+https://doi.org/10.1017/S1368980015003468 Published online by Cambridge University Press
+
+===== PAGE 11 =====
+2116                                                                                                                   JA Littlewood et al.
+              that can be held constant for items offered, prices and                      choices was not consistent in the current review(16,22,38,39).
+              portion sizes, and can more accurately capture the effects                   This may reﬂect attitudes towards allowing the occasional
+              of ML v. no ML, while internal validity can be strengthened                  indulgence(74), evidenced by some consumers ordering
+              by randomization. Such study designs, however, do not                        about three-quarters of the recommended average daily
+              take into account the strong inﬂuences of price (where                       energy intake in a single meal(16,22). The energy content of
+              few participants actually pay for the meal), food                            similar dishes served at leading family-style restaurants can
+              preferences, participant hunger/satiety level, or the social                 vary considerably(44), largely due to portion sizes(78,79),
+              and environmental contexts of eating behaviour(69,70). To                    where, for example, a ‘small burger and fries’ can range
+              compensate, the quality assessment scheme awarded                            from 2008·3 to 4602·4 kJ between chains(47).
+              more points to real-world studies.                                              There were some instances when energy labelling alone
+                 Four out of seven studies conducted in real-world set-                    reduced energy ordered by 288·7–389·1 kJ(16,39,50),
+              tings resulted in ML statistically signiﬁcantly reducing                     although these decreases were statistically insigniﬁcant.
+              overall energy ordered and consumed(21,22,38,47). Another                    Such reductions could, however, be considered relevant in
+              two real-world studies resulted in statistically signiﬁcant                  terms of public health outcomes, especially for regular
+              reductions in energy ordered for energy-labelled main                        out-of-home eating, since sustained energy decreases as
+              meals(39) and for coffee chains(45). This is a progressive                   small as about 210 kJ per restaurant visit can avert weight
+              and positive step compared with the reviews by Krieger                       gain(80,81). These ﬁndings support the need for ML to
+              and Saelens (2013) and Long et al. (2015), which found                       extend beyond the fast-food setting into table-service/
+              that only those studies conducted in experimental settings                   family-style chain restaurants, to enable consumers to
+              resulted in statistically signiﬁcant energy reductions(17,53).               make within- and between-chain comparisons. Further-
+              The positive impact of ML on consumer behaviour in real-                     more, ML could encourage chain outlets to reduce energy
+              world settings is further highlighted by the results of an                   content through product reformulation. Introducing
+              outcome evaluation of ML implementation in New South                         healthier options or reducing the energy content is a new
+              Wales, Australia, where the median energy purchased                          trend in various food-service outlets, which concurred
+              decreased signiﬁcantly by 15 % from May 2011 to January                      with the introduction of ML, and can save consumers
+              2013(18), and by the results of the current meta-analysis                    hundreds of kilojoules per restaurant visit(66,82).
+              which found a statistically signiﬁcant reduction in energy
+              ordered in real-world settings. Our results are further
+                                                                                           The effects of menu labelling on energy
+              supported by a recent study conducted in dining facilities
+                                                                                           consumption
+              in a university residential hall – the ﬁrst, to the best of our
+                                                                                           Energy consumption, it could be argued, most accurately
+              knowledge, reporting the effects of ML on BMI. In that
+                                                                                           determines the effects of ML, since consumers could
+              study, prolonged exposure to prominent ML was
+                                                                                           respond to ML by eating less(44) and it helps control for
+              associated with halving the likelihood of weight gain in
+                                                                                           social desirability bias(83). All three studies measuring
+              young adults(65). Collectively, these ﬁndings dismiss that
+                                                                                           energy consumption resulted in statistically signiﬁcant
+              positive outcomes are limited to experimental settings or
+                                                                                           energy reductions(21,43,44), in one case as high as 21 %,
+              that these results should be largely due to response bias.
+                                                                                           although in that particular study the energy-labelled menu
+                                                                                           also contained ‘healthier’ reformulated items compared
+                                                                                           with the control menu, which might have contributed to its
+              The effects of menu labelling in different types of
+                                                                                           impact(21). The meta-analysis showed a statistically
+              outlet
+                                                                                           signiﬁcant reduction of 419·5 kJ in the mean energy
+              Most of the studies included in the present review were
+                                                                                           consumed. Thus, current evidence supports that ML can
+              based on ‘typical’ fast-food menus and the majority of
+                                                                                           contribute to obesity prevention by prompting people to
+              these resulted in statistically signiﬁcant reductions of at
+                                                                                           choose more energy-appropriate meals or eating less.
+              least 251 kJ consumed, ordered or selected(43,44,47,49,50).
+              This should be considered very encouraging since the
+              consumption of fast food is frequent, primarily due to its                   The impact of noticing menu labelling
+              affordability and convenience(71,72). The provision of                       While the format of ML was once proposed to be a
+              point-of-purchase energy information can help overcome                       possible explanation for the mixed results as to the effect
+              passive overconsumption(73) and counter pricing incen-                       of ML(16,44,49), the present review suggests the level of
+              tives to ‘up-size’ or ‘bundle’.                                              visibility or noticeability of the information as a more
+                 The present review also included studies conducted in                     important factor. Earlier studies have identiﬁed that ML has
+              table-service restaurants, given their increasing contribu-                  both a salience effect, whereby the provision of prominent
+              tion to total energy intake(74,75) and that their meals are                  energy disclosure incites consumers to have a higher regard
+              high in energy, even compared with fast food(76,77).                         for health when making selections, and a learning effect,
+              Although most patrons appreciate energy information on                       whereby consumers are better able to recall or estimate
+              table-service restaurant menus(16,19,74), the impact on meal                 the energy content of their food and beverage choices(84).
+
+
+
+
+https://doi.org/10.1017/S1368980015003468 Published online by Cambridge University Press
+
+===== PAGE 12 =====
+Menu labelling is effective: review of new studies                                                                                 2117
+                 The current review found evidence of the learning effect,                 supplementary material, Supplemental Table 1). When
+                 when participants presented with ML were better able to                   brand-name non-alcoholic drinks(22), for example, and à la
+                 estimate and recall the energy content of their menu                      carte meals(38) remained unlabelled, energy purchased
+                 choices compared with those whose menu contained no                       increased for these menu items, while there was a corre-
+                 energy information(16,43,44). Previous reviews have often                 sponding decrease for total energy purchased(22) and for
+                 neglected the importance of this factor.                                  labelled combo meals(38) attributable to ML. All menu items
+                                                                                           therefore need to be labelled to ensure shifts in purchase
+                                                                                           patterns are fully informed.
+                 The effects of menu-labelling formats and reference
+                 values
+                                                                                           Sociodemographic aspects of menu labelling
+                 More than half the studies included in the current review
+                                                                                           Sociodemographic differences such as socio-economic
+                 tested the effects of ML offering interpretive guidance.
+                                                                                           status, BMI, race and age had little effect on ML use,
+                 While trafﬁc light labelling and PAE may have enhanced
+                                                                                           supporting the observation by Morley et al.(49) that ML is an
+                 noticeability of ML and improved customer understanding
+                                                                                           equitable initiative. Particularly encouraging is that low
+                 of the information, this did not translate to improved ML
+                                                                                           socio-economic status was earlier associated with little or no
+                 use compared with energy labelling alone. Only one of
+                                                                                           response to ML in studies originating from the USA(91). The
+                 ﬁve studies testing trafﬁc light labelling(39) and two of
+                                                                                           present review quells previous health disparity concerns by
+                 three studies testing PAE(43,50) were more effective in
+                                                                                           showing that ML can be effective across social grades.
+                 reducing energy than the plain disclosure of energy
+                 information. While other studies have found that trafﬁc
+                 lights ‘drew attention to’ and ‘facilitated understanding’(85)            Strengths and limitations
+                 in various settings and across sociodemographic                           Mixed results for the efﬁcacy of ML from studies
+                 groups(83,86), and overcome barriers to ML use such as low                conducted prior to 2012 may partly be explained by
+                 numeracy skills and time needed to consider the                           consumers not noticing or understanding the inclusion of
+                 information(46,87), the colour codes can be considered                    energy values on menus, industry non-compliance,
+                 ‘coercive’ or ‘directive’, which may deter their use(88).                 ineffective labelling presentations or limited consumer
+                 Other studies have found PAE to be effective in reducing                  exposure to ML. The current review is, to the best of our
+                 energy consumed or ordered(23,89,90) by framing energy                    knowledge, the ﬁrst to focus exclusively on articles
+                 information in a more familiar and tangible way, allowing                 published in very recent years (2012–2014) and despite
+                 consumers to comprehend the tradeoffs between energy                      the narrow time period, ﬁfteen articles still met the inclu-
+                 consumption and expenditure(73). A difference of 251 kJ                   sion criteria. The potential strength of the review design
+                 between items, for example, was considered trivial, but an                thereby restricts the evidence to better reﬂect the evolu-
+                 extra 20 min of walking effectively prompted participants                 tion and progressive improvements in ML design and
+                 to consider menu options more carefully(73). PAE, how-                    implementation. This limited scope can, however,
+                 ever, are more often popular with younger consumers(4)                    introduce a bias whereby only studies with positive results
+                 and those of normal weight(47), and may be considered                     of ML have been submitted and accepted for publication
+                 irrelevant by the elderly or those who do not habitually                  in more recent years.
+                 partake in the illustrated physical activity(73).                            A clear limitation of the present review, as well as
+                    It is difﬁcult to isolate the effects of RV from the studies           previous reviews, is that several of the included studies
+                 considered in the present review due to considerable                      had methodological shortcomings, such as incomplete
+                 differences in study designs; most notably, only one tested               ML(21,38,39), medium or small sample size(4,16,39,40,43,48),
+                 the effects of ML + RV compared with plain energy                         lack of case–control match(21,22), and statistically
+                 labelling(4). While the review provides no consistent                     signiﬁcant differences between comparison groups not
+                 evidence as to the effects of RV, a recent meta-analysis                  adjusted for or not reported(4,39,40,47). Only three studies
+                 found that disclosing energy only had marginal effects,                   were rated as good quality.
+                 while adding contextual information in the form of RV                        Seven studies included in the review were conducted in
+                 assisted consumers to signiﬁcantly reduce energy                          real-world settings. It could be argued that results from
+                 consumed by 338·9 kJ and selected by 280·3 kJ(36).                        such settings provide the strongest evidence of the effec-
+                    Other reviews have excluded studies where menus were                   tiveness of ML, since experimental settings do not accu-
+                 only partially labelled(37,51), whereas such studies were                 rately reﬂect the complexity of the eating-out-environment
+                 included in the current review. While partial labelling does              where sights, sounds, smells, price and promotional
+                 not accurately capture the effects of ML in terms of an entire            inﬂuence, among other factors, affect consumer
+                 meal, such designs offer important insights into substitution             choices(69). While studies from experimental settings were
+                 effects and shifts in purchasing patterns between labelled                also included in the present review, the rating criteria
+                 and unlabelled items. The rating scheme, however, took                    scheme awarded this type of setting fewer points,
+                 into account the limitation of selective labelling (online                compared with real-world studies, and analysis of results
+
+
+
+
+https://doi.org/10.1017/S1368980015003468 Published online by Cambridge University Press
+
+===== PAGE 13 =====
+2118                                                                                                                 JA Littlewood et al.
+              was independent for both setting types to control for this                   and duration of educational and social marketing efforts
+              limitation. The meta-analysis conducted on studies                           undertaken to support ML introduction, to more accurately
+              measuring energy ordered in real-world settings shows a                      reﬂect potential reductions of energy consumed, ordered
+              statistically signiﬁcant mean reduction of 325·6 kJ, which                   or selected attributable to the presence of ML. Just as the
+              contradicts the ﬁndings of the meta-analysis by Long                         most effective format of presenting nutrition labelling on
+              et al.(53). However, only ﬁve studies were included in the                   pre-packaged foods is yet to be determined(34), further
+              present meta-analysis, there was statistically signiﬁcant                    studies are required to establish the most effective way of
+              heterogeneity between them and one of the studies was                        displaying ML.
+              classiﬁed as weak. Furthermore, one of the studies inclu-                       Notwithstanding that ML places the burden on the
+              ded offered ‘healthier’ reformulated options in the menus,                   individual to choose energy-appropriate menu items and
+              which could have accounted for its positive impact(21).                      that information-based obesity prevention strategies alone
+              Thus, this calls for a revision of the analysis in the near                  have not stopped or reversed the global trend of increased
+              future to include emerging real-world studies measuring                      population weight, it is still conceivable that ML could
+              energy ordered.                                                              prevent excess energy consumption in the eating-out
+                 Similarly, the consumption of energy can be argued to be                  environment and prevent unhealthy weight gain, given the
+              the best proxy measure of ML efﬁcacy given the extremely                     results of the current review. ML can complement other
+              limited evidence available measuring changes in population                   obesity prevention strategies and it provides information
+              weight. The present meta-analysis showed a statistically                     that is desired by consumers. It is the most sought-after
+              signiﬁcant reduction in energy consumed, and it was based                    nutrition information in restaurant settings,(92) which can
+              on two studies of good quality and one of fair quality.                      enhance consumers’ motivation to use it. Furthermore,
+              However, the scarcity of studies measuring this outcome is                   product reformulation and ‘healthier’ options as an
+              a limitation to the analysis and since reliable methods for                  industry response to ML can reduce energy consumption
+              measuring energy consumption are more intrusive and                          even without consumer knowledge, alleviating the individual
+              costly, it might be some time before enough good-quality                     burden.
+              studies are available for a follow-up analysis. Additionally,
+              studies measuring only consumption of energy in a single
+              meal do not allow us to rule out possible compensatory                       Conclusions
+              energy consumption behaviour in subsequent meals.
+                 Reductions in energy ordered still provide valuable                       The present review found that ML is effective in reducing
+              information in the sense that energy consumption is lim-                     energy ordered and consumed in real-world settings. ML
+              ited by the amount of energy ordered. Studies measuring                      was shown to be effective in various types of food-service
+              energy selected and ordered were included in the present                     outlet and appears to positively affect a large proportion
+              review, but were awarded fewer points than studies                           of the population. It further provides evidence that
+              measuring energy consumed, while the outcomes were                           prolonged, prominent and noticeable labelling of all menu
+              analysed separately. Energy selected as an outcome                           items, preferably with reference values, is important to
+              yielded the lowest rating since the absence of price and                     increase ML use by heterogeneous populations and to
+              fabricated ‘generic’ menus are likely to affect hypothetical                 enable shifts in purchasing patterns guided by the
+              choices. Moreover, some hypothetical meal selections                         prominent display of energy values. Time is needed for
+              were made at random times of the day that did not cor-                       the food-service industry to comply with regulations and
+              respond to a regular mealtime(48). Still, the meta-analysis                  for consumers to become familiar with ML. As the eating-
+              showed that the effect of ML was statistically signiﬁcant                    out environment increasingly contributes to a larger
+              regardless of the measured outcome, although it should be                    proportion of total energy intake, providing energy infor-
+              noted that there was statistically signiﬁcant heterogeneity                  mation at the point of purchase is essential for consumers
+              present in the analysis for both energy selected and energy                  to make informed food choices, and ML should be con-
+              ordered, and the number of studies included is limited for                   sidered an important component in a multifaceted
+              all outcomes. Furthermore, even though no publication                        approach to reduce the burden of overweight and obesity.
+              bias was detected, these tests are generally underpowered
+              and as such publication bias might not have been detected
+              in our sample of studies.                                                    Acknowledgements
+                 More reliable research is needed to determine the
+              impact of ML on reducing energy ordered and consumed                         Acknowledgements: The authors would like to thank Elin
+              in real-world settings. It is important for future studies to                Raakvad for constructive feedback on the manuscript.
+              report on the level of ML awareness, the extent to which                     Financial support: This research received no speciﬁc grant
+              ML exists (partial or full compliance), the time of data                     from any funding agency in the public, commercial
+              collection relative to ML implementation, the inclusion of                   or not-for-proﬁt sectors. Conﬂict of interest: None.
+              contextual or interpretive information, and the intensity                    Authorship: J.A.L. and S.L. formulated the research
+
+
+
+
+https://doi.org/10.1017/S1368980015003468 Published online by Cambridge University Press
+
+===== PAGE 14 =====
+Menu labelling is effective: review of new studies                                                                                      2119
+                 questions, designed the study, carried out the systematic                 18. New South Wales Food Authority (2013) Evaluation of
+                 review and analysed the data for the systematic review.                       Kilojoule Menu Labelling. Newington. NSW: NSW Food
+                                                                                               Authority.
+                 The two authors wrote the article. C.L.I. carried out the                 19. Food Safety Authority of Ireland (2012) Calories on Menus
+                 meta-analysis and made the meta-analysis ﬁgures. G.L.H.                       in Ireland. Report on a National Consultation June 2102.
+                 provided critical review and suggestions for the text and                     Dublin: FSAI.
+                 provided the ﬁnal approval of the version to be published.                20. Roberto CA, Agnew H & Brownell KD (2009) An observa-
+                                                                                               tional study of consumers’ accessing of nutrition information
+                 Ethics of human subject participation: Not applicable.                        in chain restaurants. Am J Public Health 99, 820–821.
+                                                                                           21. Vanderlee L & Hammond D (2014) Does nutrition information
+                                                                                               on menus impact food choice? Comparisons across two
+                 Supplementary material                                                        hospital cafeterias. Public Health Nutr 17, 1393–1402.
+                                                                                           22. Auchincloss AH, Mallya GG, Leonberg BL et al. (2013)
+                 To view supplementary material for this article, please visit                 Customer responses to mandatory menu labeling at
+                 http://dx.doi.org/10.1017/S1368980015003468                                   full-service restaurants. Am J Prev Med 45, 710–719.
+                                                                                           23. Campos S, Doxey J & Hammond D (2011) Nutrition labels
+                                                                                               on pre-packaged foods: a systematic review. Public Health
+                                                                                               Nutr 14, 1496–1506.
+                 References                                                                24. Storcksdieck GBS & Wills JM (2012) Nutrition labeling to
+                                                                                               prevent obesity: reviewing the evidence from Europe. Curr
+                  1. New South Wales Food Authority (2010) Better Regulation                   Obes Rep 1, 134–140.
+                     Statement: Provision of Nutritional Information at Point of           25. Sassi F, Cecchini M, Lauer J et al. (2009) Improving Lifestyles,
+                     Sale in Standard Retail Food Outlets. Newington, NSW:                     Tackling Obesity: The Health and Economic Impact of
+                     NSW Food Authority.                                                       Prevention Strategies. Paris: OECD.
+                  2. Nikolaou CK, Lean ME & Hankey CR (2014)                               26. The Nielsen Company (2012) Battle of the Bulge & Nutrition
+                     Calorie-labelling in catering outlets: acceptability and                  Labels. Healthy Eating Trends Around the World. New
+                     impacts on food sales. Prev Med 67, 160–165.                              York: The Nielsen Company.
+                  3. Mah CL, Vanderlinden L, Mamatis D et al. (2013) Ready for             27. Department of Health, England (2011) The Public Health
+                     policy? Stakeholder attitudes toward menu labelling in                    Responsibility Deal, March 2011. London: Department of
+                     Toronto, Canada. Can J Public Health 104, e229–234.                       Health, England.
+                  4. Pang J & Hammond D (2013) Efﬁcacy and consumer                        28. Food Standards Agency, Northern Ireland (n.d.) Caloriewise
+                     preferences for different approaches to calorie labeling                  scheme. http://www.food.gov.uk/northern-ireland/nutritionni/
+                     on menus. J Nutr Educ Behav 45, 669–675.                                  caloriewise (accessed October 2014).
+                  5. Andersen V (2014) Folkesundhed: Fastfood er da fedt – eller           29. US Food and Drug Administration (2015) Menu and
+                     er det? Copenhagen: Mandag Morgen.                                        Vending Machines Labeling Requirements. http://www.fda.
+                  6. National Restaurant Association (2014) Facts at a Glance.                 gov/Food/IngredientsPackagingLabeling/LabelingNutrition/
+                     Restaurant Industry Sales. http://www.restaurant.org/News-                ucm217762.htm (accessed October 2015).
+                     Research/Research/Facts-at-a-Glance (accessed November                30. New South Wales Food Authority (2014) kJ labelling: fast &
+                     2014).                                                                    snack food menu initiative. http://www.foodauthority.nsw.
+                  7. Block JP, Condon SK, Kleinman K et al. (2013) Consumers’                  gov.au/industry/legislation/proposals-policy/fast-choices.
+                     estimation of calorie content at fast food restaurants: cross             VHWIouG_Tp (accessed November 2014).
+                     sectional observational study. BMJ 346, f2907–f2916.                  31. Government of South Australia (n.d.) User Guide. Display of
+                  8. Rosenheck R (2008) Fast food consumption and increased                    Kilojoules at Multiple-Site Food Businesses. Adelaide, SA:
+                     caloric intake: a systematic review of a trajectory towards               Government of South Australia.
+                     weight gain and obesity risk. Obes Rev 9, 535–547.                    32. Australian Capital Territory Legislative Assembly (2011) Food
+                  9. Bezerra IN, Curioni C & Sichieri R (2012) Association between             (Nutritional Information) Amendment Bill 2011. Explanatory
+                     eating out of home and body weight. Nutr Rev 70, 65–79.                   Statement. Canberra, ACT: ACT Legislative Assembly.
+                 10. Lachat C, Nago E, Verstraeten R et al. (2012) Eating out of           33. Legislative Assembly of Ontario (2015) Bill 45, Making
+                     home and its association with dietary intake: a systematic                Healthier Choices Act, 2015. Toronto, ON: Legislative
+                     review of the evidence. Obes Rev 13, 329–346.                             Assembly of Ontario.
+                 11. Pereira MA, Kartashov AI, Ebbeling CB et al. (2005) Fast-food         34. European Food Information Council (2015) EUFIC’s Global
+                     habits, weight gain, and insulin resistance (the CARDIA                   Update on Nutrition Labelling. Brussels: EUFIC.
+                     study): 15-year prospective analysis. Lancet 365, 36–42.              35. US Food and Drug Administration (2014) Food Labeling;
+                 12. World Health Organization (2014) Overweight and obesity,                  Nutrition Labeling of Standard Menu Items in Restaurants
+                     Fact sheet no. 311. http://www.who.int/mediacentre/                       and Similar Retail Food Establishments. https://www.
+                     factsheets/fs311/en/ (accessed November 2014).                            federalregister.gov/articles/2014/12/01/2014-27833/food-
+                 13. Public Health England (2014) Obesity and Health. http://                  labeling-nutrition-labeling-of-standard-menu-items-in-
+                     www.noo.org.uk/NOO_about_obesity/obesity_and_health                       restaurants-and-similar-retail-food (accessed December
+                     (accessed November 2014).                                                 2014).
+                 14. Danish National Board of Health (2003) National Action                36. Sinclair SE, Cooper M & Mansﬁeld ED (2014) The inﬂuence
+                     Plan Against Obesity. Recommendations and Perspectives,                   of menu labeling on calories selected or consumed: a sys-
+                     Short version. Copenhagen: Danish National Board of Health.               tematic review and meta-analysis. J Acad Nutr Diet 114,
+                 15. Hammond RA & Levine R (2010) The economic impact of                       1375–1388.
+                     obesity in the United States. Diabetes Metab Syndr Obes 3,            37. Swartz JJ, Braxton D & Viera AJ (2011) Calorie menu
+                     285–295.                                                                  labeling on quick-service restaurant menus: an updated
+                 16. Liu PJ, Roberto CA, Liu LJ et al. (2012) A test of different              systematic review of the literature. Int J Behav Nutr Phys Act
+                     menu labeling presentations. Appetite 59, 770–777.                        8, 135–142.
+                 17. Krieger J & Saelens BE (2013) Impact of Menu Labeling on              38. Holmes AS, Serrano EL, Machin JE et al. (2013) Effect
+                     Consumer Behavior: A 2008–2012 Update. Princeton, NJ:                     of different children’s menu labeling designs on family
+                     Robert Wood Johnson Foundation.                                           purchases. Appetite 62, 198–202.
+
+
+
+
+https://doi.org/10.1017/S1368980015003468 Published online by Cambridge University Press
+
+===== PAGE 15 =====
+2120                                                                                                                       JA Littlewood et al.
+              39. Ellison B, Lusk JL & Davis D (2013) Looking at the label and             60. Hartocollis A (2009) Calorie postings don’t change habits, study
+                  beyond: the effects of calorie labels, health consciousness,                 ﬁnds. New York Times, 6 October; available at http://www.
+                  and demographics on caloric intake in restaurants. Int J                     nytimes.com/2009/10/06/nyregion/06calories.html?_r=0
+                  Behav Nutr Phys Act 10, 21–29.                                           61. Public Health Law Center, William Mitchell College of Law
+              40. Roseman MG, Mathe-Soulek K & Higgins JA (2013)                               (2010) Menu Labelling. http://publichealthlawcenter.org/
+                  Relationships among grocery nutrition label users and                        topics/healthy-eating/menu-labeling (accessed November
+                  consumers’ attitudes and behavior toward restaurant menu                     2014).
+                  labeling. Appetite 71, 274–278.                                          62. Farley TA, Caffarelli A, Bassett MT et al. (2009) New York
+              41. R Core Team (2014) R: A Language and Environment for                         City’s ﬁght over calorie labeling. Health Aff (Millwood) 28,
+                  Statistical Computing, 3.03 ed. Vienna: R Foundation for                     w1098–w1109.
+                  Statistical Computing.                                                   63. Center for Science in the Public Interest (2011) State and
+              42. Higgins JPT, Thompson SG, Deeks JJ et al. (2003) Measuring                   Local Menu Labeling Policies. http://cspinet.org/new/pdf/
+                  inconsistency in meta-analyses. BMJ 327, 557–560.                            ml_map.pdf (accessed June 2014).
+              43. James A, Adams-Huet B & Shah M (2014) Menu labels                        64. Cohn EG, Larson EL, Araujo C et al. (2012) Calorie postings
+                  displaying the kilocalorie content or the exercise equivalent:               in chain restaurants in a low-income urban neighborhood:
+                  effects on energy ordered and consumed in young adults.                      measuring practical utility and policy compliance. J Urban
+                  Am J Health Promot 29, 294–302.                                              Health 89, 587–597.
+              44. Hammond D, Goodman S, Hanning R et al. (2013)                            65. Nikolaou CK, Hankey CR & Lean MEJ (2014) Preventing
+                  A randomized trial of calorie labeling on menus. Prev Med                    weight gain with calorie-labeling. Obesity (Sliver Spring) 22,
+                  57, 860–866.                                                                 2277–2283.
+              45. Krieger JW, Chan NL, Saelens BE et al. (2013) Menu labeling              66. Bruemmer B, Krieger J, Saelens BE et al. (2012) Energy,
+                  regulations and calories purchased at chain restaurants. Am                  saturated fat, and sodium were lower in entrees at chain
+                  J Prev Med 44, 595–604.                                                      restaurants at 18 months compared with 6 months
+              46. Elbel B, Mijanovich T, Dixon LB et al. (2013) Calorie                        following the implementation of mandatory menu labeling
+                  labeling, fast food purchasing and restaurant visits. Obesity                regulation in King County, Washington. J Acad Nutr Diet
+                  (Silver Spring) 21, 2172–2179.                                               112, 1169–1176.
+              47. Brissette I, Lowenfels A, Noble C et al. (2013) Predictors of            67. Namba A, Auchincloss A, Leonberg BL et al. (2013)
+                  total calories purchased at fast-food restaurants: restaurant                Exploratory analysis of fast-food chain restaurant menus
+                  characteristics, calorie awareness, and use of calorie infor-                before and after implementation of local calorie-labeling
+                  mation. J Nutr Educ Behav 45, 404–411.                                       policies, 2005–2011. Prev Chronic Dis 10, e101–e108.
+              48. Dodds P, Wolfenden L, Chapman K et al. (2014) The effect                 68. Bauer KW, Hearst MO, Earnest AA et al. (2012) Energy
+                  of energy and trafﬁc light labelling on parent and child fast                content of US fast-food restaurant offerings: 14-year trends.
+                  food selection: a randomised controlled trial. Appetite 73,                  Am J Prev Med 43, 490–497.
+                  23–30.                                                                   69. Booth SL, Sallis JF, Ritenbaugh C et al. (2001) Environmental
+              49. Morley B, Scully M, Martin J et al. (2013) What types of                     and societal factors affect food choice and physical activity:
+                  nutrition menu labelling lead consumers to select less energy-               rationale, inﬂuences, and leverage points. Nutr Rev 59, 3
+                  dense fast food? An experimental study. Appetite 67, 8–15.                   Pt 2, S21–S39.
+              50. Dowray S, Swartz JJ, Braxton D et al. (2013) Potential effect            70. Eertmans A, Baeyens F & Van den Bergh O (2001) Food
+                  of physical activity based menu labels on the calorie content                likes and their relative importance in human eating
+                  of selected fast food meals. Appetite 62, 173–181.                           behavior: review and preliminary suggestions for health
+              51. Harnack LJ & French SA (2008) Effect of point-of-purchase                    promotion. Health Educ Res 16, 443–456.
+                  calorie labeling on restaurant and cafeteria food choices:               71. Rydell SA, Harnack LJ, Oakes JM et al. (2008) Why eat at
+                  a review of the literature. Int J Behav Nutr Phys Act 5, 51.                 fast-food restaurants: reported reasons among frequent
+              52. Kiszko KM, Martinez OD, Abrams C et al. (2014) The                           consumers. J Am Diet Assoc 108, 2066–2070.
+                  inﬂuence of calorie labeling on food orders and consump-                 72. Schindler J, Kiszko K, Abrams C et al. (2013) Environmental
+                  tion: a review of the literature. J Community Health 39,                     and individual factors affecting menu labeling utilization:
+                  1248–1269.                                                                   a qualitative research study. J Acad Nutr Diet 113, 667–672.
+              53. Long MW, Tobias DK, Cradock AL et al. (2015) Systematic                  73. Swartz JJ, Dowray S, Braxton D et al. (2013) Simplifying
+                  review and meta-analysis of the impact of restaurant menu                    healthful choices: a qualitative study of a physical activity
+                  calorie labeling. Am J Public Health 105, e11–e24.                           based nutrition label format. Nutr J 12, 72–81.
+              54. Dumanovsky T, Huang CY, Bassett MT et al. (2010)                         74. Ray K, Clegg S, Davidson R et al. (2013) Evaluation of
+                  Consumer awareness of fast-food calorie information in                       Caloriewise: a Northern Ireland Pilot of the Display of
+                  New York City after implementation of a menu labeling                        Calorie Information in Food Catering Businesses. London:
+                  regulation. Am J Public Health 100, 2520–2525.                               Policy Studies Institute, University of Westminster.
+              55. Berman M & Lavizzo-Mourey R (2008) Obesity prevention                    75. Powell LM & Nguyen BT (2013) Fast-food and full-service
+                  in the information age. Caloric information at the point of                  restaurant consumption among children and adolescents:
+                  purchase. JAMA 300, 433–435.                                                 effect on energy, beverage, and nutrient intake. JAMA
+              56. Ludwig DS & Brownell KD (2009) Public health action amid                     Pediatr 167, 14–20.
+                  scientiﬁc uncertainty. The case of restaurant calorie labeling           76. Auchincloss AH, Leonberg BL, Glanz K et al. (2014)
+                  regulations. JAMA 302, 434–435.                                              Nutritional value of meals at full-service restaurant chains.
+              57. Larson N & Story M (2009) Menu Labeling: Does Providing                      J Nutr Educ Behav 46, 75–81.
+                  Nutrition Information at the Point of Purchase Affect                    77. Urban LE, Lichtenstein AH, Gary CE et al. (2013) The energy
+                  Consumer Behavior? Princeton. NJ: Robert Wood Johnson                        content of restaurant foods without stated calorie informa-
+                  Foundation.                                                                  tion. JAMA Intern Med 173, 1292–1299.
+              58. Roberto CA, Schwartz MB & Brownell KD (2009) Rationale                   78. Scourboutakos MJ & L’Abbe MR (2012) Restaurant menus:
+                  and evidence for menu-labeling legislation. Am J Prev Med                    calories, caloric density, and serving size. Am J Prev Med 43,
+                  37, 546–551.                                                                 249–255.
+              59. Nestle M (2013) Menu labelling: What's new? http://www.                  79. Schwartz J, Riis J, Elbel B et al. (2012) Inviting consumers to
+                  foodpolitics.com/2013/04/menu-labeling-whats-new/                            downsize fast-food portions signiﬁcantly reduces calorie
+                  (accessed July 2014).                                                        consumption. Health Aff (Millwood) 31, 399–407.
+
+
+
+
+https://doi.org/10.1017/S1368980015003468 Published online by Cambridge University Press
+
+===== PAGE 16 =====
+Menu labelling is effective: review of new studies                                                                                     2121
+                 80. Elbel B, Kersh R, Brescoll VL et al. (2009) Calorie labeling and            awareness of health and healthy choices sat the point-
+                     food choices: a ﬁrst look at the effects on low-income people               of-purchase. Prev Med 57, 253–257.
+                     in New York City. Health Aff (Millwood) 28, w1110–w1121.              87.   Thorndike AN, Sonnenberg L, Riis J et al. (2012) A 2-phase
+                 81. Bassett MT, Dumanovsky T, Huang C et al. (2008) Purchasing                  labeling and choice architecture intervention to improve
+                     behavior and calorie information at fast-food chains in New                 healthy food and beverage choices. Am J Public Health
+                     York City, 2007. Am J Public Health 98, 1457–1459.                          102, 527–533.
+                 82. Food and Drug Administration (2011) Food labeling: nutrition          88.   Grunert K & Wills J (2007) A review of European research
+                     labeling of standard menu items in restaurants and similar                  on consumer response to nutrition information on
+                     retail food establishments notice of proposed rulemaking.                   food labels. J Public Health 15, 385–399.
+                     http://www.fda.gov/downloads/Food/LabelingNutrition/                  89.   Fitch RC, Harnack LJ, Neumark-Sztainer DR et al. (2009)
+                     UCM249276.pdf (accessed November 2014).                                     Providing calorie information on fast-food restaurant
+                 83. Harnack LJ, French SA, Oakes JM et al. (2008) Effects of                    menu boards: consumer views. Am J Health Promot 24,
+                     calorie labeling and value size pricing on fast food meal                   129–132.
+                     choices: results from an experimental trial. Int J Behav Nutr         90.   Blumenthal K & Volpp KG (2010) Enhancing the effec-
+                     Phys Act 5, 63.                                                             tiveness of food labeling in restaurants. JAMA 303, 553–554.
+                 84. Bollinger B, Leslie P & Sorensen A (2010) Calorie Posting in          91.   Sarink D, Peeters A, Freak-Poli R et al. (2014) The impact of
+                     Chain Restaurants. Cambridge, MA: National Bureau of                        mandatory menu energy labelling on socio-economic
+                     Economic Research.                                                          disparities in overweight and obesity. Obes Res Clin Pract
+                 85. Feldman C, Harwell H & Brusca J (2013) Using student                        7, Suppl. 2, e123.
+                     opinion and design inputs to develop an informed                      92.   Yoon HJ & George T (2012) Nutritional information
+                     university foodservice menu. Appetite 69, 80–88.                            disclosure on the menu: Focusing on the roles of menu
+                 86. Sonnenberg L, Gelsomin E, Levy DE et al. (2013) A trafﬁc                    context, nutritional knowledge and motivation. Int J
+                     light food labeling intervention increases consumer                         Hospital Manage 31, 1187–1194.
+
+
+
+
+https://doi.org/10.1017/S1368980015003468 Published online by Cambridge University Press

@@ -1,0 +1,760 @@
+SOURCE_PDF: P0-2D_信息过载与线索稀释/The science on front-of-package food labels_2012.pdf
+EXTRACTION_STATUS: ok
+PAGES: 10
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+Public Health Nutrition: 16(3), 430–439                                                                 doi:10.1017/S1368980012000754
+
+
+                            Review Article
+
+                            The science on front-of-package food labels
+                            Kristy L Hawley1,*, Christina A Roberto2, Marie A Bragg2, Peggy J Liu2,
+                            Marlene B Schwartz2 and Kelly D Brownell2
+                            1
+                             The George Washington University School of Medicine and Health Sciences, 2300 I Street NW, Washington,
+                            DC 20037, USA: 2Department of Psychology, Yale University, Rudd Center for Food Policy and Obesity,
+                            New Haven, CT, USA
+
+
+                            Submitted 30 July 2011: Final revision received 23 December 2011: Accepted 7 February 2012: First published online 22 March 2012
+
+                            Abstract
+                            Objective: The US Food and Drug Administration and Institute of Medicine are cur-
+                            rently investigating front-of-package (FOP) food labelling systems to provide science-
+                            based guidance to the food industry. The present paper reviews the literature on FOP
+                            labelling and supermarket shelf-labelling systems published or under review by
+                            February 2011 to inform current investigations and identify areas of future research.
+                            Design: A structured search was undertaken of research studies on consumer use,
+                            understanding of, preference for, perception of and behaviours relating to FOP/
+                            shelf labelling published between January 2004 and February 2011.
+                            Results: Twenty-eight studies from a structured search met inclusion criteria.
+                            Reviewed studies examined consumer preferences, understanding and use of
+                            different labelling systems as well as label impact on purchasing patterns and
+                            industry product reformulation.
+                            Conclusions: The findings indicate that the Multiple Traffic Light system has most                                                      Keywords
+                            consistently helped consumers identify healthier products; however, additional                                      Front-of-package food labelling
+                            research on different labelling systems’ abilities to influence consumer behaviour                                               Nutrition labelling
+                            is needed.                                                                                                                                  Obesity
+
+
+              In May 2010 the White House Childhood Obesity Task                                the number of calories per serving and the per cent daily
+              Force highlighted the need to ‘empower parents and                                calorie value on the front of their food products(7). More
+              caregivers to make healthy choices’ with simple, practical                        recently, prior to the FDA and IOM’s recommendations,
+              information, including improved front-of-package (FOP)                            the Food Marketing Institute and the Grocery Manufacturers
+              food labels(1). Currently the US Food and Drug Admin-                             Association, two of the industry’s largest trade groups,
+              istration (FDA) has undertaken a Front-of-Package                                 announced the introduction of a new ‘Nutrition Keys’
+              Labeling Initiative(2) with the goal of reviewing available                       labelling system(8). The four basic icons on the symbol will
+              evidence on FOP labelling systems to determine whether                            provide information about calories, saturated fat, sodium
+              one approach can be recommended over others. Con-                                 and sugars per serving as well as per cent daily value
+              gress also requested that the Institute of Medicine (IOM)                         (%DV)(9). The label will also highlight up to two nutrients
+              examine this issue and in October 2010 the Committee on                           to encourage which include potassium, fibre, vitamin A,
+              Examination of Front-of-Package Nutrition Ratings Sys-                            vitamin C, vitamin D, calcium, iron and/or protein(9).
+              tems and Symbols released its first of two consensus                                 Much is at stake regarding an FOP labelling system.
+              reports which reviewed the current FOP systems and                                An FDA survey found that 67 % of respondents reported
+              examined the strengths and limitations of the nutrition                           using FOP symbols often or sometimes when making
+              criteria that underlie them(3).                                                   purchasing decisions(10), but the array of non-standardized
+                 A variety of FOP systems exist, including industry-                            labelling systems makes it difficult for consumers to evaluate
+              initiated systems in the USA(4), a Traffic Light (TL)                             and compare the nutritional profiles of foods. In addition,
+              approach in the UK developed by the Food Standards                                each labelling system is based on a different set of nutrition
+              Agency (UK FSA)(5) and the ‘Choices’ programme check                              criteria, which are susceptible to industry manipulation.
+              mark system being used by food manufacturers around                               Furthermore, because people tend to use heuristic-based
+              the world(6). A number of major food manufacturers in                             decision making when pressed for time, consumers are
+              the USA and the UK have also voluntarily agreed to post                           vulnerable to food manufacturers highlighting healthy
+
+
+              *Corresponding author: Email klhawley@gwu.edu                                                                                           r The Authors 2012
+
+
+https://doi.org/10.1017/S1368980012000754 Published online by Cambridge University Press
+
+===== PAGE 2 =====
+The science on front-of-package food labels                                                                                          431
+                                                                      (11)
+                 aspects of an overall unhealthy product . Therefore, it is                Table 1 Studies included in the present review
+                 critical that an informative, easily understood, science-based             1. Vyth EL, Steenhuis IH, Mallant SF et al. (2009)(6)
+                 FOP labelling system be implemented.                                       2. van Kleef E, van Trijp H, Paeps F et al. (2008)(12)
+                    The current paper aims to: (i) evaluate existing                        3. Malam S, Clegg S, Kirwin S et al. (2009)(13)
+                                                                                            4. Lando AM & Labiner-Wolfe J (2007)(14)
+                 research to identify FOP/shelf labelling systems which                     5. Feunekes GI, Gortemaker IA, Willems AA et al. (2008)(15)
+                 hold the most promise; and (ii) identify key FOP/shelf                     6. Kim WK & Kim J (2009)(18)
+                 labelling research needs.                                                  7. Kelly B, Hughes C, Chapman K et al. (2009)(19)
+                                                                                            8. Gorton D, Ni Mhurchu C, Chen MH et al. (2009)(20)
+                                                                                            9. Möser A, Hoefkens C, Van Camp J et al. (2010)(21)
+                                                                                           10. Levy AS, Mathews O, Stephenson M et al. (1985)(22)
+                 Methods                                                                   11. Borgmeier I & Westenhoefer J (2009)(23)
+                                                                                           12. Maubach H & Hoek J (2008)(24)
+                 A structured search of research studies published or under                13. Andrews JC, Burton S & Kees J (2011)(25)
+                                                                                           14. Jones G & Richardson M (2007)(26)
+                 review by February 2011 on consumer use, understanding                    15. Vyth EL, Steenhuis IH, Vlot JA et al. (2010)(27)
+                 of, preference for, perception of and behaviours relating to              16. Sacks G, Rayner M & Swinburn B (2009)(28)
+                 FOP labelling and supermarket shelf-labelling systems was                 17. Steenhuis IH, Kroeze W, Vyth EL et al. (2010)(30)
+                                                                                           18. Drichoutis AC, Lazaridis P & Nayga RM (2009)(31)
+                 performed.                                                                19. Bialkova S & van Trijp H (2010)(32)
+                                                                                           20. Lang JE, Mercer N, Tran D et al. (2000)(33)
+                 Inclusion and exclusion criteria                                          21. Jeffery RW, Pirie PL, Rosenthal BS et al. (1982)(34)
+                 To be considered, a published, in press or under review                   22. Katz DL, Njike VY, Rhee LQ et al. (2010)(35)
+                                                                                           23. Berning JP, Chouinard HH, Manning KC et al. (2010)(37)
+                 research paper had to meet the following criteria: (i) must               24. Sutherland LA, Kaley LA & Fischer L (2010)(38)
+                 relate to FOP nutrition labelling and/or shelf-labelling sys-             25. Grunert KG, Wills JM & Fernandez-Celemin L (2010)(39)
+                 tems and consumer use, understanding, preference, per-                    26. Drewnowski A, Moskowitz H, Reisner M et al. (2010)(40)
+                                                                                           27. Young L & Swinburn B (2002)(41)
+                 ception or behaviour related to that label; (ii) the labels               28. Vyth EL, Steenhuis IH, Roodenburg AJ et al. (2010)(44)
+                 examined must include symbols or nutrition information
+                 flags located on the front of the package or on the super-
+                 market shelf; and (iii) must relate to original research or a
+                 review of research.                                                       Netherlands. The study included young adults, families
+                     Studies were excluded if they: (i) discussed policy and               and individuals over 55 years old(12). The participants
+                 legal strategies for obesity prevention and the FOP/shelf label           reported that an FOP label with information about cal-
+                 was only mentioned; (ii) included general information on                  ories, exercise, %DV and daily caloric amounts provided
+                 FOP/shelf labelling, but did not describe relevant research;              too much information(12). Overall, participants in these
+                 (iii) described nutrition criteria for FOP/shelf labelling, but           groups(12), as well as those participating in a large FOP
+                 not consumer use; (iv) described research related to nutrition            study undertaken by the UK FSA(13), expressed a desire
+                 labels, but not FOP/shelf labels specifically; (v) described              for a simple FOP label. The FDA also evaluated consumer
+                 research on health claims; (vi) were not peer-reviewed                    preference for various FOP labelling systems by con-
+                 research, except for government reports; or (vii) related to              ducting eight focus groups across four US cities(14). Sixty-
+                 nutrition labelling on menus or trans fat labelling.                      eight adults from varying educational backgrounds
+                                                                                           responded most positively to a simple keyhole summary
+                 Search strategy                                                           symbol that included the statement ‘meets FDA Healthy
+                 A search strategy using (‘FOP’ OR ‘front-of-pack’ OR ‘shelf               Meal Guidelines’. In addition, a study conducted by
+                 label’) AND nutrition was run in Medline and adapted                      Unilever found that individuals with low perceived
+                 for other databases including Google Scholar, CINHAL,                     nutritional knowledge reported difficulty understanding
+                 PsychINFO, CDSR and AGRICOLA. Titles and abstracts                        complex FOP labels, although no difference between
+                 were screened for relevance; when in doubt, full papers                   education and comprehension level was observed(15).
+                 were reviewed and/or authors were contacted for clarifica-
+                 tion. In addition, nutrition label researchers were contacted             How should front-of-package labels present calorie
+                 for any in press or under review publications. Twenty-eight               information?
+                 studies were included in the current review (see Table 1).                Calorie information is one of the most frequently accessed
+                                                                                           pieces of information on nutrition labels(12,13,16). In the UK
+                                                                                           FSA study, calorie information was the most understood
+                 Results
+                                                                                           element of FOP labels(13), and those trying to lose weight
+                                                                                           reported using calorie information most frequently(13).
+                 Consumer preferences for label elements and
+                                                                                              One study recommended that calorie information be
+                 systems
+                                                                                           presented in a neutral, white box because when it was
+                 Front-of-package label simplicity                                         displayed inside a starburst shape consumers interpreted
+                 Consumer preferences for labelling systems were asses-                    the attention-grabbing nature of the symbol as an indi-
+                 sed via focus groups in Germany, France, the UK and the                   cation that the calorie information was for the whole
+
+
+
+
+https://doi.org/10.1017/S1368980012000754 Published online by Cambridge University Press
+
+===== PAGE 3 =====
+432                                                                                                                      KL Hawley et al.
+                          (14)
+              package . Consumers also felt that calorie information                       %GDA information particularly difficult to comprehend(13).
+              alone was not enough for them to make an informed                            These findings suggest avoiding percentages as a method of
+              choice; however, that study did not identify what addi-                      providing dietary context on labels.
+              tional information consumers would want(14).
+                 In addition, FOP labels that include information about                    Should front-of-package labels include text to indicate
+              daily caloric needs were viewed positively and could be                      nutrient levels?
+              an important educational tool, as few people in the USA                      The UK FSA study found that the best predictor of suc-
+              can accurately identify such needs(14,16). European focus                    cessful label comprehension was the appearance of text
+              group participants also favoured FOP labels that included                    indicating whether a product had ‘high’, ‘medium’ or ‘low’
+              daily caloric reference values for men and women(12).                        levels of a specific nutrient(13). The study used a factorial
+              Furthermore, research on restaurant menu labelling has                       design for the presence and absence of %GDA, TL and
+              shown that the statement ‘The recommended daily caloric                      interpretive text to examine consumers’ evaluation of the
+              intake for an average adult is 2000 calories’ enhanced the                   level of individual nutrients and the overall healthfulness
+              effect of menu labelling by staving off overeating at a                      of a product. The inclusion of text increased the proportion
+              subsequent meal(17). One concern with a daily caloric                        of correct answers for both product types (main meal sized
+              requirement and per cent dietary intake (%DI) labels is                      portion and snack) for both the evaluation of a single
+              that they are based on a recommended number of calories                      nutrient and overall healthfulness of the product. In addi-
+              that is not suitable for everyone.                                           tion, interviews with customers revealed that shoppers who
+                 It is also important to consider how calorie information                  did not understand that the TL colours were meaningful or
+              should be presented in relation to serving size. Individ-                    had trouble comprehending percentages were assisted by
+              uals in the USA, Korea and the UK were confused by                           the text. These findings suggest that such interpretive text
+              labels showing calories per serving for products often                       can greatly improve label comprehension.
+              consumed in one sitting (i.e. a muffin, 20 ounce soda                           The UK FSA recommends the use of a label combining
+              bottle)(13,14,18). This suggests that calorie information                    TL colours, text which specifies whether the product is high,
+              should be listed per package for these types of foods.                       medium or low in a specific nutrient, and %GDA because it
+              In addition, participants in Europe felt that information                    was liked the best and had good comprehension(13). When
+              about calories per 100 g should be avoided because it                        used alone %GDA was not found to be effective, but when
+              makes it difficult to compare across products and does                       combined with both text and TL colours, the percentage
+              not provide serving size information(12). More research on                   helped some shoppers to determine the level of individual
+              how the presentation of calorie information per serving                      nutrients(13). These findings suggest that if percentages are
+              or per package impacts purchasing behaviour and per-                         to be used on a label, they should be accompanied by text
+              ception of product healthfulness is greatly needed.                          to help with interpretation.
+
+              Should front-of-package labels include percentages?                          Should front-of-package labels include information
+              The purpose of including percentages on labels is to put                     statements about exercise or energy balance?
+              the numbers in context of the overall diet. Research                         There is very little research on how exercise labels or
+              strongly suggests, however, that percentages on FOP                          statements about energy balance appearing on packaged
+              labels are confusing and few people find them helpful. In                    foods may influence consumer perception and behaviour.
+              FDA focus groups, some consumers did not understand                          In European focus groups(12), most participants disliked
+              %DV labels(14) and in European focus groups, symbols                         exercise labels which gave the calories per serving of
+              including a graphic expression of %DV were viewed by                         the product plus the amount of exercise needed to burn
+              consumers as difficult to understand(12). In an Australian                   these calories. While younger consumers liked the label
+              study, individuals in socially disadvantaged areas were six                  because they found it easy to understand and motivating,
+              times less likely to identify the healthier of two foods                     most others argued that the exercise labels would be
+              when using a monochrome %DI symbol in contrast to the                        ‘demotivating and patronizing’ and induce guilt. The
+              TL symbol which resulted in equitable performance                            participants also indicated that FOP labels should avoid
+              across socio-economic groups(19). In that study two ver-                     phrases about energy balance on labels. For example,
+              sions of the TL label also yielded more correct answers for                  a symbol including calories per serving and the phrase
+              the identification of nutrients in food products compared                    ‘balance your energy’ was least preferred and viewed
+              with two variants of the %DI system(19).                                     with scepticism as a marketing tool, which was ‘gimmicky
+                 In a study of 1525 supermarket shoppers in New                            and coercive’. Some respondents saw the label as
+              Zealand, the least preferred among four FOP labelling                        meaningless because they did not understand what it was
+              systems was the %DI label(20). The UK FSA study also                         trying to convey. Larger studies using quantitative meth-
+              found that many people had a poor understanding of                           ods, rather than focus groups, are needed to draw more
+              what information per cent guideline daily amount (%GDA)                      definitive conclusions about the impact of exercise and
+              conveys and those over 65 years old found labels with                        energy balance phrases on FOP labels.
+
+
+
+
+https://doi.org/10.1017/S1368980012000754 Published online by Cambridge University Press
+
+===== PAGE 4 =====
+The science on front-of-package food labels                                                                                         433
+                 What is the appropriate size for a front-of-package                       compared with other approaches. A study of 790
+                 label?                                                                    respondents conducted in Australia(19) tested consumer
+                 Participants in the UK FSA study expressed concern that                   perceptions and performance using four different FOP
+                 the labels were too small and difficult to read, especially               labels: (i) a TL system ranking levels of total fat, saturated
+                 for those requiring reading glasses(13). Given that consumer              fat, sugar and sodium; (ii) TL rankings plus an overall
+                 ability to see the label is important, studies should report              rating (TL1) for the product; (iii) a monochrome %DI
+                 information on the text size of the labels tested and further             label indicating the per cent dietary contribution of
+                 research should seek to determine adequate label size.                    energy, protein, total fat, saturated fat, total carbohydrate,
+                                                                                           sugar, fibre and sodium; (iv) a colour-coded %DI system
+                                                                                           with the same nutrients ranked plus a colour code for
+                 Which front-of-package label do consumers prefer?
+                                                                                           total fat, saturated fat, sugar and sodium. Each respondent
+                 Only a handful of studies have asked consumers about
+                                                                                           was exposed to one labelling format on two sets (a healthy
+                 their preferences regarding different FOP labels. In addition,
+                                                                                           product and less healthy product) of two different food
+                 there is a dearth of research comparing preferences for
+                                                                                           products. A product was defined as healthy if it was eligible
+                 different industry and non-industry developed labels.
+                                                                                           to carry a health claim based on the Australia and New
+                 However, existing research comparing the Multiple Traffic
+                                                                                           Zealand 2007 Food Standards Agency Nutrient Profiling
+                 Light (MTL) label to other FOP labels suggests that con-
+                                                                                           guidelines. The authors found that while people initially
+                 sumers prefer a TL system.
+                                                                                           thought they would have the easiest time using a colour-
+                    A New Zealand study of 1525 supermarket shoppers
+                                                                                           coded %DI label, the TL label was most successful in
+                 found the MTL symbol was preferred most often(20). An
+                                                                                           assisting customers select the healthier food product.
+                 interview-based study of 1019 consumers in Korea(18) found
+                                                                                               In a two-part experimental study, 420 participants were
+                 that 58 % of respondents believed colour differences based
+                                                                                           randomized to one of five label formats: (i) a simple tick;
+                 on nutrient content (as seen on the MTL label) convey
+                                                                                           (ii) an MTL format; (iii) a monochrome GDA; (iv) a colour-
+                 important information, but 33 % of respondents had diffi-
+                                                                                           coded GDA; or (v) a no label control. Exposure to the MTL
+                 culty understanding what the information was conveying.
+                                                                                           symbol yielded the highest percentage of correct choices
+                    Two surveys, one conducted in Germany and one in
+                                                                                           when trying to decide which of two foods was healthier(23).
+                 Belgium, investigated perceptions of their widely used
+                                                                                           However, when participants completed a virtual super-
+                 GDA label compared with the MTL(21). The GDA label
+                                                                                           market task during which they were asked to select all the
+                 provides average energy and macronutrient intake levels
+                                                                                           foods they would eat the next day, no differences in the
+                 per serving that people should consume daily. This label
+                                                                                           energy content of the foods was found across the label
+                 has been criticized because the nutrient reference levels
+                                                                                           conditions.
+                 are not grounded in science, the nutrition requirements
+                                                                                               A study of 1525 ethnically diverse shoppers in New
+                 are based on those for an average adult and therefore not
+                                                                                           Zealand found that the Simple Traffic Light (STL) format
+                 applicable to groups with different needs, and the portion
+                                                                                           led to increased ability to correctly determine if a food
+                 sizes used are unrealistically small. Participants in Ger-
+                                                                                           was healthy, followed very closely by the MTL label(20).
+                 many preferred the MTL label because it was easier to
+                                                                                           ‘Not healthy’ was defined as high in fat, saturated fat and
+                 understand and seen as more appealing and trustworthy
+                                                                                           sodium, and low in fibre, as assessed by a registered die-
+                 than the widely used GDA label. However, a similar study
+                                                                                           titian. The nutrition information panel and %DI label yielded
+                 in Belgium found that Belgians preferred the GDA label
+                                                                                           fewer correct distinctions regarding food healthfulness.
+                 to the MTL, although this was partly explained by Bel-
+                                                                                               In contrast, an Internet survey of 1630 participants from
+                 gians’ familiarity with the GDA symbol. However, older
+                                                                                           four European countries found that survey respondents
+                 individuals and those with a higher BMI had less of a
+                                                                                           viewed the MTL as the easiest to comprehend and most
+                 preference for the GDA label.
+                                                                                           credible. However, when making selections between heal-
+                    More studies on perceptions and use of the MTL label
+                                                                                           thy and less healthy products in the food spreads category,
+                 and other existing FOP symbols in US samples are needed.
+                                                                                           the MTL label differentiated significantly less between pro-
+                 However, several studies have found that consumer pre-
+                                                                                           ducts compared with a label with Smileys or with Stars(15).
+                 ference for a label format is not indicative of label com-
+                                                                                           This significant difference was not found between the other
+                 prehension(13,19,22) or ability to use a label to choose a
+                                                                                           products studied (dairy drink and ice cream), which high-
+                 healthy product(22). This suggests that less emphasis
+                                                                                           lights the need for future research to examine more product
+                 should be placed on studies examining preference alone.
+                                                                                           categories when testing label formats.
+                                                                                               In addition to helping consumers identify the healthier
+                 Consumer understanding and use of labels
+                                                                                           of two products, the TL system impacts perceptions of
+                 Which front-of-package label best helps consumers assess                  healthfulness. When 294 parents and caregivers in New
+                 product healthfulness?                                                    Zealand evaluated pictures of cereals, those who saw the
+                 Existing literature suggests that consumers are better able               MTL label reported significantly lower health scores for
+                 to evaluate food products when using the MTL label                        cereals of poor nutritional quality compared with a control
+
+
+
+
+https://doi.org/10.1017/S1368980012000754 Published online by Cambridge University Press
+
+===== PAGE 5 =====
+434                                                                                                                        KL Hawley et al.
+              condition, while those who viewed a %DI label gave                           informational campaigns to ensure consumers are edu-
+              lower, but not significantly different ratings from a control                cated about the change in label format and the meaning
+              condition(24). In contrast, a web-based study examining                      of the label.
+              perceptions of healthfulness for a frozen chicken dinner
+              with a ‘Smart Choices’ logo, a TL plus %GDA or no logo                       Which front-of-package labels impact food
+              revealed that participants viewed an unhealthy product                       consumption?
+              as being healthier and having lower levels of negative                       In addition to a lack of research on purchasing patterns,
+              nutrients when it had a Smart Choices symbol on it rela-                     few studies have examined how FOP labels influence
+              tive to a no logo control. This was also true, although less                 food consumption. One concern with placing an FOP
+              strong, for the TL plus %GDA symbol compared with the no                     label on food products is that people may eat even more
+              logo control. Furthermore, the Smart Choices icon, relative                  of the product because they perceive it to be healthy. For
+              to the control, led to more favourable product attitudes and                 example, this ‘health halo’ effect has been documented
+              purchase intentions as well as reduced assumptions that                      for products labelled as ‘low fat’(29). To test this possibility
+              regularly eating the food would lead to heart disease and                    with the Choices logo, participants in a laboratory-based
+              weight gain. The TL plus %GDA also led to an increase in                     study using a cross-over design(30) were given a piece of
+              favourable product attitudes and purchase intentions, but                    chocolate mousse cake. In one condition, they were told
+              did not impact perceptions of eating the food and devel-                     the cake qualified for a Choices logo, which was further
+              oping heart disease or gaining weight(25).                                   explained on an information card. In the other condition,
+                 An eye-movement study of ninety-two participants                          they were not told the cake qualified for the Choices
+              comparing a label with eight nutrients to a label with the                   symbol. When the Choices logo appeared on the cake, it
+              same nutrients plus TL symbols for specific nutrients                        was perceived as ‘less unhealthy’, but there was no dif-
+              found that nutrients on the TL were examined most(26).                       ference in taste perception or cake consumption relative
+              Unlike the colourless label format where testing found                       to when the cake did not have the logo on it. This sug-
+              that the nutrients people examined had a limited impact                      gests that the logo does not promote overconsumption of
+              on the nutrients they used when making a judgement, the                      unhealthy foods or cause people to think a food will taste
+              TL guided people to important nutrients which they used                      worse because it is viewed as healthier. It is possible,
+              when making healthfulness judgement. More research                           however, that this would not be the case with other food
+              testing different FOP labels using eye-movement tech-                        products that are not as obviously unhealthy. More
+              nology would be useful.                                                      research on the impact FOP labelling systems have on
+                                                                                           purchasing and consumption of foods is greatly needed.
+              Which front-of-package labels impact food purchases?
+              Little research exists on the impact FOP labelling systems                   For which front-of-package labels are people willing to
+              have on purchasing patterns. One study examined sales                        pay more?
+              of products with the Choices logo(27). Four hundred and                      A study in Greece found that students participating in a
+              four customers exiting nine different grocery stores in the                  laboratory experiment were willing to pay more for
+              Netherlands completed questionnaires while research                          products with nutrition labels v. without. However among
+              staff counted the number of their purchased products that                    the products with nutritional information, the students’
+              contained the Choices logo. The study found that most                        willingness to pay differed across label formats(31). The
+              products purchased with the logo were in the dairy                           study participants were presented with different labelling
+              category, followed by oils and fats, vegetables and fruits,                  schemes and were asked what they would pay for each
+              and finally soups. Out of the 246 participants who were                      product with a nutritional label via a second price Vickrey
+              familiar with the Choices label, seventy-two participants                    auction. Products with a European Union-endorsed label
+              reported purchasing products with the logo and did                           or a TL label were valued more than a US government-
+              indeed buy more products with the logo relative to those                     endorsed label and an unlabelled product. The authors
+              who did not report buying Choices products.                                  noted that the US label provided much more information
+                 There are few studies examining the impact FOP labels                     which might have overwhelmed participants and led to
+              have on actual sales of food products. One study con-                        label indifference.
+              ducted in the UK examined supermarket sales data for
+              two types of food products (chilled pre-packaged meals                       What are the potential problems of the Multiple Traffic
+              and fresh pre-packaged sandwiches) sold by a major                           Light symbol?
+              retailer four weeks before and after the implementation of                   While the MTL symbol has a growing body of research
+              the TL label(28). The study investigators found that the TL                  support, several issues regarding this system arose during
+              labels did not substantially influence the sale of healthier                 the UK FSA study. One concern is that some people did
+              products. However, only two categories of food were                          not realize that the red/amber/green colours had mean-
+              examined over a short period of time. Additionally,                          ing(13). Some assumed the colours were simply being
+              such before-and-after studies should be accompanied by                       used to make the labels stand out. In addition, some
+
+
+
+
+https://doi.org/10.1017/S1368980012000754 Published online by Cambridge University Press
+
+===== PAGE 6 =====
+The science on front-of-package food labels                                                                                        435
+                 individuals thought the colours were related to specific                  were implemented, 31 % of customers in the shelf label
+                 nutrients (i.e. fats were always in red). However, this                   condition reported using the labels.
+                 problem was overcome when text was included on the                           More recently, an interdisciplinary group of nutrition
+                 FOP label to indicate high/medium/low levels of nutri-                    and public health researchers developed the Overall
+                 ents in food products. An additional problem uncovered                    Nutritional Quality Index (ONQI), which served as the
+                 by the UK FSA study was that some consumers did not                       basis for NuVal, a shelf-labelling system that considers
+                 know that different nutrients have different maximum                      nutrient properties as well as associations between
+                 daily amounts, which explained why 0?5 g of salt had an                   nutrients and health outcomes(35). Katz et al. found that
+                 orange label, but 1?4 g of sugars had a green label.                      approximately 80 % of participants in one study (n 804)
+                                                                                           reported the ONQI would influence their purchase
+                 What label characteristics increase attention to                          intentions. While there is a strong correlation between
+                 a front-of-package label?                                                 various food products’ ONQI scores and the products’
+                 A study using a visual search paradigm found that atten-                  nutritional rankings according to expert panellists(36), the
+                 tional performance was faster when a logo was: (i) present                actual algorithm used as the basis for the labelling system
+                 (instead of absent); (ii) doubled in size; and (iii) displayed            has not been released to the public for evaluation.
+                 on the top-right of the package(32). Participants also                       Overall, consumers view shelf-labelling systems posi-
+                 responded faster when viewing a monochromatic v. poly-                    tively and health-conscious consumers are strongly in
+                 chromatic logo. Given the research described thus far                     favour of them(35,37). However, none of these studies
+                 indicating the utility of a polychromatic TL, more research is            directly compared whether consumers would prefer
+                 needed to understand the relationship between response                    shelf-labelling systems more than FOP labels.
+                 time and label comprehension. Finally, attentional perfor-
+                 mance was improved when the logo location did not                         Which shelf labels have impacted food sales?
+                 change in consecutive tasks, suggesting that a single loca-               A few studies have evaluated consumer use of shelf labels
+                 tion for the logo on each product may be most beneficial.                 through sales data, and have generally found a positive
+                                                                                           impact of shelf labels on the purchase of healthy options.
+                 How often do consumers report using supermarket                           A quasi-experimental repeated-measures design invol-
+                 shelf-label systems?                                                      ving twenty grocery stores in the USA was used to
+                 In contrast to FOP food labels, another possible labelling                examine the effect of the ‘Special Diet Alert’ (SDA) pro-
+                 scheme is supermarket shelf-label systems. These systems                  gramme(22). This shelf-labelling programme was imple-
+                 place nutrition information on the shelf underneath or                    mented in ten of the twenty grocery stores, and sales data
+                 above the product, rather than on the actual product                      were compared across various food categories for a
+                 packaging. A number of studies have evaluated con-                        2-year period. In each store 1600 food items were grouped
+                 sumers’ preference for, awareness of and use of nutrition                 into twenty-three food categories (e.g. butter/margarine) and
+                 labels placed on grocery store shelves. One study con-                    then assigned to a product sector that described the amount
+                 ducted in eighteen Detroit supermarkets examined con-                     of a given nutrient (e.g. low/reduced sodium sector). Valid
+                 sumer awareness and use of colour-coded shelf labels                      comparisons between the intervention and control stores
+                 that indicated varying levels of product healthfulness(33).               were made in sixteen instances (fourteen food categories):
+                 Exit surveys of 361 participants revealed that 28 % of the                seven sodium sector comparisons and nine calorie/fat/
+                 sample was aware of the shelf labels, and ethnic and                      cholesterol comparisons.
+                 racial minority groups were significantly more likely to                     Eight of these sixteen instances showed a significant
+                 report awareness than Caucasians. However, 37 % of                        positive effect of the SDA programme. More specifically,
+                 participants reported they did not use the shelf-label                    five low calorie/low fat/low cholesterol sectors (canned
+                 system, with only 17 % of participants reporting use of the               fish, mayonnaise, butter, cottage cheese, fruit juice) and
+                 system ‘often’ or ‘always’.                                               three low sodium sectors (soft drinks, frozen vegetables,
+                    Another study of 400 participants involving eight                      tomato sauce) showed growth trends in market share
+                 supermarkets in Minnesota examined the effect of shelf                    between the intervention and control stores consistent
+                 labels using pre- and post-test surveys that assessed                     with a positive programme effect. Significant market
+                 consumer nutrition knowledge(34). Results indicated that                  share differences between the intervention and control
+                 there were no differences in consumer knowledge between                   stores were not found in the following low fat/low cal-
+                 the control and intervention supermarkets, although data                  orie/low cholesterol sectors: canned fruit, fresh milk, soft
+                 were only collected over the course of 9 months and                       drinks and cheese. A significant market share difference
+                 there were no intensive marketing efforts to promote the                  between intervention and control stores was not found in
+                 programme. In one study, a quasi-experimental repeated-                   the following low sodium sectors: nuts and snacks, dry
+                 measures design was used in twenty matched supermarkets                   cereals, crackers and butter/margarine. Results also
+                 in Washington, DC and Baltimore, MD to evaluate con-                      demonstrated that sales increased by 4 to 8 % in the SDA
+                 sumer use of shelf labels(22). Two years after the shelf labels           condition, indicating a positive effect of the programme.
+
+
+
+
+https://doi.org/10.1017/S1368980012000754 Published online by Cambridge University Press
+
+===== PAGE 7 =====
+436                                                                                                                      KL Hawley et al.
+              A study comparing four supermarkets with shelf labels                        Industry product reformulation
+              and four control supermarkets failed to observe sales
+                                                                                           Which labels will promote food product reformulation?
+              differences based on the shelf-labelling system(34).
+                                                                                           Few studies have examined industry reformulation of
+                 More recently, researchers investigating the impact of
+                                                                                           food products following the implementation of FOP
+              the ‘Guiding Stars’ shelf-labelling system found changes
+                                                                                           labelling systems. It is possible to argue that even a system
+              in sales of ready-to-eat cereals that translated into
+                                                                                           that produces little impact on consumer behaviour could
+              2?9 million more items with stars being purchased monthly
+                                                                                           have considerable public health benefit if companies feel
+              and an equivalent decrease in the products that did
+                                                                                           compelled to reformulate their foods.
+              not receive stars(38). Strengths of the study include the
+                                                                                              When a new logo system was introduced in New
+              participation of 168 supermarkets and analyses of sales
+                                                                                           Zealand, food companies excluded 33 tonnes of salt over
+              data eight months before the start of the programme as
+                                                                                           the course of a year by reformulating products(41). In
+              well as at 1- and 2-year follow-up periods. More sales data
+                                                                                           addition, following the FDA mandate to list trans fat
+              of this nature are clearly needed and future research
+                                                                                           content on packaged food labels(42), the amount of trans
+              should include comparisons across multiple food cate-
+                                                                                           fats was reduced in many products(43), suggesting that
+              gories. In addition, the few studies which have examined
+                                                                                           similar effects would be seen based on the nutrients
+              the influence of demographic factors on shelf-label system
+                                                                                           highlighted on FOP labels. In a larger study examining
+              use(22,38) have reported mixed results on the effect of
+                                                                                           the impact of the Choices programme on product refor-
+              income and education on preference for shelf-labelling
+                                                                                           mulation in the Netherlands, Vyth et al.(44) retrieved
+              systems(37) and/or used samples of primarily middle-aged
+                                                                                           nutritional information for 821 products from food man-
+              women(34,37).
+                                                                                           ufacturers participating in the programme. The authors
+                                                                                           found that 168 products were reformulated after the
+              What nutrients should appear on front-of-package or
+                                                                                           Choices logo was introduced and 236 newly developed
+              shelf labels?
+                                                                                           products meeting the Choices criteria were introduced
+              The decision regarding which nutrients to highlight on an
+                                                                                           into the market. After reformulation, there was a sig-
+              FOP labelling system is complex and consumer preference
+                                                                                           nificant increase in fibre for fruit juices and sandwiches.
+              is only a small piece. Respondents in the UK reported that
+                                                                                           Sodium and SFA levels were reduced in processed meats
+              they most frequently look for fat, then sugar, calories, salt,
+                                                                                           as was sodium in sandwiches, sandwich fillings and
+              saturates and additives(39). In the UK FSA study participants
+                                                                                           soups. Dairy products saw a decrease in SFA, added sugar
+              usually started with calorie information when determining
+                                                                                           and energy, and added sugars were reduced in sauces.
+              product healthfulness because it was the most easily
+                                                                                           Finally, sandwich fillings also decreased in SFA, trans fat
+              understood(13). Participants felt the next most understood
+                                                                                           and energy. Products that were newly developed had
+              element was salt, and saturated fats were the least well
+                                                                                           increased fibre levels for fruit juice; less sodium and
+              understood and used. Individuals with medical conditions
+                                                                                           increased fibre for processed meats; lower SFA and added
+              reported most frequently checking sugar content if diabetic
+                                                                                           sugar and more fibre for dairy products; more fibre for
+              and salt and fat content for those with heart disease. Those
+                                                                                           sandwiches, although added sugar levels increased; and
+              shopping for children most frequently checked salt and
+                                                                                           lower sodium and more fibre for soups. However, for
+              sugar. In a Korean survey, most people felt four or five
+                                                                                           newly developed products, energy was unchanged across
+              nutrients should be displayed on the FOP label, including
+                                                                                           all product groups. The Choices stamp used in the
+              calories, trans fat, total fat, cholesterol and sodium(18). In its
+                                                                                           Netherlands at this time did not include calorie informa-
+              first report, the IOM noted that ‘Americans consume too
+                                                                                           tion on the logo. Displaying the calorie information with
+              many calories, saturated fats, trans fats, and added sugars;
+                                                                                           the logo may have encouraged manufacturers to decrease
+              too much sodium; and too little vitamin D, calcium, potas-
+                                                                                           the energy in products.
+              sium, and fiber’(3), suggesting that these nutrients should be
+              the focus of FOP labels. However, in an online consumer
+                                                                                           Improving label awareness and trust
+              study of 320 mostly female participants located in the USA,
+              consumer perception of food healthfulness was most pri-                      How do demographics impact label awareness and use?
+              marily driven by the presence of protein, fibre, calcium and                 In a study commissioned by the Choices Foundation(6),
+              vitamin C, and the absence of saturated fat and sodium(40).                  the elderly, obese and those with diet-related health
+              The finding that the presence of positive nutrients can                      problems expressed the need for an FOP logo, although
+              greatly influence health perceptions cautions against the                    respondents over 50 years old were less familiar with the
+              inclusion of such nutrients on FOP labels appearing                          Choices logo after it was launched. Interestingly, respon-
+              on nutritionally poor foods. One option is to highlight                      dents with a lower education reported paying more atten-
+              problem nutrients associated with the most prevalent health                  tion to the logo. In the Netherlands, women liked the
+              problems in the USA. In addition, it should be considered                    Choices logo more than men overall.
+              that those nutrients that appear on an FOP label will likely                    A study conducted in New Zealand(20), which recruited
+              be the greatest focus of potential industry reformulation.                   ethnically diverse shoppers in supermarkets, found that
+
+
+
+
+https://doi.org/10.1017/S1368980012000754 Published online by Cambridge University Press
+
+===== PAGE 8 =====
+The science on front-of-package food labels                                                                                              437
+                 those 18–24 years old were less likely to use labels. Indivi-             Table 2 Summary of science on front-of-package (FOP)/shelf
+                 duals with special dietary requirements and from house-                   labelling systems
+                 holds with medium income compared to low income were                      > The Multiple Traffic Light label is the FOP system with the
+                                                                                             greatest empirical support.
+                 more likely to use labels.                                                > FOP labels should convey calories per serving, daily caloric
+                                                                                             requirements and specific nutrient levels with high/medium/low
+                 Should a uniform labelling system be used on all products?                  text.
+                                                                                           > Highlighted nutrients should be associated with the most
+                 Several studies have found that consumers desire uniform                    prevalent health problems in the USA.
+                 FOP systems across products(12,19). However, participants                 > Nutrients appearing on an FOP or shelf label will likely be the
+
+                 in focus groups in the Netherlands expressed concern                        greatest focus of industry reformulation.
+                                                                                           > Products consumed in one sitting should contain calorie
+                 that a diversity of product categories such as vegetables                   information per package.
+                 and snacks carrying the same logo would be confusing(6).                  > Labels should be prominent in size and consistently displayed
+                                                                                             on the top-right of the package.
+                                                                                           > Shelf-labelling systems such as ‘Guiding Stars’ and ‘Special Diet
+                 Should front-of-package labels be government mandated                       Alert’ hold promise.
+                                                                                           > The labelling system should be viewed as a credible and trusted
+                 or done voluntarily by industry?
+                                                                                             source of information.
+                 A common theme throughout several studies was that FOP                    > More research is needed to test potential FOP and shelf
+                 labels will be maximally effective if the label is perceived as             labelling systems among diverse US populations.
+                 credible. Focus group studies have found that individuals
+                 consistently desire a label where the definition of healthful-
+                 ness is understood and comes from a trusted source(6,12,26).
+                                                                                           varied widely in the type of labelling systems tested, the
+                 European focus groups also found that an official endorse-
+                                                                                           methods used, the outcomes examined and the partici-
+                 ment from a national or international organization strongly
+                                                                                           pants studied (see Table 2). A concerted research effort is
+                 increased the consumer perception of credibility, while
+                                                                                           necessary to discover which FOP or shelf labelling system
+                 endorsements by the European Union and European food
+                                                                                           is most beneficial to consumers. An ineffective labelling
+                 manufacturers were perceived as less credible compared
+                                                                                           system could be misleading, deceptive, or at the very least
+                 with the WHO or a national nutrition organization(12). People
+                                                                                           represent a lost opportunity to improve public health.
+                 were more sceptical if they thought the symbol was
+                                                                                               Based on current knowledge, the MTL label has the
+                 developed by the food industry(6). The UK FSA study also
+                                                                                           most consistent support. Research suggests that an
+                 found that some consumers were sceptical about FOP labels
+                                                                                           effective MTL label should contain calorie information per
+                 because they thought the food companies were using
+                                                                                           serving, daily caloric requirement information and convey
+                 them to push certain products and therefore could not be
+                                                                                           nutrient levels using high, medium or low text. The most
+                 trusted(13). In contrast, others disliked the labels because they
+                                                                                           prevalent health problems in the USA would indicate the
+                 felt the government was trying to tell them what to eat.
+                                                                                           need to highlight saturated fat, sodium and sugar. In
+                                                                                           addition, products consumed in one sitting should con-
+                 The need for an information campaign                                      tain calorie information per package. A uniform labelling
+                 After the implementation of the Choices programme in the                  system that is prominent and consistently located in the
+                 Netherlands, focus group participants generated a variety of              top-right corner of the package should be implemented.
+                 explanations for the logo such as ‘product health, safety or              It is also important that the labelling system be viewed as
+                 natural or organic product’ and some people in the UK were                credible, which will most likely be achieved through
+                 confused about the meaning of the TL colours. Given                       endorsements from national and international agencies,
+                 concerns about the credibility of a system, misinterpretation             rather than an industry-created system.
+                 of FOP label elements and overall label messages(6), it will                  Such a label and its variants must be tested in diverse
+                 be important to undertake a public health information                     populations. In addition, different versions of the TL
+                 campaign to inform consumers about what an FOP label                      labels should be tested against possible alternatives that
+                 means and how it should be interpreted. When the Nutri-                   have not yet been compared with the TL symbol,
+                 tion Facts panel was first released, the Nutritional Labeling             including the Choices logo. Given that the Guiding Stars
+                 and Education Act funded a nationwide multi-lingual edu-                  and the SDA shelf-label systems have had some impact on
+                 cation campaign that attempted to reach every American                    product sales, these should also be tested against the TL
+                 household(45). However, little research exists evaluating the             and Choices symbol as both a shelf-tag labelling system
+                 marketing campaign’s influence. This will likely be an                    and a possible FOP graphic type. Furthermore, con-
+                 important component of any FOP initiative.                                sumers’ preference for and use of FOP labels should be
+                                                                                           compared more generally with preference for and use of
+                 Discussion                                                                supermarket shelf-labelling systems. Real-world studies
+                                                                                           that evaluate sales data as well as consumer behaviour in
+                 Research on FOP labelling systems in a variety of coun-                   response to FOP and shelf labelling systems are greatly
+                 tries has produced mixed results. Existing studies have                   needed. Finally, more research is needed to understand
+
+
+
+
+https://doi.org/10.1017/S1368980012000754 Published online by Cambridge University Press
+
+===== PAGE 9 =====
+438                                                                                                                          KL Hawley et al.
+              Table 3 Research needs on front-of-package (FOP)/shelf labelling                   labeling initiative to inform consumers and combat obesity.
+              systems                                                                            http://www.fmi.org/news_releases/index.cfm?fuseaction5
+              > Study participants should be representative of the US popula-                    mediatext&id51207 (accessed February 2011).
+                tion; therefore it is necessary to include participants from diverse        9.   Grocery Manufacturers Association (2011) Nutrition Keys
+                socio-economic backgrounds and literacy levels.                                  front-of-pack labeling initiative. http://www.gmaonline.
+              > Eye-movement technology and virtual supermarket settings                         org/issues-policy/health-nutrition/responsible-public-policy-
+                should be used to further investigate differences in FOP and                     solutions/nutrition-keys-front-of-pack-labeling-initiative/
+                shelf label comprehension.                                                       (accessed February 2011).
+              > Supermarket sales data should be used in large-scale before-               10.   Choinière CJ, Lando AM (2010) 2008 Health and Diet
+                and-after studies to examine the impact new labelling formats                    Survey. http://www.fda.gov/Food/ScienceResearch/Research
+                have on consumers’ purchasing behaviour.                                         Areas/ConsumerResearch/ucm193895.htm (accessed April
+              > Studies examining the influence of FOP and shelf labels on food                  2010).
+                and beverage consumption are needed.                                       11.   Schofield H & Mullainathan S (2008) The psychology of
+              > Willingness-to-pay studies should be used to determine the                       nutrition messages. Adv Health Econ Health Serv Res 19,
+                kinds of labels consumers might be willing to pay extra money                    145–172.
+                for to guarantee better nutrition information.                             12.   van Kleef E, van Trijp H, Paeps F et al. (2008) Consumer
+              > Research on the most effective ways to educate the public
+                                                                                                 preferences for front-of-pack calories labelling. Public
+                about a new labelling system and how to interpret it is needed.
+                                                                                                 Health Nutr 11, 203–213.
+                                                                                           13.   Malam S, Clegg S, Kirwin S et al. (2009) Comprehension
+                                                                                                 and use of UK nutrition signpost labelling schemes. http://
+                                                                                                 www.food.gov.uk/multimedia/pdfs/pmpreport.pdf (accessed
+              how best to inform and teach consumers to interpret a                              October 2010).
+                                                                                           14.   Lando AM & Labiner-Wolfe J (2007) Helping consumers
+              new labelling system (see Table 3).                                                make more healthful food choices: consumer views on
+                                                                                                 modifying food labels and providing point-of-purchase
+                                                                                                 nutrition information at quick-service restaurants. J Nutr
+              Acknowledgements                                                                   Educ Behav 39, 157–163.
+                                                                                           15.   Feunekes GI, Gortemaker IA, Willems AA et al. (2008)
+              This work was supported in part by funding from the                                Front-of-pack nutrition labelling: testing effectiveness of
+              Rudd Foundation and the Robert Wood Johnson Founda-                                different nutrition labelling formats front-of-pack in four
+                                                                                                 European countries. Appetite 50, 57–70.
+              tion. None of the authors reported any financial disclosures                 16.   International Food Information Council Foundation (2007)
+              or conflicts of interest. K.L.H. and C.A.R. originated the idea                    Global consumer perception and use of nutrition informa-
+              for the review paper and led the writing. M.A.B. contributed                       tion on food labels. http://www.foodinsight.org/News
+              significantly to the drafting of the original manuscript.                          letter/Detail.aspx?topic5Global_Consumer_Perceptions_
+                                                                                                 and_Use_of_Nutrition_Information_on_Food_Labels (accessed
+              K.D.B., P.J.L. and M.B.S. provided critical feedback on drafts                     July 2010).
+              of the manuscript.                                                           17.   Roberto CA, Larsen PD, Agnew H et al. (2010) Evaluating
+                                                                                                 the impact of menu labeling on food choices and intake.
+                                                                                                 Am J Public Health 100, 312–318.
+              References                                                                   18.   Kim WK & Kim J (2009) A study on the consumer’s
+                                                                                                 perception of front-of-pack nutrition labeling. Nutr Res
+                1. White House Task Force on Childhood Obesity (2010)                            Pract 3, 300–306.
+                   Solving the problem of childhood obesity within a                       19.   Kelly B, Hughes C, Chapman K et al. (2009) Consumer
+                   generation. http://www.letsmove.gov/pdf/TaskForce_on_                         testing of the acceptability and effectiveness of front-of-
+                   Childhood_Obesity_May2010_FullReport.pdf            (accessed                 pack food labelling systems for the Australian grocery
+                   October 2010).                                                                market. Health Promot Int 24, 120–129.
+                2. US Food and Drug Administration (2010) New front-                       20.   Gorton D, Ni Mhurchu C, Chen MH et al. (2009) Nutrition
+                   of-package labeling initiative. http://www.fda.gov/food/                      labels: a survey of use, understanding and preferences
+                   labelingnutrition/ucm202726.htm (accessed October 2010).                      among ethnically diverse shoppers in New Zealand. Public
+                3. Wartella EA, Lichtenstein AH & Boon CS (2010) Examina-                        Health Nutr 12, 1359–1365.
+                   tion of front-of-package nutrition rating systems and                   21.   Möser A, Hoefkens C, Van Camp J et al. (2010) Simplified
+                   symbols: Phase I report. http://www.iom.edu/Reports/2010/                     nutrient labelling: consumers’ perceptions in Germany and
+                   Examination-of-Front-of-Package-Nutrition-Rating-Systems-                     Belgium. J Verbrauch Lebensm 5, 169–180.
+                   and-Symbols-Phase-1-Report.aspx (accessed February 2011).               22.   Levy AS, Mathews O, Stephenson M et al. (1985) The
+                4. Center for Science in the Public Interest (2010) Food                         impact of a nutrition information program on food
+                   labeling chaos: the case for reform. http://cspinet.org/new/                  purchases. J Public Policy Mark 4, 1–13.
+                   pdf/food_labeling_chaos_report.pdf (accessed October                    23.   Borgmeier I & Westenhoefer J (2009) Impact of different
+                   2010).                                                                        food label formats on healthiness evaluation and food
+                5. National Health Service (2010) Traffic light labeling.                        choice of consumers: a randomized-controlled study. BMC
+                   http://www.eatwell.gov.uk/foodlabels/trafficlights/ (accessed                 Public Health 9, 184.
+                   October 2010).                                                          24.   Maubach H & Hoek J (2008) The effect of alternative
+                6. Vyth EL, Steenhuis IH, Mallant SF et al. (2009) A front-of-                   nutrition information formats on consumers’ evaluations of
+                   pack nutrition logo: a quantitative and qualitative process                   a children’s breakfast cereal. http://ro.uow.edu.au/insm08/
+                   evaluation in the Netherlands. J Health Commun 14,                            1/ (accessed April 2011).
+                   631–645.                                                                25.   Andrews JC, Burton S & Kees J (2012) Is simpler always
+                7. Switt J (2007) Labeling around the globe: helping to direct                   better? Consumer evaluations of front-of-package nutrition
+                   food flow. J Am Diet Assoc 107, 199–200.                                      symbols. J Public Policy Mark 30, 175–190.
+                8. Food Marketing Institute (2010) Food and beverage                       26.   Jones G & Richardson M (2007) An objective examination
+                   industry launches nutrition keys front-of-pack nutrition                      of consumer perception of nutrition information based on
+
+
+
+
+https://doi.org/10.1017/S1368980012000754 Published online by Cambridge University Press
+
+===== PAGE 10 =====
+The science on front-of-package food labels                                                                                              439
+                       healthiness ratings and eye movements. Public Health Nutr           36. Katz DL, Njike VY, Faridi Z et al. (2009) The stratification of
+                       10, 238–244.                                                            foods on the basis of overall nutritional quality: the overall
+                 27.   Vyth EL, Steenhuis IH, Vlot JA et al. (2010) Actual use of a            nutritional quality index. Am J Health Promot 24, 133–143.
+                       front-of-pack nutrition logo in the supermarket: consu-             37. Berning JP, Chouinard HH, Manning KC et al. (2010)
+                       mers’ motives in food choice. Public Health Nutr 13,                    Identifying consumer preferences for nutrition information
+                       1882–1889.                                                              on grocery store shelf labels. Food Policy 35, 429–436.
+                 28.   Sacks G, Rayner M & Swinburn B (2009) Impact of front-of-           38. Sutherland LA, Kaley LA & Fischer L (2010) Guiding stars: the
+                       pack ‘traffic-light’ nutrition labelling on consumer food               effect of a nutrition navigation program on consumer purchases
+                                                                                               at the supermarket. Am J Clin Nutr 91, issue 4, 1090S–1094S.
+                       purchases in the UK. Health Promot Int 24, 344–352.
+                                                                                           39. Grunert KG, Wills JM & Fernandez-Celemin L (2010)
+                 29.   Chandon P & Wansink B (2007) The biasing health halos of
+                                                                                               Nutrition knowledge, and use and understanding of
+                       fast-food restaurant health claims: lower calorie estimates             nutrition information on food labels among consumers in
+                       and higher side-dish consumption intentions. J Consum Res               the UK. Appetite 55, 177–189.
+                       34, 301–314.                                                        40. Drewnowski A, Moskowitz H, Reisner M et al. (2010)
+                 30.   Steenhuis IH, Kroeze W, Vyth EL et al. (2010) The effects of            Testing consumer perception of nutrient content claims
+                       using a nutrition logo on consumption and product                       using conjoint analysis. Public Health Nutr 13, 688–694.
+                       evaluation of a sweet pastry. Appetite 55, 707–709.                 41. Young L & Swinburn B (2002) Impact of the Pick the Tick
+                 31.   Drichoutis AC, Lazaridis P & Nayga RM (2009) Would                      food information programme on the salt content of food in
+                       consumers value food-away-from-home products with                       New Zealand. Health Promot Int 17, 13–19.
+                       nutritional labels? Agribusiness 25, 550–575.                       42. US Food and Drug Administration (2003) Guidance for
+                 32.   Bialkova S & van Trijp H (2010) What determines consumer                industry: trans fatty acids in nutrition labeling, nutrient
+                       attention to nutrition labels? Food Qual Prefer 21,                     content claims, health claims; Small entity compliance guide.
+                       1042–1051.                                                              http://www.fda.gov/Food/GuidanceComplianceRegulatory
+                 33.   Lang JE, Mercer N, Tran D et al. (2000) Use of a                        Information/GuidanceDocuments/FoodLabelingNutrition/
+                       supermarket shelf-labeling program to educate a predomi-                ucm053479.htm#fn1 (accessed October 2010).
+                                                                                           43. Eckel RH, Borra S, Lichtenstein AH et al. (2007) Under-
+                       nately minority community about foods that promote heart
+                                                                                               standing the complexity of trans fatty acid reduction in the
+                       health. J Am Diet Assoc 100, 804–809.                                   American diet: American Heart Association Trans Fat
+                 34.   Jeffery RW, Pirie PL, Rosenthal BS et al. (1982) Nutrition              Conference 2006: Report of the Trans Fat Conference
+                       education in supermarkets: an unsuccessful attempt to                   Planning Group. Circulation 115, 2231–2246.
+                       influence knowledge and product sales. J Behav Med 5,               44. Vyth EL, Steenhuis IH, Roodenburg AJ et al. (2010) Front-
+                       189–200.                                                                of-pack nutrition label stimulates healthier product develop-
+                 35.   Katz DL, Njike VY, Rhee LQ et al. (2010) Performance                    ment: a quantitative analysis. Int J Behav Nutr Phys Act 7, 65.
+                       characteristics of NuVal and the Overall Nutritional Quality        45. Philipson T (2005) Government perspective: food labeling.
+                       Index (ONQI). Am J Clin Nutr 91, issue 4, 1102S–1108S.                  Am J Clin Nutr 82, 1 Suppl., 262S–264S.
+
+
+
+
+https://doi.org/10.1017/S1368980012000754 Published online by Cambridge University Press

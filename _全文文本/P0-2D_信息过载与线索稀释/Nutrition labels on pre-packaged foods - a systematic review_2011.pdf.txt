@@ -1,0 +1,828 @@
+SOURCE_PDF: P0-2D_信息过载与线索稀释/Nutrition labels on pre-packaged foods - a systematic review_2011.pdf
+EXTRACTION_STATUS: ok
+PAGES: 11
+NOTE: none
+EXTRACTOR: poppler pdftotext -layout -enc UTF-8
+---
+
+===== PAGE 1 =====
+Public Health Nutrition: 14(8), 1496–1506                                                        doi:10.1017/S1368980010003290
+
+
+                            Nutrition labels on pre-packaged foods: a systematic review
+                            Sarah Campos, Juliana Doxey and David Hammond*
+                            Department of Health Studies and Gerontology, University of Waterloo, 200 University Avenue West, Waterloo,
+                            Ontario N2L 3G1, Canada
+
+
+                            Submitted 18 March 2010: Accepted 20 October 2010: First published online 18 January 2011
+
+                            Abstract
+                            Objective: To review research on consumer use and understanding of nutrition
+                            labels, as well as the impact of labelling on dietary habits.
+                            Design: A systematic review was conducted by searching electronic databases.
+                            Relevant articles were screened by two reviewers and included if they met
+                            inclusion criteria, including eight methodological criteria. A total of 120 articles
+                            were included in the review, including cross-sectional surveys (n 96), experi-
+                            mental designs (n 17), ‘natural experiments’ (n 7) and longitudinal population-
+                            based surveys (n 2).
+                            Setting: Articles covered seven jurisdictions: USA (n 88), Europe (n 12), Canada (n 9),
+                            Australia and New Zealand (n 4), Norway (n 2), Thailand (n 1) and Trinidad (n 1).
+                            Subjects: Participants were from a wide range of age groups, socio-economic strata
+                            and geographical regions.
+                            Results: Nutrition labels on pre-packaged foods are among the most prominent
+                            sources of nutrition information. Nutrition labels are perceived as a highly credible
+                            source of information and many consumers use nutrition labels to guide their
+                            selection of food products. Evidence also shows a consistent link between the use of
+                            nutrition labels and healthier diets. However, the use of labels varies considerably
+                            across subgroups, with lower use among children, adolescents and older adults who
+                            are obese. Research also highlights challenges in terms of consumer understanding
+                            and appropriate use of labelling information.                                                                             Keywords
+                            Conclusions: Nutrition labels on pre-packaged foods are a cost-effective population-                                         Nutrition
+                            level intervention with unparalleled reach. However, to capitalize on their potential,                                         Labels
+                            governments will need to explore new formats and different types of information                                         Food products
+                            content to ensure that nutrition information is accessible and understandable.                                                 Policy
+
+
+
+
+              The prevalence of overweight and obesity is increasing at                         labels have broad reach and are present at the point
+              an alarming rate(1,2). Globally, approximately 1?6 billion                        of purchase, as well as when food is prepared or
+              adults are overweight and over 400 million are obese(2).                          consumed(7). The display of nutritional information on
+              Although obesity is more common in high-income                                    pre-packaged foods is mandatory in most high-income
+              countries, increases in obesity have occurred in many                             countries. In the USA, the Nutrition Labelling and Educa-
+              low- and middle-income countries, particularly among                              tion Act of 1990 mandates that pre-packaged foods carry a
+              urban populations(2). The increasing prevalence of over-                          nutrition label, with exceptions for foods intended for
+              weight and obesity places a considerable burden on                                immediate consumption(8). In Canada, mandatory nutrition
+              public health, including increases in CVD, diabetes,                              labelling was first implemented on pre-packaged foods in
+              arthritis, sleep and breathing disorders, depression, as                          December 2005 and became mandatory on virtually all
+              well as functional limitations(3). Diet is also estimated to                      pre-packaged foods in 2007(8–10). Nutrition labelling on
+              account for approximately 30 % of cancers in indus-                               pre-packaged foods remains voluntary in the European
+              trialized countries, making it the second largest modifi-                         Union, except in the case of health claims, although
+              able risk factor after cigarette smoking(4). The economic                         mandatory regulations are under development(11) (see
+              burden of overweight and obesity is considerable, with                            Fig. 1 for examples of nutrition labels in the USA, Canada,
+              direct health-care costs in the billions for most Western                         Australia and the UK).
+              countries(5).                                                                        There is a large and growing evidence base on the impact
+                 Nutrition labelling on food products has emerged as a                          of nutritional labels, including six literature reviews between
+              prominent policy tool for promoting healthy eating(6). As                         1991 and 2007(6,12–16). The most recent reviews have
+              a health education intervention, mandatory nutrition                              focused on specific geographical areas, including European
+
+
+              *Corresponding author: Email dhammond@uwaterloo.ca                                                                           r The Authors 2011
+
+
+https://doi.org/10.1017/S1368980010003290 Published online by Cambridge University Press
+
+===== PAGE 2 =====
+Review of nutrition labels                                                                                                                                     1497
+                                                                  Canada                                                                      USA
+                                     Nutrition facts/Valeur nutritive
+                                     Serving 1¼ cup (30 g) / Portion de 1¼ tasse (30 g)                                                   Nutrition facts
+                                     Amount per serving                           Cereal           With
+                                                                                              1/2 Cup
+                                                                                              2 % Milk
+                                     Teneur par portion                      Céréales             Avec            Serving size 1/2 cup dry (40 g)
+                                                                                             1/2 tasse
+                                                                                            de lait 2 %           Servings per container: 13
+                                     Calories / Calories                          110               180
+                                                                  % Daily Value / % valeur quotidienne
+                                     Fat / Lipides 0 g†                           0%                4%            Amount per serving
+                                      Saturates / saturés 0 g
+                                                                                     0%                 8%
+                                      + Trans / trans 0 g                                                         Calories 150                          Calories from Fat 25
+                                     Cholesterol / Cholestérol 0 mg                  0%                 3%
+                                     Sodium / Sodium 220 mg                          9%                12 %
+                                     Potassium / Potassium 30 mg                     1%                 7%                                                   % Daily value*
+                                     Carbohydrate / Glucides 26 g                    9%                11 %
+                                      Fibre / Fibres 1 g                             4%                 4%        Total Fat 3 g                                            4%
+                                      Sugars / Sucres 2 g
+                                                                                                                    Saturated Fat 0.5 g                                    2%
+                                      Starch / Amidon 23 g
+                                     Protein / Protéines 2 g
+                                                                                                                    Trans Fat 0 g                                          0%
+                                     Vitamin A / Vitamine A                          0%                 8%        Cholesterol 0 mg                                         0%
+                                     Vitamin C / Vitamine C                          0%                 0%        Sodium 0 mg                                              0%
+                                     Calcium / Calcium                               0%                15 %       Total Carbohydrate 27 g                               9%
+                                     Iron / Fer                                     30 %               30 %         Dietary Fiber 4 g                                  15%
+                                     Vitamin D / Vitamine D                          0%                25 %
+                                                                                                                    Sugars 1 g
+                                     Thiamin / Thiamine                             45 %               50 %
+                                     Riboflavin / Riboflavine                       50 %               60 %       Protein 5 g
+                                     Niacin / Niacine                                8%                15 %
+                                     Vitamin B6 / VItamine B6                       10 %               15 %       Vitamin A                                                0%
+                                     Floate / Folate                                 8%                10 %       Vitamin C                                                0%
+                                     Vitamin B12 / Vitamine B12                      0%                25 %       Calcium                                                  0%
+                                     Pantothenate / Pantothénate                     6%                15 %
+                                                                                                                  Iron                                                 10%
+                                     Phosphorus / Phosphore                          2%                10 %
+                                     Magnesium / Magnésium                           0%                 8%        *Percent Daily Values are based on a 2,000 calorie diet.
+                                     Zinc / Zinc                                     0%                 6%
+                                                                                                                  Your daily values may be higher or lower depending on
+                                     † Amount in cereal / Dans les céréales.                                      your calorie needs.
+                                    INGREDIENTS: FLAKED MILLED CORN, SUGAR/GLUCOSE-FRUCTOSE, MALT (CORNFLOUR,
+                                    MALTED BARLEY), SALT, NATURAL COLOUR, VITAMINS (THIAMIN HYDROCHLORIDE,                                Calories:     2,000      2,500
+                                    NIACINAMIDE, PYRIDOXINE HYDROCHLORIDE, FOLIC ACID, d-CALCIUM PANTOTHENATE),
+                                    IRON, BHT ADDED TO PACKAGE MATERIAL TO MAINTAIN PRODUCT FRESHNESS.            Total Fat               Less than     65 g       80 g
+                                    CONTAINS TRACES OF SOYBEANS.
+                                    INGRÉDIENTS : MAĪS MOULU EN FLOCONS, SUCRE/GLUCOSE-FRUCTOSE, MALT (FARINE
+                                                                                                                    Sat Fat               Less than     20 g       25 g
+                                    DEMAĪS, ORGE MALTÉE), SEL, COLORANT NATUREL, VITAMINES (CHLORHYDRATE DE       Cholesterol             Less than     300 mg     300 mg
+                                    THIAMINE, NIACINAMIDE, CHLORHYDRATE DE PYRIDOXINE, ACIDE FOLIQUE,
+                                    d-PANTOTHÉNATE DE CALCIUM), FER, POUR CONSERVER LA FRAĪCHEUR DU PRODUIT, DU
+                                                                                                                  Sodium                  Less than     2,400 mg   2,400 mg
+                                    BHT A ÉTÉ AJOUTÉ AU MATÉRIEL D’EMBALLAGE, CONTENT DES TRACES DE SOYA.         Total Carbohydrate                    300 g      375 g
+                                                                                                                    Dietary Fiber                       25 g       30 g
+
+                                                                          Australia                                                           United Kingdom
+
+                                                           NUTRITION INFORMATION                                                            Nutrition information
+                                   Servings per package: 3                                                                                Typical values per 100 g
+                                   Serving size: 150 g
+
+                                                                           Quantity                    Quantity               Energy                         245 kJ/58 kcal
+                                                                          per serving                  per 100 g
+                                                                                                                              Protein                                  4.6 g
+                                   Energy                                   608 kJ                       405 kJ
+                                   Protein                                   4.2 g                        2.8 g               Carbohydrate                             7.2 g
+                                   Fat, total                                7.4 g                        4.9 g
+                                                                                                                                          of which sugars              6.5 g
+                                        – saturated                          4.5 g                        3.0 g
+                                   Carbohydrate, total                      18.6 g                       12.4 g               Fat                                      1.2 g
+                                        – sugars                            18.6 g                       12.4 g
+                                   Sodium                                   90 mg                         60 mg                         of which saturates             0.2 g
+                                   Calcium                              300 mg (38 %)*                   200 mg               Fibre                                    0.2 g
+                                   * Percentage of recommended dietry intake
+                                                                                                                              Sodium                                   0.1 g
+                                   Ingredients: Whole milk, concentrated skim milk
+                                                sugar, strawberries (9 %), gelatine,
+                                                culture, thickener (1442).
+
+                 Fig. 1 Examples of nutrition labels on pre-packaged foods
+
+
+                 countries(6,15) and Australia and New Zealand(16), with the                                       The findings of these reviews are generally consistent:
+                 exception of Cowburn and Stockley, who reviewed litera-                                           self-reported use of nutrition labels was found to be
+                 ture up to 2002 across a broader geographical area(14).                                           prevalent(6,12–16); however, consumers often report
+
+
+
+
+https://doi.org/10.1017/S1368980010003290 Published online by Cambridge University Press
+
+===== PAGE 3 =====
+1498                                                                                                                           S Campos et al.
+              difficulty in interpreting quantitative information con-                     Table 1 Methodological evaluation criteria for including articles in
+              tained in labels(6,13,14,16). Some consumers found different                 the review
+              nutrition label formats confusing(15) and generally pre-                     Criterion                                       Possible outcomes
+              ferred graphical information to the traditional label(12).
+                                                                                           1. Is the research question well stated?        Y/N
+              Label use was more prevalent among the female popu-                          2. Is the sample/population identified and      Y/N
+              lation(6,13–15), and could be predicted by health aware-                        appropriate?
+              ness(13), income(6,14–16) and education level(6,13–16).                      3. Are the inclusion/exclusion criteria         Y/N or N/A
+                                                                                              described and appropriate?
+              Finally, one review concluded a positive effect of nutri-                    4. If applicable, is the participation rate     Y/N or N/A
+              tion labels on diet(14).                                                        reported and appropriate?
+                 The evidence base and regulatory practice have grown                      5. Is the same data collection method           Y/N
+                                                                                              used for all respondents?
+              considerably in the 7 years since the last systematic                        6. Are important baseline variables             Y/N or N/A
+              review was conducted. Several countries have imple-                             measured, valid and reliable?
+              mented mandatory nutrition labelling legislation within                      7. Is the outcome defined and                   Y/N
+                                                                                              measurable?
+              this time. Furthermore, many of the previous reviews did                     8. Is the statistical analysis appropriate?     Y/N or N/A
+              not include studies on the link between label use and
+                                                                                           Y, yes; N, no; N/A, not applicable.
+              diet(6). In light of this, the current systematic review aims
+              to examine the existing body of evidence regarding the
+              prevalence of consumer use and understanding of nutri-                       Studies were included in the review if they met all of
+              tion labels, as well as the impact of nutrition labelling on                 the eight criteria. This led a total of 120 articles being
+              consumer dietary habits.                                                     included in the review.
+
+
+              Methods                                                                      Results
+
+              Inclusion criteria                                                           The 120 articles selected for review originated from seven
+              The present review was restricted to studies that examined                   jurisdictions: the USA (n 87), Europe (n 13), Canada (n 9),
+              consumer behaviour related to nutrition labels on pre-                       Australia and New Zealand (n 4), Norway (n 2), Germany
+              packaged foods, published in English in peer-reviewed                        (n 1), Thailand (n 1) and Trinidad (n 1), as well as one study
+              journals or research reports completed on behalf of gov-                     jointly from the UK and the USA, and one including parti-
+              ernment agencies. Studies were included if they examined                     cipants from the Netherlands, Germany, France and the
+              the prevalence or determinants of nutrition label use, or if                 UK. Cross-sectional surveys were the most common study
+              they measured consumer knowledge, understanding,                             design (n 96), followed by experimental designs (n 19),
+              perceptions or format preferences related to nutrition                       ‘natural experiments’ (n 7) and longitudinal population-
+              labels. Articles that examined the relationship between                      based surveys (n 2). Thirteen of the surveys were based on
+              nutrition label use or legislation and consumer diet were                    nationally representative samples and thirty were conducted
+              also included. Articles that only examined health claims,                    with individuals who reported being the primary food
+              food safety labelling, brand naming, package design or                       shopper for their household, or who were approached
+              shelf labelling were excluded, as were articles that focused                 while shopping for food at the point of purchase.
+              on labelling at the point of purchase.
+                                                                                           Prevalence of label use
+              Search strategy                                                              Of the 120 studies reviewed, sixty-five reported the fre-
+              Electronic searches were conducted using the follow-                         quency with which consumers attended or used nutrition
+              ing databases: MEDLINE, CSA Illumina Social Sciences                         labels on pre-packaged foods(12,15–79). Among studies
+              Subject Area (covering forty-six databases); Web of                          targeted at the general population, the prevalence of self-
+              Science (including Science Citation Index Expanded                           reported label use was generally high (e.g. 82 % in New
+              (SCI-EXPANDED) – 1900–present); and the Cochrane                             Zealand(64), 52 % in Canada(80), 47 % in the EU(69) and 75 %
+              Library. Additional searches using the reference lists of                    in the USA(18) ) according to the most recent nationally
+              relevant articles were also conducted.                                       representative data in each country. Definitions of label ‘use’
+                 The initial search generated a total of 23 801 citations,                 varied across studies, complicating comparisons. For exam-
+              of which 1450 titles appeared to meet the inclusion cri-                     ple, several studies defined users as those who cite nutrition
+              teria and were reviewed. Of these abstracts, 247 were                        labels as a source of nutrition information, rather than other
+              selected for article retrieval. Following review of the                      sources such as health-care practitioners(32,43,44). Studies also
+              full-text articles, 109 were excluded on the basis that they                 used different time frames for label use, including ‘ever’ use
+              did not meet the inclusion criteria. The remaining 138                       v. use in the past 1 month(12) or 12 months(53). Overall, these
+              articles were assessed using a data extraction form and                      studies indicate that use of nutrition labels among the gen-
+              were rated on eight methodological criteria (see Table 1).                   eral population is generally high and typically above 50 %.
+
+
+
+
+https://doi.org/10.1017/S1368980010003290 Published online by Cambridge University Press
+
+===== PAGE 4 =====
+Review of nutrition labels                                                                                                             1499
+                                                                                                                                 (35,37,62,82,98,99)
+                 Age                                                                        v. urban habitation on label use                . Only one
+                 A majority of studies found that middle-aged or younger                    study of older Americans in 1990 directly compared rural
+                 adults were more likely to use nutrition labels than                       with urban groups, with no significant difference in label
+                 were older individuals(25,32,37,42,44,47,69–74,80–84), with sev-           use(43). Larger households and those with children were
+                 eral exceptions(20,30,35,85,86). For example, a large survey               found to more likely use labels(41) and support their
+                 of the nutrition perceptions of Americans found that older                 mandatory implementation(35,37), as were married couples(27).
+                 participants tended to trust nutrition labels as a source of
+                 accurate nutrition information to a less extent than                       Race/ethnicity
+                 younger respondents(44).                                                   A majority of studies have found that Caucasian partici-
+                    Six articles examined the impact of nutrition labels on                 pants are significantly more likely to use nutrition labels
+                 adolescents(36,54,87–90). Of these, two studies indicated that             than are other ethnic groups(21,39,71,100), with one study of
+                 use of nutritional labels was low among adolescents(54,90).                African-American adults in North Carolina reporting high
+                 Only one 2004 study of youth at an urban primary care                      levels of use(30). Studies with Latino adults in the USA also
+                 clinic in the USA reported a self-reported prevalence rate:                reported lower rates of label use(23,51). For example, a
+                 22 % reported ‘always’ reading nutrition labels, 57 %                      study comparing ethnic groups in the USA found that
+                 ‘sometimes’ and only 22 % reported ‘never’ reading                         only half of the proportion of Latinos, compared with
+                 them(36). Evaluations of a 2006 US web-based nutrition                     their African-American and ‘white’ respondents, had
+                 intervention in adolescents found no improvement in food                   ‘ever used’ labels(39). Low rates have also been observed
+                 label use as a result of the intervention(88); however, a                  among ethnic minorities in New Zealand(61). Racial/ethnic
+                 similar 2008 study found that web-based interventions                      differences have also been observed with respect to the
+                 increased adolescents’ use of labels(89). A single qualitative             type of information sought from nutrition labels(25). For
+                 study examined the use of nutrition labels among children.                 example, Latinos were found to be more likely to check
+                 The majority of US children in grades 3–6 had difficulty                   dietary fibre and Na information(72).
+                 using nutrition labels and could not categorize healthy
+                 foods on the basis of label(91).                                           Health behaviours
+                                                                                            A wide range of studies have examined the association
+                 Gender                                                                     between label use and health practices. Individuals with
+                 Women report using labels significantly more often than                    healthier eating habits report greater use of nutrition labels,
+                 men in a majority of studies that include both gen-                        either as a result of personal preference(25,30,50,53,80) or
+                 ders(25,30,33,35,42–44,46,53,59,64,69,70,72–74,76,80,82,85,92,93). Women   because of the requirements of a health-related
+                 were also more likely to report that nutrition labels had                  diet(25,37,41,43,64,67,68,76,86,96,101). Greater use has also been
+                 influenced their food choices(53) and to trust nutrition                   reported by individuals more concerned with dietary
+                 labels(44). Similar rates of nutrition label use have been                 guidelines(32,33,35,41,53,63,86,94,96) and by those who place
+                 documented among women of different levels of income                       greater emphasis on the nutritional quality of food while
+                 and socio-economic status(34,38,51,55,57). Only four studies               shopping(35,68,72,94,96,98,102). Nutrition and label knowl-
+                 reported no significant difference between male and                        edge(17,31,35,59,80,86,98,103), nutrition education(19,40,41) and
+                 female participants’ use of nutrition labels(17,46,94,95).                 knowledge of diet–disease relationships(17,29,31,33,60,71,72,82)
+                                                                                            or of specific diseases(29) have also been associated with
+                 Income/education                                                           label use, with few exceptions(69,85,94). Weight control(30,33)
+                 Most studies have concluded that individuals with lower                    and diagnosis of a disease(30,41,53,69,79,82,104–106) have also
+                 income are less likely to use nutrition labels(27,62,82,96),               been associated with greater label use.
+                 with only two studies finding the opposite effect(67,86) and                  Grocery shopping habits have been identified as being
+                 one reporting no significant effect of income(35). Individuals             a strong predictor of nutritional label use. Consumers
+                 with lower income were also more likely to have lower                      who spend more time, or report having more time to shop
+                 levels of nutrition knowledge(86,94), which were associated                for groceries, were more likely to be label users(86,96,98),
+                 with label non-use(50,63,80,97). Similar effects have been                 and lack of time was consistently reported as a reason for
+                 observed for education levels: individuals with greater                    non-use(17,33,37). Shoppers who placed less emphasis on
+                 education have reported greater use of nutrition labels in                 price(67,86,96) were more likely to use nutrition labels,
+                 most studies(17,30,41,42,44,62,63,67,70,73,76,80,86,92,93,96,97), with     although one study reported no association(35). The
+                 only two exceptions(35,94). Seven studies targeting socio-                 importance of taste was positively related to label use in
+                 economically disadvantaged populations reported variable                   three studies(35,94,96) and was negatively related by two
+                 rates of nutrition label use, ranging from 20 % to                         others(63,86). Meal planning(68,72,86) and grocery spending
+                 74 %(23,38,39,41,51,61,92), although these rates were typically            were other variables related to use(62).
+                 lower than those reported for the general population.                         Among health behaviours not directly related to nutrition,
+                    Mixed findings were observed with respect to the effect                 using supplements, exercising regularly and not smoking
+                 of employment(67,76,94,96), job satisfaction(69) and rural                 were associated with the use of nutrition labels(19,30,40,68,85).
+
+
+
+
+https://doi.org/10.1017/S1368980010003290 Published online by Cambridge University Press
+
+===== PAGE 5 =====
+1500                                                                                                                            S Campos et al.
+                                                                                                (95,123)
+              Attitudes/perceptions towards nutrition labels                               label       , as well as frequent label use(69,98,119). Self-
+              Many consumers have reported that nutrition labels are                       reported understanding is generally high among lower-
+              an important source of information(22,60,101,107,108),                       income groups(38,41,51); however, with the exception of
+              although ingredients and health claims may be perceived                      one sample of individuals eligible for a US food supple-
+              as more important(108). Most consumers were willing to                       mentation programme(41), most showed poor performance
+              use information if it was provided on the label(97),                         on items measuring their ability to use the label, especially
+              although consumers’ beliefs about the healthiness of                         when calculations were required(38,51). Low perceived
+              foods did not necessarily depend on information on the                       self-efficacy in using the label was also reported by women
+              label(109). There was, however, popular support for                          on social assistance(113).
+              mandatory labelling in studies, although conflicting find-                      A variety of studies indicate that many consumers have
+              ings have been found for consumers’ willingness to pay                       difficulty with the quantitative information presented on
+              extra for nutrition information(81). Positive attitudes were                 labels, especially with respect to recommended daily
+              higher among individuals reporting greater use of                            amounts, per cent daily values, serving sizes or other forms of
+              labels(56,59,85,108,110); however, negative attitudes were also              reference information on the label(17,21,31,52,54,81,85,120,124). This
+              prevalent in the literature(41,48,111,112). Many consumers                   difficulty was common among diabetics(106), chronic kidney
+              believed that serving sizes and health claims were mis-                      disease patients(79), older adults(81,110,125), adolescents(54),
+              leading and were sceptical of the compliance of labels to                    infrequent label users(17) and those with less education(81).
+              regulatory law(85,113). The credibility of manufacturers’                       Other tasks that were reportedly confusing for con-
+              health claims was rated poorly, especially when these                        sumers included comparisons between products(52),
+              claims contradicted nutrition information on the                             determination of energy per serving and per package(126)
+              label(59,85,114–116); however, in one case, health claims                    and comprehension of E-numbers representing addi-
+              helped consumers to choose more nutritious products(117).                    tives(42). For example, 24 % of consumers in Trinidad read
+              Trust in labels also predicted use(44,60,69), and was greater                nutrition labels without understanding them(46), and this
+              among younger respondents and among those with higher                        was listed as a reason for non-use among many groups of
+              levels of education(44).                                                     consumers(37,46,93,125). Several studies conducted among
+                                                                                           females in the USA and UK have also provided mixed
+              Comprehension and understanding of                                           evidence, showing that most participants could locate
+              nutrition labels                                                             nutrition information, but had difficulties with per cent
+              Studies suggest that consumers generally find nutrition                      daily value and information on food claims(34,55,57).
+              labels to be useful(17,54,59,85), although consumers in the                  Frequent label reading, better education, better self-
+              USA(118) and Australia(26) report a desire for simpler pre-                  assessments of diet quality, health status and nutrition
+              sentation of information(26,49,118). In one case, Australian                 knowledge were related to these skills(55). Educational
+              participants requested more detailed information(26).                        interventions targeting label knowledge and under-
+              Following the Nutrition Labeling and Education Act in the                    standing have generally shown positive results in a range
+              USA, which implemented a consistent label format in                          of sub-populations(21,22,54,125,127,128), including among
+              1993, 80 % of consumers thought that the label was more                      low-income and literacy groups(92).
+              helpful and the proportions of those seeking more
+              information declined, except with respect to cholesterol                     Label format and content
+              information(28).                                                             Compared with ‘traditional’ nutrition labels with quantita-
+                 There is mixed evidence with respect to the ease(30,80,93)                tive information on nutrient content, several studies have
+              or difficulty of using nutrition labels(26,107,118). Frequent                reported greater effectiveness for labels using graphics
+              label use was associated with better understanding in                        and symbols(129–131), adjective labels(132) and labels with
+              general(69,98,119), with other studies providing mixed                       minimal numerical content(76). For example, information
+              results(56,120). Younger participants(53), as well as those                  accompanied by graphics helped consumers to better
+              with higher education(52,53), income, literacy and numer-                    apply reference information, especially consumers who
+              acy(52), were more likely to report understanding nutrition                  had not seen labels before(61). The use of well-recognized
+              labels. One longitudinal study found that self-reported                      health symbols(7,106) and ‘traffic lights’ may be particularly
+              awareness of nutrition terms, but not understanding,                         effective(64,133,134). For example, traffic light symbols –
+              improved between 1984 and 1994 in Canada(32).                                which typically display green, amber or red labels to indi-
+                 Several studies reported a good understanding of                          cate whether foods contain low, medium or high amounts
+              nutrition labels based on consumers’ performance on                          of contents such as fat, saturated fat, sugars – have been
+              tasks requiring them to retrieve or manipulate informa-                      found to increase consumer ability to identify healthier
+              tion(56,95,121). Understanding was greater in younger(110),                  food options and consumer attention in general(133,135,136).
+              female, educated and white participants(121), and was also                      Research also suggests that placing nutrition information
+              related to knowledge(95,122,123), perceived understanding(95),               on the front of packages is more effective than information
+              attitude towards and motivation to use the nutrition                         positioned on the side or back of packages(15,87,137).
+
+
+
+
+https://doi.org/10.1017/S1368980010003290 Published online by Cambridge University Press
+
+===== PAGE 6 =====
+Review of nutrition labels                                                                                                           1501
+                 Front-of-pack (FOP) labels may disproportionately benefit                 The impact of nutrition labels on diet
+                 those with low-nutrition education and knowledge of                       Observational studies have consistently found an associa-
+                 nutrition labels(15). For example, in a 2009 study conducted              tion between use of nutrition labels and healthier
+                 in Australia, consumers supported the idea of FOP label-                  diets(70–72,82,103,140,141). Several studies have reported an
+                 ling, especially when it is consistent across products                    association between label use and lower fat consump-
+                 and manufacturers(134). Simple energy information on the                  tion(70–72,82,140,141). Label users are also more likely to eat
+                 FOP was also well received in a 2007 study conducted in                   healthier varieties of foods(140), and to have reduced
+                 Germany, The Netherlands, France and the UK(135).                         Na(72,103), cholesterol(63,72) and energy intakes, coupled with
+                 Preliminary evidence suggests that FOP labels may also                    increased fibre(72,142), Fe(143) and vitamin C intakes(70).
+                 promote healthier food purchasing behaviours, although                    Cross-sectional associations between label use and healthier
+                 additional research is needed(7,15).                                      diets are also related to socio-economic status(142), educa-
+                    Evidence is mixed with respect to the level of detail                  tion(71,82), age(71,72) gender(36,72) and ethnicity/race(71,72).
+                 or complexity of information favoured by consumers.                          Three longitudinal studies in the USA have evaluated
+                 More detailed information was favoured by some con-                       the implementation of new nutrition labels on dietary
+                 sumers(76,79,131), especially non-label users(17), whereas fre-           patterns. In the USA, the 1990 Nutrition Labeling and
+                 quent users preferred less detail(17). Simplified labels have             Education Act came into effect in 1994 and required
+                 been shown to promote more accurate nutrition judgements                  nutrition labels on all pre-packaged foods. A study com-
+                 of unhealthy products(74,84,119) and improved performance                 paring nationally representative surveys of consumers in
+                 on diet-related tasks(121,131), even when daily reference                 1989 and 1995 found that frequent label users in 1995 had
+                 values were added(121). The use of reference information,                 a significantly greater probability of consuming a low-fat
+                 such as per cent daily value, is often welcomed by con-                   diet than both non-label users in 1995 and frequent label
+                 sumers(122,133,134); however, many struggle to apply the                  users in 1989(74). In addition, fat intake among less-
+                 quantitative values(7,124,138). Labels presenting information in          educated respondents decreased significantly during the
+                 two columns side-by-side have also been shown to reduce                   ‘pre–post’ study period(74). A second study found that
+                 food consumption by non-dieters when compared with                        BMI of nutrition label users fell significantly following
+                 a version presenting information as a single, longer                      implementation of the Act, with the greatest change
+                 column(139). Consumers have also expressed a desire for                   among those with the highest BMI score(104). In addition,
+                 nutrient information listed in the context of a healthy                   low-fat and low-Na food purchases increased significantly
+                 diet(93,131); larger, more legible print(37,130); simpler terms(76);      following the impact of new labels, although the same
+                 explanations of terms or nutrients(37,93); the use of colour              effect was not observed for low-energy choices, or healthy
+                 and a consistent appearance across nutrition labels(93).                  nutrients such as vitamins and minerals(116).
+                                                                                              Evidence from five experimental studies is generally
+                 Types of nutrition information sought by                                  consistent with cross-sectional and longitudinal findings.
+                 consumers                                                                 Two experiments compared consumption of low-fat with
+                 Consumers tend to look more closely at nutrients they                     energy-dense foods by randomizing participants to either
+                 wish to avoid(93). To this end, the nutrients most com-                   a blind or information condition(144,145). Both studies
+                 monly sought were fat(26,28,37,42,49,53,73,79,85,97,108,115,118),         found that, although participants tended to consume
+                 energy content(28,37,53,79,97,118), protein(49,79,97,118), choles-        greater amounts of reduced-energy food in terms of food
+                 terol(28,97), carbohydrates(42,118), vitamins and miner-                  weight, total energy intake was significantly lower among
+                 als(97,118), types of fat(42,97), serving size(85), additives(42,73)      those who consumed reduced-energy food(144,145). Only
+                 and Na information(42,97,118). Low-fat dieters were more                  one study showed this effect on daily energy consump-
+                 likely to look at fat information(42,53,98), and younger(67,73)           tion, as opposed to short-term intake during the
+                 female participants were more likely to look at energy than               study(145). Participants who received nutrition information
+                 men(59,67). Cholesterol was most often looked at by                       consumed more of the low-energy version of the
+                 older(50,67,98), suburban participants who believed in a                  food(144). A third experiment found no differences in
+                 diet–disease relationship(98) and had high cholesterol(53),               participants’ satiety after consuming fat-free compared
+                 and less often looked at by white, well-educated indivi-                  with regular potato chips, irrespective of the provision of
+                 duals with low cholesterol intake(98). Those with experi-                 information(146). Finally, providing nutrition information
+                 ence reading labels were more likely to use carbohydrates                 also increased healthier purchase intentions and accurate
+                 and fibre information(59), and younger individuals were                   perceptions of nutrient content(147).
+                 more likely to use vitamin and mineral information(67).
+                    Similar to the general population, adolescents were most
+                 likely to seek fat and energy information(87). A range of                 Discussion
+                 studies have also examined information sought by a range of
+                 other sub-populations, including low-income women(38,41),                 Research conducted to date indicates that nutrition labels
+                 Latino populations(72) and diabetes patients(106).                        on pre-packaged foods are among the most prominent
+
+
+
+
+https://doi.org/10.1017/S1368980010003290 Published online by Cambridge University Press
+
+===== PAGE 7 =====
+1502                                                                                                                      S Campos et al.
+              sources of nutrition information. Evidence also suggests                     information that identifies ‘healthier’ food from less-
+              that consumers perceive nutrition labels to be a highly                      healthy options. Indeed, an expert panel commissioned by
+              credible source of information, and many consumers                           the UK Food Standards Agency recently concluded that
+              report using nutrition labels to guide their selection of                    FOP formats are effective and the strongest FOP label is
+              food products.                                                               one that combines the use of words ‘high, medium and
+                 The use of nutrition labels varies considerably across                    low’, traffic light colours and percentage of Guideline Daily
+              population subgroups. Use is particularly high among                         Amount, in addition to levels of nutrients in a portion of
+              individuals with health conditions and special dietary                       the product(156).
+              requirements – those with the greatest need for nutri-                          More generally, there is increasing evidence that
+              tional information. However, label use is notably lower                      labelling regulations need to take the entire package into
+              among children, adolescents and older adults. More                           consideration to maximize their effectiveness. Industry
+              research targeting these populations is needed, given                        ‘health claims’ are regulated to different extents across
+              their increased prevalence of obesity(1,148), nutrient defi-                 jurisdictions and the use of FOP symbols, which imply
+              ciencies(149) and chronic disease(149–153). Individuals with                 healthier alternatives, is largely unregulated. Ideally,
+              lower socio-economic status are also less likely to use                      consumers would use nutrition labels to help interpret
+              nutrition labels, which is particularly problematic given                    health claims; however, in practice, many consumers rely
+              that low socio-economic status is associated with an                         solely on health claims(108). Indeed, there have been
+              increased risk of being overweight and obese(154).                           mixed reports as to whether consumers can determine
+                 The evidence in this review shows a consistent link                       whether claims are truthful(56,114,120,157).
+              between the use of nutrition labels and healthier diets.
+              The causal nature of this association is likely bidirectional:               Limitations
+              nutrition labels may promote healthier eating, whereas                       This review is subject to several limitations. First, it is
+              individuals with healthier diets are more likely to seek out                 possible that relevant articles were not included in the
+              nutritional labels in the first place. However, there is                     review, given the rapidly evolving evidence base. Attempts
+              sufficient evidence from a range of study designs to                         were made to minimize this limitation by using a com-
+              conclude that providing nutrition information on packa-                      prehensive searching strategy and a systematic selection
+              ges has a positive impact on diet. In countries such as the                  process using two independent reviewers and inclusion
+              USA, government agencies and non-government organi-                          criteria. Second, the articles included in this review were
+              zations have estimated the impact of mandatory nutrition                     disproportionately from high-income Western countries,
+              labelling to be in the range of billions of dollars(104),                    and from North America in particular. Therefore, it is
+              although the magnitude of benefit and the extent to                          unclear as to what extent the findings in this review apply
+              which it varies across different types of nutrition labels                   to jurisdictions with different labelling regulations and in
+              and population subgroups cannot be estimated with any                        much different cultural and geographical contexts. Addi-
+              precision from the existing evidence base.                                   tional research on the impact of nutrition labels in low- and
+                 Research to date also highlights the need to balance the                  middle-income countries should be considered a priority.
+              complexity of information presented on labels with con-                      Even among the Western countries included in this review,
+              sumers’ ability to process this information in a quick and                   there are important differences in labelling regulations that
+              meaningful manner. Nutrition labels that require calcula-                    were not fully examined. The diversity in study protocols,
+              tions with respect to nutrient amounts and serving sizes                     measures and samples also presents challenges in terms of
+              are confusing to many consumers, particularly those                          comparing studies. We have tried to note major differences
+              with lower education and literacy skills(96). Educational                    wherever possible; however, it is likely that methodologi-
+              interventions aimed at improving the understanding of                        cal differences between studies account for at least some of
+              nutrition labels have shown promise and a broader                            the variability in the findings. Finally, much of the evidence
+              application of these interventions may provide one                           on the impact of nutrition labels is based on self-report
+              potential solution(92,155); however, the evidence high-                      data, which may over-report the use of nutrition labels,
+              lights the need to improve the ways in which nutrition                       meaning that other factors, such as greater awareness of
+              information is presented to consumers on food packages.                      the link between nutrition and chronic disease, may be
+                 Future research should examine the effectiveness of                       responsible for population-level changes over time that
+              using symbols, images and different graphical layouts to                     have been attributed to nutrition labels.
+              a greater extent. Indeed, there is growing evidence
+              regarding the consumer-friendly nature symbols used by
+              the industry, as well as the greater impact of FOP labels,                   Conclusions
+              compared with labels on the side or back of packages.
+              These formats may be more consumer-friendly in part                          Population-level interventions and changes to the food
+              because nutrition information is more accessible and in                      environment are necessary to halt the rising health and
+              part because of a widespread desire for more ‘prescriptive’                  economic burden from obesity. The evidence to date
+
+
+
+
+https://doi.org/10.1017/S1368980010003290 Published online by Cambridge University Press
+
+===== PAGE 8 =====
+Review of nutrition labels                                                                                                               1503
+                 indicates that nutrition labels on pre-packaged foods are a                     Spring, MD: Division of Field Investigations, Office of
+                 cost-effective population-level intervention with con-                          Regional Operations, Office of Regulatory Affairs, US Food
+                                                                                                 & Drug Administration.
+                 siderable reach. In order to capitalize upon the potential
+                                                                                            9.   Health Canada (2010) Nutritional labelling. http://www.hc-
+                 of nutrition labels, governments will need to explore new                       sc.gc.ca/fn-an/label-etiquet/nutrition/index-eng.php (accessed
+                 formats and different types of information content to                           December 2010).
+                 ensure that nutrition information is accessible and                       10.   Government of Canada (2002) Food and Drugs Act.
+                                                                                                 Regulations Amending the Food and Drug Regulations
+                 understandable. A number of jurisdictions are in the
+                                                                                                 (Nutrition Labelling, Nutrient Content Claims and Health
+                 process of developing new formats and revising labelling                        Claims). Canada Gazette Part II 137(1):Registration SOR/
+                 standards, such as the European Union(158). There is an                         2003-11 12.
+                 immediate need for evidence to inform these regulatory                    11.   The Council of European Communities (1990) Council
+                 developments. Regulators should also consider expand-                           directive 90/496/EEC on nutrition labelling for foodstuffs
+                                                                                                 of 24 September 1990. Off J Eur Commun L276, 40–44.
+                 ing the scope of mandatory nutrition labelling. In the vast               12.   Geiger CJ, Wyse BW, Parent CR et al. (1991) Review of
+                 majority of jurisdictions, nutrition labelling regulations are                  nutrition labelling formats. J Am Diet Assoc 91, 808–812.
+                 limited to pre-packaged food products and do not apply                    13.   Baltas G (2001) Nutrition labelling: issues and policies.
+                 to foods served in restaurants or fast-food outlets, which                      Eur J Mark 35, 708–721.
+                                                                                           14.   Drichoutis A (2006) 103 Consumers’ use of nutritional labels: a
+                 account for a significant proportion of dietary intake in                       review of research studies and issues. Acad Mark Sci Rev 9,
+                 many high-income countries(159,160). Mandatory display                          93–118.
+                 of nutrition information on menus and menu boards of                      15.   Grunert K (2007) A review of European research on
+                 food outlets may be a promising means of increasing the                         consumer response to nutrition information on food
+                                                                                                 labels. J Public Health 15, 385–389.
+                 impact of nutrition labelling regulations(161) and harmo-                 16.   Mhurchu CN & Gorton D (2007) Nutrition labels and
+                 nizing nutrient information across information channels.                        claims in New Zealand and Australia: a review of use and
+                                                                                                 understanding. Aust N Z J Public Health 31, 105–112.
+                                                                                           17.   Klopp P & MacDonald M (1981) Nutrition labels: an
+                 Acknowledgements                                                                exploratory study of consumer reasons for nonuse.
+                                                                                                 J Consum Aff 15, 301–316.
+                 Funding support for this manuscript was provided by the                   18.   US Department of Health and Human Services, Centers
+                                                                                                 for Disease Control and Prevention (2001) Healthy People
+                 Propel Centre for Population Health Impact, with funds                          2000 Final Review. Library of Congress Catalog Card no.
+                 from the Canadian Cancer Society. The authors have                              76–641496. Hyattsville, MD: Public Health Service.
+                 no conflict of interest to declare. Each of the authors made a            19.   Kessler H & Wunderlich SM (1999) Relationship between
+                 direct contribution to this manuscript. D.H. conceived of the                   use of food labels and nutrition knowledge of people with
+                                                                                                 diabetes. Diabetes Educ 25, 549–559.
+                 study; J.D. and S.C. conducted the article searching; and
+                                                                                           20.   Coulson NS (2000) An application of the stages of change
+                 J.D., S.C. and D.H. co-authored the manuscript. The authors                     model to consumer use of food labels. Br Food J 102,
+                 acknowledge the assistance of Priya Kekree and Samantha                         661–668.
+                 Daniel in preparing the manuscript for publication.                       21.   Dooley DA, Novotny R & Britten P (1998) Integrating
+                                                                                                 research into the undergraduate nutrition curriculum:
+                                                                                                 Improving shoppers’ awareness and understanding of
+                 References                                                                      nutrition facts labels. J Nutr Educ 30, 225–231.
+                                                                                           22.   Lindhorst K, Corby L, Roberts S et al. (2007) Rural
+                                                                                                 consumers’ attitudes: towards nutrition labelling. Can J
+                    1. Shields M (2006) Overweight and obesity among children
+                                                                                                 Diet Pract Res 68, 146–149.
+                       and youth. Health Rep 17, 27–42.
+                                                                                           23.   Perez-Escamilla R, Himmelgreen D, Bonello H et al.
+                    2. World Health Organization (2003) WHO: Obesity and
+                       Overweight. What Are Obesity and Overweight? WHO Fact                     (2001) Nutrition knowledge, attitudes, and behaviors
+                       Sheet no. 311. Geneva: WHO.                                               among Latinos in the USA: influence of language. Ecol
+                    3. Luo W, Morrison H, de Groh M et al. (2007) The burden of                  Food Nutr 40, 321–345.
+                       adult obesity in Canada. Chronic Dis Can 27, 135–144.               24.   Piche LA & Garcia AC (2001) Factors influencing food-
+                    4. World Health Organization (2003) Cancer: Diet and Physical                buying practices of grocery shoppers in London, Ontario.
+                       Activity’s Impact. http://www.who.int/dietphysicalactivity/               Can J Diet Pract Res 62, 199–202.
+                       publications/facts/cancer/en/ (accessed December 2010).             25.   Bender MM & Derby BM (1992) Prevalence of reading
+                    5. Public Health Agency of Canada (2006) Healthy Aging in                    nutrition and ingredient information on food labels
+                       Canada: A New Vision, A Vital Investment, From Evidence to                among adult Americans: 1982–1988. J Nutr Educ 24,
+                       Action – A Background Paper. http://www.phac-aspc.gc.ca/                  292–297.
+                       seniors-aines/publications/pro/healthy-sante/haging_newvision/      26.   Crawford D & Baghurst KI (1990) Community views on
+                       vison-rpt/index-eng.ph (accessed December 2010).                          food labelling. Food Aust 42, 231–233.
+                    6. Cowburn G & Stockley L (2005) Consumer understanding                27.   Blitstein JL & Evans WD (2006) Use of nutrition facts
+                       and use of nutrition labelling: a systematic review. Public               panels among adults who make household food purchas-
+                       Health Nutr 8, 21–28.                                                     ing decisions. J Nutr Educ Behav 38, 360–364.
+                    7. Feunekes GI, Gortemaker IA, Willems AA et al. (2008)                28.   Kristal AR, Levy L, Patterson RE et al. (1998) Trends in
+                       Front-of-pack nutrition labelling: testing effectiveness of               food label use associated with new nutrition labelling
+                       different nutrition labelling formats front-of-pack in four               regulations. Am J Public Health 88, 1212–1215.
+                       European countries. Appetite 50, 57–70.                             29.   Szykman LR, Bloom PN & Levy AS (1997) A proposed
+                    8. US Food and Drug Administration (1994) Guide to Nutrition                 model of the use of package claims and nutrition labels.
+                       Labelling and Education Act (NLEA) Requirements. Silver                   J Public Policy Mark 16, 228–241.
+
+
+
+
+https://doi.org/10.1017/S1368980010003290 Published online by Cambridge University Press
+
+===== PAGE 9 =====
+1504                                                                                                                          S Campos et al.
+                30. Satia JA, Galanko JA & Neuhouser ML (2005) Food nutrition              53. Kreuter MW, Brennan LK, Scharff DP et al. (1997) Do
+                    label use is associated with demographic, behavioral, and                  nutrition label readers eat healthier diets? Behavioral corre-
+                    psychosocial factors and dietary intake among African                      lates of adults’ use of food labels. Am J Prev Med 13, 277–283.
+                    Americans in North Carolina. J Am Diet Assoc 105, 392–402.             54. Hawthorne KM, Moreland K, Griffin IJ et al. (2006) An
+                31. Shine A, O’Reilly S & O’Sullivan K (1997) Consumer                         educational program enhances food label understanding
+                    attitudes to nutrition labelling. Br Food J 99, 283–289.                   of young adolescents. J Am Diet Assoc 106, 913–916.
+                32. Reid DJ, Conrad SA & Hendricks SM (1996) Tracking                      55. Alfieri L & Byrd-Bredbenner C (2000) Assessing the
+                    nutrition trends, 1989–1994: an update on Canadians’                       performance of women on nutrition labelling tasks. Am
+                    attitudes, knowledge and reported actions. Can J Public                    J Health Stud 16, 113–123.
+                    Health 87, 113–118.                                                    56. Byrd-Bredbenner C (2000) The ability of college women
+                33. Rasberry CN, Chaney BH, Housman JM et al. (2007)                           aged 17 to 25 to perform tasks using nutrition facts labels.
+                    Determinants of nutrition label use among college                          Int Electron J Health Educ 3, 97–106.
+                    students. Am J Health Educ 38, 76–82.                                  57. Byrd-Bredbenner C, Wong A & Cottee P (2000) Consumer
+                34. Byrd-Bredbenner C, Alfieri L, Wong A et al. (2001) The                     understanding of US and EU nutrition labels. Br Food J
+                    inherent educational qualities of nutrition labels. Fam                    102, 615–629.
+                    Consum Sci Res J 29, 265–280.                                          58. Mohr KG, Wyse BW & Gaurth Hansen R (1980) Aiding
+                35. Jensen K, Adams L, Hollis S et al. (1996) The new nutrition                consumer nutrition decisions: comparison of a graphical
+                    labels: a study of consumers’ use for dairy products.                      nutrient density labelling format with the current food
+                    J Food Distrib Res 27, 49–57.                                              labelling system. Fam Consum Sci Res J 8, 162–172.
+                36. Huang TTK, Kaur H, McCarter KS et al. (2004) Reading                   59. Marietta AB, Welshimer KJ & Long Anderson S (1999)
+                    nutrition labels and fat consumption in adolescents.                       Knowledge, attitudes, and behaviors of college students
+                    J Adolesc Health 35, 399–401.                                              regarding the 1990 nutrition labelling education act food
+                37. Mannell A, Brevard P, Nayga R Jr et al. (2006) French                      labels. J Am Diet Assoc 99, 445–449.
+                    consumers’ use of nutrition labels. Nutr Food Sci 36, 159–168.         60. Smith SC, Taylor JG & Stephen AM (2007) Use of food
+                38. Michel P, Korslund M, Finan A et al. (1994) Food label                     labels and beliefs about diet–disease relationships among
+                    reading habits of WIC clients. J Nutr Educ 26, 146–148.                    university students. Public Health Nutr 3, 175–182.
+                39. Hyman DJ, Simons-Morton DG, Ho K et al. (1993)                         61. Signal L, Lanumata T, Robinson JA et al. (2008) Perceptions
+                    Cholesterol-related knowledge, attitudes, and behaviors                    of New Zealand nutrition labels by Māori, Pacific and low-
+                    in a low-income, urban patient population. Am J Prev Med                   income shoppers. Public Health Nutr 11, 706–713.
+                    9, 282–289.                                                            62. Wang G, Fletcher SM & Carley DH (1995) Consumer
+                40. Kessler H & Wunderlich SM (1999) Relationship between                      utilization of food labelling as a source of nutrition
+                    use of food labels and nutrition knowledge of people with
+                                                                                               information. J Consum Aff 29, 368–380.
+                    diabetes. Diabetes Educ 25, 549–559.                                   63. Guthrie JF, Fox JJ, Cleveland LE et al. (1995) Who uses
+                41. McArthur L, Chamberlain V & Howard AB (2001)
+                                                                                               nutrition labelling, and what effects does label use have
+                    Behaviors, attitudes, and knowledge of low-income
+                                                                                               on diet quality? J Nutr Educ 27, 163–172.
+                    consumers regarding nutrition labels. J Health Care Poor
+                                                                                           64. Gorton D, Ni Mhurchu C, Chen M et al. (2008) Nutrition
+                    Underserved 12, 415–428.
+                                                                                               labels: a survey of use, understanding and preferences
+                42. Wandel M (1997) Food labelling from a consumer
+                                                                                               among ethnically diverse shoppers in New Zealand.
+                    perspective. Br Food J 99, 212–219.
+                43. Briley ME, Owens MS, Gillham MB et al. (1990) Sources                      Public Health Nutr 12, 1359–1365.
+                                                                                           65. Crane NT, Hubbard VS & Lewis CJ (1999) American diets
+                    of nutrition information for rural and urban elderly adults.
+                                                                                               and year 2000 goals. In America’s Eating Habits: Changes
+                    J Am Diet Assoc 90, 986–987.
+                44. Worsley A (2003) Consumers’ personal values and sources                    and Consequences. Agriculture Information Bulletin no.
+                    of nutrition information. Ecol Food Nutr 42, 129–151.                      750, pp. 111–133 [E Frazao, editor]. Washington, DC:
+                45. Zarkin GA & Anderson DW (1992) Consumer and                                Economic Research Service, US Department of Agriculture.
+                    producer responses to nutrition label changes. Am J Agric              66. Higginson CS, Rayner MJ, Draper S et al. (2002) The
+                    Econ 74, 1202–1207.                                                        nutrition label – which information is looked at? Nutr Food
+                46. Peters-Texeira A & Badrie N (2005) Consumers’ perception                   Sci 32, 92–99.
+                    of food packaging in Trinidad, West Indies and its related             67. Drichoutis AC, Lazaridis P & Nayga RM Jr (2005) Who is
+                    impact on food choices. Int J Consum Stud 29, 508–514.                     looking for nutritional food labels? Wer sucht nach nahrwer-
+                47. Loureiro ML, Gracia A & Nayga RM Jr (2006) Do                              tangaben auf lebensmitteln?: Mais qui donc s’ occupe du
+                    consumers value nutritional labels? Eur Rev Agric Econ                     contenu nutritionnel sur les etiquettes? Eurochoices 4, 18–23.
+                    33, 249–268.                                                           68. Lin BH & Yen ST (2008) Consumer knowledge, food label
+                48. James D (2004) Factors influencing food choices, dietary                   use and grain consumption in the US. Appl Econ 40,
+                    intake, and nutrition-related attitudes among African                      437–448.
+                    Americans: application of a culturally sensitive model.                69. Drichoutis AC, Lazaridis P, Nayga RM et al. (2008) A
+                    Ethn Health 9, 349–367.                                                    theoretical and empirical investigation of nutritional label
+                49. Heimbach JT & Orwin RG (1984) Public perceptions of                        use. Eur J Health Econ 9, 293–304.
+                    sodium labelling. J Am Diet Assoc 84, 1217–1219.                       70. Neuhouser ML, Kristal AR & Patterson RE (1999) Use of
+                50. Elbon SM, Johnson MA & Fischer JG (2000) Demographic                       food nutrition labels is associated with lower fat intake.
+                    factors, nutrition knowledge, and health-seeking beha-                     J Am Diet Assoc 99, 45–53.
+                    viors influence nutrition label reading behaviors among                71. Kim S & Douthitt RA (2004) The role of dietary
+                    older American adults. J Nutr Elder 19, 31–48.                             information in women’s whole milk and low-fat milk
+                51. Haldeman L, Pérez-Escamilla R, Ferris AM et al. (2000)                    intakes. Int J Consum Stud 28, 245–254.
+                    Development of a color-coded bilingual food label for                  72. Kim S, Nayga RM Jr & Capps O (1999) The effect of new
+                    low-literacy Latino caretakers. J Nutr Educ 32, 152–160.                   food labelling on nutrient intakes: an endogenous switch-
+                52. Rothman RL, Housam R, Weiss H et al. (2006) Patient                        ing regression analysis. Selected paper presented at the
+                    understanding of food labels the role of literacy and                      Annual Meeting of the American Agricultural Economics
+                    numeracy. Am J Prev Med 31, 391–398.                                       Association, Nashville TN, USA, 8–11 August 1999.
+
+
+
+
+https://doi.org/10.1017/S1368980010003290 Published online by Cambridge University Press
+
+===== PAGE 10 =====
+Review of nutrition labels                                                                                                             1505
+                  73. Wandel M & Bugge A (1996) Nutrition information in the                98. Lin CTJ, Lee JY & Yen ST (2004) Do dietary intakes affect
+                      market: food labelling as an aid to the consumer. Int J                   search for nutrient information on food labels? Soc Sci
+                      Consum Stud 20, 215–228.                                                  Med 59, 1955–1967.
+                  74. Finke MS (2000) Did the Nutrition Labelling and                       99. Ward RW & Jauregui C (2006) Do consumers really use food
+                      Education Act Affect Food Choices in the United States?                   labels? Presented at 2006 Annual Meeting of the American
+                      The American Consumer and the Changing Structure of                       Agricultural Economics Association, Long Beach, CA, USA,
+                      the Food System Conference. Arlington, VA: Economic                       23–26 July.
+                      Research Service, US Department of Agriculture.                      100. Gans KM, Burkholder GJ, Risica PM et al. (2003) Baseline
+                  75. Byrd-Bredbenner C, Wong A & Cottee P (2000) Consumer                      fat-related dietary behaviors of white, Hispanic, and black
+                      understanding of US and EU nutrition labels. Br Food J                    participants in a cholesterol screening and education
+                      102, 615–629.                                                             project in new England. J Am Diet Assoc 103, 699–706.
+                  76. Abbott R (1997) Food and nutrition information: a study              101. Krystallis A & Ness M (2004) Motivational and cognitive
+                      of sources, uses and understanding. Br Food J 99, 43–49.                  structures of Greek consumers in the purchase of quality
+                  77. Levy L, Patterson RE, Kirstal AR et al. (2000) How well do                food products. J Int Consum Mark 16, 7–36.
+                      consumers understand percentage daily value of food                  102. Higginson CS, Kirk TR, Rayner MJ et al. (2002) How do
+                      labels? Am J Health Promot 14, 157–160.                                   consumers use nutrition label information? Nutr Food Sci
+                  78. Worsley A & Lea E (2003) Consumers’ personal values and                   32, 145–152.
+                      sources of nutrition information. Ecol Food Nutr 42,                 103. Fitzgerald N, Damio G, Segura-Pérez S et al. (2008)
+                      129–151.                                                                  Nutrition knowledge, food label use, and food intake
+                  79. Hager MH, Geiger C, Hill LJ et al. (2009) Usefulness of                   patterns among Latinas with and without type 2 diabetes.
+                      nutrition facts label for persons with chronic kidney                      J Am Diet Assoc 108, 960–967.
+                      disease. J Ren Nutr 19, 204–210.                                     104. Variyam JN & Cawley J (2006) Nutrition Labels and
+                  80. Canadian Council of Food and Nutrition (2006) Tracking                    Obesity. NBER Working Paper no. 11956. Cambridge, MA:
+                      Nutrition Trends VI. Woodbridge, Ontario, Canada: CCFN.                   National Bureau of Economic Research.
+                  81. Daly PA (1976) The response of consumers to nutrition                105. Miller CK, Jensen GL & Achterberg CL (1999) Evaluation
+                      labelling. J Consum Aff 10, 170–178.                                      of a food label nutrition intervention for women with
+                  82. Kim SY, Nayga RM Jr & Capps O (2001) Food label use, self-                type 2 diabetes mellitus. J Am Diet Assoc 99, 323–328.
+                      selectivity, and diet quality. J Consum Aff 35, 346–363.             106. Miller CK, Probart CK & Achterberg CL (1997) Knowledge
+                  83. Petrovici DA & Ritson C (2006) Factors influencing                        and misconceptions about the food label among women
+                      consumer dietary health preventative behaviours. BMC                      with non-insulin-dependent diabetes mellitus. Diabetes
+                      Public Health 6, 222.                                                     Educ 23, 425–432.
+                  84. Burton S & Andrews JC (1996) Age, product nutrition, and             107. Silayoi P & Speece M (2004) Packaging and purchase
+                      label format effects on consumer perceptions and product                  decisions. Br Food J 106, 607–628.
+                      evaluations. J Consum Aff 30, 68–89.                                 108. Reid DJ & Hendricks S (1993) Consumer awareness of
+                  85. Misra R (2007) Knowledge, attitudes, and label use among                  nutrition information on food package labels. J Can Diet
+                      college students. J Am Diet Assoc 107, 2130–2134.                         Assoc 54, 127–131.
+                  86. Drichoutis AC, Lazaridis P & Nayga RM Jr (2005) Nutrition            109. Aikman SN, Min KE & Graham D (2006) Food attitudes,
+                      knowledge and consumer use of nutritional food labels.                    eating behavior, and the information underlying food
+                      Eur Rev Agric Econ 32, 93–118.                                            attitudes. Appetite 47, 111–114.
+                  87. McCullum C & Achterberg CL (1997) Food shopping and                  110. Byrd-Bredbenner C & Kiefer L (2001) The ability of elderly
+                      label use behavior among high school-aged adolescents.                    women to perform nutrition facts label tasks and judge
+                      Adolescence 32, issue 125, 181–197.                                       nutrient content claims. J Nutr Elder 20, 29–46.
+                  88. Long JAD, Armstrong ML, Amos E et al. (2006) Pilot using             111. Miller C & Brown J (1999) Knowledge and use of the food
+                      world wide web to prevent diabetes in adolescents. Clin                   label among senior women in the management of type 2
+                      Nurs Res 15, 67–79.                                                       diabetes mellitus. J Nutr Health Aging 3, 152–157.
+                  89. Abood DA, Black DR & Coster DC (2008) Evaluation of a                112. Tessaro I, Rye S, Parker L et al. (2007) Effectiveness of a
+                      school-based teen obesity prevention minimal intervention.                nutrition intervention with rural low-income women. Am
+                      J Nutr Educ Behav 40, 168–174.                                            J Health Behav 31, 35–43.
+                  90. James DCS, Rienzo BA & Frazee C (1997) Using focus                   113. Sullivan AD (2003) Determining how low-income food
+                      groups to develop a nutrition education video for high                    shoppers perceive, understand, and use food labels. Can J
+                      school students. J Sch Health 67, 376–379.                                Diet Pract Res 64, 25–27.
+                  91. Lytle LA, Eldridge A, Kotz K et al. (1997) Children’s                114. Keller SB, Landry M, Olson J et al. (1997) The effects of
+                      interpretation of nutrition messages. J Nutr Educ 29, 128–136.            nutrition package claims, nutrition facts panels, and
+                  92. Jay M, Adams J, Herring SJ et al. (2009) A randomized trial               motivation to process nutrition information on consumer
+                      of a brief multimedia intervention to improve comprehension               product evaluations. J Public Pol Mark 16, 256–269.
+                      of food labels. Prev Med 48, 25–31.                                  115. Garretson JA & Burton S (2000) Effects of nutrition facts
+                  93. Shine A, O’Reilly S & O’Sullivan K (1997) Consumer use of                 panel values, nutrition claims, and health claims on
+                      nutrition labels. Br Food J 99, 290–296.                                  consumer attitudes, perceptions of disease-related risks,
+                  94. Nayga RM Jr (2000) Nutrition knowledge, gender, and                       and trust. J Public Pol Mark 19, 213–227.
+                      food label use. J Consum Aff 34, 97–112.                             116. Balasubramanian SK & Cole C (2002) Consumers’ search and
+                  95. Burton S, Garretson JA & Velliquette AM (1999) Implica-                   use of nutrition information: the challenge and promise of
+                      tions of accurate usage of nutrition facts panel information              the nutrition labelling and education act. J Mark 66, 112–127.
+                      for food product evaluations and purchase intentions.                117. Kozup JC, Creyer EH & Burton S (2003) Making healthful
+                      J Acad Mark Sci 27, 470–480.                                              food choices: the influence of health claims and nutrition
+                  96. Nayga RM Jr, Lipinski D & Savur N (1998) Consumers’                       information on consumers’ evaluations of packaged food
+                      use of nutritional labels while food shopping and at                      products and restaurant menu items. J Mark 67, 19–34.
+                      home. J Consum Aff 32, 106–120.                                      118. Heimbach JT & Stokes RC (1982) Nutrition labelling and
+                  97. Hess S, Yanes M, Jourdan P et al. (2005) Trans fat knowledge              public health: survey of American Institute of Nutrition
+                      is related to education level and nutrition facts label use in            members, food industry, and consumers. Am J Clin Nutr
+                      health-conscious adults. Top Clin Nutr 20, 109–117.                       36, 700–708.
+
+
+
+
+https://doi.org/10.1017/S1368980010003290 Published online by Cambridge University Press
+
+===== PAGE 11 =====
+1506                                                                                                                          S Campos et al.
+              119. Goldberg JH, Probart CK & Zak RE (1999) Visual search of                       norms and actual consumption of a snack food. J Nutr Educ
+                   food nutrition labels. Hum Factors 41, 425–437.                                Behav 38, 365–370.
+              120. Levy AS & Fein SB (1998) Consumers’ ability to perform                  140.   Nayga RM Jr (1999) Retail health marketing: evaluating
+                   tasks using nutrition labels. J Nutr Educ 30, 210–217.                         consumers’ choice for healthier foods. Health Mark Q 16,
+              121. Levy A, Fein SB & Schucker RE (1992) More effective                            53–65.
+                   nutrition label formats are not necessarily preferred. J Am             141.   Kristal AR, Hedderson MM, Patterson RE et al. (2001)
+                   Diet Assoc 92, 1230–1234.                                                      Predictors of self-initiated, healthful dietary change. J Am
+              122. Burton S, Biswas A & Netemeyer R (1994) Effects of                             Diet Assoc 101, 762–766.
+                   alternative nutrition label formats and nutrition reference             142.   Variyam JN (2008) Do nutrition labels improve dietary
+                   information on consumer perceptions, comprehension,                            outcomes? Health Econ 17, 695–708.
+                   and product evaluations. J Public Pol Mark 13, 36–47.                   143.   Variyam JN (2008) Do nutrition labels improve dietary
+              123. Howlett E, Burton S & Kozup J (2008) How modification                          outcomes? Health Econ 17, 695–708.
+                   of the nutrition facts panel influences consumers at risk               144.   Miller DL, Castellanos VH, Shide DJ et al. (1998) Effect of
+                   for heart disease: the case of trans fat. J Public Pol Mark                    fat-free potato chips with and without nutrition labels on
+                   27, 83–97.                                                                     fat and energy intakes. Am J Clin Nutr 68, 282–290.
+              124. The Strategic Counsel (2010) Focus testing of creatives for             145.   Kral T, Roe L & Rolls B (2002) Does nutrition information
+                   the nutrition facts education initiative. Prepared for Health                  about the energy density of meals affect food intake in
+                   Canada. http://epe.lac-bac.gc.ca/100/200/301/pwgsc-tpsgc/                      normal-weight women? Appetite 39, 137–145.
+                   por-ef/health/2010/075-09/report.pdf (accessed September                146.   Miller DL, Bell EA, Pelkman CL et al. (2000) Effects of
+                   2010).                                                                         dietary fat, nutrition labels, and repeated consumption on
+              125. Block LG & Peracchio LA (2006) The calcium quandary:                           sensory-specific satiety. Physiol Behav 71, 153–158.
+                   how consumers use nutrition labels. J Public Pol Mark 25,               147.   Baixauli R, Salvador A, Hough G et al. (2008) How
+                   188–196.                                                                       information about fibre (traditional and resistant starch)
+              126. Pelletier AL, Chang WW, Delzell JE et al. (2004) Patients’                     influences consumer acceptance of muffins. Food Qual
+                   understanding and use of snack food package nutrition                          Prefer 19, 628–635.
+                   labels. J Am Board Fam Med 17, 319–323.                                 148.   Federal Interagency Forum on Aging-Related Statistics
+              127. Miller CK, Edwards L, Kissling G et al. (2002) Evaluation                      (2008) Older Americans 2008: Key Indicators of Well-
+                   of a theory-based nutrition intervention for older adults                      Being. Washington, DC: U.S. Government Printing Office.
+                   with diabetes mellitus. J Am Diet Assoc 102, 1069–1081.                 149.   Ferrini AF & Ferrini RL (2000) Nutrition. In Health in the
+              128. Li F, Miniard PW & Barone MJ (2000) The facilitating                           Later Years, 3rd ed., p. 152. Boston, MA: McGraw-Hill.
+                   influence of consumer knowledge on the effectiveness of                 150.   Freedman DS, Dietz WH, Srinivasan SR et al. (1999) The
+                   daily value reference information. J Acad Mark Sci 28,                         relation of overweight to cardiovascular risk factors
+                   425–436.
+                                                                                                  among children and adolescents: The Bogalusa Heart
+              129. Marino CJ & Mahan RP (2005) Configural displays can
+                                                                                                  Study. Pediatrics 103, 1175–1182.
+                   improve nutrition-related decisions: An application of the
+                                                                                           151.   Pinhas-Hamiel O, Dolan LM, Daniels SR et al. (1996)
+                   proximity compatibility principle. J Hum Factors Ergon
+                                                                                                  Increased incidence of non-insulin-dependent diabetes
+                   Soc 47, 121–130.
+                                                                                                  mellitus among adolescents. J Pediatr 128, 608–615.
+              130. Lewis CJ & Yetley EA (1992) Focus group sessions on
+                                                                                           152.   Srinivasan SR, Myers L & Berenson GS (2002) Predict-
+                   formats of nutrition labels. J Am Diet Assoc 92, 62–66.
+                                                                                                  ability of childhood adiposity and insulin for developing
+              131. Geiger CJ, Wyse BW, Parent CR et al. (1991) Nutrition
+                   labels in bar graph format deemed most useful for                              insulin resistance syndrome (syndrome X) in young
+                   consumer purchase decisions using adaptive conjoint                            adulthood. Diabetes 51, 204–209.
+                   analysis. J Am Diet Assoc 91, 800–807.                                  153.   Ferrini AF & Ferrini RL (2000) Chronic disease. In Health in
+              132. Levy AS, Fein SB & Schucker RE (1996) Performance                              the Later Years, 3rd ed., p. 239. Boston, MA: McGraw-Hill.
+                   characteristics of seven nutrition label formats. J Public              154.   Mackenbach JP (2005) Genetics and health inequalities:
+                   Pol Mark 15, 1–15.                                                             hypotheses and controversies. J Epidemiol Commun
+              133. Jones G & Richardson M (2007) An objective examination                         Health 59, 268–273.
+                   of consumer perception of nutrition information based on                155.   Carson JAS & Hedl JJ (1998) Smart shoppers tours:
+                   healthiness ratings and eye movements. Public Health                           outcome evaluation. J Nutr Educ 30, 323–331.
+                   Nutr 10, 238–244.                                                       156.   Malam S, Cleeg S, Kirwan S, et al. (2009) Comprehension
+              134. Kelly B, Hughes C, Chapman K et al. (2009) Consumer                            and use of UK nutrition signpost labelling schemes.
+                   testing of the acceptability and effectiveness of front-of-                    Prepared for the UK Food Standards Agency. http://
+                   pack-food labelling systems for the Australian grocery                         www.food.gov.uk/news/newsarchive/2009/may/pmp
+                   market. Health Promot 24, 120–129.                                             (accessed June 2010).
+              135. van Kleef E, van Trijp H, Paeps F et al. (2008) Consumer                157.   Reid DJ & Hendricks SM (1994) Consumer understanding
+                   preferences for front-of-pack calories labelling. Public                       and use of fat and cholesterol information on food labels.
+                   Health Nutr 11, 203–213.                                                       Can J Public Health 85, 334–337.
+              136. Borgmeier I & Westenhoefer J (2009) Impact of different                 158.   UK Food Standards Agency (2008) Proposed regulation on
+                   food label formats on healthiness evaluation and food                          food information for consumers. http://www.food.gov.uk/
+                   choice of consumers: a randomized-controlled study.                            foodlabelling/ull/labellingproposals/ (accessed March 2010).
+                   BMC Public Health 12, 184.                                              159.   Guthrie JF, Lin BH & Frazao E (2002) Role of food
+              137. Wansink B (2003) How do front and back package labels                          prepared away from home in the American diet, 1977–78
+                   influence beliefs about health claims? J Consum Aff 37,                        versus 1994–96: changes and consequences. J Nutr Educ
+                   305–316.                                                                       Behav 34, 140–150.
+              138. Barone MJ, Rose RL, Manning KC et al. (1996) Another                    160.   US Department of Agriculture, Economic Research Ser-
+                   look at the impact of reference information on consumer                        vices (2008) Food CPI, Prices and Expenditures: Food
+                   impressions of nutrition information. J Public Pol Mark                        Away from Home. Washington, DC: USDA/ERS.
+                   15, 55–62.                                                              161.   Berman M & Lavizzo-Mourey R (2008) Obesity prevention
+              139. Antonuk B & Block LG (2006) The effect of single serving                       in the information age: caloric information at the point of
+                   versus entire package nutritional information on consumption                   purchase. JAMA 300, 433–435.
+
+
+
+
+https://doi.org/10.1017/S1368980010003290 Published online by Cambridge University Press
