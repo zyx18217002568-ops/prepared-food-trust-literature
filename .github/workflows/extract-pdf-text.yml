@@ -1,3 +1,4 @@
+# Automatically mirror repository PDFs into UTF-8 text for literature reading.
 name: Extract PDF full text
 
 on:
